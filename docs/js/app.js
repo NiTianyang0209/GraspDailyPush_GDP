@@ -329,10 +329,12 @@
     fetch("https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fni-tianyang0209.github.io%2FGraspDailyPush_GDP%2F")
       .then(function (r) { return r.text(); })
       .then(function (svg) {
-        var m = svg.match(/>(\d+)<\/title/);
+        var m = svg.match(/: (\d+)<\/title/);
         if (m) document.getElementById("visitTotal").textContent = "总访问：" + m[1];
       })
-      .catch(function () {});
+      .catch(function () {
+        document.getElementById("visitTotal").textContent = "总访问：--";
+      });
   }
 
   // ---- Main ----
