@@ -342,15 +342,30 @@ body {
   align-items: center;
   gap: 12px;
 }
-.generate-btn {
+.generate-btn, .publish-btn {
   padding: 8px 18px;
   font-size: 13px;
-  background: #1a1a2e;
-  color: #fff;
   border: none;
   border-radius: 8px;
   cursor: pointer;
   transition: background 0.2s;
 }
+.generate-btn { background: #1a1a2e; color: #fff; }
 .generate-btn:hover { background: #2563eb; }
+.publish-btn { background: #059669; color: #fff; }
+.publish-btn:hover { background: #047857; }
 .commentary-status { font-size: 12px; color: #8892a4; }
+
+.commentary-label {
+  font-size: 12px; font-weight: 600; padding: 2px 10px;
+  border-radius: 4px; display: inline-block; margin-bottom: 8px;
+}
+.label-admin { background: #fef3c7; color: #92400e; }
+.label-user { background: #e0f2fe; color: #075985; }
+.commentary-divider {
+  border: none; border-top: 1px dashed #d0d5dd; margin: 16px 0;
+}
+.commentary-stale {
+  background: #fef3c7; color: #92400e; font-size: 13px;
+  padding: 8px 12px; border-radius: 6px; margin-bottom: 10px;
+}

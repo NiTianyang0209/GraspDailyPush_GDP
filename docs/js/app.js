@@ -260,44 +260,79 @@
     container.innerHTML = html;
   }
 
-  // ---- Render Commentary (dual-pane) ----
-  function renderCommentary(newsData, academicData) {
-    function renderPane(bodyId, data) {
-      var el = document.getElementById(bodyId);
-      if (!data || !data.commentary) {
-        el.innerHTML = "<div class=\"loading\">暂无点评</div>";
-        return;
-      }
-      var meta = "";
-      if (data.generated_at) meta += "<div class=\"meta\"><span>🕐 " + formatDateTime(data.generated_at) + "</span></div>";
-      if (data.total_papers) meta += "<div class=\"meta\"><span>本期收录 " + (data.total_papers || 0) + " 篇</span></div>";
-      el.innerHTML = "<div class=\"text\">" + escapeHtml(data.commentary) + "</div>" + meta;
-    }
-    renderPane("commentaryNewsBody", newsData);
-    renderPane("commentaryAcademicBody", academicData);
+  // ---- Render Commentary (admin + user dual-layer) ----
+  function renderCommentary(newsData, academicData, newsUpdatedAt, academicUpdatedAt) {
+    function renderPane(type, adminData, dataUpdatedAt) {
+      var adminBody = document.getElementById("admin" + type + "Body");
+      var userBody = document.getElementById("user" + type + "Body");
+      var staleEl = document.getElementById("stale" + type);
 
-    var ts = null;
-    if (newsData && newsData.generated_at) ts = newsData.generated_at;
-    if (academicData && academicData.generated_at) {
-      if (!ts || academicData.generated_at > ts) ts = academicData.generated_at;
+      // Admin section
+      if (adminData && adminData.commentary) {
+        var meta = "";
+        if (adminData.generated_at) meta += "<div class=\"meta\"><span>🕐 " + formatDateTime(adminData.generated_at) + "</span></div>";
+        if (adminData.total_papers) meta += "<div class=\"meta\"><span>本期收录 " + (adminData.total_papers || 0) + " 篇</span></div>";
+        adminBody.innerHTML = "<div class=\"text\">" + escapeHtml(adminData.commentary) + "</div>" + meta;
+      } else {
+        adminBody.innerHTML = "<div class=\"loading\">暂无点评</div>";
+      }
+
+      // Stale detection
+      if (adminData && adminData.generated_at && dataUpdatedAt) {
+        if (new Date(dataUpdatedAt) > new Date(adminData.generated_at)) {
+          staleEl.style.display = "block";
+          staleEl.textContent = "⚠️ 数据已更新，管理员点评可能不匹配最新内容";
+        } else {
+          staleEl.style.display = "none";
+        }
+      } else {
+        staleEl.style.display = "none";
+      }
+
+      // User section (localStorage)
+      var userKey = "gdp_commentary_" + type.toLowerCase();
+      var userDataStr = localStorage.getItem(userKey);
+      var publishBtnId = "publish" + type + "Btn";
+      if (userDataStr) {
+        try {
+          var userData = JSON.parse(userDataStr);
+          if (userData && userData.commentary) {
+            userBody.innerHTML = "<div class=\"text\">" + escapeHtml(userData.commentary) + "</div>" +
+              "<div class=\"meta\"><span>🕐 " + formatDateTime(userData.generated_at) + " (我的生成)</span></div>";
+            document.getElementById(publishBtnId).style.display = "inline-block";
+            return;
+          }
+        } catch (e) {}
+      }
+      userBody.innerHTML = "<div class=\"loading\">暂无</div>";
+      document.getElementById(publishBtnId).style.display = "none";
     }
+
+    renderPane("News", newsData, newsUpdatedAt);
+    renderPane("Academic", academicData, academicUpdatedAt);
+
+    // Commentary timestamp
+    var ts = null;
+    [newsData, academicData].forEach(function(d) {
+      if (d && d.generated_at) { if (!ts || d.generated_at > ts) ts = d.generated_at; }
+    });
+    ["news", "academic"].forEach(function(t) {
+      try {
+        var u = JSON.parse(localStorage.getItem("gdp_commentary_" + t));
+        if (u && u.generated_at) { if (!ts || u.generated_at > ts) ts = u.generated_at; }
+      } catch (e) {}
+    });
     if (ts) document.getElementById("commentaryTime").textContent = "🤖 " + formatDateTime(ts);
   }
 
   // ---- Update Time Note ----
-  function updateTimeNotes(newsData, academicData, commentaryNews, commentaryAcademic, academicUpdate) {
+  function updateTimeNotes(newsData, academicData, academicUpdate) {
     if (newsData && newsData.updated_at) {
       document.getElementById("newsUpdateTime").textContent = "⏱ " + formatDateTime(newsData.updated_at);
     }
     if (academicUpdate && academicUpdate.updated_at) {
       document.getElementById("academicUpdateTime").textContent = "🕐 最后检索 " + formatDateTime(academicUpdate.updated_at);
     }
-    var ts = null;
-    if (commentaryNews && commentaryNews.generated_at) ts = commentaryNews.generated_at;
-    if (commentaryAcademic && commentaryAcademic.generated_at) {
-      if (!ts || commentaryAcademic.generated_at > ts) ts = commentaryAcademic.generated_at;
-    }
-    if (ts) document.getElementById("commentaryTime").textContent = "🤖 " + formatDateTime(ts);
   }
 
   // ---- Daily Knowledge ----
@@ -370,7 +405,7 @@
   // ---- On-demand AI Commentary ----
   async function generateCommentary(type) {
     var key = getDeepSeekKey();
-    var statusId = type === "news" ? "commentaryNewsStatus" : "commentaryAcademicStatus";
+    var statusId = "commentary" + (type === "news" ? "News" : "Academic") + "Status";
     var statusEl = document.getElementById(statusId);
     if (!key) {
       var input = prompt("请输入 DeepSeek API Key：");
@@ -421,12 +456,99 @@
       var text = result.choices && result.choices[0] && result.choices[0].message && result.choices[0].message.content;
       if (!text) { statusEl.textContent = "❌ API 返回格式异常"; return; }
 
-      var bodyId = type === "news" ? "commentaryNewsBody" : "commentaryAcademicBody";
-      document.getElementById(bodyId).innerHTML = "<div class=\"text\">" + escapeHtml(text) + "</div>" +
-        "<div class=\"meta\"><span>🕐 " + formatDateTime(new Date()) + " (在线生成)</span></div>";
+      // Save to localStorage
+      var userKey = "gdp_commentary_" + type;
+      var generatedAt = new Date().toISOString();
+      localStorage.setItem(userKey, JSON.stringify({ commentary: text, generated_at: generatedAt }));
+
+      // Update user section display
+      var userBodyId = "user" + (type === "news" ? "News" : "Academic") + "Body";
+      document.getElementById(userBodyId).innerHTML = "<div class=\"text\">" + escapeHtml(text) + "</div>" +
+        "<div class=\"meta\"><span>🕐 " + formatDateTime(generatedAt) + " (我的生成)</span></div>";
+
+      // Show publish button
+      var publishBtnId = "publish" + (type === "news" ? "News" : "Academic") + "Btn";
+      document.getElementById(publishBtnId).style.display = "inline-block";
+
+      // Update commentary timestamp
+      var curTs = document.getElementById("commentaryTime").textContent;
+      document.getElementById("commentaryTime").textContent = "🤖 " + formatDateTime(generatedAt);
+
       statusEl.textContent = "✅ 生成完成";
     } catch (e) {
       statusEl.textContent = "❌ 请求失败: " + e.message;
+    }
+  }
+
+  // ---- Publish as Admin Commentary ----
+  async function publishCommentary(type) {
+    var userKey = "gdp_commentary_" + type;
+    var userDataStr = localStorage.getItem(userKey);
+    if (!userDataStr) return;
+
+    var token = prompt("请输入 GitHub Token 以发布为管理员点评：");
+    if (!token) return;
+
+    var statusId = "commentary" + (type === "news" ? "News" : "Academic") + "Status";
+    var statusEl = document.getElementById(statusId);
+    statusEl.textContent = "📤 发布中...";
+
+    var owner = "NiTianyang0209";
+    var repo = "GraspDailyPush_GDP";
+    var filePath = type === "news" ? "docs/data/academic/commentary_news.json" : "docs/data/academic/commentary.json";
+    var apiUrl = "https://api.github.com/repos/" + owner + "/" + repo + "/contents/" + filePath;
+
+    try {
+      var userData = JSON.parse(userDataStr);
+      var newContent = { commentary: userData.commentary, generated_at: userData.generated_at };
+      var contentBase64 = btoa(unescape(encodeURIComponent(JSON.stringify(newContent, null, 2))));
+
+      // Get current file sha
+      var getRes = await fetch(apiUrl, {
+        headers: { "Authorization": "Bearer " + token, "Accept": "application/vnd.github+json" }
+      });
+
+      var sha = "";
+      if (getRes.ok) {
+        var getData = await getRes.json();
+        sha = getData.sha;
+      }
+
+      var putRes = await fetch(apiUrl, {
+        method: "PUT",
+        headers: {
+          "Authorization": "Bearer " + token,
+          "Accept": "application/vnd.github+json",
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          message: "Update " + type + " commentary",
+          content: contentBase64,
+          sha: sha
+        })
+      });
+
+      if (!putRes.ok) {
+        statusEl.textContent = "❌ 发布失败: " + putRes.status;
+        return;
+      }
+
+      // Update admin section with published content
+      var adminBodyId = "admin" + (type === "news" ? "News" : "Academic") + "Body";
+      document.getElementById(adminBodyId).innerHTML = "<div class=\"text\">" + escapeHtml(userData.commentary) + "</div>" +
+        "<div class=\"meta\"><span>🕐 " + formatDateTime(userData.generated_at) + " (已发布)</span></div>";
+
+      // Hide stale warning
+      var staleId = "stale" + (type === "news" ? "News" : "Academic");
+      document.getElementById(staleId).style.display = "none";
+
+      // Hide publish button
+      var publishBtnId = "publish" + (type === "news" ? "News" : "Academic") + "Btn";
+      document.getElementById(publishBtnId).style.display = "none";
+
+      statusEl.textContent = "✅ 已发布为管理员点评";
+    } catch (e) {
+      statusEl.textContent = "❌ 发布失败: " + e.message;
     }
   }
 
@@ -493,6 +615,12 @@
     currentHotPlatform = 0;
     currentJournalIdx = 0;
 
+    // Clear user-generated commentary on refresh (data is fresh now)
+    localStorage.removeItem("gdp_commentary_news");
+    localStorage.removeItem("gdp_commentary_academic");
+    document.getElementById("publishNewsBtn").style.display = "none";
+    document.getElementById("publishAcademicBtn").style.display = "none";
+
     var hasError = false;
     var [headlines, hotlists, papers, commentaryNews, commentaryAcademic, academicUpdate] = await Promise.all([
       loadJSON(DATA_BASE + "/news/headlines.json").catch(function () { return null; }),
@@ -506,9 +634,12 @@
     if (headlines) renderHeadlines(headlines); else hasError = true;
     if (hotlists) renderHotlists(hotlists); else hasError = true;
     if (papers) renderAcademic(papers); else hasError = true;
-    renderCommentary(commentaryNews, commentaryAcademic);
 
-    updateTimeNotes(headlines, papers, commentaryNews, commentaryAcademic, academicUpdate);
+    var newsUpdatedAt = (headlines && headlines.updated_at) ? headlines.updated_at : null;
+    var acaUpdatedAt = (academicUpdate && academicUpdate.updated_at) ? academicUpdate.updated_at : null;
+    renderCommentary(commentaryNews, commentaryAcademic, newsUpdatedAt, acaUpdatedAt);
+
+    updateTimeNotes(headlines, papers, academicUpdate);
     loadKnowledge();
     return hasError;
   }
@@ -648,9 +779,11 @@
         hasError = true;
       }
 
-      renderCommentary(commentaryNews, commentaryAcademic);
+      var newsUpdatedAt = (headlines && headlines.updated_at) ? headlines.updated_at : null;
+      var acaUpdatedAt = (academicUpdate && academicUpdate.updated_at) ? academicUpdate.updated_at : null;
+      renderCommentary(commentaryNews, commentaryAcademic, newsUpdatedAt, acaUpdatedAt);
 
-      updateTimeNotes(headlines, papers, commentaryNews, commentaryAcademic, academicUpdate);
+      updateTimeNotes(headlines, papers, academicUpdate);
       loadKnowledge();
       initVisitCounter();
 
@@ -721,6 +854,14 @@
       btn.addEventListener("click", function () {
         generateCommentary(btn.dataset.type);
       });
+    });
+
+    // Publish buttons
+    document.getElementById("publishNewsBtn").addEventListener("click", function () {
+      publishCommentary("news");
+    });
+    document.getElementById("publishAcademicBtn").addEventListener("click", function () {
+      publishCommentary("academic");
     });
 
     // Auto-refresh every 6 hours

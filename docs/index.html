@@ -84,16 +84,40 @@
         </div>
         <div class="commentary-content" id="commentaryContent">
           <div class="commentary-pane active" data-pane="news">
-            <div class="commentary-body" id="commentaryNewsBody"><div class="loading">暂无点评</div></div>
+            <div class="commentary-body">
+              <div class="commentary-section-admin">
+                <div class="commentary-label label-admin">👑 管理员点评</div>
+                <div class="commentary-stale" id="staleNews" style="display:none"></div>
+                <div id="adminNewsBody"><div class="loading">暂无点评</div></div>
+              </div>
+              <div class="commentary-divider"></div>
+              <div class="commentary-section-user">
+                <div class="commentary-label label-user">🧑 我的点评</div>
+                <div id="userNewsBody"><div class="loading">暂无</div></div>
+              </div>
+            </div>
             <div class="commentary-actions">
-              <button class="generate-btn" data-type="news">⚡ 生成时事点评</button>
+              <button class="generate-btn" data-type="news">⚡ 生成我的点评</button>
+              <button class="publish-btn" id="publishNewsBtn" style="display:none">📤 发布为管理员点评</button>
               <span class="commentary-status" id="commentaryNewsStatus"></span>
             </div>
           </div>
           <div class="commentary-pane" data-pane="academic">
-            <div class="commentary-body" id="commentaryAcademicBody"><div class="loading">暂无点评</div></div>
+            <div class="commentary-body">
+              <div class="commentary-section-admin">
+                <div class="commentary-label label-admin">👑 管理员点评</div>
+                <div class="commentary-stale" id="staleAcademic" style="display:none"></div>
+                <div id="adminAcademicBody"><div class="loading">暂无点评</div></div>
+              </div>
+              <div class="commentary-divider"></div>
+              <div class="commentary-section-user">
+                <div class="commentary-label label-user">🧑 我的点评</div>
+                <div id="userAcademicBody"><div class="loading">暂无</div></div>
+              </div>
+            </div>
             <div class="commentary-actions">
-              <button class="generate-btn" data-type="academic">⚡ 生成学术点评</button>
+              <button class="generate-btn" data-type="academic">⚡ 生成我的点评</button>
+              <button class="publish-btn" id="publishAcademicBtn" style="display:none">📤 发布为管理员点评</button>
               <span class="commentary-status" id="commentaryAcademicStatus"></span>
             </div>
           </div>
