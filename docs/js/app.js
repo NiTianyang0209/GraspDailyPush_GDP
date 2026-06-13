@@ -312,7 +312,6 @@
 
   // ---- Visit Counter ----
   function initVisitCounter() {
-    // Today count via localStorage
     var today = formatDate(new Date());
     var storedDate = localStorage.getItem("gdp_visit_date");
     var storedToday = parseInt(localStorage.getItem("gdp_visit_today") || "0", 10);
@@ -325,7 +324,6 @@
     localStorage.setItem("gdp_visit_today", String(storedToday));
     document.getElementById("visitToday").textContent = "今日访问：" + storedToday;
 
-    // Total via visitorbadge.io
     fetch("https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fni-tianyang0209.github.io%2FGraspDailyPush_GDP%2F")
       .then(function (r) { return r.text(); })
       .then(function (svg) {
@@ -337,9 +335,46 @@
       });
   }
 
+  // ---- GitHub Token Config ----
+  function getGitHubToken() {
+    return localStorage.getItem("gdp_github_token") || "";
+  }
+
+  function initTokenUI() {
+    var el = document.getElementById("tokenStatus");
+    if (!el) return;
+    var token = getGitHubToken();
+    el.textContent = token ? "✅" : "点击设置 Token";
+    el.title = token ? "GitHub Token 已设置" : "点击设置 GitHub Token 以启用刷新自动抓取";
+  }
+
+  // ---- Trigger GitHub Actions ----
+  async function triggerWorkflows(token) {
+    var owner = "NiTianyang0209";
+    var repo = "GraspDailyPush_GDP";
+    var workflows = ["scrape-news.yml", "scrape-hotlists.yml", "scrape-english-academic.yml"];
+    var results = await Promise.all(workflows.map(async function (wf) {
+      try {
+        var res = await fetch("https://api.github.com/repos/" + owner + "/" + repo + "/actions/workflows/" + wf + "/dispatches", {
+          method: "POST",
+          headers: {
+            "Authorization": "Bearer " + token,
+            "Accept": "application/vnd.github+json",
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ ref: "main" })
+        });
+        return { workflow: wf, status: res.status };
+      } catch (e) {
+        return { workflow: wf, error: e.message };
+      }
+    }));
+    var ok = results.every(function (r) { return r.status === 204; });
+    return { status: ok ? "triggered" : "partial", results: results };
+  }
+
   // ---- Refresh ----
   const REFRESH_COOLDOWN = 10 * 60 * 1000;
-  const REFRESH_WORKER_URL = "https://graspdailypush.tienyang-ni.workers.dev";  // 留空则静默重载，填入 Cloudflare Worker 地址将触发 GitHub Actions
   const POLL_INTERVAL = 15000;
   const POLL_TIMEOUT = 3 * 60 * 1000;
 
@@ -410,8 +445,10 @@
     var statusEl = document.getElementById("updateStatus");
     btn.style.animation = "spin 0.8s linear infinite";
 
-    // 未配置 Worker → 静默重载（仅重新拉取静态数据）
-    if (!REFRESH_WORKER_URL) {
+    var token = getGitHubToken();
+
+    // 没有 token → 静默重载（仅重新拉取静态数据）
+    if (!token) {
       statusEl.textContent = "🔄 重新加载...";
       var h = await reFetchAndRender();
       lastRefreshTime = new Date();
@@ -437,8 +474,7 @@
     localStorage.setItem("gdp_last_trigger", String(lastTriggerTime));
 
     try {
-      var resp = await fetch(REFRESH_WORKER_URL, { method: "POST" });
-      var result = await resp.json();
+      var result = await triggerWorkflows(token);
       var triggered = result && result.status === "triggered";
       statusEl.textContent = triggered ? "⏳ 等待数据更新..." : "⚠️ 部分抓取触发失败，继续等待...";
       statusEl.style.color = triggered ? "#6ee7b7" : "#fbbf24";
@@ -534,6 +570,7 @@
       lastRefreshTime = new Date();
       lastTriggerTime = parseInt(localStorage.getItem("gdp_last_trigger") || "0", 10);
       showRefreshTime();
+      initTokenUI();
       statusEl.textContent = hasError ? "⚠️ 部分数据加载失败" : "✅ 数据已更新";
       statusEl.style.color = hasError ? "#fbbf24" : "#6ee7b7";
 
@@ -545,6 +582,21 @@
 
     // Manual refresh button
     document.getElementById("refreshBtn").addEventListener("click", refreshAllData);
+
+    // Token setup button in footer
+    var tokenBtn = document.getElementById("tokenBtn");
+    if (tokenBtn) {
+      tokenBtn.addEventListener("click", function () {
+        var current = getGitHubToken();
+        var input = prompt("请输入 GitHub Personal Access Token：", current);
+        if (input !== null) {
+          localStorage.setItem("gdp_github_token", input);
+          initTokenUI();
+          document.getElementById("updateStatus").textContent = input ? "✅ Token 已设置" : "⚠️ Token 已清除";
+          document.getElementById("updateStatus").style.color = input ? "#6ee7b7" : "#fbbf24";
+        }
+      });
+    }
 
     // Auto-refresh every 6 hours
     setInterval(refreshAllData, 6 * 60 * 60 * 1000);

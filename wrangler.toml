@@ -1,0 +1,3 @@
+name = "graspdailypush"
+main = "scripts/refresh-worker.js"
+compatibility_date = "2026-06-13"

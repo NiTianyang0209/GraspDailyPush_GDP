@@ -304,6 +304,8 @@ body {
   color: #a0a8b8;
 }
 .visit-counter .sep { color: #d0d5dd; }
+.token-status { cursor: pointer; color: #8892a4; }
+.token-status:hover { color: #333; }
 
 /* ========== Loading ========== */
 .loading { text-align: center; padding: 20px; color: #8892a4; font-size: 13px; }
