@@ -132,102 +132,17 @@ def fetch_weibo():
     return items
 
 
-def fetch_zhihu():
-    """Zhihu Hot List (likely 401, fallback to cached)."""
-    api_headers = {
-        "User-Agent": HEADERS["User-Agent"],
-        "Referer": "https://www.zhihu.com",
-    }
-    try:
-        resp = requests.get(
-            "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50",
-            headers=api_headers,
-            timeout=15,
-        )
-    except Exception as e:
-        print(f"    Request failed: {e}")
-        return []
-
-    items = []
-    try:
-        data = resp.json()
-        for entry in data.get("data", []):
-            target = entry.get("target", {})
-            title = (
-                target.get("title", "")
-                or target.get("question", {}).get("title", "")
-            )
-            if not title:
-                continue
-            qid = target.get("id", "") or target.get("question", {}).get("id", "")
-            url = "https://www.zhihu.com/question/" + str(qid) if qid else _search_url("zhihu", title)
-            items.append({
-                "rank": len(items) + 1,
-                "title": title,
-                "heat": str(entry.get("detail_text", "")),
-                "url": url,
-            })
-    except Exception as e:
-        print(f"    Parse failed: {e}")
-
-    return items
-
-
-def fetch_toutiao():
-    """Toutiao Hot Events (likely blocked)."""
-    return []
-
-
-def fetch_tieba():
-    """Tieba Hot Topics."""
-    try:
-        resp = requests.get(
-            "https://tieba.baidu.com/hottopic/browse/topicList",
-            headers=HEADERS,
-            timeout=15,
-        )
-    except Exception as e:
-        print(f"    Request failed: {e}")
-        return []
-
-    items = []
-    try:
-        data = resp.json()
-        topics = data.get("data", {}).get("topicList", [])
-        for i, topic in enumerate(topics):
-            name = topic.get("topicName", "")
-            if not name:
-                continue
-            topic_url = topic.get("topicUrl", "") or _search_url("tieba", name)
-            items.append({
-                "rank": i + 1,
-                "title": name,
-                "heat": str(topic.get("discussNum", "")),
-                "url": topic_url,
-            })
-    except Exception as e:
-        print(f"    Parse failed: {e}")
-
-    return items
-
-
 PLATFORM_URLS = {
     "baidu": "https://top.baidu.com/board?tab=realtime",
     "weibo": "https://s.weibo.com/top/summary/",
-    "zhihu": "https://www.zhihu.com/billboard",
-    "toutiao": "https://www.toutiao.com/hot/",
-    "tieba": "https://tieba.baidu.com/hottopic/browse/topicList",
 }
 
 FETCHERS = {
     "baidu": ("百度热搜", fetch_baidu),
     "weibo": ("微博热搜", fetch_weibo),
-    "zhihu": ("知乎热榜", fetch_zhihu),
-    "toutiao": ("今日头条", fetch_toutiao),
-    "tieba": ("百度贴吧", fetch_tieba),
 }
 
-MAX_ITEMS = 10
+MAX_ITEMS = 15
 
 
 def main():
