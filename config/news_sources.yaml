@@ -1,88 +1,88 @@
 news:
   domestic:
-    - name: ĞÂ»ªÉç
+    - name: æ–°åç½‘
       type: rss
       url: http://www.news.cn/rss.htm
 
-    - name: ÈËÃñÈÕ±¨
+    - name: äººæ°‘æ—¥æŠ¥
       type: rss
       url: https://www.people.com.cn/rss/politics.xml
 
-    - name: ¾­¼ÃÈÕ±¨
+    - name: ä¸­å›½ç»æµç½‘
       type: rss
       url: https://www.ce.cn/rss/cecy.xml
 
-    - name: ¹âÃ÷ÈÕ±¨
+    - name: å…‰æ˜æ—¥æŠ¥
       type: rss
       url: https://www.gmw.cn/rss/gmrb.xml
 
-    - name: ÖĞ¹úÈÕ±¨
+    - name: ä¸­å›½æ—¥æŠ¥
       type: rss
       url: https://www.chinadaily.com.cn/rss/world_rss.xml
 
-    - name: ²Î¿¼ÏûÏ¢
+    - name: å‚è€ƒæ¶ˆæ¯
       type: website
       url: https://www.cankaoxiaoxi.com/
 
-    - name: ²ÆĞÂÍø
+    - name: è´¢æ–°ç½‘
       type: website
       url: https://www.caixin.com/
 
-    - name: ÖĞ¹úĞÂÎÅÉç
+    - name: ä¸­å›½æ–°é—»ç½‘
       type: rss
       url: https://www.chinanews.com.cn/rss/latest-news.xml
 
   international:
-    - name: Â·Í¸Éç
+    - name: è·¯é€ç¤¾
       type: rss
       url: https://www.reutersagency.com/feed/
 
-    - name: ÃÀÁªÉç
+    - name: ç¾è”ç¤¾
       type: rss
       url: https://www.ap.org/rss/
 
-    - name: ·¨ĞÂÉç
+    - name: æ³•æ–°ç¤¾
       type: rss
       url: https://www.afp.com/rss/
 
-    - name: Å¦Ô¼Ê±±¨
+    - name: çº½çº¦æ—¶æŠ¥
       type: rss
       url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
 
-    - name: Åí²©Éç
+    - name: å½­åšç¤¾
       type: rss
       url: https://www.bloomberg.com/feed/site news
 
-    - name: ¾­¼ÃÑ§ÈË
+    - name: ç»æµå­¦äºº
       type: rss
       url: https://www.economist.com/feeds/print-sections/77/business.xml
 
-    - name: ÁªºÏÔç±¨
+    - name: è”åˆæ—©æŠ¥
       type: rss
       url: https://www.zaobao.com/rss.xml
 
   hotlists:
-    - name: Î¢²©ÈÈËÑ
+    - name: å¾®åšçƒ­æœ
       type: website
       url: https://s.weibo.com/top/summary/
       platform: weibo
 
-    - name: °Ù¶ÈÈÈËÑ
+    - name: ç™¾åº¦çƒ­æœ
       type: website
       url: https://top.baidu.com/board?tab=realtime
       platform: baidu
 
-    - name: ÖªºõÈÈ°ñ
+    - name: çŸ¥ä¹çƒ­æ¦œ
       type: website
       url: https://www.zhihu.com/hot
       platform: zhihu
 
-    - name: ½ñÈÕÍ·Ìõ
+    - name: ä»Šæ—¥å¤´æ¡
       type: website
       url: https://www.toutiao.com/hot-event/
       platform: toutiao
 
-    - name: Ìù°ÉÈÈËÑ
+    - name: ç™¾åº¦è´´å§
       type: website
       url: https://tieba.baidu.com/hottopic/browse/topicList
       platform: tieba

@@ -35,20 +35,46 @@
     return res.json();
   }
 
-  // ---- Render News Headlines ----
+  // ---- Render News Headlines (source-tabbed) ----
+  var currentNewsSource = 0;
+
   function renderHeadlines(data) {
-    const container = document.getElementById("headlines-list");
-    if (!data || !data.items || data.items.length === 0) {
-      container.innerHTML = "<div class=\"loading\">暂无新闻</div>";
+    var tabs = document.getElementById("headlines-tabs");
+    var list = document.getElementById("headlines-list");
+    if (!data || !data.sources || data.sources.length === 0) {
+      list.innerHTML = "<div class=\"loading\">暂无新闻</div>";
       return;
     }
-    container.innerHTML = data.items.map(function (item) {
+    var sources = data.sources;
+    tabs.innerHTML = sources.map(function (s, i) {
+      return "<button class=\"tab-btn" + (i === currentNewsSource ? " active" : "") + "\" data-idx=\"" + i + "\">" + escapeHtml(s.name) + "</button>";
+    }.bind(this)).join("\n");
+    tabs.onclick = function (e) {
+      var btn = e.target.closest(".tab-btn");
+      if (!btn) return;
+      currentNewsSource = parseInt(btn.dataset.idx, 10);
+      renderNewsItems(sources[currentNewsSource]);
+      tabs.querySelectorAll(".tab-btn").forEach(function (b) { b.classList.remove("active"); });
+      btn.classList.add("active");
+    };
+    renderNewsItems(sources[0]);
+  }
+
+  function renderNewsItems(source) {
+    var list = document.getElementById("headlines-list");
+    if (!source || !source.items) {
+      list.innerHTML = "<div class=\"loading\">暂无数据</div>";
+      return;
+    }
+    list.innerHTML = source.items.map(function (item) {
       return [
-        "<div class=\"news-card\" onclick=\"this.classList.toggle(\"expanded\")\">",
-        "  <span class=\"source\">" + escapeHtml(item.source) + "</span>",
-        "  <div class=\"title\">" + escapeHtml(item.title) + "</div>",
-        "  <div class=\"summary\">" + escapeHtml(item.summary || "") + "</div>",
-        "  <div class=\"time\">" + formatTime(item.time) + "</div>",
+        "<div class=\"news-card\">",
+        "  <div class=\"news-card-header\">",
+        "    <span class=\"source-label\">" + escapeHtml(source.name) + "</span>",
+        "    <span class=\"time\">" + escapeHtml(item.time) + "</span>",
+        "  </div>",
+        "  <a class=\"news-title\" href=\"" + escapeHtml(item.url) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(item.title) + "</a>",
+        (item.summary ? "  <div class=\"summary\">" + escapeHtml(item.summary) + "</div>" : ""),
         "</div>"
       ].join("\n");
     }.bind(this)).join("\n");

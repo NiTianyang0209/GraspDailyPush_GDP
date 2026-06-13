@@ -62,19 +62,26 @@ body {
   background: #f8f9fb;
   border-radius: 8px;
   border-left: 3px solid #2563eb;
-  cursor: pointer;
   transition: background 0.2s;
 }
 .news-card:hover { background: #eef1f7; }
-.news-card .source { font-size: 11px; color: #2563eb; font-weight: 600; }
-.news-card .title { font-size: 14px; font-weight: 500; margin-top: 2px; }
+.news-card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
+.news-card .source-label { font-size: 11px; color: #2563eb; font-weight: 600; }
+.news-card .time { font-size: 11px; color: #8892a4; }
+.news-title {
+  display: block;
+  font-size: 14px; font-weight: 500;
+  color: #1a1a2e;
+  text-decoration: none;
+  line-height: 1.4;
+  transition: color 0.15s;
+}
+.news-title:hover { color: #2563eb; text-decoration: underline; }
 .news-card .summary {
   font-size: 13px; color: #555;
-  margin-top: 4px; display: none;
+  margin-top: 4px;
   line-height: 1.5;
 }
-.news-card.expanded .summary { display: block; }
-.news-card .time { font-size: 11px; color: #8892a4; margin-top: 4px; }
 
 /* Hotlist Item */
 .hot-item {

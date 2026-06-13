@@ -1,62 +1,149 @@
-﻿{
-  "updated_at": "2026-06-13T18:00:00+08:00",
-  "items": [
+{
+  "updated_at": "2026-06-13T19:00:00+08:00",
+  "sources": [
     {
-      "source": "澎湃新闻",
-      "title": "2026美加墨世界杯开幕，三国联合举办创历史",
-      "summary": "2026年美加墨世界杯正式开幕，这是历史上首次由三个国家联合举办的世界杯赛事，也是首次扩军至48支球队。",
-      "url": "https://www.thepaper.cn/20260613/xxx",
-      "time": "2026-06-13T17:00:00+08:00"
+      "name": "人民网",
+      "url": "http://www.people.com.cn",
+      "items": [
+        {
+          "title": "学习卡：人不负青山，青山定不负人",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494898.html",
+          "summary": "生态环境是关系党的使命宗旨的重大政治问题，也是关系民生的重大社会问题。习近平总书记多次指出，必须站在中华民族永续发展根本大计的高度，尊重自然、顺应自然、保护自然。",
+          "time": "2025-06-05"
+        },
+        {
+          "title": "镜观足迹：呵护千山万水 擘画永续发展",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494899.html",
+          "summary": "党的十八大以来，习近平总书记的考察足迹遍及神州大地，从长江黄河到祁连秦岭，总书记在大江奔涌处谋划千秋大计，在山川锦绣间擘画生态蓝图。",
+          "time": "2025-06-05"
+        },
+        {
+          "title": "学习手记：环境就是民生",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494900.html",
+          "summary": "22年前，在时任浙江省委书记习近平部署推动下，以农村人居环境整治为重点的千万工程启动。习近平总书记深刻指出，环境就是民生。",
+          "time": "2025-06-05"
+        },
+        {
+          "title": "国务院印发第四次全国农业普查通知",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494878.html",
+          "summary": "国务院日前印发通知，决定于2026年开展第四次全国农业普查，普查标准时点为2026年12月31日。",
+          "time": "2025-06-05"
+        },
+        {
+          "title": "全国人大常委会启动节约能源法执法检查",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494812.html",
+          "summary": "为推动节约能源法全面有效实施，全国人大常委会启动节约能源法执法检查，检查组将赴天津、江苏、湖南等省区市开展实地检查。",
+          "time": "2025-06-05"
+        }
+      ]
     },
     {
-      "source": "新华社",
-      "title": "习近平对朝鲜进行国事访问 推动中朝关系发展",
-      "summary": "习近平总书记对朝鲜进行国事访问，两国领导人就进一步发展中朝关系及共同关心的国际和地区问题深入交换意见。",
-      "url": "https://www.news.cn/20260613/xxx",
-      "time": "2026-06-13T16:30:00+08:00"
+      "name": "新华网",
+      "url": "http://www.xinhuanet.com",
+      "items": [
+        {
+          "title": "习近平对朝鲜进行国事访问",
+          "url": "http://www.xinhuanet.com/world/20260613/xxx",
+          "summary": "习近平总书记对朝鲜进行国事访问，两国领导人就进一步发展中朝关系及共同关心的国际和地区问题深入交换意见，达成重要共识。",
+          "time": "2026-06-13"
+        },
+        {
+          "title": "2026年高考顺利结束 各地试卷评阅工作启动",
+          "url": "http://www.xinhuanet.com/edu/20260613/xxx",
+          "summary": "2026年全国高考于6月10日顺利结束，目前各地高考评卷工作已全面启动，预计6月25日左右公布成绩。",
+          "time": "2026-06-13"
+        },
+        {
+          "title": "我国数字经济核心产业增加值占GDP比重持续提升",
+          "url": "http://www.xinhuanet.com/fortune/20260613/xxx",
+          "summary": "最新数据显示，我国数字经济核心产业增加值占GDP比重已超过12%，平台经济、人工智能等新业态保持快速增长态势。",
+          "time": "2026-06-13"
+        },
+        {
+          "title": "全国碳市场即将迎来首次扩容",
+          "url": "http://www.xinhuanet.com/energy/20260613/xxx",
+          "summary": "据生态环境部消息，全国碳排放权交易市场即将迎来扩容，水泥、电解铝行业将在年内纳入全国碳市场交易体系。",
+          "time": "2026-06-13"
+        },
+        {
+          "title": "中美经贸高层对话本周在日内瓦举行",
+          "url": "http://www.xinhuanet.com/world/20260613/xxx",
+          "summary": "中美经贸高层对话将于本周在日内瓦举行，双方将就关税、市场准入、技术合作等议题进行深入磋商。",
+          "time": "2026-06-13"
+        }
+      ]
     },
     {
-      "source": "央视新闻",
-      "title": "中国裁判马宁世界杯首秀获好评",
-      "summary": "中国国际级裁判员马宁在2026美加墨世界杯小组赛首轮中担任主裁判，执法表现获得国际足联技术组好评。",
-      "url": "https://www.cctv.com/20260613/xxx",
-      "time": "2026-06-13T15:00:00+08:00"
+      "name": "路透社",
+      "url": "http://www.reuters.com",
+      "items": [
+        {
+          "title": "EU finalizes carbon border adjustment mechanism expansion",
+          "url": "http://www.reuters.com/world/europe/20260613/cbam-expansion",
+          "summary": "The European Union has finalized the expansion of its Carbon Border Adjustment Mechanism (CBAM), extending coverage to new industrial sectors including steel, aluminum, and cement imports.",
+          "time": "2026-06-13"
+        },
+        {
+          "title": "World Cup 2026 kicks off with historic tri-host opening",
+          "url": "http://www.reuters.com/sports/20260613/worldcup-opening",
+          "summary": "The 2026 FIFA World Cup kicked off across the United States, Canada, and Mexico, marking the first time three nations have co-hosted the tournament.",
+          "time": "2026-06-13"
+        },
+        {
+          "title": "Oil prices rise on Middle East tensions",
+          "url": "http://www.reuters.com/markets/20260613/oil-prices",
+          "summary": "Oil prices climbed on Friday as markets assess the impact of renewed geopolitical tensions in the Middle East and supply concerns.",
+          "time": "2026-06-13"
+        }
+      ]
     },
     {
-      "source": "路透社",
-      "title": "EU finalizes carbon border adjustment mechanism expansion",
-      "summary": "The European Union has finalized the expansion of its Carbon Border Adjustment Mechanism (CBAM), extending coverage to new industrial sectors including steel, aluminum, and cement imports.",
-      "url": "https://www.reuters.com/20260613/xxx",
-      "time": "2026-06-13T14:00:00+08:00"
+      "name": "彭博社",
+      "url": "http://www.bloomberg.com",
+      "items": [
+        {
+          "title": "Global renewable energy investment hits record $500 billion",
+          "url": "http://www.bloomberg.com/news/20260613/renewable-investment",
+          "summary": "Global investment in renewable energy reached a record $500 billion in Q2 2026, driven by solar and wind projects, with China and the US leading.",
+          "time": "2026-06-13"
+        },
+        {
+          "title": "Fed signals potential rate cut as inflation moderates",
+          "url": "http://www.bloomberg.com/news/20260613/fed-rate-outlook",
+          "summary": "Federal Reserve officials signaled a potential interest rate cut later this year as inflation continues to moderate toward the 2% target.",
+          "time": "2026-06-13"
+        },
+        {
+          "title": "Digital yuan cross-border pilot expands to 25 cities",
+          "url": "http://www.bloomberg.com/news/20260613/digital-yuan",
+          "summary": "China digital yuan pilot has expanded to 25 cities, with transaction volumes doubling year-on-year in cross-border trade settlements.",
+          "time": "2026-06-13"
+        }
+      ]
     },
     {
-      "source": "彭博社",
-      "title": "Global oil prices rise as Iran navigates new sanctions",
-      "summary": "Oil prices climbed on Friday as markets assess the impact of renewed sanctions on Iran and ongoing geopolitical tensions in the Middle East.",
-      "url": "https://www.bloomberg.com/20260613/xxx",
-      "time": "2026-06-13T13:00:00+08:00"
-    },
-    {
-      "source": "环球网",
-      "title": "伊美就核问题协议文本达成一致",
-      "summary": "伊朗外长阿拉格齐表示，伊朗与美国已就谅解备忘录草案达成一致，霍尔木兹海峡相关服务将收取费用。",
-      "url": "https://www.huanqiu.com/20260613/xxx",
-      "time": "2026-06-13T12:00:00+08:00"
-    },
-    {
-      "source": "财新网",
-      "title": "多地出台数字经济促进条例 数据要素市场建设提速",
-      "summary": "北京、上海、深圳等多地相继出台数字经济促进条例，在数据要素市场化配置、数字基础设施等领域提出具体举措。",
-      "url": "https://www.caixin.com/20260613/xxx",
-      "time": "2026-06-13T11:00:00+08:00"
-    },
-    {
-      "source": "联合早报",
-      "title": "中美经贸高层对话本周在日内瓦举行",
-      "summary": "中美经贸高层对话将于本周在日内瓦举行，双方将就关税、市场准入、技术合作等议题进行磋商。",
-      "url": "https://www.zaobao.com/20260613/xxx",
-      "time": "2026-06-13T10:00:00+08:00"
+      "name": "联合早报",
+      "url": "http://www.zaobao.com",
+      "items": [
+        {
+          "title": "东南亚数字经济报告：区域互联网经济规模突破3000亿美元",
+          "url": "http://www.zaobao.com/finance/20260613/sea-digital",
+          "summary": "最新发布的东南亚数字经济报告显示，区域互联网经济规模突破3000亿美元，电商和数字金融为主要增长动力。",
+          "time": "2026-06-13"
+        },
+        {
+          "title": "中美防长在新加坡举行会晤",
+          "url": "http://www.zaobao.com/singapore/20260613/defence-meeting",
+          "summary": "中美两国国防部长在新加坡举行的香格里拉对话会期间举行会晤，就双边关系及地区安全议题交换意见。",
+          "time": "2026-06-13"
+        },
+        {
+          "title": "世界杯带动东南亚旅游热潮",
+          "url": "http://www.zaobao.com/travel/20260613/worldcup-travel",
+          "summary": "美加墨世界杯带动东南亚赴美旅游热潮，航班预订量较去年同期增长约45%。",
+          "time": "2026-06-13"
+        }
+      ]
     }
   ]
 }
-
