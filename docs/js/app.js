@@ -495,10 +495,16 @@
         }
       }
 
+      // 轮询结束后无论是否检测到新数据都重新加载一次
       var hasError = await reFetchAndRender();
       lastRefreshTime = new Date();
       showRefreshTime();
-      var msg = updated ? "✅ 数据已更新" : "⏰ 当前数据已加载";
+      var msg;
+      if (triggered && !updated) {
+        msg = "⏳ 抓取已完成，部署中请稍后刷新...";
+      } else {
+        msg = updated ? "✅ 数据已更新" : "🔄 已重新加载";
+      }
       if (hasError) msg = "⚠️ 部分数据加载失败";
       statusEl.textContent = msg;
       statusEl.style.color = hasError ? "#fbbf24" : "#6ee7b7";
