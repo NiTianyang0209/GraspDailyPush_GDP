@@ -84,16 +84,17 @@
     var sourceUrl = source.url || "#";
     list.innerHTML = [
       "<div class=\"source-header\">",
-      "  <a class=\"source-home-link\" href=\"" + escapeHtml(sourceUrl) + "\" target=\"_blank\" rel=\"noopener\">访问 " + escapeHtml(source.name) + " 官网 →</a>",
+      "  <a class=\"source-home-link\" href=\"" + escapeHtml(sourceUrl) + "\" target=\"_blank\" rel=\"noopener\">浏览更多 →</a>",
       "</div>"
     ].join("\n") + source.items.map(function (item) {
+      var articleUrl = item.url || sourceUrl;
       return [
         "<div class=\"news-card\">",
         "  <div class=\"news-card-header\">",
-        "    <a class=\"source-label\" href=\"" + escapeHtml(sourceUrl) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(source.name) + "</a>",
+        "    <span class=\"source-label\">" + escapeHtml(source.name) + "</span>",
         "    <span class=\"time\">" + escapeHtml(item.time) + "</span>",
         "  </div>",
-        "  <a class=\"news-title\" href=\"" + escapeHtml(sourceUrl) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(item.title) + "</a>",
+        "  <a class=\"news-title\" href=\"" + escapeHtml(articleUrl) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(item.title) + "</a>",
         (item.summary ? "  <div class=\"summary\">" + escapeHtml(item.summary) + "</div>" : ""),
         "</div>"
       ].join("\n");

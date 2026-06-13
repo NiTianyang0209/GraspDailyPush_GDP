@@ -93,8 +93,7 @@ body {
 }
 .news-card:hover { background: #eef1f7; }
 .news-card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
-.news-card .source-label { font-size: 11px; color: #2563eb; font-weight: 600; text-decoration: none; }
-.news-card .source-label:hover { text-decoration: underline; }
+.news-card .source-label { font-size: 11px; color: #2563eb; font-weight: 600; }
 .news-card .time { font-size: 11px; color: #8892a4; }
 .source-header { margin-bottom: 10px; text-align: right; }
 .source-home-link { font-size: 12px; color: #2563eb; text-decoration: none; font-weight: 500; }
