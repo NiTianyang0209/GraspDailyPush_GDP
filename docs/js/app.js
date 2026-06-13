@@ -583,10 +583,10 @@
     // Manual refresh button
     document.getElementById("refreshBtn").addEventListener("click", refreshAllData);
 
-    // Token setup button in footer
-    var tokenBtn = document.getElementById("tokenBtn");
-    if (tokenBtn) {
-      tokenBtn.addEventListener("click", function () {
+    // Token setup click
+    var tokenStatus = document.getElementById("tokenStatus");
+    if (tokenStatus) {
+      tokenStatus.addEventListener("click", function () {
         var current = getGitHubToken();
         var input = prompt("请输入 GitHub Personal Access Token：", current);
         if (input !== null) {
