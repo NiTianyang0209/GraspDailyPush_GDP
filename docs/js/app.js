@@ -339,6 +339,14 @@
 
   // ---- Refresh ----
   var refreshInProgress = false;
+  var lastRefreshTime = null;
+
+  function showRefreshTime() {
+    var el = document.getElementById("refreshInfo");
+    if (lastRefreshTime) {
+      el.textContent = "最后刷新 " + formatDateTime(lastRefreshTime);
+    }
+  }
 
   async function refreshAllData() {
     if (refreshInProgress) return;
@@ -347,6 +355,11 @@
     var statusEl = document.getElementById("updateStatus");
     btn.style.animation = "spin 0.8s linear infinite";
     statusEl.textContent = "🔄 刷新中...";
+
+    // Reset tab states so re-render shows first tab
+    currentNewsSource = 0;
+    currentHotPlatform = 0;
+    currentJournalIdx = 0;
 
     var hasError = false;
     var [headlines, hotlists, papers, commentary] = await Promise.all([
@@ -379,6 +392,9 @@
 
     updateTimeNotes(headlines, papers, commentary);
     loadKnowledge();
+
+    lastRefreshTime = new Date();
+    showRefreshTime();
     statusEl.textContent = hasError ? "⚠️ 部分数据加载失败" : "✅ 数据已更新";
     statusEl.style.color = hasError ? "#fbbf24" : "#6ee7b7";
     btn.style.animation = "";
@@ -432,6 +448,9 @@
       updateTimeNotes(headlines, papers, commentary);
       loadKnowledge();
       initVisitCounter();
+
+      lastRefreshTime = new Date();
+      showRefreshTime();
       statusEl.textContent = hasError ? "⚠️ 部分数据加载失败" : "✅ 数据已更新";
       statusEl.style.color = hasError ? "#fbbf24" : "#6ee7b7";
 
