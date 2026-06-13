@@ -4,69 +4,81 @@ journals:
     url: https://feeds.nature.com/natsustain/rss/current
     publisher: Nature
     topics: [green]
+    issn: 2398-9629
 
   - name: Nature Climate Change
     type: rss
     url: https://feeds.nature.com/nclimate/rss/current
     publisher: Nature
     topics: [green]
+    issn: 1758-6798
 
   - name: Nature Cities
     type: rss
     url: https://feeds.nature.com/natcities/rss/current
     publisher: Nature
     topics: [green, digital]
+    issn: 2731-9997
 
   - name: JEEM
     type: rss
     url: https://rss.sciencedirect.com/publication/science/00950696
     publisher: Elsevier
     topics: [green]
+    issn: 0095-0696
 
   - name: JAERE
-    type: rss
-    url: https://rss.sciencedirect.com/publication/science/XXXXX
-    publisher: Elsevier
+    type: crossref
+    url: ""
+    publisher: University of Chicago Press
     topics: [green]
+    issn: 2333-5963
 
   - name: Energy Economics
     type: rss
     url: https://rss.sciencedirect.com/publication/science/01409883
     publisher: Elsevier
     topics: [green]
+    issn: 0140-9883
 
   - name: Environmental & Resource Economics
     type: rss
-    url: https://link.springer.com/search.rss
+    url: https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10640
     publisher: Springer
     topics: [green]
+    issn: 0924-6460
 
   - name: REEP
-    type: rss
-    url: https://academic.oup.com/rss/site_5167/3135.xml
+    type: crossref
+    url: ""
     publisher: Oxford Academic
     topics: [green]
+    issn: 1750-6824
 
   - name: Energy Policy
     type: rss
     url: https://rss.sciencedirect.com/publication/science/03014215
     publisher: Elsevier
     topics: [green]
+    issn: 0301-4215
 
   - name: Resource and Energy Economics
     type: rss
     url: https://rss.sciencedirect.com/publication/science/09287655
     publisher: Elsevier
     topics: [green]
+    issn: 0928-7655
 
   - name: Energy Journal
-    type: rss
-    url: https://journals.sagepub.com/loi/ENJ
+    type: crossref
+    url: ""
     publisher: SAGE
     topics: [green]
+    issn: 0195-6574
 
   - name: ES&T
     type: rss
-    url: https://pubs.acs.org/page/esthag/feed.xml
+    url: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag
     publisher: ACS
     topics: [green]
+    issn: 0013-936X

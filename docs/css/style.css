@@ -201,9 +201,18 @@ body {
   margin-top: 4px;
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 4px 10px;
 }
-.paper-card .paper-meta span { display: inline-flex; align-items: center; gap: 3px; }
+.paper-card .paper-meta .meta-journal { font-weight: 500; color: #2563eb; }
+.paper-card .paper-meta .meta-vip { color: #888; }
+.paper-card .paper-authors {
+  font-size: 12px;
+  color: #777;
+  margin-top: 3px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 .paper-card .paper-detail {
   display: none;
   margin-top: 10px;

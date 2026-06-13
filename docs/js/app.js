@@ -208,22 +208,42 @@
     function renderGroup(emoji, label, themeClass, group) {
       var items = group.map(function (p) {
         var badge = p.is_new ? "<span class=\"badge-new\">新</span>" : "";
-        var doiHtml = "";
+
+        var metaParts = [];
+        var journalLabel = "<span class=\"meta-journal\">" + escapeHtml(p.journal) + "</span>";
+        metaParts.push(journalLabel);
+
+        var vip = [];
+        if (p.volume) vip.push("Vol. " + escapeHtml(p.volume));
+        if (p.issue) vip.push("No. " + escapeHtml(p.issue));
+        if (p.pages) vip.push("pp. " + escapeHtml(p.pages));
+        if (vip.length > 0) metaParts.push("<span class=\"meta-vip\">" + vip.join(", ") + "</span>");
+
         if (p.doi) {
           var cleanDoi = p.doi.split("<")[0].trim();
-          doiHtml = "    <span>🔗 <a class=\"doi-link\" href=\"https://doi.org/" + encodeURIComponent(cleanDoi) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(cleanDoi) + "</a></span>";
+          metaParts.push("<span><a class=\"doi-link\" href=\"https://doi.org/" + encodeURIComponent(cleanDoi) + "\" target=\"_blank\" rel=\"noopener\">DOI</a></span>");
         }
+
+        var authorsHtml = (p.authors && p.authors.length > 0)
+          ? "<div class=\"paper-authors\">" + escapeHtml(p.authors.join(", ")) + "</div>"
+          : "";
+
+        var abstractHtml = p.abstract
+          ? "<div class=\"paper-abstract\"><span class=\"label\">摘要：</span>" + escapeHtml(p.abstract) + "</div>"
+          : "";
+
+        var keywordsHtml = (p.keywords && p.keywords.length > 0)
+          ? "<div class=\"keywords\">" + p.keywords.map(function (kw) { return "<span class=\"keyword\">" + escapeHtml(kw) + "</span>"; }).join("") + "</div>"
+          : "";
+
         return [
           "<div class=\"paper-card\" onclick=\"this.classList.toggle('expanded')\">",
           "  <div class=\"paper-title\">" + escapeHtml(p.title) + badge + "</div>",
-          "  <div class=\"paper-meta\">",
-          "    <span>📄 " + escapeHtml(p.journal) + "</span>",
-          "    <span>✍️ " + escapeHtml((p.authors || []).join(", ")) + "</span>",
-          doiHtml,
-          "  </div>",
+          "  <div class=\"paper-meta\">" + metaParts.join(" · ") + "</div>",
+          authorsHtml,
           "  <div class=\"paper-detail\">",
-          "    <div><span class=\"label\">摘要：</span>" + escapeHtml(p.abstract || "") + "</div>",
-          (p.keywords ? "    <div class=\"keywords\">" + p.keywords.map(function (kw) { return "<span class=\"keyword\">" + escapeHtml(kw) + "</span>"; }).join("") + "</div>" : ""),
+          abstractHtml,
+          keywordsHtml,
           "  </div>",
           "</div>"
         ].join("\n");
