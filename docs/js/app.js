@@ -26,6 +26,21 @@
     return div.innerHTML;
   }
 
+  // ---- Page Navigation ----
+  function initNav() {
+    var navBtns = document.querySelectorAll(".nav-btn");
+    navBtns.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var page = btn.dataset.page;
+        navBtns.forEach(function (b) { b.classList.remove("active"); });
+        btn.classList.add("active");
+        document.querySelectorAll(".page").forEach(function (p) { p.classList.remove("active"); });
+        var target = document.getElementById("page-" + page);
+        if (target) target.classList.add("active");
+      });
+    });
+  }
+
   // ---- Fetch helper ----
   async function loadJSON(path) {
     const ts = Date.now();
@@ -126,49 +141,92 @@
     }.bind(this)).join("\n");
   }
 
-  // ---- Render Academic ----
+  // ---- Render Academic (journal-tabbed) ----
+  var currentJournalIdx = 0;
+
   function renderAcademic(data) {
     var container = document.getElementById("academic-content");
     if (!data || data.length === 0) {
       container.innerHTML = "<div class=\"loading\">暂无论文收录</div>";
       return;
     }
-    var green = data.filter(function (p) { return p.theme === "green"; });
-    var digital = data.filter(function (p) { return p.theme === "digital"; });
+
+    var journalMap = {};
+    data.forEach(function (p) {
+      var j = p.journal || "Other";
+      if (!journalMap[j]) journalMap[j] = [];
+      journalMap[j].push(p);
+    });
+
+    var journals = Object.keys(journalMap).sort();
     var html = "";
-    if (green.length > 0) {
-      html += renderThemeGroup("💚", "绿色主题", "green", green);
-    }
-    if (digital.length > 0) {
-      html += renderThemeGroup("💙", "数字主题", "digital", digital);
-    }
+    html += "<div id=\"journal-tabs\" class=\"tab-bar\">";
+    html += journals.map(function (j, i) {
+      return "<button class=\"tab-btn" + (i === currentJournalIdx ? " active" : "") + "\" data-idx=\"" + i + "\">" + escapeHtml(j) + " (" + journalMap[j].length + ")</button>";
+    }.bind(this)).join("\n");
+    html += "</div>";
+    html += "<div id=\"journal-content\"></div>";
     container.innerHTML = html;
+
+    var tabs = document.getElementById("journal-tabs");
+    tabs.onclick = function (e) {
+      var btn = e.target.closest(".tab-btn");
+      if (!btn) return;
+      currentJournalIdx = parseInt(btn.dataset.idx, 10);
+      renderJournalPapers(journals[currentJournalIdx], journalMap[journals[currentJournalIdx]]);
+      tabs.querySelectorAll(".tab-btn").forEach(function (b) { b.classList.remove("active"); });
+      btn.classList.add("active");
+    };
+
+    renderJournalPapers(journals[0], journalMap[journals[0]]);
   }
 
-  function renderThemeGroup(emoji, label, themeClass, papers) {
-    var items = papers.map(function (p) {
-      var badge = p.is_new ? "<span class=\"badge-new\">新</span>" : "";
+  function renderJournalPapers(journalName, papers) {
+    var container = document.getElementById("journal-content");
+    if (!papers || papers.length === 0) {
+      container.innerHTML = "<div class=\"loading\">暂无论文</div>";
+      return;
+    }
+
+    var green = papers.filter(function (p) { return p.theme === "green"; });
+    var digital = papers.filter(function (p) { return p.theme === "digital"; });
+    var html = "";
+
+    function renderGroup(emoji, label, themeClass, group) {
+      var items = group.map(function (p) {
+        var badge = p.is_new ? "<span class=\"badge-new\">新</span>" : "";
+        var doiHtml = "";
+        if (p.doi) {
+          var cleanDoi = p.doi.split("<")[0].trim();
+          doiHtml = "    <span>🔗 <a class=\"doi-link\" href=\"https://doi.org/" + encodeURIComponent(cleanDoi) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(cleanDoi) + "</a></span>";
+        }
+        return [
+          "<div class=\"paper-card\" onclick=\"this.classList.toggle('expanded')\">",
+          "  <div class=\"paper-title\">" + escapeHtml(p.title) + badge + "</div>",
+          "  <div class=\"paper-meta\">",
+          "    <span>📄 " + escapeHtml(p.journal) + "</span>",
+          "    <span>✍️ " + escapeHtml((p.authors || []).join(", ")) + "</span>",
+          doiHtml,
+          "  </div>",
+          "  <div class=\"paper-detail\">",
+          "    <div><span class=\"label\">摘要：</span>" + escapeHtml(p.abstract || "") + "</div>",
+          (p.keywords ? "    <div class=\"keywords\">" + p.keywords.map(function (kw) { return "<span class=\"keyword\">" + escapeHtml(kw) + "</span>"; }).join("") + "</div>" : ""),
+          "  </div>",
+          "</div>"
+        ].join("\n");
+      }).join("\n");
+
       return [
-        "<div class=\"paper-card\" onclick=\"this.classList.toggle(\"expanded\")\">",
-        "  <div class=\"paper-title\">" + escapeHtml(p.title) + badge + "</div>",
-        "  <div class=\"paper-meta\">",
-        "    <span>📄 " + escapeHtml(p.journal) + "</span>",
-        "    <span>✍️ " + escapeHtml((p.authors || []).join(", ")) + "</span>",
-        (p.doi ? "    <span>🔗 " + escapeHtml(p.doi) + "</span>" : ""),
-        "  </div>",
-        "  <div class=\"paper-detail\">",
-        "    <div><span class=\"label\">摘要：</span>" + escapeHtml(p.abstract || "") + "</div>",
-        (p.keywords ? "    <div class=\"keywords\">" + p.keywords.map(function (kw) { return "<span class=\"keyword\">" + escapeHtml(kw) + "</span>"; }).join("") + "</div>" : ""),
-        "  </div>",
+        "<div class=\"theme-group\">",
+        "  <div class=\"theme-header " + themeClass + "\">" + emoji + " " + escapeHtml(label) + " <span style=\"font-weight:400;font-size:12px;opacity:0.7\">(" + group.length + " 篇)</span></div>",
+        items,
         "</div>"
       ].join("\n");
-    }.bind(this)).join("\n");
-    return [
-      "<div class=\"theme-group\">",
-      "  <div class=\"theme-header " + themeClass + "\">" + emoji + " " + escapeHtml(label) + " <span style=\"font-weight:400;font-size:12px;opacity:0.7\">(" + papers.length + " 篇)</span></div>",
-      items,
-      "</div>"
-    ].join("\n");
+    }
+
+    if (green.length > 0) html += renderGroup("💚", "绿色主题", "green", green);
+    if (digital.length > 0) html += renderGroup("💙", "数字主题", "digital", digital);
+    container.innerHTML = html;
   }
 
   // ---- Render Commentary ----
@@ -208,6 +266,7 @@
   // ---- Main ----
   async function init() {
     document.getElementById("currentDate").textContent = "📅 " + formatDate(new Date());
+    initNav();
 
     var statusEl = document.getElementById("updateStatus");
     var hasError = false;

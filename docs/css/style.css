@@ -14,7 +14,7 @@ body {
 .header {
   background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
   color: #fff;
-  padding: 28px 0 20px;
+  padding: 28px 0 0;
   position: sticky;
   top: 0;
   z-index: 100;
@@ -28,7 +28,34 @@ body {
   margin-top: 8px; font-size: 13px; color: rgba(255,255,255,0.7);
 }
 
-/* ========== Sections ========== */
+/* ========== Navigation Bar ========== */
+.nav-bar {
+  margin-top: 16px;
+  border-top: 1px solid rgba(255,255,255,0.1);
+  padding: 10px 0;
+}
+.nav-bar .container { display: flex; gap: 4px; }
+.nav-btn {
+  padding: 8px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+  border-radius: 8px 8px 0 0;
+  background: transparent;
+  color: rgba(255,255,255,0.6);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.nav-btn:hover { color: #fff; background: rgba(255,255,255,0.08); }
+.nav-btn.active {
+  color: #1a1a2e;
+  background: #f5f7fa;
+}
+
+/* ========== Page Sections ========== */
+.page { display: none; }
+.page.active { display: block; }
+
 .section {
   background: #fff;
   border-radius: 12px;
@@ -188,6 +215,14 @@ body {
 }
 .paper-card.expanded { border-color: #2563eb; }
 .paper-card.expanded .paper-detail { display: block; }
+
+/* DOI Link */
+.doi-link {
+  color: #2563eb;
+  text-decoration: none;
+  word-break: break-all;
+}
+.doi-link:hover { text-decoration: underline; }
 
 /* ========== Commentary ========== */
 .commentary-box {
