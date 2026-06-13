@@ -1,0 +1,72 @@
+journals:
+  - name: Nature Sustainability
+    type: rss
+    url: https://feeds.nature.com/natsustain/rss/current
+    publisher: Nature
+    topics: [green]
+
+  - name: Nature Climate Change
+    type: rss
+    url: https://feeds.nature.com/nclimate/rss/current
+    publisher: Nature
+    topics: [green]
+
+  - name: Nature Cities
+    type: rss
+    url: https://feeds.nature.com/natcities/rss/current
+    publisher: Nature
+    topics: [green, digital]
+
+  - name: JEEM
+    type: rss
+    url: https://rss.sciencedirect.com/publication/science/00950696
+    publisher: Elsevier
+    topics: [green]
+
+  - name: JAERE
+    type: rss
+    url: https://rss.sciencedirect.com/publication/science/XXXXX
+    publisher: Elsevier
+    topics: [green]
+
+  - name: Energy Economics
+    type: rss
+    url: https://rss.sciencedirect.com/publication/science/01409883
+    publisher: Elsevier
+    topics: [green]
+
+  - name: Environmental & Resource Economics
+    type: rss
+    url: https://link.springer.com/search.rss
+    publisher: Springer
+    topics: [green]
+
+  - name: REEP
+    type: rss
+    url: https://academic.oup.com/rss/site_5167/3135.xml
+    publisher: Oxford Academic
+    topics: [green]
+
+  - name: Energy Policy
+    type: rss
+    url: https://rss.sciencedirect.com/publication/science/03014215
+    publisher: Elsevier
+    topics: [green]
+
+  - name: Resource and Energy Economics
+    type: rss
+    url: https://rss.sciencedirect.com/publication/science/09287655
+    publisher: Elsevier
+    topics: [green]
+
+  - name: Energy Journal
+    type: rss
+    url: https://journals.sagepub.com/loi/ENJ
+    publisher: SAGE
+    topics: [green]
+
+  - name: ES&T
+    type: rss
+    url: https://pubs.acs.org/page/esthag/feed.xml
+    publisher: ACS
+    topics: [green]

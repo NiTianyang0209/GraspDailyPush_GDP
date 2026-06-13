@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <title>GraspDaily GDP · 每日信息简报</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="header-top">
+        <h1 class="site-title">GraspDaily GDP</h1>
+        <span class="site-subtitle">每日信息简报</span>
+      </div>
+      <div class="header-meta">
+        <span class="date" id="currentDate"></span>
+        <span class="update-status" id="updateStatus">加载中...</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Section 1: 时事热点 -->
+    <section class="section" id="news-section">
+      <div class="section-header">
+        <h2 class="section-title">
+          <span class="section-icon">📰</span>
+          时事热点
+        </h2>
+        <span class="section-update" id="newsUpdateTime"></span>
+      </div>
+      <div class="news-grid">
+        <div class="news-column" id="headlines-column">
+          <h3 class="column-title">新闻速览</h3>
+          <div id="headlines-list" class="card-list"></div>
+        </div>
+        <div class="news-column" id="hotlists-column">
+          <h3 class="column-title">热搜榜单</h3>
+          <div id="hotlists-tabs" class="tab-bar"></div>
+          <div id="hotlists-content" class="card-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 2: 学术动态 -->
+    <section class="section" id="academic-section">
+      <div class="section-header">
+        <h2 class="section-title">
+          <span class="section-icon">🎓</span>
+          学术动态
+        </h2>
+        <span class="section-update" id="academicUpdateTime"></span>
+      </div>
+      <div id="academic-content"></div>
+    </section>
+
+    <!-- Section 3: AI 智能点评 -->
+    <section class="section" id="commentary-section">
+      <div class="section-header">
+        <h2 class="section-title">
+          <span class="section-icon">🤖</span>
+          AI 智能点评
+        </h2>
+        <span class="section-update" id="commentaryTime"></span>
+      </div>
+      <div id="commentary-content" class="commentary-box"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>GraspDaily GDP · 数据自动采集，仅供参考</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

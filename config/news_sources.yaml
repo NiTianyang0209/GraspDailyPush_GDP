@@ -1,0 +1,88 @@
+news:
+  domestic:
+    - name: 新华社
+      type: rss
+      url: http://www.news.cn/rss.htm
+
+    - name: 人民日报
+      type: rss
+      url: https://www.people.com.cn/rss/politics.xml
+
+    - name: 经济日报
+      type: rss
+      url: https://www.ce.cn/rss/cecy.xml
+
+    - name: 光明日报
+      type: rss
+      url: https://www.gmw.cn/rss/gmrb.xml
+
+    - name: 中国日报
+      type: rss
+      url: https://www.chinadaily.com.cn/rss/world_rss.xml
+
+    - name: 参考消息
+      type: website
+      url: https://www.cankaoxiaoxi.com/
+
+    - name: 财新网
+      type: website
+      url: https://www.caixin.com/
+
+    - name: 中国新闻社
+      type: rss
+      url: https://www.chinanews.com.cn/rss/latest-news.xml
+
+  international:
+    - name: 路透社
+      type: rss
+      url: https://www.reutersagency.com/feed/
+
+    - name: 美联社
+      type: rss
+      url: https://www.ap.org/rss/
+
+    - name: 法新社
+      type: rss
+      url: https://www.afp.com/rss/
+
+    - name: 纽约时报
+      type: rss
+      url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+
+    - name: 彭博社
+      type: rss
+      url: https://www.bloomberg.com/feed/site news
+
+    - name: 经济学人
+      type: rss
+      url: https://www.economist.com/feeds/print-sections/77/business.xml
+
+    - name: 联合早报
+      type: rss
+      url: https://www.zaobao.com/rss.xml
+
+  hotlists:
+    - name: 微博热搜
+      type: website
+      url: https://s.weibo.com/top/summary/
+      platform: weibo
+
+    - name: 百度热搜
+      type: website
+      url: https://top.baidu.com/board?tab=realtime
+      platform: baidu
+
+    - name: 知乎热榜
+      type: website
+      url: https://www.zhihu.com/hot
+      platform: zhihu
+
+    - name: 今日头条
+      type: website
+      url: https://www.toutiao.com/hot-event/
+      platform: toutiao
+
+    - name: 贴吧热搜
+      type: website
+      url: https://tieba.baidu.com/hottopic/browse/topicList
+      platform: tieba

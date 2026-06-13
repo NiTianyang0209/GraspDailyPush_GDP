@@ -1,0 +1,107 @@
+﻿journals:
+  - name: 管理世界
+    platform: chinajournal
+    url: https://glsj.chinajournal.net.cn/WKB2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: glsj
+
+  - name: 经济研究
+    platform: chinajournal
+    url: https://jjyj.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: jjyj
+
+  - name: 管理科学学报
+    platform: chinajournal
+    url: https://glkxxb.chinajournal.net.cn/WKB/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: glkxxb
+
+  - name: 中国社会科学
+    platform: ncpssd
+    url: https://www.ncpssd.cn/journal/details?gch=75133X
+
+  - name: 南开管理评论
+    platform: chinajournal
+    url: https://nankai.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: nankai
+
+  - name: 经济学(季刊)
+    platform: chinajournal
+    url: https://jjxk.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: jjxk
+
+  - name: 中国工业经济
+    platform: chinajournal
+    url: https://zggyjj.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: zggyjj
+
+  - name: 金融研究
+    platform: chinajournal
+    url: https://jryj.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: jryj
+
+  - name: 中国管理科学
+    platform: website
+    url: https://casisd.cas.cn/qkxh/zgglkx/
+
+  - name: 管理学报
+    platform: chinajournal
+    url: https://glxb.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: glxb
+
+  - name: 会计研究
+    platform: chinajournal
+    url: https://kjyj.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: kjyj
+
+  - name: 世界经济
+    platform: chinajournal
+    url: https://sjjj.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: sjjj
+
+  - name: 经济学动态
+    platform: chinajournal
+    url: https://jjxdt.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: jjxdt
+
+  - name: 公共管理学报
+    platform: chinajournal
+    url: https://gggl.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: gggl
+
+  - name: 中国软科学
+    platform: chinajournal
+    url: https://zgrkx.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: zgrkx
+
+  - name: 管理科学
+    platform: website
+    url: https://glkx.hit.edu.cn/
+
+  - name: 数量经济技术经济研究
+    platform: chinajournal
+    url: https://sljjs.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: sljjs
+
+  - name: 科研管理
+    platform: chinajournal
+    url: https://kygl.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: kygl
+
+  - name: 管理评论
+    platform: chinajournal
+    url: https://glpl.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: glpl
+
+  - name: 科学学研究
+    platform: chinajournal
+    url: https://kxxyj.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: kxxyj
+
+  - name: 统计研究
+    platform: chinajournal
+    url: https://tjyj.chinajournal.net.cn/WKD2/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: tjyj
+
+  - name: 中国人口·资源与环境
+    platform: chinajournal
+    url: https://zgrz.chinajournal.net.cn/WKC/WebPublication/wkTextContent.aspx?colType=4&st=01&yt=2026
+    abbrev: zgrz
