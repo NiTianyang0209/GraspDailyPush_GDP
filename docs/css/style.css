@@ -318,3 +318,39 @@ body {
   border-radius: 8px;
   font-size: 13px;
 }
+
+/* ========== Commentary Tabs (AI sub-tabs) ========== */
+.commentary-pane { display: none; }
+.commentary-pane.active { display: block; }
+.commentary-body {
+  padding: 20px;
+  background: linear-gradient(135deg, #f0f4ff 0%, #fdf2f8 100%);
+  border-radius: 10px;
+  border: 1px solid #e0e7ff;
+  margin-bottom: 12px;
+}
+.commentary-body .text { font-size: 14px; line-height: 1.8; color: #333; }
+.commentary-body .meta {
+  margin-top: 12px;
+  font-size: 12px;
+  color: #8892a4;
+  display: flex;
+  justify-content: space-between;
+}
+.commentary-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.generate-btn {
+  padding: 8px 18px;
+  font-size: 13px;
+  background: #1a1a2e;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.generate-btn:hover { background: #2563eb; }
+.commentary-status { font-size: 12px; color: #8892a4; }

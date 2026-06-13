@@ -78,7 +78,26 @@
           </h2>
           <span class="section-update" id="commentaryTime"></span>
         </div>
-        <div id="commentary-content" class="commentary-box"></div>
+        <div class="commentary-tabs tab-bar" id="commentaryTabs">
+          <button class="tab-btn active" data-commentary="news">📰 时事点评</button>
+          <button class="tab-btn" data-commentary="academic">🎓 学术点评</button>
+        </div>
+        <div class="commentary-content" id="commentaryContent">
+          <div class="commentary-pane active" data-pane="news">
+            <div class="commentary-body" id="commentaryNewsBody"><div class="loading">暂无点评</div></div>
+            <div class="commentary-actions">
+              <button class="generate-btn" data-type="news">⚡ 生成时事点评</button>
+              <span class="commentary-status" id="commentaryNewsStatus"></span>
+            </div>
+          </div>
+          <div class="commentary-pane" data-pane="academic">
+            <div class="commentary-body" id="commentaryAcademicBody"><div class="loading">暂无点评</div></div>
+            <div class="commentary-actions">
+              <button class="generate-btn" data-type="academic">⚡ 生成学术点评</button>
+              <span class="commentary-status" id="commentaryAcademicStatus"></span>
+            </div>
+          </div>
+        </div>
       </section>
     </div>
   </main>
@@ -92,12 +111,14 @@
         <span id="visitToday">今日访问：--</span>
         <span class="sep">·</span>
         <span id="tokenStatus" class="token-status" title="点击设置 GitHub Token">⏳</span>
+        <span class="sep">·</span>
+        <span id="deepseekStatus" class="token-status" title="点击设置 DeepSeek API Key">🧠</span>
       </div>
     </div>
   </footer>
 
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fni-tianyang0209.github.io%2FGraspDailyPush_GDP%2F&label=Total&countColor=%232cb67a" style="display:none" alt="" id="visitorBadge">
 
-  <script src="js/app.js?v=5"></script>
+  <script src="js/app.js?v=6"></script>
 </body>
 </html>

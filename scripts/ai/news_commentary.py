@@ -1,4 +1,4 @@
-﻿"""Generate AI commentary for academic papers via DeepSeek API."""
+"""Generate AI commentary for news & hotlists via DeepSeek API."""
 import json, os, sys, urllib.request, urllib.error, datetime
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -6,6 +6,11 @@ from utils.storage import JSONStorage
 
 DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
 storage = JSONStorage()
+
+def load_data():
+    headlines = storage.read("news/headlines.json")
+    hotlists = storage.read("news/hotlists.json")
+    return headlines, hotlists
 
 def call_deepseek(api_key, system_prompt, user_content):
     data = json.dumps({
@@ -31,27 +36,19 @@ def main():
         print("SKIP: DEEPSEEK_API_KEY not set")
         return
 
-    papers = storage.read("academic/papers_index.json")
-    if not papers or len(papers) == 0:
-        print("SKIP: no papers data available")
+    headlines, hotlists = load_data()
+    if not headlines and not hotlists:
+        print("SKIP: no data available")
         return
 
-    green = [p for p in papers if p.get("theme") == "green"]
-    digital = [p for p in papers if p.get("theme") == "digital"]
-
-    summary = {
-        "total": len(papers),
-        "green": len(green),
-        "digital": len(digital),
-        "journals": list({p.get("journal", "Unknown") for p in papers}),
-        "sample_titles": [p.get("title", "")[:80] for p in papers[:20]]
-    }
-
-    user_content = json.dumps(summary, ensure_ascii=False, indent=2)
+    user_content = json.dumps({
+        "headlines": headlines or {"sources": []},
+        "hotlists": hotlists or {"platforms": []}
+    }, ensure_ascii=False, indent=2)
 
     system_prompt = (
-        "你是一个学术评论员。根据以下学术论文数据（期刊分布、主题分类、代表性标题），"
-        "写一段300-500字的点评，总结本周研究热点和学术趋势。用中文、平实的语气。"
+        "你是一个时事评论员。根据以下新闻和热搜数据，写一段300-500字的点评。"
+        "分析当前热点趋势，指出值得关注的事件。用中文、平实的语气。"
     )
 
     try:
@@ -63,14 +60,12 @@ def main():
     output = {
         "commentary": text,
         "generated_at": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "period": "每周更新",
-        "total_papers": len(papers),
-        "green_papers": len(green),
-        "digital_papers": len(digital)
+        "source_count": len(headlines.get("sources", [])) if headlines else 0,
+        "hotlist_count": sum(len(p.get("items", [])) for p in (hotlists.get("platforms", []) if hotlists else []))
     }
 
-    storage.write("academic/commentary.json", output)
-    print("OK: academic commentary generated")
+    storage.write("academic/commentary_news.json", output)
+    print("OK: news commentary generated")
 
 if __name__ == "__main__":
     main()

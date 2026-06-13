@@ -260,34 +260,44 @@
     container.innerHTML = html;
   }
 
-  // ---- Render Commentary ----
-  function renderCommentary(data) {
-    var container = document.getElementById("commentary-content");
-    if (!data || !data.commentary) {
-      container.innerHTML = "<div class=\"loading\">暂无点评</div>";
-      return;
+  // ---- Render Commentary (dual-pane) ----
+  function renderCommentary(newsData, academicData) {
+    function renderPane(bodyId, data) {
+      var el = document.getElementById(bodyId);
+      if (!data || !data.commentary) {
+        el.innerHTML = "<div class=\"loading\">暂无点评</div>";
+        return;
+      }
+      var meta = "";
+      if (data.generated_at) meta += "<div class=\"meta\"><span>🕐 " + formatDateTime(data.generated_at) + "</span></div>";
+      if (data.total_papers) meta += "<div class=\"meta\"><span>本期收录 " + (data.total_papers || 0) + " 篇</span></div>";
+      el.innerHTML = "<div class=\"text\">" + escapeHtml(data.commentary) + "</div>" + meta;
     }
-    container.innerHTML = [
-      "<div class=\"text\">" + escapeHtml(data.commentary) + "</div>",
-      "<div class=\"meta\">",
-      "  <span>本期收录: " + (data.total_papers || 0) + " 篇" +
-        " (绿色 " + (data.green_papers || 0) + " · 数字 " + (data.digital_papers || 0) + ")</span>",
-      "  <span>生成于 " + formatDateTime(data.generated_at) + "</span>",
-      "</div>"
-    ].join("\n");
+    renderPane("commentaryNewsBody", newsData);
+    renderPane("commentaryAcademicBody", academicData);
+
+    var ts = null;
+    if (newsData && newsData.generated_at) ts = newsData.generated_at;
+    if (academicData && academicData.generated_at) {
+      if (!ts || academicData.generated_at > ts) ts = academicData.generated_at;
+    }
+    if (ts) document.getElementById("commentaryTime").textContent = "🤖 " + formatDateTime(ts);
   }
 
   // ---- Update Time Note ----
-  function updateTimeNotes(newsData, academicData, commentaryData, academicUpdate) {
+  function updateTimeNotes(newsData, academicData, commentaryNews, commentaryAcademic, academicUpdate) {
     if (newsData && newsData.updated_at) {
       document.getElementById("newsUpdateTime").textContent = "⏱ " + formatDateTime(newsData.updated_at);
     }
     if (academicUpdate && academicUpdate.updated_at) {
       document.getElementById("academicUpdateTime").textContent = "🕐 最后检索 " + formatDateTime(academicUpdate.updated_at);
     }
-    if (commentaryData && commentaryData.generated_at) {
-      document.getElementById("commentaryTime").textContent = "🤖 " + formatDateTime(commentaryData.generated_at);
+    var ts = null;
+    if (commentaryNews && commentaryNews.generated_at) ts = commentaryNews.generated_at;
+    if (commentaryAcademic && commentaryAcademic.generated_at) {
+      if (!ts || commentaryAcademic.generated_at > ts) ts = commentaryAcademic.generated_at;
     }
+    if (ts) document.getElementById("commentaryTime").textContent = "🤖 " + formatDateTime(ts);
   }
 
   // ---- Daily Knowledge ----
@@ -342,6 +352,82 @@
     var token = getGitHubToken();
     el.textContent = token ? "✅" : "点击设置 Token";
     el.title = token ? "GitHub Token 已设置" : "点击设置 GitHub Token 以启用刷新自动抓取";
+  }
+
+  // ---- DeepSeek API Key Config ----
+  function getDeepSeekKey() {
+    return localStorage.getItem("gdp_deepseek_key") || "";
+  }
+
+  function initDeepSeekUI() {
+    var el = document.getElementById("deepseekStatus");
+    if (!el) return;
+    var key = getDeepSeekKey();
+    el.textContent = key ? "✅" : "点击设置 Key";
+    el.title = key ? "DeepSeek API Key 已设置" : "点击设置 DeepSeek API Key";
+  }
+
+  // ---- On-demand AI Commentary ----
+  async function generateCommentary(type) {
+    var key = getDeepSeekKey();
+    var statusId = type === "news" ? "commentaryNewsStatus" : "commentaryAcademicStatus";
+    var statusEl = document.getElementById(statusId);
+    if (!key) {
+      var input = prompt("请输入 DeepSeek API Key：");
+      if (input === null) return;
+      localStorage.setItem("gdp_deepseek_key", input);
+      key = input;
+      initDeepSeekUI();
+      if (!key) return;
+    }
+
+    statusEl.textContent = "⏳ 生成中...";
+    try {
+      var systemPrompt, userData;
+      if (type === "news") {
+        var [headlines, hotlists] = await Promise.all([
+          loadJSON(DATA_BASE + "/news/headlines.json").catch(function () { return null; }),
+          loadJSON(DATA_BASE + "/news/hotlists.json").catch(function () { return null; })
+        ]);
+        systemPrompt = "你是一个时事评论员，请根据以下新闻热搜数据撰写一段300-500字的点评，分析当前热点趋势。用中文回复。";
+        userData = JSON.stringify({ headlines: headlines, hotlists: hotlists }, null, 2);
+      } else {
+        var papers = await loadJSON(DATA_BASE + "/academic/papers_index.json").catch(function () { return null; });
+        systemPrompt = "你是一个学术评论员，请根据以下学术论文数据撰写一段300-500字的点评，总结研究热点和趋势。用中文回复。";
+        userData = JSON.stringify({ papers: papers }, null, 2);
+      }
+
+      var res = await fetch("https://api.deepseek.com/v1/chat/completions", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "Authorization": "Bearer " + key },
+        body: JSON.stringify({
+          model: "deepseek-chat",
+          messages: [
+            { role: "system", content: systemPrompt },
+            { role: "user", content: userData }
+          ],
+          max_tokens: 1024,
+          temperature: 0.7
+        })
+      });
+
+      if (!res.ok) {
+        var errText = await res.text().catch(function () { return ""; });
+        statusEl.textContent = "❌ API 错误: " + res.status;
+        return;
+      }
+
+      var result = await res.json();
+      var text = result.choices && result.choices[0] && result.choices[0].message && result.choices[0].message.content;
+      if (!text) { statusEl.textContent = "❌ API 返回格式异常"; return; }
+
+      var bodyId = type === "news" ? "commentaryNewsBody" : "commentaryAcademicBody";
+      document.getElementById(bodyId).innerHTML = "<div class=\"text\">" + escapeHtml(text) + "</div>" +
+        "<div class=\"meta\"><span>🕐 " + formatDateTime(new Date()) + " (在线生成)</span></div>";
+      statusEl.textContent = "✅ 生成完成";
+    } catch (e) {
+      statusEl.textContent = "❌ 请求失败: " + e.message;
+    }
   }
 
   // ---- Trigger GitHub Actions ----
@@ -408,10 +494,11 @@
     currentJournalIdx = 0;
 
     var hasError = false;
-    var [headlines, hotlists, papers, commentary, academicUpdate] = await Promise.all([
+    var [headlines, hotlists, papers, commentaryNews, commentaryAcademic, academicUpdate] = await Promise.all([
       loadJSON(DATA_BASE + "/news/headlines.json").catch(function () { return null; }),
       loadJSON(DATA_BASE + "/news/hotlists.json").catch(function () { return null; }),
       loadJSON(DATA_BASE + "/academic/papers_index.json").catch(function () { return null; }),
+      loadJSON(DATA_BASE + "/academic/commentary_news.json").catch(function () { return null; }),
       loadJSON(DATA_BASE + "/academic/commentary.json").catch(function () { return null; }),
       loadJSON(DATA_BASE + "/academic/last_update.json").catch(function () { return null; })
     ]);
@@ -419,9 +506,9 @@
     if (headlines) renderHeadlines(headlines); else hasError = true;
     if (hotlists) renderHotlists(hotlists); else hasError = true;
     if (papers) renderAcademic(papers); else hasError = true;
-    if (commentary) renderCommentary(commentary); else hasError = true;
+    renderCommentary(commentaryNews, commentaryAcademic);
 
-    updateTimeNotes(headlines, papers, commentary, academicUpdate);
+    updateTimeNotes(headlines, papers, commentaryNews, commentaryAcademic, academicUpdate);
     loadKnowledge();
     return hasError;
   }
@@ -531,10 +618,11 @@
     var hasError = false;
 
     try {
-      var [headlines, hotlists, papers, commentary, academicUpdate] = await Promise.all([
+      var [headlines, hotlists, papers, commentaryNews, commentaryAcademic, academicUpdate] = await Promise.all([
         loadJSON(DATA_BASE + "/news/headlines.json").catch(function () { return null; }),
         loadJSON(DATA_BASE + "/news/hotlists.json").catch(function () { return null; }),
         loadJSON(DATA_BASE + "/academic/papers_index.json").catch(function () { return null; }),
+        loadJSON(DATA_BASE + "/academic/commentary_news.json").catch(function () { return null; }),
         loadJSON(DATA_BASE + "/academic/commentary.json").catch(function () { return null; }),
         loadJSON(DATA_BASE + "/academic/last_update.json").catch(function () { return null; })
       ]);
@@ -560,14 +648,9 @@
         hasError = true;
       }
 
-      if (commentary) {
-        renderCommentary(commentary);
-      } else {
-        document.getElementById("commentary-content").innerHTML = "<div class=\"error-msg\">点评数据加载失败</div>";
-        hasError = true;
-      }
+      renderCommentary(commentaryNews, commentaryAcademic);
 
-      updateTimeNotes(headlines, papers, commentary, academicUpdate);
+      updateTimeNotes(headlines, papers, commentaryNews, commentaryAcademic, academicUpdate);
       loadKnowledge();
       initVisitCounter();
 
@@ -575,6 +658,7 @@
       lastTriggerTime = parseInt(localStorage.getItem("gdp_last_trigger") || "0", 10);
       showRefreshTime();
       initTokenUI();
+      initDeepSeekUI();
       statusEl.textContent = hasError ? "⚠️ 部分数据加载失败" : "✅ 数据已更新";
       statusEl.style.color = hasError ? "#fbbf24" : "#6ee7b7";
 
@@ -601,6 +685,43 @@
         }
       });
     }
+
+    // DeepSeek key setup
+    var dsStatus = document.getElementById("deepseekStatus");
+    if (dsStatus) {
+      dsStatus.addEventListener("click", function () {
+        var current = getDeepSeekKey();
+        var input = prompt("请输入 DeepSeek API Key：", current);
+        if (input !== null) {
+          localStorage.setItem("gdp_deepseek_key", input);
+          initDeepSeekUI();
+          document.getElementById("updateStatus").textContent = input ? "✅ DeepSeek Key 已设置" : "⚠️ DeepSeek Key 已清除";
+          document.getElementById("updateStatus").style.color = input ? "#6ee7b7" : "#fbbf24";
+        }
+      });
+    }
+
+    // Commentary tab switching
+    var commentaryTabs = document.getElementById("commentaryTabs");
+    if (commentaryTabs) {
+      commentaryTabs.addEventListener("click", function (e) {
+        var btn = e.target.closest(".tab-btn");
+        if (!btn) return;
+        document.querySelectorAll("#commentaryTabs .tab-btn").forEach(function (b) { b.classList.remove("active"); });
+        btn.classList.add("active");
+        var target = btn.dataset.commentary;
+        document.querySelectorAll(".commentary-pane").forEach(function (p) { p.classList.remove("active"); });
+        var pane = document.querySelector(".commentary-pane[data-pane=\"" + target + "\"]");
+        if (pane) pane.classList.add("active");
+      });
+    }
+
+    // Generate buttons
+    document.querySelectorAll(".generate-btn").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        generateCommentary(btn.dataset.type);
+      });
+    });
 
     // Auto-refresh every 6 hours
     setInterval(refreshAllData, 6 * 60 * 60 * 1000);
