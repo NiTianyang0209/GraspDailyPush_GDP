@@ -294,49 +294,20 @@
     }
   }
 
-  // ---- Weather ----
-  function loadWeather() {
-    var el = document.getElementById("weatherWidget");
-    fetch("https://wttr.in/Beijing?format=j1", { cache: "no-cache" })
+  // ---- Daily Knowledge ----
+  function loadKnowledge() {
+    var el = document.getElementById("knowledgeWidget");
+    fetch(DATA_BASE + "/knowledge.json?_t=" + Date.now())
       .then(function (r) { return r.json(); })
       .then(function (data) {
-        var c = data.current_condition && data.current_condition[0];
-        if (!c) { el.textContent = "🌤 天气暂无"; return; }
-        var temp = c.temp_C || "";
-        var desc = c.weatherDesc && c.weatherDesc[0] && c.weatherDesc[0].value || "";
-        var humid = c.humidity || "";
-        el.innerHTML = "🌤 北京 " + temp + "°C " + escapeHtml(desc) + " 💧" + humid + "%";
+        if (!data || data.length === 0) { el.textContent = "📖 知识暂无"; return; }
+        var today = new Date();
+        var dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 86400000);
+        var idx = dayOfYear % data.length;
+        var tip = data[idx];
+        el.innerHTML = "<strong>📖 " + escapeHtml(tip.title) + "</strong> " + escapeHtml(tip.content);
       })
-      .catch(function () { el.textContent = "🌤 天气暂无"; });
-  }
-
-  // ---- Horoscope ----
-  function loadHoroscope() {
-    var el = document.getElementById("horoscopeWidget");
-    var signs = ["白羊", "金牛", "双子", "巨蟹", "狮子", "处女", "天秤", "天蝎", "射手", "摩羯", "水瓶", "双鱼"];
-    var signEn = ["aries", "taurus", "gemini", "cancer", "leo", "virgo", "libra", "scorpio", "sagittarius", "capricorn", "aquarius", "pisces"];
-    // Auto-detect sign (simplified by birthday month)
-    var now = new Date();
-    var month = now.getMonth() + 1;
-    var day = now.getDate();
-    var idx = 0;
-    var boundaries = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 2];
-    var boundaryDays = [21, 20, 21, 21, 23, 23, 23, 23, 22, 22, 22, 19];
-    for (var i = 0; i < 12; i++) {
-      var bm = boundaries[i];
-      var bd = boundaryDays[i];
-      if (month === bm && day >= bd) { idx = i; break; }
-      if (month === (bm % 12 + 1) && day < boundaryDays[(i + 1) % 12]) { idx = i; break; }
-    }
-    el.textContent = "⭐ " + signs[idx] + "座 加载中...";
-    fetch("https://ohmanda.com/api/horoscope/" + signEn[idx] + "/", { cache: "no-cache" })
-      .then(function (r) { return r.json(); })
-      .then(function (data) {
-        var text = data.horoscope || "";
-        var short = text.length > 80 ? text.substring(0, 80) + "…" : text;
-        el.innerHTML = "⭐ " + signs[idx] + "座 " + escapeHtml(short);
-      })
-      .catch(function () { el.textContent = "⭐ " + signs[idx] + "座 运势暂无"; });
+      .catch(function () { el.textContent = "📖 知识暂无"; });
   }
 
   // ---- Visit Counter ----
@@ -354,30 +325,14 @@
     localStorage.setItem("gdp_visit_today", String(storedToday));
     document.getElementById("visitToday").textContent = "今日访问：" + storedToday;
 
-    // Total via visitorbadge.io (fetched after badge image loads)
-    window._onVisitorLoad = function (img) {
-      // The badge SVG isn't easily parsed for the number; use a separate fetch
-      fetch("https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fni-tianyang0209.github.io%2FGraspDailyPush_GDP%2F")
-        .then(function (r) { return r.text(); })
-        .then(function (svg) {
-          var m = svg.match(/>(\d+)<\/title/);
-          if (m) document.getElementById("visitTotal").textContent = "总访问：" + m[1];
-        })
-        .catch(function () {});
-    };
-    // Fallback: if badge never loads, retry with direct API
-    setTimeout(function () {
-      var el = document.getElementById("visitTotal");
-      if (el && el.textContent === "总访问：--") {
-        fetch("https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fni-tianyang0209.github.io%2FGraspDailyPush_GDP%2F")
-          .then(function (r) { return r.text(); })
-          .then(function (svg) {
-            var m = svg.match(/>(\d+)<\/title/);
-            if (m) el.textContent = "总访问：" + m[1];
-          })
-          .catch(function () { el.textContent = "总访问：--"; });
-      }
-    }, 5000);
+    // Total via visitorbadge.io
+    fetch("https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fni-tianyang0209.github.io%2FGraspDailyPush_GDP%2F")
+      .then(function (r) { return r.text(); })
+      .then(function (svg) {
+        var m = svg.match(/>(\d+)<\/title/);
+        if (m) document.getElementById("visitTotal").textContent = "总访问：" + m[1];
+      })
+      .catch(function () {});
   }
 
   // ---- Main ----
@@ -425,8 +380,7 @@
       }
 
       updateTimeNotes(headlines, papers, commentary);
-      loadWeather();
-      loadHoroscope();
+      loadKnowledge();
       initVisitCounter();
       statusEl.textContent = hasError ? "⚠️ 部分数据加载失败" : "✅ 数据已更新";
       statusEl.style.color = hasError ? "#fbbf24" : "#6ee7b7";

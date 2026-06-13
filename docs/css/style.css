@@ -33,6 +33,7 @@ body {
   gap: 16px; flex-wrap: wrap;
 }
 .widget { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 50%; }
+.knowledge-widget { white-space: normal; max-width: 100%; line-height: 1.6; }
 
 /* ========== Navigation Bar ========== */
 .nav-bar {
