@@ -211,6 +211,14 @@ def fetch_tieba():
     return items
 
 
+PLATFORM_URLS = {
+    "baidu": "https://top.baidu.com/board?tab=realtime",
+    "weibo": "https://s.weibo.com/top/summary/",
+    "zhihu": "https://www.zhihu.com/billboard",
+    "toutiao": "https://www.toutiao.com/hot/",
+    "tieba": "https://tieba.baidu.com/hottopic/browse/topicList",
+}
+
 FETCHERS = {
     "baidu": ("百度热搜", fetch_baidu),
     "weibo": ("微博热搜", fetch_weibo),
@@ -218,6 +226,8 @@ FETCHERS = {
     "toutiao": ("今日头条", fetch_toutiao),
     "tieba": ("百度贴吧", fetch_tieba),
 }
+
+MAX_ITEMS = 10
 
 
 def main():
@@ -234,16 +244,17 @@ def main():
             items = []
 
         if items:
-            print(f"  Got {len(items)} items")
-            platforms.append({"name": name, "items": items})
+            items = items[:MAX_ITEMS]
+            print(f"  Got {len(items)} items (showing top {MAX_ITEMS})")
+            platforms.append({"name": name, "url": PLATFORM_URLS[key], "items": items})
         elif name in existing_platforms:
-            old_items = existing_platforms[name]["items"]
-            # Add URLs to cached items that lack them
+            old = existing_platforms[name]
+            old_items = old["items"][:MAX_ITEMS]
             for x in old_items:
                 if "url" not in x:
                     x["url"] = _search_url(key, x["title"])
             print(f"  Using cached data ({len(old_items)} items)")
-            platforms.append({"name": name, "items": old_items})
+            platforms.append({"name": name, "url": PLATFORM_URLS[key], "items": old_items})
         else:
             print(f"  No data available")
 
