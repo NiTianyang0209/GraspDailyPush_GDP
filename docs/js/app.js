@@ -132,7 +132,7 @@
       content.innerHTML = "<div class=\"loading\">暂无数据</div>";
       return;
     }
-    content.innerHTML = platform.items.map(function (item) {
+    var html = platform.items.map(function (item) {
       var rankClass = "rank";
       if (item.rank <= 1) rankClass += " top-1";
       else if (item.rank <= 2) rankClass += " top-2";
@@ -149,6 +149,9 @@
         "</div>"
       ].join("\n");
     }.bind(this)).join("\n");
+    var platformUrl = platform.url || "#";
+    html += "<div class=\"hot-more\"><a href=\"" + escapeHtml(platformUrl) + "\" target=\"_blank\" rel=\"noopener\">查看全部 →</a></div>";
+    content.innerHTML = html;
   }
 
   // ---- Render Academic (journal-tabbed) ----

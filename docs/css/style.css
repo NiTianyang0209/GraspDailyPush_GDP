@@ -144,6 +144,19 @@ body {
 .hot-title-link:hover { color: #2563eb; text-decoration: underline; }
 .hot-item .heat { font-size: 11px; color: #8892a4; flex-shrink: 0; }
 
+/* Hotlist "查看全部" link */
+.hot-more {
+  text-align: right;
+  padding: 10px 4px 2px;
+}
+.hot-more a {
+  font-size: 13px;
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+.hot-more a:hover { text-decoration: underline; }
+
 /* Tab Bar */
 .tab-bar { display: flex; gap: 6px; margin-bottom: 12px; flex-wrap: wrap; }
 .tab-btn {
