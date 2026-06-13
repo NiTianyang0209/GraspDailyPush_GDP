@@ -1,11 +1,12 @@
 ﻿"""Generate AI commentary for academic papers via DeepSeek API."""
 import json, os, sys, urllib.request, urllib.error, datetime
 from pathlib import Path
-sys.path.insert(0, str(Path(__file__).parent.parent))
+BASE = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(BASE))
 from utils.storage import JSONStorage
 
 DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
-storage = JSONStorage()
+storage = JSONStorage(base_dir=str(BASE / "docs" / "data"))
 
 def call_deepseek(api_key, system_prompt, user_content):
     data = json.dumps({
