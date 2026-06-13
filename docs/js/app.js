@@ -339,7 +339,7 @@
 
   // ---- Refresh ----
   const REFRESH_COOLDOWN = 10 * 60 * 1000;
-  const REFRESH_WORKER_URL = "";  // 留空则静默重载，填入 Cloudflare Worker 地址将触发 GitHub Actions
+  const REFRESH_WORKER_URL = "https://graspdailypush.tienyang-ni.workers.dev";  // 留空则静默重载，填入 Cloudflare Worker 地址将触发 GitHub Actions
   const POLL_INTERVAL = 15000;
   const POLL_TIMEOUT = 3 * 60 * 1000;
 
