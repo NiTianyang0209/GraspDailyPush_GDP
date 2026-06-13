@@ -352,7 +352,7 @@
   async function triggerWorkflows(token) {
     var owner = "NiTianyang0209";
     var repo = "GraspDailyPush_GDP";
-    var workflows = ["scrape-news.yml", "scrape-hotlists.yml", "scrape-english-academic.yml"];
+    var workflows = ["scrape-all.yml"];
     var results = await Promise.all(workflows.map(async function (wf) {
       try {
         var res = await fetch("https://api.github.com/repos/" + owner + "/" + repo + "/actions/workflows/" + wf + "/dispatches", {

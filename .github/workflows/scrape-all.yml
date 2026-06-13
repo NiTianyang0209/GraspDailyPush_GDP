@@ -1,10 +1,10 @@
-﻿name: Scrape News Headlines
+name: Scrape All Data
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "30 */6 * * *"
   workflow_dispatch:
 jobs:
-  scrape:
+  scrape-all:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -16,12 +16,16 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Run scraper
+      - name: Run news scraper
         run: python scripts/news/headlines.py
+      - name: Run hotlists scraper
+        run: python scripts/news/hotlists.py
+      - name: Run academic scraper
+        run: python scripts/academic/english_journals.py
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: update news headlines [skip ci]"
+          commit_message: "chore: update all data [skip ci]"
           commit_user_name: "github-actions"
           commit_user_email: "actions@github.com"
           file_pattern: docs/data/
