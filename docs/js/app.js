@@ -237,14 +237,12 @@
           : "";
 
         return [
-          "<div class=\"paper-card\" onclick=\"this.classList.toggle('expanded')\">",
+          "<div class=\"paper-card\">",
           "  <div class=\"paper-title\">" + escapeHtml(p.title) + badge + "</div>",
           "  <div class=\"paper-meta\">" + metaParts.join(" · ") + "</div>",
           authorsHtml,
-          "  <div class=\"paper-detail\">",
-          abstractHtml,
+          "  <div class=\"paper-abstract\">" + escapeHtml(p.abstract || "") + "</div>",
           keywordsHtml,
-          "  </div>",
           "</div>"
         ].join("\n");
       }).join("\n");

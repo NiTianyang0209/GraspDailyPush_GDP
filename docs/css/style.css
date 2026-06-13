@@ -190,7 +190,6 @@ body {
   border: 1px solid #eef0f4;
   border-radius: 8px;
   margin-bottom: 8px;
-  cursor: pointer;
   transition: box-shadow 0.2s, border-color 0.2s;
 }
 .paper-card:hover { border-color: #c5c8d4; box-shadow: 0 2px 8px rgba(0,0,0,0.04); }
@@ -213,17 +212,14 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.paper-card .paper-detail {
-  display: none;
-  margin-top: 10px;
-  padding-top: 10px;
-  border-top: 1px solid #eef0f4;
+.paper-card .paper-abstract {
+  margin-top: 8px;
   font-size: 13px;
   color: #444;
   line-height: 1.7;
 }
-.paper-card .paper-detail .label { font-weight: 600; color: #333; }
-.paper-card .paper-detail .keywords {
+.paper-card .paper-abstract:empty { display: none; }
+.paper-card .keywords {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
