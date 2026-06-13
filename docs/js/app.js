@@ -28,8 +28,10 @@
 
   // ---- Fetch helper ----
   async function loadJSON(path) {
-    const res = await fetch(path);
-    if (!res.ok) throw new Error(`HTTP ${res.status}: ${path}`);
+    const ts = Date.now();
+    const separator = path.includes('?') ? '&' : '?';
+    const res = await fetch(path + separator + '_t=' + ts);
+    if (!res.ok) throw new Error('HTTP ' + res.status + ': ' + path);
     return res.json();
   }
 
