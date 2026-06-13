@@ -1,10 +1,9 @@
-name: Scrape All Data
+name: Scrape Academic Data
 on:
   schedule:
-    - cron: "30 */6 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * 1"
 jobs:
-  scrape-all:
+  scrape:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -16,16 +15,14 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Run news scraper
-        run: python scripts/news/headlines.py
-      - name: Run hotlists scraper
-        run: python scripts/news/hotlists.py
       - name: Run academic scraper
         run: python scripts/academic/english_journals.py
+      - name: Write last update timestamp
+        run: echo '{"updated_at":"'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'"}' > docs/data/academic/last_update.json
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: update all data [skip ci]"
+          commit_message: "chore: update academic data [skip ci]"
           commit_user_name: "github-actions"
           commit_user_email: "actions@github.com"
           file_pattern: docs/data/

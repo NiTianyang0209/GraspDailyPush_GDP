@@ -278,16 +278,12 @@
   }
 
   // ---- Update Time Note ----
-  function updateTimeNotes(newsData, academicData, commentaryData) {
+  function updateTimeNotes(newsData, academicData, commentaryData, academicUpdate) {
     if (newsData && newsData.updated_at) {
       document.getElementById("newsUpdateTime").textContent = "⏱ " + formatDateTime(newsData.updated_at);
     }
-    if (academicData && academicData.length > 0) {
-      var dates = academicData.map(function (p) { return new Date(p.publication_date); }).filter(Boolean);
-      if (dates.length > 0) {
-        var maxDate = new Date(Math.max.apply(null, dates));
-        document.getElementById("academicUpdateTime").textContent = "📅 " + formatDate(maxDate);
-      }
+    if (academicUpdate && academicUpdate.updated_at) {
+      document.getElementById("academicUpdateTime").textContent = "🕐 最后检索 " + formatDateTime(academicUpdate.updated_at);
     }
     if (commentaryData && commentaryData.generated_at) {
       document.getElementById("commentaryTime").textContent = "🤖 " + formatDateTime(commentaryData.generated_at);
@@ -412,11 +408,12 @@
     currentJournalIdx = 0;
 
     var hasError = false;
-    var [headlines, hotlists, papers, commentary] = await Promise.all([
+    var [headlines, hotlists, papers, commentary, academicUpdate] = await Promise.all([
       loadJSON(DATA_BASE + "/news/headlines.json").catch(function () { return null; }),
       loadJSON(DATA_BASE + "/news/hotlists.json").catch(function () { return null; }),
       loadJSON(DATA_BASE + "/academic/papers_index.json").catch(function () { return null; }),
-      loadJSON(DATA_BASE + "/academic/commentary.json").catch(function () { return null; })
+      loadJSON(DATA_BASE + "/academic/commentary.json").catch(function () { return null; }),
+      loadJSON(DATA_BASE + "/academic/last_update.json").catch(function () { return null; })
     ]);
 
     if (headlines) renderHeadlines(headlines); else hasError = true;
@@ -424,7 +421,7 @@
     if (papers) renderAcademic(papers); else hasError = true;
     if (commentary) renderCommentary(commentary); else hasError = true;
 
-    updateTimeNotes(headlines, papers, commentary);
+    updateTimeNotes(headlines, papers, commentary, academicUpdate);
     loadKnowledge();
     return hasError;
   }
@@ -528,11 +525,12 @@
     var hasError = false;
 
     try {
-      var [headlines, hotlists, papers, commentary] = await Promise.all([
+      var [headlines, hotlists, papers, commentary, academicUpdate] = await Promise.all([
         loadJSON(DATA_BASE + "/news/headlines.json").catch(function () { return null; }),
         loadJSON(DATA_BASE + "/news/hotlists.json").catch(function () { return null; }),
         loadJSON(DATA_BASE + "/academic/papers_index.json").catch(function () { return null; }),
-        loadJSON(DATA_BASE + "/academic/commentary.json").catch(function () { return null; })
+        loadJSON(DATA_BASE + "/academic/commentary.json").catch(function () { return null; }),
+        loadJSON(DATA_BASE + "/academic/last_update.json").catch(function () { return null; })
       ]);
 
       if (headlines) {
@@ -563,7 +561,7 @@
         hasError = true;
       }
 
-      updateTimeNotes(headlines, papers, commentary);
+      updateTimeNotes(headlines, papers, commentary, academicUpdate);
       loadKnowledge();
       initVisitCounter();
 
