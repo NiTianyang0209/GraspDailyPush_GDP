@@ -337,6 +337,54 @@
       });
   }
 
+  // ---- Refresh ----
+  var refreshInProgress = false;
+
+  async function refreshAllData() {
+    if (refreshInProgress) return;
+    refreshInProgress = true;
+    var btn = document.getElementById("refreshBtn");
+    var statusEl = document.getElementById("updateStatus");
+    btn.style.animation = "spin 0.8s linear infinite";
+    statusEl.textContent = "🔄 刷新中...";
+
+    var hasError = false;
+    var [headlines, hotlists, papers, commentary] = await Promise.all([
+      loadJSON(DATA_BASE + "/news/headlines.json").catch(function () { return null; }),
+      loadJSON(DATA_BASE + "/news/hotlists.json").catch(function () { return null; }),
+      loadJSON(DATA_BASE + "/academic/papers_index.json").catch(function () { return null; }),
+      loadJSON(DATA_BASE + "/academic/commentary.json").catch(function () { return null; })
+    ]);
+
+    if (headlines) {
+      renderHeadlines(headlines);
+    } else {
+      hasError = true;
+    }
+    if (hotlists) {
+      renderHotlists(hotlists);
+    } else {
+      hasError = true;
+    }
+    if (papers) {
+      renderAcademic(papers);
+    } else {
+      hasError = true;
+    }
+    if (commentary) {
+      renderCommentary(commentary);
+    } else {
+      hasError = true;
+    }
+
+    updateTimeNotes(headlines, papers, commentary);
+    loadKnowledge();
+    statusEl.textContent = hasError ? "⚠️ 部分数据加载失败" : "✅ 数据已更新";
+    statusEl.style.color = hasError ? "#fbbf24" : "#6ee7b7";
+    btn.style.animation = "";
+    refreshInProgress = false;
+  }
+
   // ---- Main ----
   async function init() {
     document.getElementById("currentDate").textContent = "📅 " + formatDate(new Date());
@@ -392,6 +440,12 @@
       statusEl.textContent = "❌ 数据加载失败";
       statusEl.style.color = "#fca5a5";
     }
+
+    // Manual refresh button
+    document.getElementById("refreshBtn").addEventListener("click", refreshAllData);
+
+    // Auto-refresh every 6 hours
+    setInterval(refreshAllData, 6 * 60 * 60 * 1000);
   }
 
   document.addEventListener("DOMContentLoaded", init);
