@@ -277,8 +277,54 @@
     ].join("\n");
   }
 
+  // ---- Render Policies ----
+  function renderPolicies(data) {
+    var container = document.getElementById("policy-content");
+    if (!data || !data.policies || data.policies.length === 0) {
+      container.innerHTML = "<div class=\"loading\">暂无政策数据</div>";
+      return;
+    }
+    var html = "";
+    // Group by source
+    var groups = {};
+    data.policies.forEach(function (p) {
+      var src = p.source || "其他";
+      if (!groups[src]) groups[src] = [];
+      groups[src].push(p);
+    });
+    var sourceOrder = ["中办国办", "国务院", "发改委", "人民银行", "财政部", "生态环境部"];
+    var sortedSources = sourceOrder.filter(function (s) { return groups[s]; });
+    Object.keys(groups).sort().forEach(function (s) {
+      if (sortedSources.indexOf(s) === -1) sortedSources.push(s);
+    });
+    sortedSources.forEach(function (src) {
+      var items = groups[src];
+      html += "<div class=\"policy-group\">";
+      html += "  <div class=\"policy-source-header\">" + escapeHtml(src) + " <span class=\"policy-count\">(" + items.length + ")</span></div>";
+      html += items.map(function (p) {
+        var dateHtml = p.date ? "<span class=\"policy-date\">" + escapeHtml(p.date) + "</span>" : "";
+        var topicHtml = (p.topics && p.topics.length > 0)
+          ? "<span class=\"policy-tags\">" + p.topics.map(function (t) { return "<span class=\"policy-tag\">" + escapeHtml(t) + "</span>"; }).join("") + "</span>"
+          : "";
+        var summaryHtml = p.summary ? "<div class=\"policy-summary\">" + escapeHtml(p.summary) + "</div>" : "";
+        return [
+          "<div class=\"policy-card\">",
+          "  <div class=\"policy-card-header\">",
+          "    " + dateHtml,
+          "    " + topicHtml,
+          "  </div>",
+          "  <a class=\"policy-title\" href=\"" + escapeHtml(p.url || "#") + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(p.title) + "</a>",
+          summaryHtml,
+          "</div>"
+        ].join("\n");
+      }.bind(this)).join("\n");
+      html += "</div>";
+    }.bind(this));
+    container.innerHTML = html;
+  }
+
   // ---- Update Time Note ----
-  function updateTimeNotes(newsData, academicData, commentaryData) {
+  function updateTimeNotes(newsData, academicData, policyData, commentaryData) {
     if (newsData && newsData.updated_at) {
       document.getElementById("newsUpdateTime").textContent = "⏱ " + formatDateTime(newsData.updated_at);
     }
@@ -288,6 +334,9 @@
         var maxDate = new Date(Math.max.apply(null, dates));
         document.getElementById("academicUpdateTime").textContent = "📅 " + formatDate(maxDate);
       }
+    }
+    if (policyData && policyData.updated_at) {
+      document.getElementById("policyUpdateTime").textContent = "📜 " + formatDateTime(policyData.updated_at);
     }
     if (commentaryData && commentaryData.generated_at) {
       document.getElementById("commentaryTime").textContent = "🤖 " + formatDateTime(commentaryData.generated_at);
@@ -303,10 +352,11 @@
     var hasError = false;
 
     try {
-      var [headlines, hotlists, papers, commentary] = await Promise.all([
+      var [headlines, hotlists, papers, policies, commentary] = await Promise.all([
         loadJSON(DATA_BASE + "/news/headlines.json").catch(function () { return null; }),
         loadJSON(DATA_BASE + "/news/hotlists.json").catch(function () { return null; }),
         loadJSON(DATA_BASE + "/academic/papers_index.json").catch(function () { return null; }),
+        loadJSON(DATA_BASE + "/news/policies.json").catch(function () { return null; }),
         loadJSON(DATA_BASE + "/academic/commentary.json").catch(function () { return null; })
       ]);
 
@@ -331,6 +381,13 @@
         hasError = true;
       }
 
+      if (policies) {
+        renderPolicies(policies);
+      } else {
+        document.getElementById("policy-content").innerHTML = "<div class=\"error-msg\">政策数据加载失败</div>";
+        hasError = true;
+      }
+
       if (commentary) {
         renderCommentary(commentary);
       } else {
@@ -338,7 +395,7 @@
         hasError = true;
       }
 
-      updateTimeNotes(headlines, papers, commentary);
+      updateTimeNotes(headlines, papers, policies, commentary);
       statusEl.textContent = hasError ? "⚠️ 部分数据加载失败" : "✅ 数据已更新";
       statusEl.style.color = hasError ? "#fbbf24" : "#6ee7b7";
 

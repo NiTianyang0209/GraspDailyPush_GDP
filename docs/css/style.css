@@ -245,6 +245,60 @@ body {
 .paper-card.expanded { border-color: #2563eb; }
 .paper-card.expanded .paper-detail { display: block; }
 
+/* ========== Policy ========== */
+.policy-group { margin-bottom: 20px; }
+.policy-source-header {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1e293b;
+  padding: 6px 0 8px;
+  border-bottom: 2px solid #2563eb;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.policy-source-header .policy-count { font-weight: 400; font-size: 12px; color: #8892a4; }
+.policy-card {
+  padding: 10px 12px;
+  border: 1px solid #eef0f4;
+  border-radius: 6px;
+  margin-bottom: 6px;
+  transition: border-color 0.15s;
+}
+.policy-card:hover { border-color: #c5c8d4; }
+.policy-card-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+  flex-wrap: wrap;
+}
+.policy-date { font-size: 11px; color: #8892a4; }
+.policy-tags { display: flex; gap: 4px; flex-wrap: wrap; }
+.policy-tag {
+  font-size: 10px;
+  padding: 1px 6px;
+  border-radius: 3px;
+  background: #e8f4fd;
+  color: #2563eb;
+}
+.policy-title {
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  color: #1a1a2e;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.policy-title:hover { color: #2563eb; text-decoration: underline; }
+.policy-summary {
+  font-size: 12px;
+  color: #666;
+  margin-top: 4px;
+  line-height: 1.6;
+}
+
 /* DOI Link */
 .doi-link {
   color: #2563eb;
