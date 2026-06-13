@@ -5,144 +5,77 @@
       "name": "人民网",
       "url": "http://www.people.com.cn",
       "items": [
-        {
-          "title": "学习卡：人不负青山，青山定不负人",
-          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494898.html",
-          "summary": "生态环境是关系党的使命宗旨的重大政治问题，也是关系民生的重大社会问题。习近平总书记多次指出，必须站在中华民族永续发展根本大计的高度，尊重自然、顺应自然、保护自然。",
-          "time": "2025-06-05"
-        },
-        {
-          "title": "镜观足迹：呵护千山万水 擘画永续发展",
-          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494899.html",
-          "summary": "党的十八大以来，习近平总书记的考察足迹遍及神州大地，从长江黄河到祁连秦岭，总书记在大江奔涌处谋划千秋大计，在山川锦绣间擘画生态蓝图。",
-          "time": "2025-06-05"
-        },
-        {
-          "title": "学习手记：环境就是民生",
-          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494900.html",
-          "summary": "22年前，在时任浙江省委书记习近平部署推动下，以农村人居环境整治为重点的千万工程启动。习近平总书记深刻指出，环境就是民生。",
-          "time": "2025-06-05"
-        },
-        {
-          "title": "国务院印发第四次全国农业普查通知",
-          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494878.html",
-          "summary": "国务院日前印发通知，决定于2026年开展第四次全国农业普查，普查标准时点为2026年12月31日。",
-          "time": "2025-06-05"
-        },
-        {
-          "title": "全国人大常委会启动节约能源法执法检查",
-          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494812.html",
-          "summary": "为推动节约能源法全面有效实施，全国人大常委会启动节约能源法执法检查，检查组将赴天津、江苏、湖南等省区市开展实地检查。",
-          "time": "2025-06-05"
-        }
+        { "title": "习近平对朝鲜进行国事访问", "summary": "习近平总书记对朝鲜进行国事访问，两国领导人就进一步发展中朝关系及共同关心的国际和地区问题深入交换意见。", "time": "2026-06-13" },
+        { "title": "2026年高考顺利结束 各地启动评卷工作", "summary": "2026年全国高考顺利结束，各地高考评卷工作已全面启动，预计6月25日左右公布成绩。", "time": "2026-06-13" },
+        { "title": "我国数字经济核心产业增加值占GDP比重持续提升", "summary": "最新数据显示，我国数字经济核心产业增加值占GDP比重已超过12%，人工智能等新业态保持快速增长。", "time": "2026-06-13" },
+        { "title": "全国碳市场即将迎来首次扩容", "summary": "据生态环境部消息，水泥、电解铝行业将在年内纳入全国碳市场交易体系。", "time": "2026-06-13" },
+        { "title": "中美经贸高层对话本周在日内瓦举行", "summary": "中美经贸高层对话将于本周在日内瓦举行，双方将就关税、市场准入等议题进行磋商。", "time": "2026-06-13" }
       ]
     },
     {
       "name": "新华网",
       "url": "http://www.xinhuanet.com",
       "items": [
-        {
-          "title": "习近平对朝鲜进行国事访问",
-          "url": "http://www.xinhuanet.com/world/20260613/xxx",
-          "summary": "习近平总书记对朝鲜进行国事访问，两国领导人就进一步发展中朝关系及共同关心的国际和地区问题深入交换意见，达成重要共识。",
-          "time": "2026-06-13"
-        },
-        {
-          "title": "2026年高考顺利结束 各地试卷评阅工作启动",
-          "url": "http://www.xinhuanet.com/edu/20260613/xxx",
-          "summary": "2026年全国高考于6月10日顺利结束，目前各地高考评卷工作已全面启动，预计6月25日左右公布成绩。",
-          "time": "2026-06-13"
-        },
-        {
-          "title": "我国数字经济核心产业增加值占GDP比重持续提升",
-          "url": "http://www.xinhuanet.com/fortune/20260613/xxx",
-          "summary": "最新数据显示，我国数字经济核心产业增加值占GDP比重已超过12%，平台经济、人工智能等新业态保持快速增长态势。",
-          "time": "2026-06-13"
-        },
-        {
-          "title": "全国碳市场即将迎来首次扩容",
-          "url": "http://www.xinhuanet.com/energy/20260613/xxx",
-          "summary": "据生态环境部消息，全国碳排放权交易市场即将迎来扩容，水泥、电解铝行业将在年内纳入全国碳市场交易体系。",
-          "time": "2026-06-13"
-        },
-        {
-          "title": "中美经贸高层对话本周在日内瓦举行",
-          "url": "http://www.xinhuanet.com/world/20260613/xxx",
-          "summary": "中美经贸高层对话将于本周在日内瓦举行，双方将就关税、市场准入、技术合作等议题进行深入磋商。",
-          "time": "2026-06-13"
-        }
+        { "title": "习近平出席上海合作组织峰会并发表重要讲话", "summary": "国家主席习近平在上海合作组织成员国元首理事会第二十六次会议上发表重要讲话，提出系列合作倡议。", "time": "2026-06-13" },
+        { "title": "国务院部署新一轮稳增长政策措施", "summary": "国务院常务会议部署一批稳增长政策措施，包括加快推进重大项目建设、促进消费持续恢复等。", "time": "2026-06-13" },
+        { "title": "我国成功发射遥感四十三号卫星", "summary": "我国在西昌卫星发射中心用长征二号丁运载火箭，成功将遥感四十三号卫星发射升空。", "time": "2026-06-13" },
+        { "title": "多部门联合部署防汛抗旱工作", "summary": "应急管理部会同多部门召开专题会议，分析研判汛情旱情形势，部署各项防范应对措施。", "time": "2026-06-13" },
+        { "title": "全国一体化算力网络建设取得新进展", "summary": "东数西算工程八大枢纽节点建设提速，全国一体化算力 network 初具规模。", "time": "2026-06-13" }
+      ]
+    },
+    {
+      "name": "中国日报",
+      "url": "https://www.chinadaily.com.cn",
+      "items": [
+        { "title": "China, DPRK agree to deepen ties during Xi visit", "summary": "President Xi Jinping and DPRK leader Kim Jong-un agreed to further deepen bilateral relations during Xi's state visit.", "time": "2026-06-13" },
+        { "title": "China's digital economy expands to 12% of GDP", "summary": "The core industries of China's digital economy now account for over 12% of GDP, driven by AI and platform economy growth.", "time": "2026-06-13" },
+        { "title": "Gaokao 2026 concludes, millions await results", "summary": "The 2026 National College Entrance Exam concluded smoothly, with results expected around June 25.", "time": "2026-06-13" },
+        { "title": "China launches new satellite for remote sensing", "summary": "China successfully launched the Yaogan-43 satellite from the Xichang Satellite Launch Center.", "time": "2026-06-13" },
+        { "title": "World Cup 2026 kicks off across North America", "summary": "The 2026 FIFA World Cup opened across the US, Canada, and Mexico in a historic tri-host format.", "time": "2026-06-13" }
+      ]
+    },
+    {
+      "name": "央视网",
+      "url": "https://www.cctv.com",
+      "items": [
+        { "title": "新闻联播：习近平出席上合组织峰会", "summary": "国家主席习近平在阿斯塔纳出席上海合作组织成员国元首理事会会议并发表重要讲话。", "time": "2026-06-13" },
+        { "title": "焦点访谈：中国经济回升向好态势明显", "summary": "5月份国民经济运行数据发布，多项指标显示经济回升向好态势持续巩固。", "time": "2026-06-13" },
+        { "title": "2026年世界杯开幕式精彩回顾", "summary": "美加墨世界杯开幕式在墨西哥城举行，全球数十亿观众收看这一盛事。", "time": "2026-06-13" },
+        { "title": "南方多地强降雨 各部门全力应对", "summary": "江南华南等地持续强降雨，各地各部门全力做好防汛抢险救灾工作。", "time": "2026-06-13" },
+        { "title": "我国新能源汽车产量突破年度2000万辆", "summary": "我国新能源汽车年度产量首次突破2000万辆，市场渗透率超过55%。", "time": "2026-06-13" }
+      ]
+    },
+    {
+      "name": "中国经济网",
+      "url": "https://www.ce.cn",
+      "items": [
+        { "title": "5月CPI同比上涨0.3% 物价总体平稳", "summary": "国家统计局数据显示，5月份全国居民消费价格指数同比上涨0.3%，物价运行总体平稳。", "time": "2026-06-13" },
+        { "title": "央行宣布降准0.5个百分点", "summary": "中国人民银行决定下调金融机构存款准备金率0.5个百分点，释放长期资金约1万亿元。", "time": "2026-06-13" },
+        { "title": "前5个月我国进出口总值同比增长6.2%", "summary": "海关总署发布数据，今年前5个月我国货物贸易进出口总值同比增长6.2%，外贸运行态势良好。", "time": "2026-06-13" },
+        { "title": "A股三大指数集体收涨", "summary": "A股三大指数全线上涨，沪指收复3200点，两市成交额突破万亿元。", "time": "2026-06-13" },
+        { "title": "多地出台促进房地产市场平稳健康发展措施", "summary": "多个城市出台新一轮楼市支持政策，包括优化限购、降低首付比例等措施。", "time": "2026-06-13" }
       ]
     },
     {
       "name": "路透社",
-      "url": "http://www.reuters.com",
+      "url": "https://www.reuters.com",
       "items": [
-        {
-          "title": "EU finalizes carbon border adjustment mechanism expansion",
-          "url": "http://www.reuters.com/world/europe/20260613/cbam-expansion",
-          "summary": "The European Union has finalized the expansion of its Carbon Border Adjustment Mechanism (CBAM), extending coverage to new industrial sectors including steel, aluminum, and cement imports.",
-          "time": "2026-06-13"
-        },
-        {
-          "title": "World Cup 2026 kicks off with historic tri-host opening",
-          "url": "http://www.reuters.com/sports/20260613/worldcup-opening",
-          "summary": "The 2026 FIFA World Cup kicked off across the United States, Canada, and Mexico, marking the first time three nations have co-hosted the tournament.",
-          "time": "2026-06-13"
-        },
-        {
-          "title": "Oil prices rise on Middle East tensions",
-          "url": "http://www.reuters.com/markets/20260613/oil-prices",
-          "summary": "Oil prices climbed on Friday as markets assess the impact of renewed geopolitical tensions in the Middle East and supply concerns.",
-          "time": "2026-06-13"
-        }
-      ]
-    },
-    {
-      "name": "彭博社",
-      "url": "http://www.bloomberg.com",
-      "items": [
-        {
-          "title": "Global renewable energy investment hits record $500 billion",
-          "url": "http://www.bloomberg.com/news/20260613/renewable-investment",
-          "summary": "Global investment in renewable energy reached a record $500 billion in Q2 2026, driven by solar and wind projects, with China and the US leading.",
-          "time": "2026-06-13"
-        },
-        {
-          "title": "Fed signals potential rate cut as inflation moderates",
-          "url": "http://www.bloomberg.com/news/20260613/fed-rate-outlook",
-          "summary": "Federal Reserve officials signaled a potential interest rate cut later this year as inflation continues to moderate toward the 2% target.",
-          "time": "2026-06-13"
-        },
-        {
-          "title": "Digital yuan cross-border pilot expands to 25 cities",
-          "url": "http://www.bloomberg.com/news/20260613/digital-yuan",
-          "summary": "China digital yuan pilot has expanded to 25 cities, with transaction volumes doubling year-on-year in cross-border trade settlements.",
-          "time": "2026-06-13"
-        }
+        { "title": "EU finalizes carbon border adjustment mechanism expansion", "summary": "The European Union finalized the expansion of its CBAM, extending coverage to steel, aluminum, and cement imports.", "time": "2026-06-13" },
+        { "title": "World Cup 2026 kicks off with historic tri-host opening", "summary": "The 2026 FIFA World Cup kicked off across the US, Canada, and Mexico.", "time": "2026-06-13" },
+        { "title": "Oil prices rise on Middle East tensions", "summary": "Oil prices climbed as markets assess the impact of renewed geopolitical tensions in the Middle East.", "time": "2026-06-13" },
+        { "title": "Fed signals potential rate cut as inflation moderates", "summary": "Federal Reserve officials signaled a potential interest rate cut later this year as inflation moderates.", "time": "2026-06-13" },
+        { "title": "Global renewable energy investment hits record $500 billion", "summary": "Global investment in renewable energy reached a record $500 billion in Q2 2026.", "time": "2026-06-13" }
       ]
     },
     {
       "name": "联合早报",
-      "url": "http://www.zaobao.com",
+      "url": "https://www.zaobao.com.sg",
       "items": [
-        {
-          "title": "东南亚数字经济报告：区域互联网经济规模突破3000亿美元",
-          "url": "http://www.zaobao.com/finance/20260613/sea-digital",
-          "summary": "最新发布的东南亚数字经济报告显示，区域互联网经济规模突破3000亿美元，电商和数字金融为主要增长动力。",
-          "time": "2026-06-13"
-        },
-        {
-          "title": "中美防长在新加坡举行会晤",
-          "url": "http://www.zaobao.com/singapore/20260613/defence-meeting",
-          "summary": "中美两国国防部长在新加坡举行的香格里拉对话会期间举行会晤，就双边关系及地区安全议题交换意见。",
-          "time": "2026-06-13"
-        },
-        {
-          "title": "世界杯带动东南亚旅游热潮",
-          "url": "http://www.zaobao.com/travel/20260613/worldcup-travel",
-          "summary": "美加墨世界杯带动东南亚赴美旅游热潮，航班预订量较去年同期增长约45%。",
-          "time": "2026-06-13"
-        }
+        { "title": "东南亚数字经济报告：区域互联网经济规模突破3000亿美元", "summary": "最新报告显示，东南亚互联网经济规模突破3000亿美元，电商和数字金融为主要增长动力。", "time": "2026-06-13" },
+        { "title": "中美防长在新加坡举行会晤", "summary": "中美两国国防部长在香格里拉对话会期间举行会晤，就双边关系及地区安全议题交换意见。", "time": "2026-06-13" },
+        { "title": "世界杯带动东南亚旅游热潮", "summary": "美加墨世界杯带动东南亚赴北美旅游热潮，航班预订量较去年同期增长约45%。", "time": "2026-06-13" },
+        { "title": "新加坡推出新一轮数字化转型补贴", "summary": "新加坡政府宣布推出新一轮企业数字化转型补贴计划，覆盖中小企业和传统行业。", "time": "2026-06-13" },
+        { "title": "亚太股市普遍上涨 市场情绪回暖", "summary": "亚太地区主要股市普遍收高，美联储降息预期提振投资者信心。", "time": "2026-06-13" }
       ]
     }
   ]
