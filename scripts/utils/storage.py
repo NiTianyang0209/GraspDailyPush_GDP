@@ -6,7 +6,7 @@ from pathlib import Path
 class JSONStorage:
     """Utility for reading/writing JSON data files."""
 
-    def __init__(self, base_dir: str = "../data"):
+    def __init__(self, base_dir: str = "../../docs/data"):
         self.base_dir = Path(base_dir)
 
     def read(self, path: str):
