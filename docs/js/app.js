@@ -338,8 +338,14 @@
   }
 
   // ---- Refresh ----
+  const REFRESH_COOLDOWN = 10 * 60 * 1000;
+  const REFRESH_WORKER_URL = "";  // 留空则静默重载，填入 Cloudflare Worker 地址将触发 GitHub Actions
+  const POLL_INTERVAL = 15000;
+  const POLL_TIMEOUT = 3 * 60 * 1000;
+
   var refreshInProgress = false;
   var lastRefreshTime = null;
+  var lastTriggerTime = null;
 
   function showRefreshTime() {
     var el = document.getElementById("refreshInfo");
@@ -348,15 +354,24 @@
     }
   }
 
-  async function refreshAllData() {
-    if (refreshInProgress) return;
-    refreshInProgress = true;
-    var btn = document.getElementById("refreshBtn");
-    var statusEl = document.getElementById("updateStatus");
-    btn.style.animation = "spin 0.8s linear infinite";
-    statusEl.textContent = "🔄 刷新中...";
+  function canRefresh() {
+    if (!lastTriggerTime) return true;
+    var elapsed = Date.now() - lastTriggerTime;
+    if (elapsed < REFRESH_COOLDOWN) {
+      var remain = Math.ceil((REFRESH_COOLDOWN - elapsed) / 1000 / 60);
+      return { allowed: false, remain: remain + " 分钟" };
+    }
+    return true;
+  }
 
-    // Reset tab states so re-render shows first tab
+  async function getUpdatedAt(path) {
+    try {
+      var data = await loadJSON(path);
+      return data && data.updated_at ? data.updated_at : null;
+    } catch (e) { return null; }
+  }
+
+  async function reFetchAndRender() {
     currentNewsSource = 0;
     currentHotPlatform = 0;
     currentJournalIdx = 0;
@@ -369,34 +384,101 @@
       loadJSON(DATA_BASE + "/academic/commentary.json").catch(function () { return null; })
     ]);
 
-    if (headlines) {
-      renderHeadlines(headlines);
-    } else {
-      hasError = true;
-    }
-    if (hotlists) {
-      renderHotlists(hotlists);
-    } else {
-      hasError = true;
-    }
-    if (papers) {
-      renderAcademic(papers);
-    } else {
-      hasError = true;
-    }
-    if (commentary) {
-      renderCommentary(commentary);
-    } else {
-      hasError = true;
-    }
+    if (headlines) renderHeadlines(headlines); else hasError = true;
+    if (hotlists) renderHotlists(hotlists); else hasError = true;
+    if (papers) renderAcademic(papers); else hasError = true;
+    if (commentary) renderCommentary(commentary); else hasError = true;
 
     updateTimeNotes(headlines, papers, commentary);
     loadKnowledge();
+    return hasError;
+  }
 
-    lastRefreshTime = new Date();
-    showRefreshTime();
-    statusEl.textContent = hasError ? "⚠️ 部分数据加载失败" : "✅ 数据已更新";
-    statusEl.style.color = hasError ? "#fbbf24" : "#6ee7b7";
+  async function refreshAllData() {
+    if (refreshInProgress) return;
+
+    var rateCheck = canRefresh();
+    if (rateCheck !== true) {
+      var se = document.getElementById("updateStatus");
+      se.textContent = "⏳ " + rateCheck.remain + " 后再刷新";
+      se.style.color = "#fbbf24";
+      return;
+    }
+
+    refreshInProgress = true;
+    var btn = document.getElementById("refreshBtn");
+    var statusEl = document.getElementById("updateStatus");
+    btn.style.animation = "spin 0.8s linear infinite";
+
+    // 未配置 Worker → 静默重载（仅重新拉取静态数据）
+    if (!REFRESH_WORKER_URL) {
+      statusEl.textContent = "🔄 重新加载...";
+      var h = await reFetchAndRender();
+      lastRefreshTime = new Date();
+      showRefreshTime();
+      statusEl.textContent = h ? "⚠️ 部分数据加载失败" : "✅ 数据已更新";
+      statusEl.style.color = h ? "#fbbf24" : "#6ee7b7";
+      btn.style.animation = "";
+      refreshInProgress = false;
+      return;
+    }
+
+    // 记录旧数据指纹
+    var oldNews = await getUpdatedAt(DATA_BASE + "/news/headlines.json");
+    var oldHot = await getUpdatedAt(DATA_BASE + "/news/hotlists.json");
+    var oldPapersLen = null;
+    try {
+      var p = await loadJSON(DATA_BASE + "/academic/papers_index.json");
+      if (p) oldPapersLen = p.length;
+    } catch (e) {}
+
+    statusEl.textContent = "📡 正在触发抓取...";
+    lastTriggerTime = Date.now();
+    localStorage.setItem("gdp_last_trigger", String(lastTriggerTime));
+
+    try {
+      var resp = await fetch(REFRESH_WORKER_URL, { method: "POST" });
+      var result = await resp.json();
+      var triggered = result && result.status === "triggered";
+      statusEl.textContent = triggered ? "⏳ 等待数据更新..." : "⚠️ 部分抓取触发失败，继续等待...";
+      statusEl.style.color = triggered ? "#6ee7b7" : "#fbbf24";
+
+      // 轮询检测数据是否已更新
+      var deadline = Date.now() + POLL_TIMEOUT;
+      var updated = false;
+      while (Date.now() < deadline) {
+        await new Promise(function (r) { setTimeout(r, POLL_INTERVAL); });
+        var newNews = await getUpdatedAt(DATA_BASE + "/news/headlines.json");
+        var newHot = await getUpdatedAt(DATA_BASE + "/news/hotlists.json");
+        var newPapersLen = null;
+        try {
+          var p2 = await loadJSON(DATA_BASE + "/academic/papers_index.json");
+          if (p2) newPapersLen = p2.length;
+        } catch (e) {}
+        if ((newNews && newNews !== oldNews) || (newHot && newHot !== oldHot) || (newPapersLen !== null && newPapersLen !== oldPapersLen)) {
+          statusEl.textContent = "📥 检测到新数据，正在加载...";
+          updated = true;
+          break;
+        }
+      }
+
+      var hasError = await reFetchAndRender();
+      lastRefreshTime = new Date();
+      showRefreshTime();
+      var msg = updated ? "✅ 数据已更新" : "⏰ 当前数据已加载";
+      if (hasError) msg = "⚠️ 部分数据加载失败";
+      statusEl.textContent = msg;
+      statusEl.style.color = hasError ? "#fbbf24" : "#6ee7b7";
+
+    } catch (err) {
+      console.error("Refresh trigger error:", err);
+      statusEl.textContent = "❌ 刷新请求失败";
+      statusEl.style.color = "#fca5a5";
+      await reFetchAndRender();
+      lastRefreshTime = new Date();
+      showRefreshTime();
+    }
+
     btn.style.animation = "";
     refreshInProgress = false;
   }
@@ -450,6 +532,7 @@
       initVisitCounter();
 
       lastRefreshTime = new Date();
+      lastTriggerTime = parseInt(localStorage.getItem("gdp_last_trigger") || "0", 10);
       showRefreshTime();
       statusEl.textContent = hasError ? "⚠️ 部分数据加载失败" : "✅ 数据已更新";
       statusEl.style.color = hasError ? "#fbbf24" : "#6ee7b7";
