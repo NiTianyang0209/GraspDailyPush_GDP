@@ -1,7 +1,8 @@
-﻿"""Hotlists Scraper - Phase 2: Baidu/Zhihu/Weibo/Toutiao/Tieba."""
+﻿"""Hotlists Scraper - Phase 2: real-time data with clickable URLs."""
 import json
 import re
 import sys
+import urllib.parse
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -27,14 +28,27 @@ HEADERS = {
 }
 
 
+def _search_url(platform, keyword):
+    """Generate a search/topic URL for a given platform and keyword."""
+    q = urllib.parse.quote(keyword)
+    urls = {
+        "baidu": "https://www.baidu.com/s?wd=" + q,
+        "weibo": "https://s.weibo.com/weibo?q=" + q + "&type=hot",
+        "zhihu": "https://www.zhihu.com/search?type=content&q=" + q,
+        "toutiao": "https://www.toutiao.com/search/?keyword=" + q,
+        "tieba": "https://tieba.baidu.com/f?kw=" + q,
+    }
+    return urls.get(platform, "")
+
+
 def fetch_baidu():
-    """Scrape Baidu Hot Search (works as of 2025)."""
+    """Baidu Hot Search with real data and URLs."""
     url = "https://top.baidu.com/board?tab=realtime"
     try:
         resp = requests.get(url, headers=HEADERS, timeout=15)
         resp.encoding = "utf-8"
     except Exception as e:
-        print(f"  Baidu request failed: {e}")
+        print(f"    Request failed: {e}")
         return []
 
     items = []
@@ -47,9 +61,14 @@ def fetch_baidu():
             title = title_el.get_text(strip=True)
             heat_el = div.select_one(".hot-index_1Bl1a")
             heat = heat_el.get_text(strip=True) if heat_el else ""
-            items.append({"rank": i + 1, "title": title, "heat": heat})
+            items.append({
+                "rank": i + 1,
+                "title": title,
+                "heat": heat,
+                "url": _search_url("baidu", title),
+            })
     except Exception as e:
-        print(f"  Baidu parse failed: {e}")
+        print(f"    Parse failed: {e}")
 
     if not items:
         try:
@@ -61,111 +80,114 @@ def fetch_baidu():
                     for content in card.get("content", []):
                         word = content.get("word", "")
                         if word:
-                            idx = len(items) + 1
                             items.append({
-                                "rank": idx,
+                                "rank": len(items) + 1,
                                 "title": word,
-                                "heat": content.get("hotScore", ""),
+                                "heat": str(content.get("hotScore", "")),
+                                "url": _search_url("baidu", word),
                             })
         except Exception as e:
-            print(f"  Baidu JSON fallback failed: {e}")
+            print(f"    JSON fallback failed: {e}")
 
     return items
 
 
 def fetch_weibo():
-    """Scrape Weibo Hot Search (likely blocked)."""
-    url = "https://s.weibo.com/top/summary/"
+    """Weibo Hot Search via internal API."""
+    api_headers = {
+        "User-Agent": HEADERS["User-Agent"],
+        "Accept": "application/json, text/plain, */*",
+        "Referer": "https://weibo.com",
+    }
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.encoding = "utf-8"
+        resp = requests.get(
+            "https://weibo.com/ajax/side/hotSearch",
+            headers=api_headers,
+            timeout=15,
+        )
     except Exception as e:
-        print(f"  Weibo request failed: {e}")
+        print(f"    Request failed: {e}")
         return []
 
     items = []
     try:
-        soup = BeautifulSoup(resp.text, "lxml")
-        for tr in soup.select("tbody tr"):
-            tds = tr.select("td")
-            if len(tds) < 2:
+        data = resp.json()
+        realtime = data.get("data", {}).get("realtime", [])
+        for entry in realtime:
+            word = entry.get("word", "")
+            if not word:
                 continue
-            rank_el = tds[0].select_one(".rank")
-            if not rank_el:
-                continue
-            rank_text = rank_el.get_text(strip=True)
-            if not rank_text.isdigit():
-                continue
-            title_el = tds[1].select_one("a")
-            if not title_el:
-                continue
-            title = title_el.get_text(strip=True)
-            heat_el = tds[1].select_one("span")
-            heat = heat_el.get_text(strip=True) if heat_el else ""
-            items.append({"rank": int(rank_text), "title": title, "heat": heat})
+            num = entry.get("num", 0)
+            label = entry.get("label_name", "")
+            heat = str(num) if num else label
+            items.append({
+                "rank": len(items) + 1,
+                "title": word,
+                "heat": heat,
+                "url": _search_url("weibo", word),
+            })
     except Exception as e:
-        print(f"  Weibo parse failed: {e}")
+        print(f"    Parse failed: {e}")
 
     return items
 
 
 def fetch_zhihu():
-    """Scrape Zhihu Hot List (likely 403)."""
-    url = "https://www.zhihu.com/hot"
+    """Zhihu Hot List (likely 401, fallback to cached)."""
+    api_headers = {
+        "User-Agent": HEADERS["User-Agent"],
+        "Referer": "https://www.zhihu.com",
+    }
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.encoding = "utf-8"
+        resp = requests.get(
+            "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50",
+            headers=api_headers,
+            timeout=15,
+        )
     except Exception as e:
-        print(f"  Zhihu request failed: {e}")
+        print(f"    Request failed: {e}")
         return []
 
     items = []
     try:
-        soup = BeautifulSoup(resp.text, "lxml")
-        for a in soup.select('a[href*="question/"]'):
-            title_el = a.select_one(".HotList-itemTitle")
-            if title_el:
-                title = title_el.get_text(strip=True)
-                if title:
-                    items.append({"rank": len(items) + 1, "title": title, "heat": ""})
+        data = resp.json()
+        for entry in data.get("data", []):
+            target = entry.get("target", {})
+            title = (
+                target.get("title", "")
+                or target.get("question", {}).get("title", "")
+            )
+            if not title:
+                continue
+            qid = target.get("id", "") or target.get("question", {}).get("id", "")
+            url = "https://www.zhihu.com/question/" + str(qid) if qid else _search_url("zhihu", title)
+            items.append({
+                "rank": len(items) + 1,
+                "title": title,
+                "heat": str(entry.get("detail_text", "")),
+                "url": url,
+            })
     except Exception as e:
-        print(f"  Zhihu parse failed: {e}")
+        print(f"    Parse failed: {e}")
 
     return items
 
 
 def fetch_toutiao():
-    """Scrape Toutiao Hot Events (likely blocked)."""
-    url = "https://www.toutiao.com/hot-event/"
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.encoding = "utf-8"
-    except Exception as e:
-        print(f"  Toutiao request failed: {e}")
-        return []
-
-    items = []
-    try:
-        soup = BeautifulSoup(resp.text, "lxml")
-        for div in soup.select(".hot-list-item"):
-            title_el = div.select_one(".title")
-            if title_el:
-                title = title_el.get_text(strip=True)
-                items.append({"rank": len(items) + 1, "title": title, "heat": ""})
-    except Exception as e:
-        print(f"  Toutiao parse failed: {e}")
-
-    return items
+    """Toutiao Hot Events (likely blocked)."""
+    return []
 
 
 def fetch_tieba():
-    """Scrape Baidu Tieba Hot Topics."""
-    url = "https://tieba.baidu.com/hottopic/browse/topicList"
+    """Tieba Hot Topics."""
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.encoding = "utf-8"
+        resp = requests.get(
+            "https://tieba.baidu.com/hottopic/browse/topicList",
+            headers=HEADERS,
+            timeout=15,
+        )
     except Exception as e:
-        print(f"  Tieba request failed: {e}")
+        print(f"    Request failed: {e}")
         return []
 
     items = []
@@ -173,13 +195,18 @@ def fetch_tieba():
         data = resp.json()
         topics = data.get("data", {}).get("topicList", [])
         for i, topic in enumerate(topics):
+            name = topic.get("topicName", "")
+            if not name:
+                continue
+            topic_url = topic.get("topicUrl", "") or _search_url("tieba", name)
             items.append({
                 "rank": i + 1,
-                "title": topic.get("topicName", ""),
+                "title": name,
                 "heat": str(topic.get("discussNum", "")),
+                "url": topic_url,
             })
     except Exception as e:
-        print(f"  Tieba parse failed: {e}")
+        print(f"    Parse failed: {e}")
 
     return items
 
@@ -194,13 +221,6 @@ FETCHERS = {
 
 
 def main():
-    config = load_config()
-    hotlists_cfg = {}
-    for h in config.get("news", {}).get("hotlists", []):
-        platform = h.get("platform")
-        if platform:
-            hotlists_cfg[platform] = h
-
     existing_data = storage.read("news/hotlists.json") or {}
     existing_platforms = {p["name"]: p for p in existing_data.get("platforms", [])}
 
@@ -217,10 +237,15 @@ def main():
             print(f"  Got {len(items)} items")
             platforms.append({"name": name, "items": items})
         elif name in existing_platforms:
-            print(f"  Using cached data ({len(existing_platforms[name]['items'])} items)")
-            platforms.append(existing_platforms[name])
+            old_items = existing_platforms[name]["items"]
+            # Add URLs to cached items that lack them
+            for x in old_items:
+                if "url" not in x:
+                    x["url"] = _search_url(key, x["title"])
+            print(f"  Using cached data ({len(old_items)} items)")
+            platforms.append({"name": name, "items": old_items})
         else:
-            print(f"  No data available (blocked)")
+            print(f"  No data available")
 
     data = {
         "updated_at": datetime.now(CST).strftime("%Y-%m-%dT%H:%M:%S+08:00"),
@@ -229,11 +254,6 @@ def main():
 
     storage.write("news/hotlists.json", data)
     print(f"\nSaved {len(platforms)} platforms to hotlists.json")
-
-
-def load_config():
-    with open(CONFIG_PATH, "r", encoding="utf-8") as f:
-        return yaml.safe_load(f)
 
 
 if __name__ == "__main__":

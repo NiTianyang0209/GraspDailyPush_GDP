@@ -137,10 +137,14 @@
       if (item.rank <= 1) rankClass += " top-1";
       else if (item.rank <= 2) rankClass += " top-2";
       else if (item.rank <= 3) rankClass += " top-3";
+      var hotUrl = item.url || "";
+      var titleHtml = hotUrl
+        ? "<a class=\"hot-title-link\" href=\"" + escapeHtml(hotUrl) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(item.title) + "</a>"
+        : "<span class=\"title\">" + escapeHtml(item.title) + "</span>";
       return [
         "<div class=\"hot-item\">",
         "  <span class=\"" + rankClass + "\">" + escapeHtml(String(item.rank)) + "</span>",
-        "  <span class=\"title\">" + escapeHtml(item.title) + "</span>",
+        "  " + titleHtml,
         (item.heat ? "  <span class=\"heat\">" + escapeHtml(item.heat) + "</span>" : ""),
         "</div>"
       ].join("\n");

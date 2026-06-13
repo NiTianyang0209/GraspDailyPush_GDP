@@ -134,6 +134,14 @@ body {
 .hot-item .rank.top-2 { background: #f97316; color: #fff; }
 .hot-item .rank.top-3 { background: #eab308; color: #fff; }
 .hot-item .title { flex: 1; }
+.hot-title-link {
+  flex: 1;
+  color: #1a1a2e;
+  text-decoration: none;
+  font-size: 13px;
+  transition: color 0.15s;
+}
+.hot-title-link:hover { color: #2563eb; text-decoration: underline; }
 .hot-item .heat { font-size: 11px; color: #8892a4; flex-shrink: 0; }
 
 /* Tab Bar */
