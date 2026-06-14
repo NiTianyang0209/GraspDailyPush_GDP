@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T22:42:09+08:00",
+  "updated_at": "2026-06-15T04:06:16+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
@@ -8,6 +8,12 @@
         {
           "title": "王毅同蒙古国外长巴特策策格会谈",
           "url": "http://politics.people.com.cn/n1/2026/0614/c1001-40739968.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "联合新闻公报",
+          "url": "https://world.people.com.cn/n1/2026/0615/c1002-40740059.html",
           "summary": "",
           "time": ""
         },
@@ -58,12 +64,6 @@
           "url": "http://tw.people.com.cn/n1/2026/0614/c14657-40739767.html",
           "summary": "",
           "time": ""
-        },
-        {
-          "title": "去年全国活跃数据总量同比增28.46%",
-          "url": "http://finance.people.com.cn/n1/2026/0614/c1004-40739751.html",
-          "summary": "",
-          "time": ""
         }
       ]
     },
@@ -72,8 +72,8 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "王毅谈中蒙关系：坚定做相互信任、相互支持的好邻居、好伙伴",
-          "url": "https://www.news.cn/politics/leaders/20260614/ba70011bbc5e4f7ebb8d4923797b237f/c.html",
+          "title": "中华人民共和国和蒙古国外交部长会谈联合新闻公报",
+          "url": "https://www.news.cn/politics/leaders/20260615/b187693206e2473ab2943ead4ba72b5f/c.html",
           "summary": "",
           "time": ""
         },
