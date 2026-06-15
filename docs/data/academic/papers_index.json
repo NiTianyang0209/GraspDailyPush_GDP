@@ -23,7 +23,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-9",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-9-Tracking-U-S--Liquefied-Natural-Gas-Supp",
@@ -52,7 +52,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-9",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-8-Madrid-and-the-art-of-cities",
@@ -71,7 +71,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-8",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-8-A-clearer-picture-of-who-lives-in-the-wo",
@@ -88,7 +88,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-8",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-6-8-Book-Review--Rescission-of-the-Greenhous",
@@ -129,7 +129,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-5",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-5-Ideological-divides-soften-near-home",
@@ -148,7 +148,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-5",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-6-5-Parameter-recovery-using-remotely-sensed",
@@ -260,6 +260,119 @@
     "is_new": false
   },
   {
+    "id": "ES&T-2026-6-13-Mapping-the-Invisible-Landscape-of-Pesti",
+    "title": "Mapping the Invisible Landscape of Pesticides and Adjuvants in Peri-Urban Agricultural Waterways of the Megacity Shanghai",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Lingzhi Cao",
+      "Jingsheng Wang",
+      "Yanbin Zhao",
+      "Shuping Zheng",
+      "Rui Pan",
+      "Ruiqi An",
+      "Xuhui Yue",
+      "Yifan Wang",
+      "Jianan Li",
+      "Yan Liu",
+      "Jie Wang",
+      "Peng Wang",
+      "Yangmei Mo",
+      "Ning Pan",
+      "Haochun Shi",
+      "Jiayin Dai",
+      "Kun Zhang"
+    ],
+    "doi": "10.1021/acs.est.6c02355",
+    "link": "https://doi.org/10.1021/acs.est.6c02355",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-13",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-6-13-Unveiling-a-Novel-Phosphorus-Mediated-St",
+    "title": "Unveiling a Novel Phosphorus-Mediated Strategy for Perfluorocarboxylate (PFCA) Defluorination via a VUV/Hypophosphite System: Phosphorus Evolution, Pathway, and Mechanisms",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Changlan Hou",
+      "Mingtong Zhang",
+      "Liming Liu",
+      "Cheng Huang",
+      "Duo Sun",
+      "Hongkui He",
+      "Ruixi Huang",
+      "Xiyue Wang",
+      "Mengxin Sun",
+      "Xue Sun",
+      "Jian Hu",
+      "Yunbo Zhai"
+    ],
+    "doi": "10.1021/acs.est.6c00301",
+    "link": "https://doi.org/10.1021/acs.est.6c00301",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-13",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-6-13-Nitrate-Photolysis--An-Overlooked-Factor",
+    "title": "Nitrate Photolysis: An Overlooked Factor in Atmospheric Brown Carbon Photobleaching",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Yanting Qiu",
+      "Tao Qiu",
+      "Lulu Xu",
+      "Yuechen Liu",
+      "Ruiqi Man",
+      "Yiran Peng",
+      "Dapeng Liang",
+      "Zhijun Wu",
+      "Min Hu"
+    ],
+    "doi": "10.1021/acs.est.6c03252",
+    "link": "https://doi.org/10.1021/acs.est.6c03252",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-13",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-6-13-The-Global-Ocean-Selenium-Cycle-Shaped-b",
+    "title": "The Global Ocean Selenium Cycle Shaped by Phytoplankton Uptake and Community Structure",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Peipei Wu",
+      "Gregory A. Cutter",
+      "Amina T. Schartup"
+    ],
+    "doi": "10.1021/acs.est.6c06030",
+    "link": "https://doi.org/10.1021/acs.est.6c06030",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-13",
+    "is_new": true
+  },
+  {
     "id": "NATU-2026-6-12-Connecting-the-general-and-particular-in",
     "title": "Connecting the general and particular in interdisciplinary urban research",
     "journal": "Nature Cities",
@@ -327,7 +440,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Hypophosphite-Is-a-Naturally-Occurring-S",
@@ -363,7 +476,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Multimodal-Machine-Learning-Models-on-Aq",
@@ -388,7 +501,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Probabilistic-Concentration-Response-Mod",
@@ -410,7 +523,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Macroscopic-and-Microscopic-Flow-Charact",
@@ -433,7 +546,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12--i-In-Situ--i----------------------Mesoc",
@@ -457,7 +570,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Microbial-Associated-Food-Web-Trophic-Tr",
@@ -486,7 +599,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Polyurethane-Foam-Wristbands-as-Personal",
@@ -513,7 +626,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Associations-of-Exposure-to-Common-Plast",
@@ -544,7 +657,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Desorption-of-Phosphate-from-Iron-Bearin",
@@ -565,7 +678,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-From-Carbon-to-Plastics--Partitioning-of",
@@ -589,7 +702,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Interaction-between-Per--and-Polyfluoroa",
@@ -615,7 +728,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Interfacial-Polycondensation-Kinetics-Re",
@@ -640,7 +753,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Dipole-Spin-Synergy-in-PdO-YMn----------",
@@ -667,7 +780,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Atmospheric-Nitrogen-Containing-Organic-",
@@ -697,7 +810,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-12-Exploring-Molecular-Dynamics-and-Structu",
@@ -719,7 +832,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "REEP-2026-6-12-Sustainable-Aviation-Fuels-for-Decarboni",
@@ -788,7 +901,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-11",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-11-Transcending-Structural-Dependencies--A-",
@@ -816,7 +929,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-11",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-11-Microbial-Strategies-Mediated-by-Diverse",
@@ -845,7 +958,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-11",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-11-Photothermal-Coupled-Catalytic-Water-Dec",
@@ -872,7 +985,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-11",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-11-AOP-Research-in-Overdrive--The-Rise-and-",
@@ -892,7 +1005,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-11",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-11-Electrochemical-Lithium-Recovery-and-Mag",
@@ -921,7 +1034,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-11",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-10-Digging-into-the-costs-of-urban-soil-reh",
@@ -944,7 +1057,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-10",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-10-Roads-less-traveled-converge-at-Bloomber",
@@ -963,7 +1076,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-10",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-10-Enhanced-Environmental-PFAS-Characteriza",
@@ -987,7 +1100,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-10",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-10-Increasing-Sea-Surface-Temperature-Suppr",
@@ -1009,7 +1122,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-10",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-10-Proton-Stress-Adaptation-in-Acidophilic-",
@@ -1034,7 +1147,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-10",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-10-Tracing-U-S--Fuel-Life-Cycle-Greenhouse-",
@@ -1055,7 +1168,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-10",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-10-Integrative-Proteomic-and-In-Silico-Anal",
@@ -1088,7 +1201,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-10",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-10-Effects-of-Iron-Organic-Matter-Colloids-",
@@ -1115,7 +1228,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-10",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-10-Emissions-of-Amines-and-Their-Derivative",
@@ -1151,7 +1264,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-10",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-1-Cities-as-underexplored-actors-in-marine",
@@ -1170,7 +1283,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-1-From-slaughterhouse-to-cultural-engine",
@@ -1189,7 +1302,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-6-Tax-Progressivity-of-Carbon-and-Gasoline",
@@ -1209,7 +1322,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-6-Population-Ageing-and-the-Environment--A",
@@ -1230,7 +1343,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-6-Introducing-and-Terminating-Monetary-Inc",
@@ -1251,7 +1364,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-6-The-Green-Peace-Dividend--The-Effects-of",
@@ -1270,7 +1383,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-6-Realtor-Forecasting-Accuracy-on-Homebuye",
@@ -1293,7 +1406,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-6-Harnessing-Social-Information-to-Improve",
@@ -1313,7 +1426,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-6-Adjacency-Externality-and-the-Timing-of-",
@@ -1335,7 +1448,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-5-7-The-potential-of-Carbon-Border-Adjustmen",
@@ -1444,7 +1557,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-28",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-5-28-Strong-demand-for-clean-air-policies-in-",
@@ -1469,7 +1582,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-28",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-5-26-Global-divergence-in-urban-demographic-c",
@@ -1491,7 +1604,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-26",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-5-25-Bridging-urban-and-rural-futures",
@@ -1510,7 +1623,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-25",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-5-22-Tension-between-spatial-pattern-and-hydr",
@@ -1540,7 +1653,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-22",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-5-21-Tensions-around-urban-green-and-blue-spa",
@@ -1557,7 +1670,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-21",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-5-19-Scaling-intra-urban-climate-fluctuations",
@@ -1578,7 +1691,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-19",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-5-19-Unequal-spatial-patterns-and-differentia",
@@ -1600,7 +1713,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-19",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-5-19-Farewell--elephant-slide",
@@ -1619,7 +1732,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-19",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-5-15-The-Impact-of-Offshoring-and-Import-Comp",
@@ -1726,7 +1839,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-5-11-Global-mapping-of-city-level-economic-gr",
@@ -1751,7 +1864,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-11",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-5-11-Data-centric-monitoring-for-safe-urban-w",
@@ -1771,7 +1884,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5-11",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-5-1-Downwind-and-Out--The-Strategic-Dispersi",
@@ -1972,7 +2085,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-5",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-5-Book-Review--A-Modern-Guide-to-Energy-Ec",
@@ -2243,7 +2356,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4-28",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-4-28-Tracking-delivery-emissions-to-decarboni",
@@ -2263,7 +2376,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4-28",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-4-27-Crossing-the-abyss-between-exile-and-dea",
@@ -2282,7 +2395,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4-27",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-4-24-Rapid-earnings-growth-in-finance-concent",
@@ -2323,7 +2436,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-4-22-Patterns-that-divide-and-endure",
@@ -2340,7 +2453,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4-22",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-4-22-A-city-behind-closed-windows",
@@ -2359,7 +2472,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4-22",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-4-21-Strengthening-the-civic-capacity-of-the-",
@@ -2383,7 +2496,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4-21",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-4-17-Visible-expressions-of-Islam-in-public-s",
@@ -2405,7 +2518,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-4-17-Urban-wetlands-as-hotspots-of-antibiotic",
@@ -2431,7 +2544,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-Emission-Taxes-and-the-Nexus-Between-Tec",
@@ -2451,7 +2564,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-Rebating-Revenues-from-Unilateral-Emissi",
@@ -2472,7 +2585,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-The-Unintended-Consequences-of-Environme",
@@ -2492,7 +2605,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-Focused-Enforcement-to-Improve-Complianc",
@@ -2512,7 +2625,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-Timing-of-Environmental-Regulation-and-t",
@@ -2534,7 +2647,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-Climate-Intervention-and-Mitigation--Str",
@@ -2555,7 +2668,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-Production-Method-and-Product-Quality-in",
@@ -2575,7 +2688,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-Estimating-the-Effects-of-Climate-Variab",
@@ -2597,7 +2710,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-Illegal-Migration-and-Weather-Shocks--Ev",
@@ -2617,7 +2730,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-The-Impacts-of-Environmental-Policy-on-I",
@@ -2638,7 +2751,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-Double-Taxation-Treaties-with-the-United",
@@ -2658,7 +2771,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-4-Towards-Distributional-Ecosystem-Account",
@@ -2677,7 +2790,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-3-Assessing-Omitted-Variable-Bias-in-Ricar",
@@ -2699,7 +2812,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-3",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-3-Relocation-of-Toxic-Releasing-Facilities",
@@ -2721,7 +2834,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-3",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-3-Environmental-Regulation--Firm-Heterogen",
@@ -2741,7 +2854,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-3",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-3-Effect-of-a-Policy-Intervention-to-Stimu",
@@ -2761,7 +2874,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-3",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-3-How-Important-are-IEAs-for-Mitigation-if",
@@ -2781,7 +2894,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-3",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-3-A--Green--Switch-in-Time-Saves-Nine--Ass",
@@ -2802,7 +2915,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-3",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-2-Understanding-Non-Compliance-with-Rights",
@@ -2825,7 +2938,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-2-Occupational-Heat-Stress-and-Employment-",
@@ -2845,7 +2958,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-2-Sectoral-Cost-Benefit-Analysis-for-Clean",
@@ -2868,7 +2981,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-2-What-We-Know-Shapes-What-We-Grow--Enviro",
@@ -2887,7 +3000,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "REEP-2026-1-1-Consideration-of-Environmental-Justice-i",
@@ -6576,6 +6689,172 @@
     "is_new": false
   },
   {
+    "id": "JEEM-0000-The-impact-of-wildfire-smoke-on-local-av",
+    "title": "The impact of wildfire smoke on local avian biodiversity",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Sarah Meier",
+      "Eric Strobl"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626000999?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "JEEM-0000-Dynamically-optimized-sequential-WTP-eli",
+    "title": "Dynamically optimized sequential WTP elicitation: Application to the age and VSL relationship",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Yohei Mitani",
+      "Ao Liu",
+      "Henrik Lindhjem"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626000951?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Climate-policy-in-the-shadows--Investiga",
+    "title": "Climate policy in the shadows: Investigate the unintended consequences of uncertainty on green innovation vitality in China",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Xu Guo",
+      "Muhammad Shahbaz",
+      "Andreas Kontoleon",
+      "Zixuan Jia"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003191?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Renewable--fossil-fuel--and-nuclear-ener",
+    "title": "Renewable, fossil fuel, and nuclear energy responses to global shocks: Lessons from China and the United States",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Luccas Assis Attílio",
+      "Emilson C.D. Silva"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003312?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Smart-meters-and-energy-poverty--Uninten",
+    "title": "Smart meters and energy poverty: Unintended consequences of precision monitoring",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Wanying Zhao",
+      "Xuemei Zheng"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003257?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Energy-efficiency-and-energy-rebound-acr",
+    "title": "Energy efficiency and energy rebound across heterogeneous technologies: A global analysis",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Bless Kofi Edziah",
+      "Andrius Kazukauskas",
+      "Philip Kofi Adom"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003233?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Environmental-policy-stringency-and-wind",
+    "title": "Environmental policy stringency and wind power investment: Evidence on policy design and institutional heterogeneity",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Zhenhua Jia",
+      "Jinke Li",
+      "Jing Shao"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003208?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Policy-portfolios-shaping-hydrogen-produ",
+    "title": "Policy portfolios shaping hydrogen production pathways and regional deployment in China",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Bohan Zhu",
+      "Jingjing Fan",
+      "Jianliang Wang"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003666?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
     "id": "ENER-0000-Beyond-one-size-fits-all--Exploring-hete",
     "title": "Beyond one-size-fits-all: Exploring heterogeneity in the uptake of energy-efficient renovation among Austrian homeowners",
     "journal": "Energy Policy",
@@ -6595,7 +6874,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Values-and-emotions-as-drivers-of-electr",
@@ -6617,7 +6896,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JEEM-0000-Cost-effective-and-equitable-targeting-o",
