@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-24T23:18:47+08:00",
+  "updated_at": "2026-06-25T04:17:56+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "金融法草案提请全国人大常委会会议初次审议",
-          "url": "http://politics.people.com.cn/n1/2026/0624/c1001-40746620.html",
+          "title": "王毅同巴基斯坦副总理兼外长达尔通电话",
+          "url": "http://politics.people.com.cn/n1/2026/0624/c1001-40746856.html",
           "summary": "",
           "time": ""
         },
@@ -72,6 +72,12 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
+          "title": "王毅同巴基斯坦副总理兼外长达尔通电话",
+          "url": "https://www.news.cn/politics/leaders/20260624/6a96b4512ee64b5a8340677b23081104/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "全国政协常委会会议热议高质量发展",
           "url": "https://www.news.cn/politics/20260624/bfec56867d93428aa71589de0a20fd92/c.html",
           "summary": "",
@@ -86,12 +92,6 @@
         {
           "title": "人民法院设立1300余个综合性生态环境司法保护地",
           "url": "https://www.news.cn/legal/20260624/61bf6ec25a0b415783e94d22d9438afe/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "5月全国查处违反中央八项规定精神问题24513起",
-          "url": "https://www.news.cn/legal/20260624/fb4a16690f864d2693acff5f03c09a1c/c.html",
           "summary": "",
           "time": ""
         },
