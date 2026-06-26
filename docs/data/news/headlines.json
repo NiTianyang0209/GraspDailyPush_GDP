@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T12:50:07+08:00",
+  "updated_at": "2026-06-26T17:58:34+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
@@ -30,8 +30,8 @@
           "time": ""
         },
         {
-          "title": "推动民族团结进步促进法高质量实施",
-          "url": "http://society.people.com.cn/n1/2026/0626/c1008-40747689.html",
+          "title": "中方将向委内瑞拉提供紧急人道主义援助",
+          "url": "http://world.people.com.cn/n1/2026/0626/c1002-40748350.html",
           "summary": "",
           "time": ""
         },
@@ -48,12 +48,6 @@
           "time": ""
         },
         {
-          "title": "青海省委书记：以正确政绩观推进中国式现代化青海实践",
-          "url": "http://politics.people.com.cn/n1/2026/0626/c461001-40747710.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "评论丨变“旧账”为发展增量",
           "url": "http://opinion.people.com.cn/n1/2026/0626/c461529-40747684.html",
           "summary": "",
@@ -64,6 +58,12 @@
           "url": "http://society.people.com.cn/n1/2026/0626/c1008-40748141.html",
           "summary": "",
           "time": ""
+        },
+        {
+          "title": "三名小哥用行动回答入党三问",
+          "url": "http://society.people.com.cn/n1/2026/0626/c1008-40747713.html",
+          "summary": "",
+          "time": ""
         }
       ]
     },
@@ -72,32 +72,26 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "两部门就养老服务师职业资格制度出台暂行规定",
-          "url": "https://www.news.cn/politics/20260626/e036f6db014447a2a48fb5693ec94b8d/c.html",
+          "title": "今年第三批625亿元特别国债以旧换新资金已下达",
+          "url": "https://www.news.cn/fortune/20260626/1f7d26cb963c4dd4b4fbed484fe50d24/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "31省份高考分数线汇总",
-          "url": "https://education.news.cn/20260625/8bbcbaf9676c45129aecd537b38fdbe9/c.html",
+          "title": "“十五五”期间西电东送规模将超4.2亿千瓦",
+          "url": "https://www.news.cn/fortune/20260626/8b7ceea9d0bd4f9796b9002572451813/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "高考志愿如何选择“最优解”",
-          "url": "https://education.news.cn/20260626/4446e6254632485ea1c9a3700190ca26/c.html",
+          "title": "税务部门推“税收贡献账单”助力企业立诚信招牌",
+          "url": "https://www.news.cn/fortune/20260626/64143048e05e4ba6af2f12c172f41244/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "我国将加快推进开源体系建设",
-          "url": "https://www.news.cn/fortune/20260625/1a13799c33a745c9857888e16149105c/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "2026全球数字经济大会将呈现一场“数字盛宴”",
-          "url": "https://www.news.cn/fortune/20260625/9c2a92e9f6314a968476b5c2a8c1d176/c.html",
+          "title": "全球首个自动驾驶系统全球技术法规获批发布",
+          "url": "https://www.news.cn/tech/20260626/842c0e8cda9f4efc9faa66f2adc36abc/c.html",
           "summary": "",
           "time": ""
         },
@@ -108,20 +102,26 @@
           "time": ""
         },
         {
-          "title": "汛期雨多，这些农业气象灾害风险需警惕",
-          "url": "https://www.news.cn/politics/20260626/6512b336ba1348498ced4c12896bdd6f/c.html",
+          "title": "兰州大学：28个跨学科创新班招生",
+          "url": "https://education.news.cn/20260626/8a63a03df8734a2a8848d06928871e15/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "这里的三等功，多到上不了墙",
-          "url": "https://www.news.cn/politics/20260626/612be67e2fe44782a414fb10c623d6e0/c.html",
+          "title": "新闻分析：来之不易的夏粮丰收，背后原因几何",
+          "url": "https://www.news.cn/fortune/20260626/a11c1732fdda47a3a180f95ebb937b5e/c.html",
           "summary": "",
           "time": ""
         },
         {
           "title": "全民反诈在行动丨多一句提醒，多一道防线",
           "url": "https://www.news.cn/legal/20260626/89ff0d458ba34f45be9c1230863c602c/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "我国科学家揭开人类造血起源之谜",
+          "url": "https://www.news.cn/tech/20260626/8d408338da414d299e59511fefe27f9b/c.html",
           "summary": "",
           "time": ""
         },
@@ -139,13 +139,13 @@
       "items": [
         {
           "title": "习近平会见柬埔寨人民党主席洪森",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202606/t20260626_3053945.shtml",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202606/t20260626_3053995.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "上半年经济运行：物价温和回升 供需循环改善",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3052773.shtml",
+          "title": "市场监管总局就维护市场公平竞争与7家企业座谈",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3054323.shtml",
           "summary": "",
           "time": ""
         },
@@ -156,26 +156,26 @@
           "time": ""
         },
         {
-          "title": "人工智能成为夏季达沃斯论坛热点",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3052495.shtml",
+          "title": "数智中国丨AI企业“一把手”畅谈产业链数智之变",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3054424.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "多地\"上新\"暑期文旅消费支持政策 \"亲子游\"受青睐",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3052700.shtml",
+          "title": "注册会计师法完成修改 压实“看门人”职责",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3054175.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "养老服务师职业资格制度暂行规定出台",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3053804.shtml",
+          "title": "“国补”继续！第三批625亿元资金已下达",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3054186.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "\"十五五\"能源重点项目和新业态投资将超20万亿元",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3053818.shtml",
+          "title": "图解丨未来5年，超20万亿能源投资投向哪儿？",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3054331.shtml",
           "summary": "",
           "time": ""
         },
@@ -186,14 +186,14 @@
           "time": ""
         },
         {
-          "title": "手机市场强势反弹！5月国内出货大增16.5%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3052735.shtml",
+          "title": "养老服务师职业资格制度暂行规定出台",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3053804.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "以协同取代内卷 鼓励平台经济合作共赢",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3052514.shtml",
+          "title": "手机市场强势反弹！5月国内出货大增16.5%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3052735.shtml",
           "summary": "",
           "time": ""
         }
