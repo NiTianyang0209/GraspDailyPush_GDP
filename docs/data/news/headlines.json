@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-06-26T23:11:00+08:00",
+  "updated_at": "2026-06-27T04:18:01+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
+        {
+          "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆和副首相孙占托",
+          "url": "http://politics.people.com.cn/n1/2026/0626/c1001-40748523.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "国务院任免国家工作人员",
           "url": "http://politics.people.com.cn/n1/2026/0626/c461001-40748454.html",
@@ -58,12 +64,6 @@
           "url": "http://sh.people.com.cn/n2/2026/0626/c134768-41622350.html",
           "summary": "",
           "time": ""
-        },
-        {
-          "title": "何以吸引外企投资？广西打出三张“王牌”",
-          "url": "http://gx.people.com.cn/n2/2026/0626/c179464-41621707.html",
-          "summary": "",
-          "time": ""
         }
       ]
     },
@@ -71,6 +71,12 @@
       "name": "新华网·要闻聚焦",
       "url": "https://www.xinhuanet.com",
       "items": [
+        {
+          "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆和副首相孙占托",
+          "url": "https://www.news.cn/politics/leaders/20260626/0ecea39d849d442d922ed09e5788e8af/c.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "谌贻琴向上海合作组织妇女论坛开幕式发表视频致辞",
           "url": "https://www.news.cn/world/20260626/cdf7d790948f49f784b4d7b62d125d17/c.html",
@@ -98,12 +104,6 @@
         {
           "title": "国新办发布会聚焦“十五五”加快新型能源体系建设",
           "url": "https://www.news.cn/politics/20260626/11ac8b742c744e01a70fa3ac22950c56/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "事关政务移动互联网应用程序 相关国标公开征意见",
-          "url": "https://www.news.cn/politics/20260626/5f7e1e3739ed42019bfdfb1d804af7fa/c.html",
           "summary": "",
           "time": ""
         },
