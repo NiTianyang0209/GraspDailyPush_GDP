@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-06-27T12:35:16+08:00",
+  "updated_at": "2026-06-27T17:12:00+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆和副首相孙占托",
-          "url": "http://politics.people.com.cn/n1/2026/0627/c1001-40748565.html",
+          "title": "李书磊出席中国音协、中国舞协、中国杂协全代会开幕式并讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0627/c1001-40748754.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "张国清在浙江调研",
+          "url": "http://politics.people.com.cn/n1/2026/0627/c1001-40748770.html",
           "summary": "",
           "time": ""
         },
@@ -58,12 +64,6 @@
           "url": "http://ent.people.com.cn/n1/2026/0627/c1012-40748580.html",
           "summary": "",
           "time": ""
-        },
-        {
-          "title": "全球首个自动驾驶系统全球技术法规获批发布",
-          "url": "http://finance.people.com.cn/n1/2026/0627/c1004-40748587.html",
-          "summary": "",
-          "time": ""
         }
       ]
     },
@@ -78,56 +78,56 @@
           "time": ""
         },
         {
-          "title": "国新办发布会聚焦“十五五”加快新型能源体系建设",
-          "url": "https://www.news.cn/politics/20260626/11ac8b742c744e01a70fa3ac22950c56/c.html",
+          "title": "李书磊出席中国音协、中国舞协、中国杂协全代会开幕式并讲话",
+          "url": "https://www.news.cn/politics/20260627/673b6adc37c84d60b32ed901c0998ed9/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "防止大拆大建 “十五五”城市更新注重文脉保护传承",
-          "url": "https://www.news.cn/20260626/8e8ea43aa8594c568f82746d040ee1ec/c.html",
+          "title": "张国清在浙江调研时强调 强化科技创新和产业创新深度融合 全面加强质量管理增加高质量供给",
+          "url": "https://www.news.cn/politics/leaders/20260627/be8b28e182c544b7af7cb0b6cc93640f/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "《人工智能 智能体互联》系列7项国家标准发布",
-          "url": "https://www.news.cn/fortune/20260626/4f6e0dad25c84c9690293f9128b7e0ac/c.html",
+          "title": "雄安“六网”建设齐发力 夯实城市发展基底",
+          "url": "https://www.news.cn/local/20260627/d0a6fb8b02e042cebc4f4013c320f854/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "我国在聚变堆超导磁体研发领域取得新突破",
-          "url": "https://www.news.cn/tech/20260627/dd46db993e9e47d08dd6c9c55c53301c/c.html",
+          "title": "“蜂影2026”全军首届小微无人机创新运用挑战赛闭幕",
+          "url": "https://www.news.cn/tech/20260627/b4f85b89e352496aa8463264844b61ba/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "链博会闭幕 “链”接4.3万家上中下游企业",
-          "url": "https://www.news.cn/20260626/7fbfdb1f58db4122bcf4ae02c0e4c4e7/c.html",
+          "title": "西康高铁全线进入联调联试阶段",
+          "url": "https://www.news.cn/politics/20260627/3d8faf550da34044bd629e708f9561a2/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "我国首条民营控股高铁客流突破1亿人次",
-          "url": "https://www.news.cn/politics/20260627/ab94e6733559454a8b3b4cbeeb1cce5c/c.html",
+          "title": "我国算力基础设施从分散建设迈向联网调度",
+          "url": "https://www.news.cn/tech/20260627/298b5cdbbfff432abdd2b54a2441b97a/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "从包装减量到绿色配送 邮政快递业绿色转型观察",
-          "url": "https://www.news.cn/fortune/20260626/4b5dba93c0914790b720cf1caa9f6c7d/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "一组数据看我国零售业加快创新转型",
-          "url": "https://www.news.cn/fortune/20260626/d0acfb8ad4dd4eee8ae8536f569748b4/c.html",
+          "title": "留学出境高峰 警惕不法分子冒充公职人员诈骗",
+          "url": "https://www.news.cn/legal/20260627/faf798fe1d85484c8fb320562a87e628/c.html",
           "summary": "",
           "time": ""
         },
         {
           "title": "全国“安全生产月”丨遇险不慌，这些避险技巧能救命",
           "url": "https://www.news.cn/politics/20260627/180323fb583940c3a0915d62f59fffe7/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "山西省长治市政府原副市长王玉圣接受审查调查",
+          "url": "https://www.news.cn/legal/20260627/a3ab06fb3faa4f71b89303a7c8764628/c.html",
           "summary": "",
           "time": ""
         }
@@ -140,12 +140,6 @@
         {
           "title": "习近平会见孟加拉国总理塔里克",
           "url": "http://www.ce.cn/xwzx/gnsz/szyw/202606/t20260626_3053971.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "1—5月全国规模以上工业企业利润增长18.8%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260627_3055997.shtml",
           "summary": "",
           "time": ""
         },
@@ -174,14 +168,20 @@
           "time": ""
         },
         {
-          "title": "看海陆空的硬核“智造”力量",
-          "url": "http://www.ce.cn/cysc/newmain/yc/jsxw/202606/t20260626_3054177.shtml",
+          "title": "1200家，创历史新高！“链”上朋友圈越聚越大",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260627_3055930.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "我国牵头制定！首个自动驾驶全球技术法规发布",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3053928.shtml",
+          "title": "前5月全国规上工业企业利润增长18.8%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260627_3055997.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "我国首条民营控股高铁客流破亿",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260627_3056047.shtml",
           "summary": "",
           "time": ""
         },
