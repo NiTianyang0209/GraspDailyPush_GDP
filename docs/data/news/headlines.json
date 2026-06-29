@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-06-29T19:32:20+08:00",
+  "updated_at": "2026-06-30T00:23:50+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
+        {
+          "title": "王毅会见下任联合国秘书长候选人萨勒",
+          "url": "http://politics.people.com.cn/n1/2026/0629/c1001-40750217.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "三部门印发《推进农家书屋改革提升促进乡村阅读行动方案》",
           "url": "http://politics.people.com.cn/n1/2026/0629/c461001-40749483.html",
@@ -24,20 +30,14 @@
           "time": ""
         },
         {
-          "title": "两部门对宜宾高县地震启动国家地震灾害四级应急响应",
-          "url": "http://society.people.com.cn/n1/2026/0629/c1008-40749759.html",
+          "title": "七部门启动全国社会救助法宣传周活动",
+          "url": "http://politics.people.com.cn/n1/2026/0629/c461001-40750221.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "2025年我国文化产业营收规模突破20万亿元",
-          "url": "http://ent.people.com.cn/n1/2026/0629/c1012-40749694.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "3000亿元 隔夜逆回购今日落地",
-          "url": "http://finance.people.com.cn/n1/2026/0629/c1004-40749803.html",
+          "title": "电动汽车电池新国标7月落地安全门槛再升级",
+          "url": "http://finance.people.com.cn/n1/2026/0629/c1004-40750083.html",
           "summary": "",
           "time": ""
         },
@@ -48,20 +48,20 @@
           "time": ""
         },
         {
-          "title": "福建海警位金门附近海域依法开展常态执法巡查",
-          "url": "http://tw.people.com.cn/n1/2026/0629/c14657-40750008.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "评论丨从三重力量感悟“为什么能”",
           "url": "http://opinion.people.com.cn/n1/2026/0629/c461529-40749120.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "朱雀三号重复使用遥二运载火箭顺利完成静态点火试验",
-          "url": "http://finance.people.com.cn/n1/2026/0629/c1004-40750001.html",
+          "title": "西十高铁即将开通 2小时41分连通陕鄂省会",
+          "url": "http://society.people.com.cn/n1/2026/0629/c1008-40750098.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "四川高县5.5级地震最新通报",
+          "url": "http://sc.people.com.cn/n2/2026/0629/c345167-41624621.html",
           "summary": "",
           "time": ""
         }
@@ -72,8 +72,26 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "第四届中国—中东欧国家新闻发言人对话会在京举行",
-          "url": "https://www.news.cn/world/20260629/b584fd5df6dc4ef38bd6a094e515e8d0/c.html",
+          "title": "“领航新征程——习近平新时代中国特色社会主义思想文献展”在京开幕",
+          "url": "https://www.news.cn/politics/leaders/20260629/256e352991e444d397ed12c5c39452d4/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "王毅会见下任联合国秘书长候选人萨勒",
+          "url": "https://www.news.cn/world/20260629/3b9036478f884a1ea2af7a628ecf3de1/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "半年收官再蓄力 6月全国各地经济社会发展观察",
+          "url": "https://www.news.cn/fortune/20260629/36ec66566a844d7d81dc4f96fcff2343/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "七部门启动全国社会救助法宣传周活动",
+          "url": "https://www.news.cn/politics/20260629/af156bee0ded432c8c3974727fcfa7a7/c.html",
           "summary": "",
           "time": ""
         },
@@ -84,26 +102,8 @@
           "time": ""
         },
         {
-          "title": "轻舟试验飞船第二批在轨试验成果发布",
-          "url": "https://www.news.cn/tech/20260629/5fb9c0bcae27421eaf99e5d891bd23d3/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "中国体育仲裁委员会发布首批典型案例",
-          "url": "https://www.news.cn/sports/20260629/933260f672d24766ae40350a82014bd5/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "市场监管总局对火炬集团和鼎晖百孚各罚款175万元",
-          "url": "https://www.news.cn/legal/20260629/29bb88a83e90400db0c5f30019a2114c/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "我国纬度最高塔式熔盐光热电站在吉林建成投运",
-          "url": "https://www.news.cn/tech/20260629/573af50f95dc4678bebf3c17cbc0e9b3/c.html",
+          "title": "7月起，一批重要的法律法规将施行，一起来看",
+          "url": "https://www.news.cn/politics/20260629/13dc385d663842ca9f3ad7ce92cbd5dd/c.html",
           "summary": "",
           "time": ""
         },
@@ -114,20 +114,20 @@
           "time": ""
         },
         {
+          "title": "我国特种设备总量达2479万台 行业迈向转型升级",
+          "url": "https://www.news.cn/fortune/20260629/d06c492da13043bfb34e2d73d6d8dad7/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "西十高铁即将开通 2小时41分连通陕鄂省会",
           "url": "https://www.news.cn/fortune/20260629/1100f069921744cf817396765ea6c547/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "APEC濠江之约见证“一国两制”独特优势",
-          "url": "https://www.news.cn/gangao/20260629/652b79897bf3426cbff417696601c41b/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "天津市进一步优化住房公积金政策",
-          "url": "https://www.news.cn/local/20260629/9c6db3c918cf4d86ab1c42801ebab86d/c.html",
+          "title": "香港贸发局上调今年香港出口增长预测",
+          "url": "https://www.news.cn/gangao/20260629/61a369c1be104d25914c5869eb801db6/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,6 +138,12 @@
       "url": "https://www.ce.cn",
       "items": [
         {
+          "title": "习近平会见白俄罗斯总统卢卡申科",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202606/t20260629_3058841.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "《教育发展“十五五”规划》印发",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260629_3059318.shtml",
           "summary": "",
@@ -146,12 +152,6 @@
         {
           "title": "外交部：中方绝不允许日菲侵害中方海洋权益",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260629_3059047.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "工信部回应规范动力储能电池供应商账款支付",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260629_3059350.shtml",
           "summary": "",
           "time": ""
         },
@@ -174,26 +174,26 @@
           "time": ""
         },
         {
-          "title": "金里伦：走出对“投资于人”的认识误区",
+          "title": "经济日报：走出对“投资于人”的认识误区",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260629_3056990.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "历史新高 去年文化及相关产业营收超20万亿元",
+          "title": "工信部回应规范动力储能电池供应商账款支付",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260629_3059350.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "历史新高 去年文化及相关产业营收超20万亿",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260629_3058589.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "100%全国产，中国超算再登顶意味什么",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260629_3056996.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "557个药品通过2026年基本医保药品目录初审",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260629_3058514.shtml",
+          "title": "豆包大模型回应内测社交功能传闻：没有相关计划",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260629_3059357.shtml",
           "summary": "",
           "time": ""
         }
