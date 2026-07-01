@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-07-01T18:30:14+08:00",
+  "updated_at": "2026-07-01T23:19:02+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "王毅同沙特外交大臣费萨尔会谈",
-          "url": "http://politics.people.com.cn/n1/2026/0701/c1001-40751156.html",
+          "title": "王毅同美国国务卿鲁比奥通电话",
+          "url": "http://politics.people.com.cn/n1/2026/0701/c1001-40751832.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "刘国中在中国白俄罗斯地方合作论坛开幕式上发表视频致辞",
+          "url": "http://politics.people.com.cn/n1/2026/0701/c1001-40751824.html",
           "summary": "",
           "time": ""
         },
@@ -18,14 +24,26 @@
           "time": ""
         },
         {
-          "title": "八部门发文：推动工业互联网高质量发展",
-          "url": "http://finance.people.com.cn/n1/2026/0701/c1004-40751194.html",
+          "title": "外交部：欢迎各国企业抢抓“中国机遇2.0”",
+          "url": "https://world.people.com.cn/n1/2026/0701/c1002-40751826.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国电力用户数量居全球首位",
-          "url": "http://finance.people.com.cn/n1/2026/0701/c1004-40751192.html",
+          "title": "第七届“百日千万招聘专项行动”启动",
+          "url": "http://society.people.com.cn/n1/2026/0701/c1008-40751825.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "2026年高校毕业生等青年就业服务攻坚行动启动",
+          "url": "http://society.people.com.cn/n1/2026/0701/c1008-40751827.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "前5个月我国服务进出口总额同比增长6%",
+          "url": "https://world.people.com.cn/n1/2026/0701/c1002-40751828.html",
           "summary": "",
           "time": ""
         },
@@ -36,32 +54,14 @@
           "time": ""
         },
         {
-          "title": "税收数据显示：具身智能产业总体发展向好",
-          "url": "http://finance.people.com.cn/n1/2026/0701/c1004-40751193.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "评论丨从“各长领治”到“社会共治”",
           "url": "http://opinion.people.com.cn/n1/2026/0701/c461529-40751178.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "这堂思政课“有盐有味”",
-          "url": "http://qh.people.com.cn/n2/2026/0701/c378418-41625952.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "青藏铁路20年运送旅客超1亿人次",
-          "url": "http://finance.people.com.cn/n1/2026/0701/c1004-40751160.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "“粤车南下”再扩容 大湾区互联互通驶入快车道",
-          "url": "http://gba.people.cn/n1/2026/0701/c42272-40751196.html",
+          "title": "7月1日起 五省区离境退税“即买即退”全面互认",
+          "url": "http://fj.people.com.cn/n2/2026/0701/c181466-41626745.html",
           "summary": "",
           "time": ""
         }
@@ -72,14 +72,14 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "国务院任免国家工作人员",
-          "url": "https://www.news.cn/politics/20260701/8d33b452eb1f41e09fba4b753fdc575d/c.html",
+          "title": "王毅同美国国务卿鲁比奥通电话",
+          "url": "https://www.news.cn/politics/leaders/20260701/df64dd03405d45d9841363a5b08eae42/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "我国全面进入主汛期",
-          "url": "https://www.news.cn/politics/20260701/9b13b1e68fd64e46a4f8a7b3b6975a46/c.html",
+          "title": "刘国中在中国白俄罗斯地方合作论坛开幕式上发表视频致辞",
+          "url": "https://www.news.cn/politics/leaders/20260701/0aa5b2b29801408d8ac17657dab6c833/c.html",
           "summary": "",
           "time": ""
         },
@@ -90,8 +90,14 @@
           "time": ""
         },
         {
-          "title": "香港举行升旗仪式和酒会庆祝回归祖国29周年",
-          "url": "https://www.news.cn/gangao/20260701/3729cc9b171942bbba1d13f016eadc83/c.html",
+          "title": "第七届“百日千万招聘专项行动”启动",
+          "url": "https://www.news.cn/politics/20260701/22da7e214630438596731f3fe4da6abd/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "2026年高校毕业生等青年就业服务攻坚行动启动",
+          "url": "https://www.news.cn/politics/20260701/c90da95126dc4e52b947c587bbaaf7ed/c.html",
           "summary": "",
           "time": ""
         },
@@ -102,8 +108,8 @@
           "time": ""
         },
         {
-          "title": "广西大学：六大核心报考优势",
-          "url": "https://education.news.cn/20260701/f5eebe04016446e4a9c2b1856a7b185b/c.html",
+          "title": "前5个月我国服务进出口总额同比增长6%",
+          "url": "https://www.news.cn/fortune/20260701/1e6185e150ca4786a962c370a7a18a69/c.html",
           "summary": "",
           "time": ""
         },
@@ -114,20 +120,14 @@
           "time": ""
         },
         {
-          "title": "“港车北上”三年 港珠澳大桥出入境车辆超520万辆次",
-          "url": "https://www.news.cn/gangao/20260701/a2e080eb9edc4c2ba663f14232b52d0e/c.html",
+          "title": "北京力争到2028年建成全球科学智能创新中枢",
+          "url": "https://www.news.cn/tech/20260701/e7fd65543d014b209d8b9ebff7d7e13f/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "从“广东芯”到产业链：湾区如何跑出“广东速度”",
-          "url": "https://www.news.cn/local/20260701/187865a9fbf24f279fc449748948dc8f/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "三峡枢纽2026年上半年通过量达7664.2万吨",
-          "url": "https://www.news.cn/fortune/20260701/16cd829e404b4bd1a7b6be1f301d396a/c.html",
+          "title": "《河北雄安新区轨道快线运营安全条例》施行",
+          "url": "https://www.news.cn/local/20260701/18f50728f6a942769e0102e82bb34997/c.html",
           "summary": "",
           "time": ""
         }
@@ -144,14 +144,14 @@
           "time": ""
         },
         {
-          "title": "《求是》杂志发表习近平总书记重要文章",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202606/t20260630_3061412.shtml",
+          "title": "庆祝建党105周年之际 重温总书记号召",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202607/t20260701_3063584.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "庆祝建党105周年之际 重温总书记号召",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202607/t20260701_3063584.shtml",
+          "title": "世界政党政要热烈祝贺中国共产党成立105周年",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260701_3063994.shtml",
           "summary": "",
           "time": ""
         },
@@ -168,14 +168,14 @@
           "time": ""
         },
         {
-          "title": "商务部：前5月我国服务进出口总额同比增6%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260701_3063886.shtml",
+          "title": "前5个月我国服务进出口总额同比增长6%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260701_3063929.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "三峡枢纽2026年上半年通过量达7664.2万吨",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260701_3063805.shtml",
+          "title": "今年上半年西部陆海新通道班列运输货物66万标箱",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260701_3063993.shtml",
           "summary": "",
           "time": ""
         },
@@ -186,14 +186,14 @@
           "time": ""
         },
         {
-          "title": "同一天捷报频传！海上双船交付 多地工程突破不断",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260701_3062185.shtml",
+          "title": "全国铁路实行新的列车运行图",
+          "url": "http://www.ce.cn/cysc/jtys/tielu/202607/t20260701_3063699.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "全国铁路实行新的列车运行图",
-          "url": "http://www.ce.cn/cysc/jtys/tielu/202607/t20260701_3063699.shtml",
+          "title": "\"携宠出行\"更便捷",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260701_3063772.shtml",
           "summary": "",
           "time": ""
         }
