@@ -1,19 +1,13 @@
 {
-  "updated_at": "2026-07-02T17:43:22+08:00",
+  "updated_at": "2026-07-02T22:39:41+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "王毅同美国国务卿鲁比奥通电话",
-          "url": "http://politics.people.com.cn/n1/2026/0702/c1001-40751855.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "刘国中在中国白俄罗斯地方合作论坛开幕式上发表视频致辞",
-          "url": "http://politics.people.com.cn/n1/2026/0702/c1001-40751856.html",
+          "title": "刘国中会见白俄罗斯第一副总理斯诺普科夫",
+          "url": "http://politics.people.com.cn/n1/2026/0702/c1001-40752456.html",
           "summary": "",
           "time": ""
         },
@@ -24,44 +18,50 @@
           "time": ""
         },
         {
-          "title": "中央档案馆向社会集中开放4.4万余件馆藏档案",
-          "url": "http://politics.people.com.cn/n1/2026/0702/c461001-40751870.html",
+          "title": "何立峰出席金融系统党的建设工作会议并讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0702/c1001-40752423.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "商务部：中欧于今秋举行贸易投资磋商机制第二次例会",
-          "url": "https://world.people.com.cn/n1/2026/0702/c1002-40752376.html",
+          "title": "外交部批日新版“自由开放印太”构想",
+          "url": "https://world.people.com.cn/n1/2026/0702/c1002-40752384.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国台办：民进党当局沦为侵害中华民族整体利益的帮凶",
-          "url": "http://tw.people.com.cn/n1/2026/0702/c14657-40752276.html",
+          "title": "商务部回应对美农产品关税问题",
+          "url": "https://world.people.com.cn/n1/2026/0702/c1002-40752429.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "互联网企业集中释放超20万岗位",
-          "url": "http://society.people.com.cn/n1/2026/0702/c1008-40752357.html",
+          "title": "中欧就双方经贸关系新定位达成共识",
+          "url": "https://world.people.com.cn/n1/2026/0702/c1002-40752428.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "广电总局：微短剧精品化正成行业自觉行动",
-          "url": "http://ent.people.com.cn/n1/2026/0702/c1012-40752347.html",
+          "title": "窗口无法关闭、过度索取权限 多款App被通报",
+          "url": "http://finance.people.com.cn/n1/2026/0702/c1004-40752426.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "南宁舰、衡阳舰将在解放军驻港部队昂船洲军营举行舰艇开放活动",
-          "url": "http://gba.people.cn/n1/2026/0702/c42272-40751936.html",
+          "title": "未来五年，如何进一步保障和提升残疾人生活品质",
+          "url": "http://politics.people.com.cn/n1/2026/0702/c461001-40752414.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "闲置房，用起来、活起来",
-          "url": "http://society.people.com.cn/n1/2026/0702/c1008-40751837.html",
+          "title": "失业保险稳岗扩岗政策举措延续实施",
+          "url": "http://society.people.com.cn/n1/2026/0702/c1008-40752460.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "水利部：推动生态清洁小流域建设 促山清、水净、村美、民富",
+          "url": "http://finance.people.com.cn/n1/2026/0702/c1004-40752337.html",
           "summary": "",
           "time": ""
         }
@@ -72,8 +72,20 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
+          "title": "刘国中会见白俄罗斯第一副总理斯诺普科夫",
+          "url": "https://www.news.cn/politics/leaders/20260702/c36e3fc235bc46fcae27712f5e215308/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "李鸿忠在北京调研县乡两级人大换届选举工作",
           "url": "https://www.news.cn/politics/leaders/20260702/7301a8b1452b47bfb99f2a4cae723311/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "何立峰出席金融系统党的建设工作会议并讲话",
+          "url": "https://www.news.cn/politics/leaders/20260702/76c54f12c9d44449bfaade38a6113285/c.html",
           "summary": "",
           "time": ""
         },
@@ -84,50 +96,38 @@
           "time": ""
         },
         {
-          "title": "广电总局：微短剧精品化正成行业自觉行动",
-          "url": "https://www.news.cn/politics/20260702/1e424866302b446f92bb12b956f9f1df/c.html",
+          "title": "四部门：失业保险稳岗扩岗政策举措延续实施",
+          "url": "https://www.news.cn/politics/20260702/fe325cb6fee3485a840c75959865c768/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "《限制快递过度包装要求》强制性国标7月1日起实施",
-          "url": "https://www.news.cn/legal/20260702/6e31a155977b45bbbaa253485f9ae543/c.html",
+          "title": "各地组织开展“七一”走访慰问活动",
+          "url": "https://www.news.cn/politics/20260702/3cc4c6f13fbf41e0861fb0fca8ef3ed9/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "团结广大台胞共创祖国统一、民族复兴的美好未来",
-          "url": "https://www.news.cn/tw/20260702/b764c7b5670d45a0b22402efac620e38/c.html",
+          "title": "2026年全国“安全生产月”活动综述",
+          "url": "https://www.news.cn/politics/20260702/c13c25baad5245998e9bb7bacd3d8429/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "价值枢纽凸显 香港全球竞争力排名连续三年上升",
-          "url": "https://www.news.cn/gangao/20260702/332e8aecd1a24127a475c7eb43212896/c.html",
+          "title": "两部门开展综合保税区外保税检测试点工作",
+          "url": "https://www.news.cn/fortune/20260702/a57ec89d0ce54871a3a93bb421c14d76/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "窗口无法关闭、过度索取权限 多款App被通报",
-          "url": "https://www.news.cn/legal/20260702/1bbb1573870449abab15e12a4ddd82e6/c.html",
+          "title": "香港证监会：2025年香港管理资产总值创历史新高",
+          "url": "https://www.news.cn/gangao/20260702/bfe89de97a7d4edab10d099e4e5db3d2/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "组合驾驶辅助系统安全国家标准发布",
-          "url": "https://www.news.cn/legal/20260702/ed546579fbc1470f9aaf0d11418779d4/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "河北启动重大气象灾害（高温）Ⅳ级应急响应",
-          "url": "https://www.news.cn/local/20260702/d1c5bf385ca84cea98a5e7a57b436303/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "科学家发现水稻高温“自我急救”策略",
-          "url": "https://www.news.cn/tech/20260702/8f0e2cea2562444cb4066b5e1e592327/c.html",
+          "title": "从“一张网”看能源强国建设之“势”",
+          "url": "https://www.news.cn/politics/20260702/257ec3e5a95b493c96b84cbaf5a2a7c6/c.html",
           "summary": "",
           "time": ""
         }
@@ -144,8 +144,8 @@
           "time": ""
         },
         {
-          "title": "世界读懂中国共产党｜保持旺盛生命力的重要秘诀",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260702_3064722.shtml",
+          "title": "中欧就经贸关系新定位达成共识 中德重启相关机制",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260702_3065426.shtml",
           "summary": "",
           "time": ""
         },
@@ -156,8 +156,8 @@
           "time": ""
         },
         {
-          "title": "中欧于今秋举行贸易投资磋商机制第二次例会",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260702_3065208.shtml",
+          "title": "图解｜制造业PMI重返扩张区间 创新活力持续释放",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260702_3064994.shtml",
           "summary": "",
           "time": ""
         },
@@ -168,14 +168,14 @@
           "time": ""
         },
         {
-          "title": "“深圳将全域开放无人驾驶”系误读",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260702_3065342.shtml",
+          "title": "证监会同意宇树科技科创板IPO注册申请",
+          "url": "http://finance.ce.cn/stock/gsgdbd/202607/t20260702_3065432.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "图解｜制造业PMI重返扩张区间 创新活力持续释放",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260702_3064994.shtml",
+          "title": "数智中国丨郝景芳：AI填志愿比99%的人靠谱",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260702_3065436.shtml",
           "summary": "",
           "time": ""
         },
