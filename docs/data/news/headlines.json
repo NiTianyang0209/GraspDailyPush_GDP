@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-07-02T22:39:41+08:00",
+  "updated_at": "2026-07-03T04:02:55+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
+        {
+          "title": "2026两岸青年峰会在北京开幕",
+          "url": "http://politics.people.com.cn/n1/2026/0703/c1001-40752473.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "刘国中会见白俄罗斯第一副总理斯诺普科夫",
           "url": "http://politics.people.com.cn/n1/2026/0702/c1001-40752456.html",
@@ -58,12 +64,6 @@
           "url": "http://society.people.com.cn/n1/2026/0702/c1008-40752460.html",
           "summary": "",
           "time": ""
-        },
-        {
-          "title": "水利部：推动生态清洁小流域建设 促山清、水净、村美、民富",
-          "url": "http://finance.people.com.cn/n1/2026/0702/c1004-40752337.html",
-          "summary": "",
-          "time": ""
         }
       ]
     },
@@ -71,6 +71,12 @@
       "name": "新华网·要闻聚焦",
       "url": "https://www.xinhuanet.com",
       "items": [
+        {
+          "title": "2026两岸青年峰会在北京开幕",
+          "url": "https://www.news.cn/politics/leaders/20260703/0ff8df6d26944f3aaf55281d00c82daf/c.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "刘国中会见白俄罗斯第一副总理斯诺普科夫",
           "url": "https://www.news.cn/politics/leaders/20260702/c36e3fc235bc46fcae27712f5e215308/c.html",
@@ -102,12 +108,6 @@
           "time": ""
         },
         {
-          "title": "各地组织开展“七一”走访慰问活动",
-          "url": "https://www.news.cn/politics/20260702/3cc4c6f13fbf41e0861fb0fca8ef3ed9/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "2026年全国“安全生产月”活动综述",
           "url": "https://www.news.cn/politics/20260702/c13c25baad5245998e9bb7bacd3d8429/c.html",
           "summary": "",
@@ -120,14 +120,14 @@
           "time": ""
         },
         {
-          "title": "香港证监会：2025年香港管理资产总值创历史新高",
-          "url": "https://www.news.cn/gangao/20260702/bfe89de97a7d4edab10d099e4e5db3d2/c.html",
+          "title": "青藏铁路20年，重访“天路人”",
+          "url": "https://www.news.cn/politics/20260702/c9ef59da3a00472a96cc8c5385f77a78/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "从“一张网”看能源强国建设之“势”",
-          "url": "https://www.news.cn/politics/20260702/257ec3e5a95b493c96b84cbaf5a2a7c6/c.html",
+          "title": "守护蓝天精灵 我国鸟类保护取得新成效",
+          "url": "https://www.news.cn/politics/20260702/45f6e976e7c544748634ec5d701249f4/c.html",
           "summary": "",
           "time": ""
         }
@@ -162,7 +162,7 @@
           "time": ""
         },
         {
-          "title": "明晚，成品油价或迎年内首个“三连跌”",
+          "title": "成品油价或迎年内首个“三连跌”",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260702_3065245.shtml",
           "summary": "",
           "time": ""
@@ -192,8 +192,8 @@
           "time": ""
         },
         {
-          "title": "LABUBU新品上线即“破发”溢价空间已大幅缩水",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260702_3064276.shtml",
+          "title": "台当局核准台积电增资美国子公司200亿美元",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260702_3065473.shtml",
           "summary": "",
           "time": ""
         }
