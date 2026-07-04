@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T17:05:40+08:00",
+  "updated_at": "2026-07-04T22:09:33+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
@@ -36,14 +36,8 @@
           "time": ""
         },
         {
-          "title": "纳米比亚总统恩代特瓦将访华",
-          "url": "https://world.people.com.cn/n1/2026/0704/c1002-40753236.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "外交部介绍访华安排",
-          "url": "http://world.people.com.cn/n1/2026/0703/c1002-40753147.html",
+          "title": "谌贻琴在陕西调研",
+          "url": "http://politics.people.com.cn/n1/2026/0704/c1001-40753433.html",
           "summary": "",
           "time": ""
         },
@@ -64,6 +58,12 @@
           "url": "http://finance.people.com.cn/n1/2026/0704/c1004-40753238.html",
           "summary": "",
           "time": ""
+        },
+        {
+          "title": "党建调研行|“企业家村官”上任",
+          "url": "http://gz.people.com.cn/n2/2026/0704/c222152-41629235.html",
+          "summary": "",
+          "time": ""
         }
       ]
     },
@@ -72,8 +72,8 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "吴政隆在湖北湖南调研",
-          "url": "https://www.news.cn/politics/20260704/d4cba6d00e2c474eb96a5f283d50f9fb/c.html",
+          "title": "谌贻琴在陕西调研",
+          "url": "https://www.news.cn/politics/20260704/08e6a2f7221d4f458b01aacd2fe866d7/c.html",
           "summary": "",
           "time": ""
         },
@@ -84,20 +84,14 @@
           "time": ""
         },
         {
-          "title": "中纳务实合作推动资源禀赋转化为发展动能",
-          "url": "https://www.news.cn/world/20260704/126c0015b9d3446bb411b52ae20d27d1/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "业内人士建议多方发力共同促进绿色消费",
           "url": "https://www.news.cn/politics/20260704/f21240f8bc1941d6bb025399a749d18c/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "守护中小学生暑期平安，这份安全提示请收好",
-          "url": "https://www.news.cn/politics/20260704/c59331ba2ca14292a5f1e5d22d1faa1f/c.html",
+          "title": "第十二届两岸学子论坛聚焦“破局与立新”",
+          "url": "https://www.news.cn/20260704/c1d3250ffab74db8aef82ffa25febf3f/c.html",
           "summary": "",
           "time": ""
         },
@@ -108,26 +102,32 @@
           "time": ""
         },
         {
-          "title": "首飞即成功的长十二乙运载火箭，有哪些新看点？",
-          "url": "https://www.news.cn/tech/20260704/7308ddb2036449ca9cd12c28f3e85afd/c.html",
+          "title": "海船开航“一件事”全面落地，为航运企业降本增效",
+          "url": "https://www.news.cn/20260704/da78e9b043a447ac834420cabb402ad4/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国家矿山安全监察局山西局2人被查",
-          "url": "https://www.news.cn/20260704/b27e1d78a6434cd59eeb020aec137541/c.html",
+          "title": "我国首架综合航测飞机首飞成功",
+          "url": "https://www.news.cn/tech/20260704/dc54c546395c4bedb528f2fffd0841ff/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "广州空港口岸年内客流提前34天突破1000万人次",
-          "url": "https://www.news.cn/local/20260704/47d108a7f2c3433e956fe6693550cc3d/c.html",
+          "title": "从一部AI短剧看数字经济的人文底线与人机共生",
+          "url": "https://www.news.cn/tech/20260704/f86471ebd7fb4fd5b0c8f72a3c5e8090/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "辽宁发布强对流和暴雨黄色预警",
-          "url": "https://www.news.cn/local/20260704/bedda74a172f489099754c3427912eee/c.html",
+          "title": "打造中西医协同发展高地 两家领军医院战略携手",
+          "url": "https://www.news.cn/local/20260704/ff41b07b6c544c4e9ff79fde220224bf/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "WTT美国大满贯赛：王楚钦/孙颖莎获混双亚军",
+          "url": "https://www.news.cn/sports/20260704/d9b2ea66031d4398ac86869f715dc46c/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,32 +138,8 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "热解读｜“一团火”映出的关键密码",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202607/t20260704_3068688.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "经济日报评论员：道不变志不改奋进新征程",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260704_3067761.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "车船税优惠政策将调整 涉及哪些车辆？影响几何？",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260703_3067710.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "数字化便民举措再升级 全国就业公共服务地图发布",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260704_3068747.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "暴雨、台风、强对流天气 中央气象台三预警齐发",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260704_3068722.shtml",
+          "title": "【学习小组】“最终要落到为民造福上”",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202607/t20260704_3068695.shtml",
           "summary": "",
           "time": ""
         },
@@ -174,8 +150,38 @@
           "time": ""
         },
         {
+          "title": "国家邮政局：今年我国快递业务量已超1000亿件",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260704_3068774.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "数字化便民举措再升级 全国就业公共服务地图发布",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260704_3068747.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "三部门发文规范国际科技组织成立登记",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260704_3068772.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "7月5日起 国内航线燃油附加费下调",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260704_3068612.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "统计局：6月下旬生猪(外三元)价格环比增1.1%",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260704_3068737.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "规范引导情感陪伴人形机器人发展 两协会联合倡议",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260704_3068771.shtml",
           "summary": "",
           "time": ""
         },
@@ -188,12 +194,6 @@
         {
           "title": "电吸门“咬手”？创新莫忘坚守安全底线",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260704_3067775.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "演员署名要求按法定姓名姓氏笔画排序 专家解读",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260704_3068611.shtml",
           "summary": "",
           "time": ""
         }
