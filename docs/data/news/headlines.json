@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-07-05T17:27:49+08:00",
+  "updated_at": "2026-07-05T22:16:12+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "今年我国快递业务量已超千亿件 比去年提前九天",
-          "url": "http://finance.people.com.cn/n1/2026/0705/c1004-40753465.html",
+          "title": "张国清：强化产业赋能 突出就业导向 提升中央企业援疆综合效益",
+          "url": "http://politics.people.com.cn/n1/2026/0705/c1001-40753687.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "纳米比亚总统恩代特瓦抵达广州开始访华",
+          "url": "https://world.people.com.cn/n1/2026/0705/c1002-40753683.html",
           "summary": "",
           "time": ""
         },
@@ -18,20 +24,8 @@
           "time": ""
         },
         {
-          "title": "3部门发文规范国际科技组织成立登记",
-          "url": "http://finance.people.com.cn/n1/2026/0705/c1004-40753473.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "中俄将举行“海上联合-2026”联合演习 双方参演兵力集结完毕",
           "url": "http://military.people.com.cn/n1/2026/0705/c1011-40753640.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "我国首架综合航测飞机首飞成功",
-          "url": "http://finance.people.com.cn/n1/2026/0705/c1004-40753507.html",
           "summary": "",
           "time": ""
         },
@@ -64,6 +58,12 @@
           "url": "http://ent.people.com.cn/n1/2026/0705/c1012-40753496.html",
           "summary": "",
           "time": ""
+        },
+        {
+          "title": "高考志愿填报 如何更好奔赴下一程",
+          "url": "http://edu.people.com.cn/n1/2026/0705/c1006-40753505.html",
+          "summary": "",
+          "time": ""
         }
       ]
     },
@@ -72,44 +72,44 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "王毅会见瑞典银瑞达集团董事会主席雅各布·瓦伦堡",
-          "url": "https://www.news.cn/politics/leaders/20260705/a6aa5a731ee347d1a2adbbd5beb243d7/c.html",
+          "title": "张国清在新疆调研",
+          "url": "https://www.news.cn/politics/leaders/20260705/e61cae3490e34b71934ba1a387886652/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "第十二届两岸学子论坛聚焦“破局与立新”",
-          "url": "https://www.news.cn/20260704/c1d3250ffab74db8aef82ffa25febf3f/c.html",
+          "title": "“七一勋章”获得者丨“小巷管家”吴亚琴：社区干部就是要做“一团火”",
+          "url": "https://www.news.cn/politics/20260705/80c38792e99a4f0dbd28563bd98a449d/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "海船开航“一件事”全面落地，为航运企业降本增效",
-          "url": "https://www.news.cn/20260704/da78e9b043a447ac834420cabb402ad4/c.html",
+          "title": "外交部驻澳公署举办开放日活动",
+          "url": "https://www.news.cn/gangao/20260705/b0d12292481b4e059104d8b12849e458/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "一张提单背后的重庆中欧班列之变",
-          "url": "https://www.news.cn/fortune/20260704/f92237ddeac74356ab1c47cf76c7d571/c.html",
+          "title": "港澳青年浙江行：共探科创产业新赛道",
+          "url": "https://www.news.cn/gangao/20260705/13e46962c29f4c55963351b5ffc835a3/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "海军南宁舰、衡阳舰来港引发参观热潮",
-          "url": "https://www.news.cn/20260704/94d32e86aa9f4993ab8ce71c295fdedd/c.html",
+          "title": "2026年中国宋庆龄基金会“文化小大使”交流活动举行",
+          "url": "https://www.news.cn/local/20260705/b80941105bf446f18f56c9f6ee732748/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "“津旅时光号”7月线路上新串联京津冀",
-          "url": "https://www.news.cn/local/20260705/25b652cf547442398eba8961ca9a3c47/c.html",
+          "title": "重庆44处人防工程纳凉点免费开放",
+          "url": "https://www.news.cn/local/20260705/0a171b7b9acc4199be84bd20fbd6791f/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "从一部AI短剧看数字经济的人文底线与人机共生",
-          "url": "https://www.news.cn/tech/20260704/f86471ebd7fb4fd5b0c8f72a3c5e8090/c.html",
+          "title": "生活观察丨为减肥抗衰而“断碳戒糖”靠谱吗？",
+          "url": "https://www.news.cn/local/20260705/4a0dc4e0d4674e76a05b11fe971e03af/c.html",
           "summary": "",
           "time": ""
         },
@@ -120,14 +120,14 @@
           "time": ""
         },
         {
-          "title": "第二十三届台胞青年千人夏令营在武汉开营",
-          "url": "https://www.news.cn/20260704/ab8e2bbd3d5e46239315d68aca8b887b/c.html",
+          "title": "WTT美国大满贯赛：中国队男双、女双夺冠",
+          "url": "https://www.news.cn/sports/20260705/79d426cf4b3c4414a49d5110b56fdd91/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中广核广东太平岭核电2号机组首次并网发电",
-          "url": "https://www.news.cn/politics/20260705/ea2f962dd5394abcaf8bbb879482afb9/c.html",
+          "title": "逆转奥运冠军 链球小将张家乐夺钻石联赛个人首金",
+          "url": "https://www.news.cn/sports/20260705/658d46b91bcc47479edfb8f57e543c56/c.html",
           "summary": "",
           "time": ""
         }
