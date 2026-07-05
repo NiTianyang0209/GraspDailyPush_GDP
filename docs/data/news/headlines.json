@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-07-05T22:16:12+08:00",
+  "updated_at": "2026-07-06T03:51:01+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
+        {
+          "title": "王毅同芬兰外长瓦尔托宁会谈",
+          "url": "http://politics.people.com.cn/n1/2026/0706/c1001-40753716.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "张国清：强化产业赋能 突出就业导向 提升中央企业援疆综合效益",
           "url": "http://politics.people.com.cn/n1/2026/0705/c1001-40753687.html",
@@ -58,12 +64,6 @@
           "url": "http://ent.people.com.cn/n1/2026/0705/c1012-40753496.html",
           "summary": "",
           "time": ""
-        },
-        {
-          "title": "高考志愿填报 如何更好奔赴下一程",
-          "url": "http://edu.people.com.cn/n1/2026/0705/c1006-40753505.html",
-          "summary": "",
-          "time": ""
         }
       ]
     },
@@ -71,6 +71,12 @@
       "name": "新华网·要闻聚焦",
       "url": "https://www.xinhuanet.com",
       "items": [
+        {
+          "title": "王毅同芬兰外长瓦尔托宁会谈",
+          "url": "https://www.news.cn/politics/leaders/20260706/86db5e45c14340b6900ce2c64db16141/c.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "张国清在新疆调研",
           "url": "https://www.news.cn/politics/leaders/20260705/e61cae3490e34b71934ba1a387886652/c.html",
@@ -90,8 +96,8 @@
           "time": ""
         },
         {
-          "title": "港澳青年浙江行：共探科创产业新赛道",
-          "url": "https://www.news.cn/gangao/20260705/13e46962c29f4c55963351b5ffc835a3/c.html",
+          "title": "埃德加·斯诺后人90年后“重走斯诺路”",
+          "url": "https://www.news.cn/politics/20260706/cb8a769ccd2c44ad923534676e820ce7/c.html",
           "summary": "",
           "time": ""
         },
@@ -102,20 +108,14 @@
           "time": ""
         },
         {
-          "title": "重庆44处人防工程纳凉点免费开放",
-          "url": "https://www.news.cn/local/20260705/0a171b7b9acc4199be84bd20fbd6791f/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "生活观察丨为减肥抗衰而“断碳戒糖”靠谱吗？",
           "url": "https://www.news.cn/local/20260705/4a0dc4e0d4674e76a05b11fe971e03af/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "江苏苏州：不限次公交票促暑期畅行",
-          "url": "https://www.news.cn/local/20260705/8270d271a0dc457da0ddc3fb4898c5b6/c.html",
+          "title": "在深圳触摸机器人产业的\"外骨骼\"",
+          "url": "https://www.news.cn/local/20260706/fd99968357d64790b9226213652c1cb7/c.html",
           "summary": "",
           "time": ""
         },
@@ -126,8 +126,8 @@
           "time": ""
         },
         {
-          "title": "逆转奥运冠军 链球小将张家乐夺钻石联赛个人首金",
-          "url": "https://www.news.cn/sports/20260705/658d46b91bcc47479edfb8f57e543c56/c.html",
+          "title": "人民大学通报称蒋方舟硕士论文未发现存在学术不端",
+          "url": "https://education.news.cn/20260705/1c185f524cfe4083aebaf2d48828af22/c.html",
           "summary": "",
           "time": ""
         }
