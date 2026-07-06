@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-07-06T19:12:40+08:00",
+  "updated_at": "2026-07-07T00:00:31+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
+          "title": "刘国中在山东调研",
+          "url": "http://politics.people.com.cn/n1/2026/0706/c1001-40754491.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "中央宣传部新命名一批全国爱国主义教育示范基地",
           "url": "http://politics.people.com.cn/n1/2026/0706/c461001-40754480.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "中央军委进行集体学习 张升民主持并讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0706/c1001-40754494.html",
           "summary": "",
           "time": ""
         },
@@ -18,32 +30,26 @@
           "time": ""
         },
         {
-          "title": "外交部回应中国防暑降温产品受到欧洲民众追捧",
-          "url": "https://world.people.com.cn/n1/2026/0706/c1002-40754398.html",
+          "title": "外交部：希望欧方有关人士客观看待中欧经贸关系",
+          "url": "https://world.people.com.cn/n1/2026/0706/c1002-40754467.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "多部门联合部署开展安全生产“打非治违”工作",
-          "url": "http://society.people.com.cn/n1/2026/0706/c1008-40754285.html",
+          "title": "今年“两重”建设项目清单全部下达完毕",
+          "url": "http://finance.people.com.cn/n1/2026/0706/c1004-40754516.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "两部门开展网络平台涉志愿服务违规信息专项整治",
-          "url": "http://society.people.com.cn/n1/2026/0706/c1008-40754462.html",
+          "title": "两部门紧急预拨1.6亿元中央自然灾害救灾资金",
+          "url": "http://society.people.com.cn/n1/2026/0706/c1008-40754487.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国家防总针对广西启动防汛二级应急响应",
-          "url": "http://society.people.com.cn/n1/2026/0706/c1008-40754482.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "来中国买买买,体验再升级",
-          "url": "http://finance.people.com.cn/n1/2026/0706/c1004-40753782.html",
+          "title": "三部门向广西调拨15万件中央救灾物资",
+          "url": "http://society.people.com.cn/n1/2026/0706/c1008-40754512.html",
           "summary": "",
           "time": ""
         },
@@ -54,14 +60,8 @@
           "time": ""
         },
         {
-          "title": "理论丨以抓基层夯实防灾减灾救灾的基础",
-          "url": "http://opinion.people.com.cn/n1/2026/0706/c461530-40753773.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "评论丨电子商务法修正，让规则跟上时代脚步",
-          "url": "http://opinion.people.com.cn/n1/2026/0706/c461529-40753781.html",
+          "title": "黑龙江装备制造业：从“单兵突进”到“链上协同”",
+          "url": "http://hlj.people.com.cn/n2/2026/0706/c220005-41630547.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "“在高质量发展中保障和改善民生”形势政策系列报告会第三场报告会在北京举行",
-          "url": "https://www.news.cn/politics/20260706/eff906a2913d4b39b925ae81338ea79f/c.html",
+          "title": "刘国中在山东调研",
+          "url": "https://www.news.cn/politics/leaders/20260706/58f9ea4b1ecf4fdd8d23b5041c31e059/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "我国现有人民监督员2.5万人",
-          "url": "https://www.news.cn/politics/20260706/a6ae113635e248af8c811aaa38cec369/c.html",
+          "title": "中央军委进行集体学习 张升民主持并讲话",
+          "url": "https://www.news.cn/politics/20260706/22f03db760474826b510a42090c885e9/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "推动数据产权制度落地 畅通数据要素流通",
-          "url": "https://www.news.cn/politics/20260706/9c16ca0710524439a074fba14da44d42/c.html",
+          "title": "中宣部新命名一批全国爱国主义教育示范基地",
+          "url": "https://www.news.cn/politics/20260706/74a2d3c24f5945679e06c0ac1b08d37d/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "2026年世界互联网大会数字丝路发展论坛将举行",
-          "url": "https://www.news.cn/fortune/20260706/b5de9cefff1941268f7ea7e51ac28a51/c.html",
+          "title": "重点行业领域“打非治违” 这些共性问题将着重打击",
+          "url": "https://www.news.cn/legal/20260706/fd83dba4818944e59b0934881587a9ae/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "63名！今年中国宋庆龄基金会“文化小大使”揭晓",
-          "url": "https://www.news.cn/politics/20260706/8d8ed98146ea46e696752248871df441/c.html",
+          "title": "两部门开展网络平台涉志愿服务违规信息专项整治",
+          "url": "https://www.news.cn/politics/20260706/a3cfda50c0154c0992b50c75287c5b1f/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "增长10.8倍 中欧班列统一品牌十年交出亮眼答卷",
-          "url": "https://www.news.cn/world/20260706/0ff1fb99a57c418bae08972c99eb5eec/c.html",
+          "title": "整治AI应用乱象 专项行动已处置账号2.6万余个",
+          "url": "https://www.news.cn/politics/20260706/6e9f1ea57f6c4a2b9c5768167fb7b389/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "多元业态激发夏日经济活力",
-          "url": "https://www.news.cn/fortune/20260706/ea8630a98b864b9286ccaab79032afbe/c.html",
+          "title": "多国媒体人走进新疆 感受稳定繁荣发展脉动",
+          "url": "https://www.news.cn/world/20260706/16cfcea4d3db4ca0a839ffed2ff5aa84/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "专家解读：如何实现国产算力自主可控？",
-          "url": "https://www.news.cn/tech/20260706/c49e5eb591484141b7541d8f6fa8bba0/c.html",
+          "title": "通车五十载 滇藏公路架起西南边疆发展通途",
+          "url": "https://www.news.cn/politics/20260706/0716c71d955849759cdabec7f59e581a/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "淮河流域将有大到暴雨",
-          "url": "https://www.news.cn/local/20260706/27d1ef6cd85340efa5ecefc6b8c6b618/c.html",
+          "title": "上半年全国新开92条国际航空货运航线",
+          "url": "https://www.news.cn/fortune/20260706/0dc4852e62884f0d9311a81713a85adc/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "珠江77条河流发生超警洪水",
-          "url": "https://www.news.cn/local/20260706/06e1cb16c51a42ff8677bcbdd1089a96/c.html",
+          "title": "受贿超22亿元 杨有林一审被判死刑",
+          "url": "https://www.news.cn/legal/20260706/ec10da051b2d407fa2bcb86009bc7a44/c.html",
           "summary": "",
           "time": ""
         }
@@ -150,14 +150,14 @@
           "time": ""
         },
         {
-          "title": "业内人士预计：6月份CPI同比有望延续温和上涨",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260706_3069982.shtml",
+          "title": "金观平：确保粮食丰收 赢得开局主动",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260706_3069556.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "天问二号探测器抵达目标小行星 开始科学探测",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260706_3071145.shtml",
+          "title": "业内人士预计：6月份CPI同比有望延续温和上涨",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260706_3069982.shtml",
           "summary": "",
           "time": ""
         },
@@ -168,8 +168,8 @@
           "time": ""
         },
         {
-          "title": "金观平：确保粮食丰收 赢得开局主动",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260706_3069556.shtml",
+          "title": "今年“两重”建设项目清单全部下达完毕",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260706_3071920.shtml",
           "summary": "",
           "time": ""
         },
@@ -180,8 +180,8 @@
           "time": ""
         },
         {
-          "title": "整治AI应用乱象:专项行动处置违规产品1.4万余款",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260706_3071845.shtml",
+          "title": "整治AI应用乱象 专项行动已处置账号2.6万余个",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260706_3071900.shtml",
           "summary": "",
           "time": ""
         },
