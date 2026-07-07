@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T23:25:39+08:00",
+  "updated_at": "2026-07-08T04:25:37+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
@@ -42,7 +42,13 @@
           "time": ""
         },
         {
-          "title": "广西强降雨已致6人死亡11人失联",
+          "title": "两部门向广西增加调拨3.6万余件中央防汛物资",
+          "url": "http://society.people.com.cn/n1/2026/0707/c1008-40755394.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "强降雨已致6人死亡",
           "url": "http://society.people.com.cn/n1/2026/0707/c1008-40755391.html",
           "summary": "",
           "time": ""
@@ -58,12 +64,6 @@
           "url": "http://finance.people.com.cn/n1/2026/0707/c1004-40755315.html",
           "summary": "",
           "time": ""
-        },
-        {
-          "title": "新版国家免疫规划疫苗儿童免疫程序及说明印发",
-          "url": "http://health.people.com.cn/n1/2026/0707/c14739-40755363.html\n",
-          "summary": "",
-          "time": ""
         }
       ]
     },
@@ -72,8 +72,8 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "王毅同挪威外交大臣艾德会谈",
-          "url": "https://www.news.cn/world/20260707/e4ca7e7c9b26452a87770ac6e0cd0348/c.html",
+          "title": "王毅外长访问北欧成果清单",
+          "url": "https://www.news.cn/politics/leaders/20260708/437de0f80612415da10d719024b3f40e/c.html",
           "summary": "",
           "time": ""
         },
@@ -90,8 +90,8 @@
           "time": ""
         },
         {
-          "title": "新版国家免疫规划疫苗儿童免疫程序及说明印发",
-          "url": "https://www.news.cn/politics/20260707/8a1dfcdac2f942c99070a3125f3eeea4/c.html",
+          "title": "文化和旅游部印发《旅游强国建设“十五五”规划》",
+          "url": "https://www.news.cn/20260708/e4a46c6fa58043b99f23501956800900/c.html",
           "summary": "",
           "time": ""
         },
