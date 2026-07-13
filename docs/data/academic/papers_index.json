@@ -1,5 +1,542 @@
 [
   {
+    "id": "ENER-2026-7-9-Spatio-Temporal-Heterogeneity-in-the-Env",
+    "title": "Spatio-Temporal Heterogeneity in the Environmental Value of Renewable Energy",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Harrison Fell",
+      "Daniel Kaffine"
+    ],
+    "doi": "10.1177/01956574261462659",
+    "link": "https://doi.org/10.1177/01956574261462659",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The expansion of renewable energy plays a critical role in decarbonizing the electricity grid, while also providing improvements in local air quality. Ultimately, the environmental value of renewable energy hinges on characteristics (fuel type, technology, location, etc.) of the marginal plant displaced by wind or solar generation. We document and explain the roles that market forces, policy interactions, and energy infrastructure play in determining the displaced marginal generator, and thus the heterogeneous environmental value of renewables. Finally, we discuss how this heterogeneity in environmental value significantly complicates efficient regulatory approaches, with application to renewable production subsidies and green hydrogen policies.\n                  \n                    JEL Classification:\n                    Q42, Alternative Energy Sources; Q51, Valuation of Environmental Effects; Q53, Air Pollution; Water Pollution; Noise; Hazardous Waste; Solid Waste; Recycling; Q48, Energy: Government Policy",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-9",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-9-Bridging-the-Gap-between-External-and-In",
+    "title": "Bridging the Gap between External and Internal Exposure: Challenges and a Machine Learning Approach Validated Using Benzene Ring-Containing Pollutants",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Xiao Zhang",
+      "Xiaolei Wang",
+      "Junze Ma",
+      "Sixian Wang",
+      "Xia Wang",
+      "Qingyuan Cao",
+      "Fengchang Wu",
+      "Xiaoli Zhao"
+    ],
+    "doi": "10.1021/acs.est.6c02845",
+    "link": "https://doi.org/10.1021/acs.est.6c02845",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-9",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-9-Switching-Photocatalytic-NH-------------",
+    "title": "Switching Photocatalytic NH\n                    <sub>3</sub>\n                    Oxidation Pathways from NO\n                    <sub>\n                      <i>x</i>\n                    </sub>\n                    to N\n                    <sub>2</sub>\n                    via Synergistic Kineto-Thermodynamic Modulation on TiO\n                    <sub>2</sub>",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Guangsheng Zhu",
+      "Hao Gu",
+      "Yajie Shu",
+      "Biyuan Liu",
+      "Kaicai Fan",
+      "Man Zhang",
+      "Rong Dang",
+      "Qiming Wang",
+      "Liyu Jiang",
+      "Qingtao Liu",
+      "Jinfeng Wang",
+      "Haibao Huang"
+    ],
+    "doi": "10.1021/acs.est.6c05180",
+    "link": "https://doi.org/10.1021/acs.est.6c05180",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-9",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-9-Toxicokinetic-Differences-between-Dermal",
+    "title": "Toxicokinetic Differences between Dermal and Oral Exposure to Ultraviolet Absorbers: Exploring Pathway-Specific Biomarkers",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Ruosi Li",
+      "Haitao Shen",
+      "Qingqing Liu",
+      "Xuanqi Zhao",
+      "Shuai Wu",
+      "Yiyi Chen",
+      "Siyu Fu",
+      "Shiyi Wang",
+      "Jing Zhan",
+      "Bing Lyu",
+      "Jingguang Li",
+      "Jiaying Liu"
+    ],
+    "doi": "10.1021/acs.est.6c06976",
+    "link": "https://doi.org/10.1021/acs.est.6c06976",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-9",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-9-Impact-of-Manganese-Mineral-Transformati",
+    "title": "Impact of Manganese Mineral Transformations on Nanoplastic Transport and Sedimentation in Surface and Subsurface Aqueous Systems",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Aniket Choudhary",
+      "Gopala Krishna Darbha"
+    ],
+    "doi": "10.1021/acs.est.6c00157",
+    "link": "https://doi.org/10.1021/acs.est.6c00157",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-9",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-9-From-Screening-Level-Profiling-of-Novel-",
+    "title": "From Screening-Level Profiling of Novel Brominated Flame Retardants to a Putative AOP-Informed Framework for DBDPE-Induced Cognitive Impairment in Zebrafish",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Kaiwen Hu",
+      "Chenxin Gong",
+      "Conghui Shan",
+      "Bin Li",
+      "Mengmeng Guo",
+      "Zhijun Tan",
+      "Yang Shu",
+      "Chenhui Wu",
+      "Yingying Yu",
+      "Maozhu Wang",
+      "Xinrui Ge",
+      "Jiayi Xue",
+      "Yan Gao",
+      "Wei Shi",
+      "Guangxu Liu"
+    ],
+    "doi": "10.1021/acs.est.6c04716",
+    "link": "https://doi.org/10.1021/acs.est.6c04716",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-9",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-9-Bias-Is-Blind-to-Virtue--Conflicts-of-In",
+    "title": "Bias Is Blind to Virtue: Conflicts of Interest across All Sectors of Science",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Tobias Pamminger"
+    ],
+    "doi": "10.1021/acs.est.6c08786",
+    "link": "https://doi.org/10.1021/acs.est.6c08786",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-9",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-9-Insights-Gained-by-High-throughput-Chrom",
+    "title": "Insights Gained by High-throughput Chromosome Conformation Capture (Hi-C) into the Viral Modulation of Methane Production in Anaerobic Digestion",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Junya Zhang",
+      "Tiedong Lu",
+      "Yunwei Cui",
+      "Qihe Tang",
+      "Yuansong Wei",
+      "Hans Hermann Richnow"
+    ],
+    "doi": "10.1021/acs.est.6c03952",
+    "link": "https://doi.org/10.1021/acs.est.6c03952",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-9",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-9-Strong-Interaction-of-CoO---------------",
+    "title": "Strong Interaction of CoO\n                    <sub>\n                      <i>x</i>\n                    </sub>\n                    with PO\n                    <sub>\n                      <i>x</i>\n                    </sub>\n                    for Enhanced N\n                    <sub>2</sub>\n                    Selectivity in Selective Catalytic Oxidation of Ammonia",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Cui Dong",
+      "Hongchun Sun",
+      "Hui Wang",
+      "Zhenping Qu"
+    ],
+    "doi": "10.1021/acs.est.5c18708",
+    "link": "https://doi.org/10.1021/acs.est.5c18708",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-9",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-8-Mitigation-of-temperature-induced-vegeta",
+    "title": "Mitigation of temperature-induced vegetable price volatility in urban wholesale markets",
+    "journal": "Nature Cities",
+    "publisher": "Nature",
+    "authors": [
+      "Xiaodong Chen",
+      "Anda Guo",
+      "Pengyu Zhu"
+    ],
+    "doi": "10.1038/s44284-026-00466-4",
+    "link": "https://doi.org/10.1038/s44284-026-00466-4",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-8",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-7-8-Do-Prior-Residents-Benefit-from-Energy-B",
+    "title": "Do Prior Residents Benefit from Energy Booms?",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Luyi Han",
+      "John V. Winters",
+      "Michael R. Betz"
+    ],
+    "doi": "10.1086/742967",
+    "link": "https://doi.org/10.1086/742967",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-8",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-8-Unraveling-the-Historical-Trajectory-and",
+    "title": "Unraveling the Historical Trajectory and Dynamic Mechanisms of Microplastic Degradation in Sediment Cores over the Last Century",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Jiatian Huang",
+      "Haiwei Li",
+      "Yunlong Li",
+      "Jun Zhu",
+      "Ruikun Sun",
+      "Zhengqing Dai",
+      "Rijian Mo",
+      "Shiqi Jiang",
+      "Lei He",
+      "Liming Song",
+      "Muhammad Usman Amin",
+      "Chengyong Li"
+    ],
+    "doi": "10.1021/acs.est.5c13915",
+    "link": "https://doi.org/10.1021/acs.est.5c13915",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-8",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-8-1-3-Dichloro-5-5-dimethylhydantoin--DCDM",
+    "title": "1,3-Dichloro-5,5-dimethylhydantoin (DCDMH)-Driven Sludge Pretreatment for Organic Carbon Valorization: Mechanistic Insights into Controlled Oxidative Disruption and Hormesis-Mediated Metabolic Reshaping",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Yufen Wang",
+      "Xiaofeng Luo",
+      "Ya Ji",
+      "Tingting Zhu",
+      "Yingxin Zhao",
+      "Yindong Tong",
+      "Bing-Jie Ni",
+      "Yiwen Liu"
+    ],
+    "doi": "10.1021/acs.est.5c16484",
+    "link": "https://doi.org/10.1021/acs.est.5c16484",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-8",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-8--i-In-Situ--i----------------------Singl",
+    "title": "<i>In Situ</i>\n                    Single-Cell Raman Isotope Analysis Quantifies Cell-to-Cell Metabolic Heterogeneity within Individual Cable Bacteria Filaments in Sediments",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Lu Zhang",
+      "Ji Zhan",
+      "Junhui Guo",
+      "Tianqi Lin",
+      "Wei Yang",
+      "Guohong Liu",
+      "Zhiying Liu",
+      "Xing Liu",
+      "Shungui Zhou"
+    ],
+    "doi": "10.1021/acs.est.5c18921",
+    "link": "https://doi.org/10.1021/acs.est.5c18921",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-8",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-8-Efficient-Diagnosis-of-Spatiotemporal-Ev",
+    "title": "Efficient Diagnosis of Spatiotemporal Evolution and Driving Factors of Surface Ozone Pollution Episodes: An Application in Jiangsu Province, China",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Hanying Wang",
+      "Lei Zhang",
+      "Yutong Wang",
+      "Yiting Li",
+      "Yu Zhao"
+    ],
+    "doi": "10.1021/acs.est.6c03665",
+    "link": "https://doi.org/10.1021/acs.est.6c03665",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-8",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-8-Molecular-Mechanisms-of-Dissolved-Organi",
+    "title": "Molecular Mechanisms of Dissolved Organic Matter in Controlling Cr(III) Colloidal Deposition and Reversibility",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Wendan Luo",
+      "Yijun Mo",
+      "Shishu Zhu",
+      "Chao Jin"
+    ],
+    "doi": "10.1021/acs.est.6c02260",
+    "link": "https://doi.org/10.1021/acs.est.6c02260",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-8",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-8-A-Framework-for-Antimicrobial-Resistance",
+    "title": "A Framework for Antimicrobial Resistance Risk Assessment, Monitoring, and Risk-Reduction Practices along the Reused Water–Soil–Crop–Human Continuum",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Laura Álvarez-Fraga",
+      "Mohan Amarasiri",
+      "Charlotte Arnal",
+      "Xavier Bellanger",
+      "Pierre Benoit",
+      "Thomas Berendonk",
+      "Thibault Bourdin",
+      "Carolee Anne Carson",
+      "Eddie Cytryn",
+      "Oriane Della-Negra",
+      "Andrea Di Cesare",
+      "Steven P. Djordjevic",
+      "Barbara Drigo",
+      "Erica Donner",
+      "Pietro Drei",
+      "Dominic Frigon",
+      "Pablo Gago-Ferrero",
+      "William H. Gaze",
+      "Karina Yew-Hoong Gin",
+      "Danny Greenwald",
+      "Bing Guo",
+      "Didier Hocquet",
+      "Ryo Honda",
+      "Jeffrey LeJeune",
+      "Caroline Le Maréchal",
+      "Roberta Maffettone",
+      "Célia M. Manaia",
+      "Daniel Martak",
+      "Fabrice Martin-Laurent",
+      "Christophe Merlin",
+      "Alexandre Mrozinski",
+      "Dominique Patureau",
+      "Alfieri Pollice",
+      "Amy Pruden",
+      "Ben van den Akker",
+      "Sotirios Vasileiadis",
+      "Nathalie Wéry",
+      "Edward Topp"
+    ],
+    "doi": "10.1021/acs.est.6c03391",
+    "link": "https://doi.org/10.1021/acs.est.6c03391",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-8",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-8-From-Treatment-to-Platform--Coupling-Ana",
+    "title": "From Treatment to Platform: Coupling Anaerobic Carbon Conversion with Nitrogen Removal and Phosphorus Recovery toward Circular Urban Biorefineries",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Guangze Guo",
+      "Christian Wurzbacher",
+      "Susanne Lackner",
+      "Mark C. M. van Loosdrecht",
+      "Jules B. van Lier",
+      "Jörg E. Drewes",
+      "Yujie Chen",
+      "Yu-You Li",
+      "Konrad Koch"
+    ],
+    "doi": "10.1021/acs.est.6c08923",
+    "link": "https://doi.org/10.1021/acs.est.6c08923",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-8",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-8-Evaluation-of-an-Improved-Reactive-Mercu",
+    "title": "Evaluation of an Improved Reactive Mercury Active System: Uncertainties and Applicability in Polluted Environments",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Wenqi Wang",
+      "Weikang Zhang",
+      "Lei Zhang",
+      "Hangtian Zhou",
+      "Chaojie Zhang",
+      "Mae Sexauer Gustin",
+      "Sarrah M. Dunham-Cheatham",
+      "Guichen Zhang",
+      "Peisheng Zhou",
+      "Zheng Wang",
+      "Qin’geng Wang",
+      "Yu Zhao"
+    ],
+    "doi": "10.1021/acs.est.6c03802",
+    "link": "https://doi.org/10.1021/acs.est.6c03802",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-8",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-6-Author-Correction--Urban-congestion-reli",
+    "title": "Author Correction: Urban congestion relief experiments through routing-app interventions",
+    "journal": "Nature Cities",
+    "publisher": "Nature",
+    "authors": [
+      "Neha Arora",
+      "Alexandre Bayen",
+      "Theophile Cabannes",
+      "Kevin Chen",
+      "Abdul Rahman Kreidieh",
+      "Yechen Li",
+      "Marc Nunkesser",
+      "Prem Ramaswami",
+      "Andrew Tomkins",
+      "Eray Turkel",
+      "Shoshana Vasserman",
+      "Haizheng Zhang"
+    ],
+    "doi": "10.1038/s44284-026-00480-6",
+    "link": "https://doi.org/10.1038/s44284-026-00480-6",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-6",
+    "is_new": true
+  },
+  {
     "id": "ES&T-2026-7-4-Effective-Precipitate-Cleaning-with-a-Re",
     "title": "Effective Precipitate Cleaning with a Reversible Flow Cell Sustains Stable Energy Intensity for Oceanic CO\n                    <sub>2</sub>\n                    Removal",
     "journal": "ES&T",
@@ -19,7 +556,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-4-The-Efficiencies-and-Products-of-Dilute-",
@@ -41,7 +578,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-4-Investigating-Ultrafine-Aerosol-Turbulen",
@@ -70,7 +607,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-4-Molecular-Drivers-of-Contrasting-Photore",
@@ -94,7 +631,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-4-Friction-Mediated-Transfer-of-Low-Molecu",
@@ -117,7 +654,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-3-Heating-Induced-Redistribution-and-Isoto",
@@ -142,7 +679,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-3",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-3-High-Resolution-Molecular-Analyses-Revea",
@@ -169,7 +706,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-3",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-3-Distinct-Source-Sink-Patterns-and-Vertic",
@@ -204,7 +741,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-3",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-3-Simulation-Guided-Optimization-of-NH----",
@@ -228,7 +765,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-3",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-3-Occurrence--Sources--and-Export-Rates-of",
@@ -249,7 +786,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-3",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-Microbiome-Based-Framework-for-Achieving",
@@ -270,7 +807,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-Planetary-Boundary-for-Novel-Entities--T",
@@ -308,7 +845,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-Can-Data-Mining-Improve-Methane-Correcti",
@@ -328,7 +865,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-Microalgae-Mediated-Electron-Transfer-an",
@@ -353,7 +890,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-Coordination-Engineered-Fe-Single-Atoms-",
@@ -377,7 +914,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-Meteorologically-Driven-Changes-in-Futur",
@@ -408,7 +945,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-Ambitious-Co-scaling-of-Carbon-Dioxide-R",
@@ -441,7 +978,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-Ecotype-Specific-Drilosphere-Microbiome-",
@@ -465,7 +1002,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-The-Influences-of-Sediment-Load-on-the-B",
@@ -490,7 +1027,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-Self-Regenerating-PFOA-Defluorination-in",
@@ -513,7 +1050,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-Divergent-Giant-Clam-Strategies-to-Cope-",
@@ -540,7 +1077,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-2-Generalizable-and-Transferable-Machine-L",
@@ -562,6 +1099,366 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-2",
+    "is_new": false
+  },
+  {
+    "id": "ES&T-2026-7-12-Knowledge-Based-Feature-Selection-Substa",
+    "title": "Knowledge-Based Feature Selection Substantially Enhances Data-Driven Wastewater Treatment Modeling",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Senyuan Gu",
+      "Shuting Wang",
+      "Ruihong Qiu",
+      "Kaili Li",
+      "Jaswinder Manjeet Singh",
+      "Jue Zhang",
+      "Bing-Jie Ni",
+      "T. David Waite",
+      "Liu Ye",
+      "Haoran Duan"
+    ],
+    "doi": "10.1021/acs.est.6c04963",
+    "link": "https://doi.org/10.1021/acs.est.6c04963",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-12",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-12-Human-Sweat-Mediated-Aggregation-of-Nano",
+    "title": "Human Sweat-Mediated Aggregation of Nanoplastics as a Driver of Dermal Exposure",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Yu Kong",
+      "Xiaona Li",
+      "Ning Liu",
+      "Chuang Ma",
+      "Yi Wang",
+      "Chaoyi Deng",
+      "Xiaoli Zhao",
+      "Zhenyu Wang",
+      "Baoshan Xing"
+    ],
+    "doi": "10.1021/acs.est.6c00119",
+    "link": "https://doi.org/10.1021/acs.est.6c00119",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-12",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-11-Substrate-Carbon-Controls-Regional-Diver",
+    "title": "Substrate Carbon Controls Regional Divergence of Wetland Biofilm Carbon Sinks under Climate Warming",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Kai Wang",
+      "Pengfei Sun",
+      "Junzhuo Liu",
+      "Ying Xu",
+      "Wenyuan Lu",
+      "Yonghong Wu",
+      "Pete Smith"
+    ],
+    "doi": "10.1021/acs.est.6c03534",
+    "link": "https://doi.org/10.1021/acs.est.6c03534",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-11",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-11-Interface-Engineered-Methanogenic-Nanobi",
+    "title": "Interface-Engineered Methanogenic Nanobiohybrids Redirect Hydrogen Flux for Efficient CO\n                    <sub>2</sub>\n                    Fixation",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Huaiyou Liu",
+      "Jiabin Wang",
+      "Jingxin Zhang",
+      "Meiqi Li",
+      "Minzi Liao",
+      "Yancai Yao",
+      "Yenwah Tong",
+      "Yinghong Peng",
+      "Yaobin Zhang",
+      "Yiliang He",
+      "Lizhi Zhang"
+    ],
+    "doi": "10.1021/acs.est.6c07191",
+    "link": "https://doi.org/10.1021/acs.est.6c07191",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-11",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-11-CRISPR-Biosensing-for-Environmental-Moni",
+    "title": "CRISPR Biosensing for Environmental Monitoring: Workflow Design and Performance Benchmarking",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Siwen Wang",
+      "Rakibul Hasan"
+    ],
+    "doi": "10.1021/acs.est.6c02006",
+    "link": "https://doi.org/10.1021/acs.est.6c02006",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-11",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-10-H----------------------sub-2--sub-------",
+    "title": "H\n                    <sub>2</sub>\n                    O-Enabled Reversible SO\n                    <sub>2</sub>\n                    Resistance on Separately Dual-Functional Pd–W Sites for Low-Temperature Hydrocarbon Oxidation",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Chunli Ai",
+      "Fan Dang",
+      "Yani Wu",
+      "Zeyu Jiang",
+      "Mingjiao Tian",
+      "Yujie Shi",
+      "Han Xu",
+      "Yanfei Jian",
+      "Changwei Chen",
+      "Chi He"
+    ],
+    "doi": "10.1021/acs.est.6c03881",
+    "link": "https://doi.org/10.1021/acs.est.6c03881",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-10",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-10-Decomposition-Induced-Change-in-Stranded",
+    "title": "Decomposition-Induced Change in Stranded Megafauna: Decoupling Postmortem Impacts from the Isotopic Niche",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Philip M. Riekenberg",
+      "Lonneke L. IJsseldijk",
+      "Mardik Leopold",
+      "Andrea Gröne",
+      "Marcel T.J. van der Meer"
+    ],
+    "doi": "10.1021/acs.est.6c03636",
+    "link": "https://doi.org/10.1021/acs.est.6c03636",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-10",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-10-Carbon-Iodine-Coordination-Activates-Co-",
+    "title": "Carbon–Iodine Coordination Activates Co–N\n                    <sub>4</sub>\n                    Sites for Efficient Peroxymonosulfate Activation toward Mass-Transfer-Accelerated Singlet Oxygen Oxidation of Electron-Rich Pollutants",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Junjun Pei",
+      "Xinyu Zhou",
+      "Kaixing Fu",
+      "Kai Yin",
+      "Shenglian Luo",
+      "Deyou Yu",
+      "Jinming Luo"
+    ],
+    "doi": "10.1021/acs.est.6c04882",
+    "link": "https://doi.org/10.1021/acs.est.6c04882",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-10",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-10-Rebuttal-to-Correspondence-on--Long-Term",
+    "title": "Rebuttal to Correspondence on “Long-Term Changes in the Abundance, Size, and Morphotype of Marine Plastics in the North Pacific”",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Kentaro Miyazono",
+      "Kazuaki Tadokoro",
+      "Gajahin G. N. Thushari",
+      "Hiroomi Miyamoto",
+      "Akinori Takasuka",
+      "Mikio Watai",
+      "Tohya Yasuda",
+      "Takuya Sato",
+      "Rei Yamashita",
+      "Taketoshi Kodama",
+      "Kazutaka Takahashi"
+    ],
+    "doi": "10.1021/acs.est.6c08027",
+    "link": "https://doi.org/10.1021/acs.est.6c08027",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-10",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-10-Electrochemical-Generation-of-Nonradical",
+    "title": "Electrochemical Generation of Nonradical Hydrotrioxide for Sustainable Water Purification",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Daoyuan Zu",
+      "Jianbo Liu",
+      "Yang Zhou",
+      "Xianhui Li",
+      "Xueye Wang",
+      "Kui Yang",
+      "Xiangtong Kong",
+      "Jinxing Ma",
+      "Han-Qing Yu",
+      "Zhifeng Yang"
+    ],
+    "doi": "10.1021/acs.est.6c06012",
+    "link": "https://doi.org/10.1021/acs.est.6c06012",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-10",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-10-Identifying-Tracing-Species-from-Source-",
+    "title": "Identifying Tracing Species from Source Regions of PM\n                    <sub>2.5</sub>\n                    on the Tibetan Plateau by Integrating Measurement and Modeling",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Yaxin Xiang",
+      "Meiyu Zhao",
+      "Weihao Xiao",
+      "Tianle Zhang",
+      "Qi Zhou",
+      "Jiaying Liu",
+      "Caiqing Yan",
+      "Shunyao Wang",
+      "Guofeng Shen",
+      "Shichang Kang",
+      "Xiang Ding",
+      "Qi Ying",
+      "Mei Zheng"
+    ],
+    "doi": "10.1021/acs.est.6c04954",
+    "link": "https://doi.org/10.1021/acs.est.6c04954",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-10",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-10-Correspondence-on--Long-Term-Changes-in-",
+    "title": "Correspondence on “Long-Term Changes in the Abundance, Size, and Morphotype of Marine Plastics in the North Pacific”",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "J. Rafael Bermúdez-Monsalve",
+      "Stella A. Berger",
+      "Gülce Yalçın",
+      "Jens C. Nejstgaard"
+    ],
+    "doi": "10.1021/acs.est.6c02999",
+    "link": "https://doi.org/10.1021/acs.est.6c02999",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-10",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-10-Salinity-Variation-Reshapes-Macroinverte",
+    "title": "Salinity Variation Reshapes Macroinvertebrate Communities in Alpine Lakes",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Baoqiang Wang",
+      "Xiong Xiong",
+      "Jiahao Zhang",
+      "Yongjing Zhao",
+      "Xiongdong Zhou",
+      "Yongde Cui"
+    ],
+    "doi": "10.1021/acs.est.6c03770",
+    "link": "https://doi.org/10.1021/acs.est.6c03770",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-10",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-10-Feasibility-as-a-Deployment-Trajectory-i",
+    "title": "Feasibility as a Deployment Trajectory in Resource Recovery Systems",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Jianan Feng",
+      "Timothy J. Strathmann",
+      "Jeremy S. Guest"
+    ],
+    "doi": "10.1021/acs.est.6c08018",
+    "link": "https://doi.org/10.1021/acs.est.6c08018",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-10",
     "is_new": true
   },
   {
@@ -581,7 +1478,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-7-1-Causal-Inference--High-Frequency-Data--a",
@@ -601,7 +1498,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-7-1-Wallace-E--Oates-Outstanding-Doctoral-Di",
@@ -618,7 +1515,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-7-1-A-Hedge-Fund-in-Your-Garage--Automobile-",
@@ -638,7 +1535,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-7-1-Are-We-Doing-More-Harm-than-Good--Using-",
@@ -658,7 +1555,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-7-1-Shock-Avoidance--High-Bill-Alert-Program",
@@ -678,7 +1575,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-7-1-Irrigation-and-Climate-Change--Long-Run-",
@@ -697,7 +1594,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-7-1-The-Urban-Equilibrium-Effects-of-Electri",
@@ -718,7 +1615,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-7-1-Front-Matter",
@@ -735,7 +1632,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-7-1-Environmental-Liability--Insurance--and-",
@@ -755,7 +1652,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-7-1-Droughts-and-Economic-Activity--Do-Dams-",
@@ -775,7 +1672,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "REEP-2026-7-1-Managing-Unpriced-Climate-Risks-in-US-Ho",
@@ -799,7 +1696,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-1-Trihalomethane-Exposure-in-Relation-to-D",
@@ -829,7 +1726,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-1-Source-Specific-Dynamics-of-Emerging-Con",
@@ -855,7 +1752,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-1-Governing-Urban-Wetlands-for-Decarboniza",
@@ -875,7 +1772,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-1-Wildland-Fires-in-the-US-between-2007-an",
@@ -899,7 +1796,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-1-Atmospheric-Oxidation-Mechanism-of-Benzi",
@@ -922,7 +1819,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-1-PFAS-in-Fast-Foods-with-Hot-Contact-to-F",
@@ -952,7 +1849,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-1-Simultaneous-Nitrogen-and-Phosphorus-Rec",
@@ -972,7 +1869,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-1-Dietary-Fat-and-Fiber-Divergently-Contro",
@@ -1000,6 +1897,28 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-1",
+    "is_new": false
+  },
+  {
+    "id": "ENVI-2026-7-Restoration-Responsibility-in-a-Dynamic-",
+    "title": "Restoration Responsibility in a Dynamic Game of Deforestation, Production, and Pollution Accumulation",
+    "journal": "Environmental & Resource Economics",
+    "publisher": "Springer",
+    "authors": [
+      "Fouad El Ouardighi",
+      "Giorgio Gnecco",
+      "Eugene Khmelnitsky",
+      "Marcello Sanguineti"
+    ],
+    "doi": "10.1007/s10640-026-01096-z",
+    "link": "https://doi.org/10.1007/s10640-026-01096-z",
+    "volume": "89",
+    "issue": "7",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7",
     "is_new": true
   },
   {
@@ -1020,7 +1939,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-7-Director-Appointments--Boardroom-Network",
@@ -1041,7 +1960,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-Economic-Assessment-of-the-Role-of-Nucle",
@@ -1062,7 +1981,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-How-Much-Energy-Do-We-Need-to-Live-Decen",
@@ -1082,7 +2001,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-Elasticity-in-CES-Production-Functions--",
@@ -1103,7 +2022,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-Time-is-Money--The-Social-Benefits-of-Ti",
@@ -1124,7 +2043,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-Book-Review--Sustainable-Aviation-Fuel-a",
@@ -1143,7 +2062,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-Energy-Efficiency-Labeling-and-Household",
@@ -1165,7 +2084,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-On-the-Rebound--How-Combined-Cycle-Power",
@@ -1184,7 +2103,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-Are-Heavy-Duty-Vehicles-at-Crossroads--A",
@@ -1204,7 +2123,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-Do-Power-Markets-Promote-Decarbonization",
@@ -1225,7 +2144,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-Book-Review--Energy-Trading-and-Risk-Man",
@@ -1244,7 +2163,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-Welfare-Impact-of-Virtual-Trading-on-Who",
@@ -1267,7 +2186,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-Book-Review--Sustainability-Economics-Zh",
@@ -1286,7 +2205,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-9-Pore-Wall-Engineered-Covalent-Organic-Fr",
@@ -1566,7 +2485,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-30",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JAER-2026-6-29-The-General-Equilibrium-Effects-of-the-S",
@@ -1585,7 +2504,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-29",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-27-Toward-a-Low-Energy-Direct-Air-Capture-C",
@@ -1628,7 +2547,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-26",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-26-Pyrogenic-Carbon-Structures-Determined-E",
@@ -2141,7 +3060,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-24-Intercity-inequality-in-carbon-emission-",
@@ -2168,7 +3087,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-24-Intercity-carbon-transfers-from-vehicle-",
@@ -2187,7 +3106,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-6-24-Are--100--Renewable--Electricity-Claims-",
@@ -2747,7 +3666,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-19",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-19-Divergent-surface-urban-heat-island-resp",
@@ -2773,7 +3692,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-19",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-19-Advancing-a-biocultural-vision-for-Nusan",
@@ -2800,7 +3719,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-19",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-19-Rethinking-urban-nature-as-technonature",
@@ -2821,7 +3740,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-19",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-6-19-A-Unified-Life-Cycle-Impact-Assessment-F",
@@ -3460,7 +4379,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-16-City-racial-segregation-statistics-are-r",
@@ -3481,7 +4400,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-6-16-Urban-congestion-relief-experiments-thro",
@@ -3511,7 +4430,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-6-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "REEP-2026-6-16-The-Impact-of-Experiments-on-Environment",
@@ -6540,6 +7459,243 @@
     "is_new": false
   },
   {
+    "id": "NATU-2026-07-10-Author-Correction--Strong-and-recyclable",
+    "title": "Author Correction: Strong and recyclable bio-derived poly(ester amide) hot-melt adhesive",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Xin Liu",
+      "Katherine L. Harry",
+      "Yucheng Zhao",
+      "Emma M. Rettner",
+      "Joel Miscall",
+      "Nicholas A. Rorrer",
+      "Garret M. Miyake"
+    ],
+    "doi": "10.1038/s41893-026-01904-w",
+    "link": "https://www.nature.com/articles/s41893-026-01904-w",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Sustainability, Published online: 10 July 2026; doi:10.1038/s41893-026-01904-wAuthor Correction: Strong and recyclable bio-derived poly(ester amide) hot-melt adhesive",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-10",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-10-Future-flood-risk-concentration-for-resi",
+    "title": "Future flood risk concentration for residents near small rivers across the USA",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Ruijie Jiang",
+      "Hui Lu",
+      "Deliang Chen",
+      "Kun Yang",
+      "Dai Yamazaki",
+      "Hiroshi Cho",
+      "Gang Zhao",
+      "Jiahua Wei",
+      "Fuqiang Tian",
+      "Dabo Guan"
+    ],
+    "doi": "10.1038/s41893-026-01896-7",
+    "link": "https://www.nature.com/articles/s41893-026-01896-7",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Sustainability, Published online: 10 July 2026; doi:10.1038/s41893-026-01896-7Climate change is expected to intensify river flooding, yet small rivers are often overlooked in large-scale risk assessments. A study now projects that residents along small rivers in the USA face the highest future flood risk and the largest defence-investment needs by 2050.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-10",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-08-Urban-water-affordability-crisis-exacerb",
+    "title": "Urban water affordability crisis exacerbated by climate change",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Jennifer Skerker",
+      "Christian Klassert",
+      "Baptiste Francois",
+      "Aniket Verma",
+      "Casey Brown",
+      "Sarah Fletcher"
+    ],
+    "doi": "10.1038/s41893-026-01890-z",
+    "link": "https://www.nature.com/articles/s41893-026-01890-z",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Sustainability, Published online: 08 July 2026; doi:10.1038/s41893-026-01890-zWater affordability is a growing challenge, but how climate change may worsen it through costly infrastructure adaptation remains unclear. This study models climate-driven water affordability in Santa Cruz, California, finding that climate change alone could double water bills by mid-century.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-08",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-08-Co-benefit-premiums-can-enhance-nature-b",
+    "title": "Co-benefit premiums can enhance nature-based climate solutions",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Jacob Hochard",
+      "James T. Erbaugh",
+      "Teevrat Garg",
+      "Nino Abashidze",
+      "Stefanie Simpson",
+      "Samuel Nonemaker",
+      "Lindsey Smart",
+      "Wai Yan Siu",
+      "Stuart Hamilton",
+      "Yuta J. Masuda"
+    ],
+    "doi": "10.1038/s41558-026-02690-1",
+    "link": "https://www.nature.com/articles/s41558-026-02690-1",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Climate Change, Published online: 08 July 2026; doi:10.1038/s41558-026-02690-1Carbon markets reward the climate mitigation benefits of nature-based solutions but rarely value their broader societal impacts. Creating markets for verified co-benefits, such as coastal protection and biodiversity, could redirect investment towards projects that deliver larger gains for both people and climate.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-08",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-07-Seals-in-changing-seas-dive-longer",
+    "title": "Seals in changing seas dive longer",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Tegan Armarego-Marriott"
+    ],
+    "doi": "10.1038/s41558-026-02703-z",
+    "link": "https://www.nature.com/articles/s41558-026-02703-z",
+    "volume": "16",
+    "issue": "7",
+    "pages": "754-754",
+    "abstract": "Nature Climate Change, Published online: 07 July 2026; doi:10.1038/s41558-026-02703-zSeals in changing seas dive longer",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-07",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-07-Roots-respond-to-phosphorus-limitation",
+    "title": "Roots respond to phosphorus limitation",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Alyssa Findlay"
+    ],
+    "doi": "10.1038/s41558-026-02701-1",
+    "link": "https://www.nature.com/articles/s41558-026-02701-1",
+    "volume": "16",
+    "issue": "7",
+    "pages": "754-754",
+    "abstract": "Nature Climate Change, Published online: 07 July 2026; doi:10.1038/s41558-026-02701-1Roots respond to phosphorus limitation",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-07",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-07-Female-climate-leadership",
+    "title": "Female climate leadership",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Lingxiao Yan"
+    ],
+    "doi": "10.1038/s41558-026-02704-y",
+    "link": "https://www.nature.com/articles/s41558-026-02704-y",
+    "volume": "16",
+    "issue": "7",
+    "pages": "754-754",
+    "abstract": "Nature Climate Change, Published online: 07 July 2026; doi:10.1038/s41558-026-02704-yFemale climate leadership",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-07",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-07-Shifts-in-experiencing-downpours",
+    "title": "Shifts in experiencing downpours",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Jasper Franke"
+    ],
+    "doi": "10.1038/s41558-026-02702-0",
+    "link": "https://www.nature.com/articles/s41558-026-02702-0",
+    "volume": "16",
+    "issue": "7",
+    "pages": "754-754",
+    "abstract": "Nature Climate Change, Published online: 07 July 2026; doi:10.1038/s41558-026-02702-0Shifts in experiencing downpours",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-07",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-07-Responsible-carbon-accounting",
+    "title": "Responsible carbon accounting",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [],
+    "doi": "10.1038/s41558-026-02707-9",
+    "link": "https://www.nature.com/articles/s41558-026-02707-9",
+    "volume": "16",
+    "issue": "7",
+    "pages": "743-743",
+    "abstract": "Nature Climate Change, Published online: 07 July 2026; doi:10.1038/s41558-026-02707-9Carbon accounting shapes how climate responsibility is allocated, and expanding existing frameworks could provide a stronger basis for effective and equitable climate action.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-07",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-07-Nepal-s-swift-embrace-of-electric-vehicl",
+    "title": "Nepal’s swift embrace of electric vehicles",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Neelima Vallangi"
+    ],
+    "doi": "10.1038/s41558-026-02588-y",
+    "link": "https://www.nature.com/articles/s41558-026-02588-y",
+    "volume": "16",
+    "issue": "7",
+    "pages": "863-863",
+    "abstract": "Nature Climate Change, Published online: 07 July 2026; doi:10.1038/s41558-026-02588-yThe rapid electrification of Nepal’s automobile sector in just five years shows how a robust mix of policies and incentives can catapult climate action.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-07",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-07-Future-proofing-interpretations-of-the-P",
+    "title": "Future-proofing interpretations of the Paris Agreement’s limit of well below 2 °C",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Robin D. Lamboll",
+      "Joeri Rogelj"
+    ],
+    "doi": "10.1038/s41558-026-02685-y",
+    "link": "https://www.nature.com/articles/s41558-026-02685-y",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Climate Change, Published online: 07 July 2026; doi:10.1038/s41558-026-02685-yHere the authors show that a common interpretation of the Paris Agreement’s ‘well below 2° C’ target is changing with time, which could lead to higher overall warming. They propose that using median temperatures instead of probability ranges is more robust.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-07",
+    "is_new": true
+  },
+  {
     "id": "NATU-2026-07-02-Increased-dengue-transmission-following-",
     "title": "Increased dengue transmission following highway paving in the Peruvian Amazon",
     "journal": "Nature Sustainability",
@@ -6567,7 +7723,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-02",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-01-Publisher-Correction--Multi-centennial-r",
@@ -6588,7 +7744,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-01",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-06-30-Warming-dominates-over-circulation-slowd",
@@ -6605,7 +7761,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-06-30",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-06-30-Uncovering-the-unequal-geography-of-clim",
@@ -6624,7 +7780,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-06-30",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-06-30-Residual-emissions-may-perpetuate-commun",
@@ -6651,7 +7807,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-06-30",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-06-29-A-campus-sustainability-journey",
@@ -6670,7 +7826,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-06-29",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-06-29-Biodiversity-recovery-is-slow-following-",
@@ -6718,7 +7874,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-06-29",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-06-26-Fast-solvation-restructuring-accelerates",
@@ -11210,6 +12366,1881 @@
     "theme": "green",
     "publication_date": "2026-03-11",
     "is_new": false
+  },
+  {
+    "id": "JEEM-0000-Quota-regulation-under-corruption---Gran",
+    "title": "Quota regulation under corruption – Grand, petty and the cut-money culture",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Ayushi Choudhary",
+      "Rupayan Pal"
+    ],
+    "doi": "10.2139/ssrn.5360003",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001105?dgcid=rss_sd_all",
+    "volume": "139",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "JEEM-0000-Voter-preferences--party-politics-and-en",
+    "title": "Voter preferences, party politics and environmental policy reform",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Martin Adler",
+      "Stefanie Peer",
+      "Antonio Russo"
+    ],
+    "doi": "10.65864/5uoh0vekhf",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001099?dgcid=rss_sd_all",
+    "volume": "139",
+    "issue": "",
+    "pages": "",
+    "abstract": "Policymakers frequently implement environmental policies that are less ambitious than what voters would prefer. We document this gap using findings from previous research as well as evidence from climate policy in Austria's transport sector. To account for this pattern, we develop a model in which political parties compete with electoral platforms that involve multiple policy dimensions. When voters place greater weight on a primary issue -such as fiscal policy - than on environmental policy, we show that parties may refrain from proposing environmental reforms, even when these reforms enjoy broad public support. This dynamic arises once the primary issue becomes sufficiently salient to voters. We then examine potential ways to overcome this policy inertia, including the use of direct democratic instruments (e.g., referendums) and the delegation of environmental policy decisions from national to regional governments.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "JEEM-0000-The-welfare-impacts-of-carbon-taxes-and-",
+    "title": "The welfare impacts of carbon taxes and labels on food demand",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Marco Tomasi",
+      "Michela Faccioli",
+      "Carlo Fezzi",
+      "Ian J. Bateman"
+    ],
+    "doi": "10.1016/j.jeem.2026.103387",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001075?dgcid=rss_sd_all",
+    "volume": "139",
+    "issue": "",
+    "pages": "103387",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "JEEM-0000-Technology--enforcement-resources-alloca",
+    "title": "Technology, enforcement resources allocation, and environmental performance",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Shuying Mi",
+      "Bing Zhang",
+      "Mengdi Liu"
+    ],
+    "doi": "10.1016/j.jeem.2026.103388",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001087?dgcid=rss_sd_all",
+    "volume": "139",
+    "issue": "",
+    "pages": "103388",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "JEEM-0000-Impact-of-water-quality-regulation-on-th",
+    "title": "Impact of water quality regulation on the agricultural economy in China",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Ding Li",
+      "Ziran Li",
+      "Shuai Shao",
+      "Chenxi Yu",
+      "Wendong Zhang"
+    ],
+    "doi": "10.2139/ssrn.5291196",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001002?dgcid=rss_sd_all",
+    "volume": "139",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "JEEM-0000-Heterogeneous-effects-of-weather-shocks-",
+    "title": "Heterogeneous effects of weather shocks on firm economic performance",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Romano Tarsia"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001130?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "JEEM-0000-Protecting-the-environment--On-the-inter",
+    "title": "Protecting the environment: On the interplay between voluntary contributions and public policy",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Andrei Kalk"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001129?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "JEEM-0000-PFAS-contamination-disclosures-and-decli",
+    "title": "PFAS contamination disclosures and declining residential land prices in polluted areas of Japan",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "MingYao Wang"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001117?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Carbon-leakage-and-carbon-tax-differenti",
+    "title": "Carbon leakage and carbon tax differentiation: Evidence from a developing economy",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Duy Chinh Nguyen",
+      "Nhat Duy Lai"
+    ],
+    "doi": "10.1016/j.eneco.2026.109502",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003816?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109502",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Are-all-COPs-busted--The-role-of-climate",
+    "title": "Are all COPs busted? The role of climate policy events for carbon pricing in compliance and voluntary markets",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Patrick Behr",
+      "Riccardo Cosenza",
+      "Eric Nowak",
+      "Papa Orgen"
+    ],
+    "doi": "10.1016/j.eneco.2026.109465",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003440?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109465",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Climate-sensitivity-of-the-Energy-Securi",
+    "title": "Climate sensitivity of the Energy Security Index in China's prefecture-level cities: Identification and validation of nonlinear impacts from temperature and rainfall",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Chien-Chiang Lee",
+      "Jinyang Zou"
+    ],
+    "doi": "10.1016/j.eneco.2026.109494",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003737?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109494",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Carbon-emissions-and-financial-flexibili",
+    "title": "Carbon emissions and financial flexibility: International evidence",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Chien-Chiang Lee",
+      "Chih-Wei Wang",
+      "Tsai-Yun Hu",
+      "Weizheng Lin",
+      "Ai Ngoc Nhan Le"
+    ],
+    "doi": "10.1016/j.eneco.2026.109501",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003804?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109501",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Higher-order-moment-connectedness-betwee",
+    "title": "Higher-order moment connectedness between green cryptocurrencies and energy markets: The role of climate policy uncertainty",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "HaiFeng Wang",
+      "Qin Long",
+      "Xi Deng",
+      "Bangzhu Zhu",
+      "DengDeng Xiao"
+    ],
+    "doi": "10.1016/j.eneco.2026.109464",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003439?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109464",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-The-value-of-dispatchability-and-earning",
+    "title": "The value of dispatchability and earnings-at-risk of electricity generators in the energy transition",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Lin Han",
+      "Nino Kordzakhia",
+      "Stefan Trück"
+    ],
+    "doi": "10.1016/j.eneco.2026.109458",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003373?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109458",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Lighting-up-the-future--The-long-term-ef",
+    "title": "Lighting up the future: The long-term effects of preschool exposure to electrification on female employment in rural China",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Weihua Yu",
+      "Zengyang Yu",
+      "Xin Yao"
+    ],
+    "doi": "10.1016/j.eneco.2026.109496",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003750?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109496",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-The-effects-and-financial-impacts-of-wil",
+    "title": "The effects and financial impacts of wildfire smoke on solar photovoltaic power production in Alberta, Canada",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Samantha M. Treacy",
+      "Alexandra B. Moura"
+    ],
+    "doi": "10.2139/ssrn.5213774",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003610?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Testing-climate-NGFS-scenarios-through-t",
+    "title": "Testing climate NGFS scenarios through the lens of a large-scale ABM for the Italian economy",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Michele Catalano",
+      "Jacopo Di Domenico",
+      "Luca Riccetti"
+    ],
+    "doi": "10.1016/j.eneco.2026.109489",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003683?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109489",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Public-preferences-for-energy-sources-in",
+    "title": "Public preferences for energy sources in Italy",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Peio Alcorta",
+      "Petr Mariel",
+      "Jürgen Meyerhoff",
+      "Giovanni Signorello",
+      "Maria De Salvo"
+    ],
+    "doi": "10.1016/j.eneco.2026.109484",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003634?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109484",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-The-impact-of-industrial-opt-out-from-ut",
+    "title": "The impact of industrial opt-out from utility sponsored energy efficiency programs",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Yu Ma",
+      "Gale Boyd",
+      "Matthew Doolin",
+      "Jennifer Weiss"
+    ],
+    "doi": "10.1016/j.eneco.2026.109491",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003701?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109491",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Does-income-moderate-the-carbon-abatemen",
+    "title": "Does income moderate the carbon abatement impact of renewable energy? A global analysis of pooled and source-specific renewables, 1996–2023",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Muhammad Fahad Khan Israr",
+      "Aurora A.C. Teixeira",
+      "Isabel Soares"
+    ],
+    "doi": "10.1016/j.eneco.2026.109493",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003725?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109493",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Severe-weather-and-financial--in-stabili",
+    "title": "Severe weather and financial (in)stability",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Claudia Foroni",
+      "Paolo Gelain",
+      "Marco Lorusso",
+      "Massimiliano Marcellino"
+    ],
+    "doi": "10.1016/j.eneco.2026.109475",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003543?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109475",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Navigating-uncertainty--Interconnections",
+    "title": "Navigating uncertainty: Interconnections among carbon futures, geopolitical risk, and US energy markets",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Ameet Kumar Banerjee",
+      "Ahmet Sensoy",
+      "Molla Ramizur Rahman"
+    ],
+    "doi": "10.1016/j.eneco.2026.109472",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003518?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109472",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-European-electricity-prices-in-times-of-",
+    "title": "European electricity prices in times of multiple crises",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Mathias Mier"
+    ],
+    "doi": "10.1016/j.eneco.2026.109481",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003609?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "109481",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Energy-use-rights-trading-policy--energy",
+    "title": "Energy use rights trading policy, energy structure optimization and energy low-carbonization transformation: Evidence from China",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Xuanxuan Jin",
+      "Xin Huang",
+      "Zhengxin Wang"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003695?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Environmental-tax-shocks-and-economic-gr",
+    "title": "Environmental tax shocks and economic growth: Global evidence from local projections",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "João Tovar Jalles",
+      "Alexandra Campmas"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003671?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Reciprocal-tariffs-will-increase-global-",
+    "title": "Reciprocal tariffs will increase global emission: Evidence and numerical simulation results",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Chunding LI",
+      "Meng LI",
+      "Jing LIU",
+      "Qiyuan XU"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003415?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Regulated-correlations---Climate-policy-",
+    "title": "Regulated correlations — Climate policy and investment risks",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Menglu Neupert-Zhuang",
+      "Oliver Schenker"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003555?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Do-investors-price-physical-climate-risk",
+    "title": "Do investors price physical climate risk? An analysis of weather-related power outages across the United States",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Mert Demir",
+      "Cem O. Karataş",
+      "Terrence F. Martell"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003452?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Policy-stringency-and-cost-effective-str",
+    "title": "Policy stringency and cost-effective strategies for low-carbon transition: A sequential conditional robust data envelopment analysis",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Zhuhong Gao",
+      "Bin Su",
+      "Chao An",
+      "Peng Zhou"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003622?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-When-presidents-make-the-news--do-crude-",
+    "title": "When presidents make the news, do crude oil markets listen? An LLM-driven analysis",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Fernando Palao",
+      "Ángel Pardo",
+      "Marta Roig"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003592?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-The-impact-of-liquidity-on-volatility-an",
+    "title": "The impact of liquidity on volatility and price discovery: Evidence from China and international crude oil futures",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Haoyu Shi",
+      "Xu Zheng"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003476?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Gas-distribution-networks-post-unbundlin",
+    "title": "Gas distribution networks post unbundling: Exploring compactness beyond scale and density",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Alberto Cavaliere",
+      "Giovanni Crea",
+      "Rocco Mosconi"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S014098832600366X?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Climate-change-induced-stressors-and-pow",
+    "title": "Climate change-induced stressors and power system resiliency",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Joseph M. Perla",
+      "Karen Fisher-Vanden",
+      "Ian Sue Wing",
+      "Mort Webster",
+      "Richard B. Lammers",
+      "Vijay Kumar"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003658?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Macroeconomic-implications-of-large-scal",
+    "title": "Macroeconomic implications of large-scale productivity shocks",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Weifeng Larry Liu",
+      "Warwick J. McKibbin",
+      "Adele C. Morris",
+      "Peter J. Wilcoxen"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003646?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Multi-objective-optimization-of-artifici",
+    "title": "Multi-objective optimization of artificial neural networks using Fast NSGA-II for electricity demand forecasting",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Imane Ihsane",
+      "Ahmed Nait Chabane",
+      "M’hammed Sahnoun"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003488?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Benchmark-pricing-and-storage-valuation-",
+    "title": "Benchmark pricing and storage valuation: Investigating the link between pricing dynamics and market fluctuations",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Jennifer I. Considine",
+      "Philipp Galkin",
+      "Carlo Andrea Bollino",
+      "Abdullah Al Dayel"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003506?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-On-high-quality-development-and-two-tier",
+    "title": "On high-quality development and two-tier stochastic frontier analysis",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Alecos Papadopoulos",
+      "Christopher F. Parmeter",
+      "Kevin Sterling"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003427?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Speculative-price-dynamics-in-a-cobweb-t",
+    "title": "Speculative price dynamics in a cobweb-type oil market model",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Laura Gardini",
+      "Davide Radi",
+      "Iryna Sushko",
+      "Frank Westerhoff"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003579?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Do-institutions-mitigate-climate-risk-in",
+    "title": "Do institutions mitigate climate risk in energy systems? Evidence from the energy trilemma",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Siraprapa Yosthongngam",
+      "Roengchai Tansuchat",
+      "Woraphon Yamaka"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003580?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Profit-enhancing-emissions-taxes-in-near",
+    "title": "Profit-enhancing emissions taxes in near-zero-emissions industries",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Kosuke Hirose",
+      "Akifumi Ishihara",
+      "Toshihiro Matsumura"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003403?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Has-China-s-national-big-data-comprehens",
+    "title": "Has China's national big data comprehensive pilot zone reduced corporate carbon emissions? A quasi-natural experiment based on double machine learning",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Xinyu Liu",
+      "Zheng Li",
+      "Lin Kong",
+      "Yue Wang",
+      "Qianqian Gao"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S014098832600352X?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Value-of-incidental-heat-in-buildings",
+    "title": "Value of incidental heat in buildings",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Hamed Ghoddusi"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003397?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Energy-subsidy-removal-and-carbon-taxati",
+    "title": "Energy subsidy removal and carbon taxation in Egypt: Economic and distributional impacts",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Govinda R. Timilsina",
+      "Samuel Sebsibie"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S014098832600349X?dgcid=rss_sd_all",
+    "volume": "160",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Green-bonds-and-the-energy-transition--F",
+    "title": "Green bonds and the energy transition: From instrumental use to intrinsic value",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Peng Zhou",
+      "Wenjie Ding",
+      "Khelifa Mazouz",
+      "Shijie Jin"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003828?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-The-impact-of-energy-price-shocks-on-US-",
+    "title": "The impact of energy price shocks on US local industries: A state-level analysis",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Minsu Kim",
+      "Stephan J. Goetz"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003798?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Dynamic-investment--subsidies--and-welfa",
+    "title": "Dynamic investment, subsidies, and welfare effects of rural rooftop photovoltaics: A bilateral decision analysis in rural China",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Zenghui Chao",
+      "Wenhao Gu",
+      "Wenyu Fan",
+      "Zhenzhi Wang",
+      "Jun Zhang"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003853?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Persistent-and-transient-inefficiency-in",
+    "title": "Persistent and transient inefficiency in China’s provincial energy demand: A four-component stochastic frontier model",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Jessica Wai Yin Leung",
+      "Puguang Nie",
+      "Russell Smyth",
+      "Lin Zhang",
+      "Quanda Zhang",
+      "Xibin Zhang"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003774?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-How-customer-geographic-dispersion-drive",
+    "title": "How customer geographic dispersion drives green innovation? Evidence from Chinese listed firms",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Qian Liu",
+      "Han Liu",
+      "Libin Qin"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003762?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Asymmetric-fuel-demand-in-the-UK-industr",
+    "title": "Asymmetric fuel demand in the UK industrial sectors",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Akinsehinwa Sharimakin",
+      "Morakinyo O. Adetutu"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S014098832600383X?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Beyond-money--Homeowners--preferences-fo",
+    "title": "Beyond money: Homeowners’ preferences for the timing and application support of energy retrofit incentives",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Shutong He",
+      "Queena K. Qian"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003713?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Carbon-footprint-of-bank-loans-and-bank-",
+    "title": "Carbon footprint of bank loans and bank lending: Global evidence using Bayesian approach",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Duy Khanh Le"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003786?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Subsidies--information--and-energy-effic",
+    "title": "Subsidies, information, and energy-efficient cookstove adoption – A natural field experiment in rural Ethiopia",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Mandy Malan",
+      "Maarten Voors",
+      "Jörg Ankel-Peters",
+      "Selam J. Seje",
+      "Lotte Heuberger",
+      "Dawud Seid",
+      "Abiyot Mitiku"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003531?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Macroeconomic-and-social-impacts-of-Nige",
+    "title": "Macroeconomic and social impacts of Nigeria's net-zero development pathways: A hybrid model analysis",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Chukwumerije Okereke",
+      "Chukwuemeka Emenekwe",
+      "Uchenna Nnamani",
+      "Nnaemeka Emodi",
+      "Ogheneruona Diemuodeke",
+      "Kesiena Owebor",
+      "Bruno Michoud",
+      "Frédéric Ghersi"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003464?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-From-disasters-to-volatility--Extreme-cl",
+    "title": "From disasters to volatility: Extreme climate events and European financial markets",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Alessandra Canepa",
+      "Bogdan Dima",
+      "Ştefana Maria Dima"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326003567?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Geopolitical-conflict-and-firms--energy-",
+    "title": "Geopolitical conflict and firms’ energy transition: A quasi-natural experiment from the Russia–Ukraine conflict",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Yizi Wang",
+      "Jie Li",
+      "Dongyang Zhang"
+    ],
+    "doi": "10.1016/j.enpol.2026.115491",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004258?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115491",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Dynamic-and-synergic-effects-of-energy-t",
+    "title": "Dynamic and synergic effects of energy transition, carbon policy and trade conflicts: A mixed-frequency approach",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Jinghao Kang",
+      "Sicheng Li",
+      "Jun Wang",
+      "Yifei Lv"
+    ],
+    "doi": "10.1016/j.enpol.2026.115488",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004222?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115488",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Connecting-Europe-through-hydrogen--Cost",
+    "title": "Connecting Europe through hydrogen: Cost allocation analysis of cross-border pipeline coalitions under varying subsidy policies",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Emmanuel Kwesi Arthur",
+      "Sofía De-León Almaraz",
+      "Tamás Solymosi"
+    ],
+    "doi": "10.1016/j.enpol.2026.115492",
+    "link": "https://www.sciencedirect.com/science/article/pii/S030142152600426X?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115492",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Balancing-climate-ambition-and-price-sta",
+    "title": "Balancing climate ambition and price stability: The case of South Africa’s carbon tax",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Abraham Lartey"
+    ],
+    "doi": "10.1016/j.enpol.2026.115483",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004179?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115483",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Do-renewable-portfolio-standards-moderat",
+    "title": "Do renewable portfolio standards moderate the emissions-growth relationship? Evidence from U.S. States, 2001–2022",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Faruque As Sunny",
+      "Steven R. Miller"
+    ],
+    "doi": "10.1016/j.jenvman.2021.112261",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004131?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "112261",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Power-and-parity--Viewing-energy-poverty",
+    "title": "Power and parity: Viewing energy poverty from the lens of gender inequality in the developing countries",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Tanaya Saha"
+    ],
+    "doi": "10.1016/j.enpol.2026.115486",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004209?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115486",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-What-money-can-t-buy--Company-experience",
+    "title": "What money can’t buy: Company experience and community resistance to renewable energy infrastructure",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Ishana Ratan",
+      "José Vega-Araújo"
+    ],
+    "doi": "10.1016/j.enpol.2026.115473",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004076?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115473",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Turning-rejection-into-reflection--Explo",
+    "title": "Turning rejection into reflection: Exploring factors influencing community acceptance of floating solar photovoltaic systems in the Netherlands",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Henriëtte Tulp",
+      "Carel Dieperink"
+    ],
+    "doi": "10.1016/j.enpol.2026.115481",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004155?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115481",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Iran-s-energy-paradox--sanctions--extern",
+    "title": "Iran's energy paradox: sanctions, external conflicts, and the governance trap",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Abbasali Abouei Mehrizi",
+      "Omid Mahian",
+      "Mohammad Reza Farzanegan",
+      "Ali Hashemizadeh"
+    ],
+    "doi": "10.1016/j.enpol.2026.115480",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004143?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115480",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Supporting-equitable-energy-transitions-",
+    "title": "Supporting equitable energy transitions in inequitable communities: Offshore wind in Nova Scotia, Canada",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Mohammad Nasir Tighsazzadeh",
+      "Andrés M. Cisneros-Montemayor"
+    ],
+    "doi": "10.1016/j.enpol.2026.115478",
+    "link": "https://www.sciencedirect.com/science/article/pii/S030142152600412X?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115478",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Enhancing-sustainability-in-large-scale-",
+    "title": "Enhancing sustainability in large-scale multi-microgrid systems: A framework for renewable integration and blockchain-enabled peer-to-peer energy trading",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Thi Huynh Anh Le",
+      "Jatinder N.D. Gupta",
+      "Vincent F. Yu"
+    ],
+    "doi": "10.1016/j.enpol.2026.115487",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004210?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115487",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Japan-s-megasolar-projects--How-governme",
+    "title": "Japan's megasolar projects: How government policy creates incentives for forced-labor risks in solar energy supply chains",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Eijiro Kakihara",
+      "Peter Dauvergne"
+    ],
+    "doi": "10.1016/j.enpol.2026.115482",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004167?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115482",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Tiers--thresholds--and-trade-offs--Polic",
+    "title": "Tiers, thresholds, and trade-offs: Policy design for U.S. 45V hydrogen credits",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Woojae Shin",
+      "Han Ho Song"
+    ],
+    "doi": "10.1016/j.enpol.2026.115411",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003459?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "115411",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Low-carbon-governance-and-urban-energy-T",
+    "title": "Low-carbon governance and urban energy Transition: A quasi-natural experiment on China's dual-pilot policies from the perspective of geopolitical risk",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Zijie Wang",
+      "Xiaowei Ma",
+      "Huijie Yang",
+      "László Vasa",
+      "Kaouther Chebbi",
+      "Loreta Isaraj"
+    ],
+    "doi": "10.1016/j.enpol.2026.115466",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004003?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "115466",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Energy-transition-minerals--Systemic-int",
+    "title": "Energy transition minerals: Systemic interdependence, market-specific dynamics, and the role of global risk factors in an evolving policy landscape",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Gideon Ndubuisi",
+      "Christian Urom",
+      "Ramzi Benkraiem"
+    ],
+    "doi": "10.1016/j.enpol.2026.115450",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003848?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "115450",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-The-cost-of-energy-transition--The-house",
+    "title": "The cost of energy transition: The household income shock of China's new energy demonstration city policy",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Ruochan Xiong",
+      "Banban Wang"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003915?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-From-signals-to-discipline--Benchmarking",
+    "title": "From signals to discipline: Benchmarking Vietnam's transport decarbonization against the Norwegian experience",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "LE Vu Uyen Phuong",
+      "Hoang Anh"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003988?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Obstructing-decarbonization-through-effi",
+    "title": "Obstructing decarbonization through efficiency: Gas utilities and demand side management politics in Canada",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Salma Elmallah",
+      "Laura Tozer"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003861?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Optimizing-biomass-and-electricity-alloc",
+    "title": "Optimizing biomass and electricity allocation through comparative advantage: extending the merit-order logic from cost to efficiency",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Jean-Baptiste Jarin",
+      "Michael Hamwi",
+      "Iban Lizarralde"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004118?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Contributions-of-post-Saro-Wiwa-NGO-led-",
+    "title": "Contributions of post-Saro-Wiwa NGO-led activism to environmental/energy justice and transition in the Niger Delta",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Obasanjo Joseph Oyedele",
+      "Mark C.J. Stoddart"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004106?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Renewable-energy-and-energy-security-und",
+    "title": "Renewable energy and energy security under geopolitical vulnerability: New evidence from fragile regions",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Azer Dilanchiev",
+      "Ibrahim Cutcu"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004040?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Electricity-marketization-and-power-gene",
+    "title": "Electricity marketization and power generation carbon emission intensity: A study based on a “U”-shaped relationship",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Yanzhao Zhang",
+      "Yuanying Chi",
+      "Yuxi Wu",
+      "Xingjia Yao"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003885?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Factors-affecting-citizens--willingness-",
+    "title": "Factors affecting citizens' willingness to invest in community solar parks: insights from a discrete choice experiment in Germany",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Marlene E. Noack",
+      "Wienke Köhler",
+      "Uwe Latacz-Lohmann"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003940?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-A-comparative-analysis-of-local-flexibil",
+    "title": "A comparative analysis of local flexibility markets in Europe: Market design, performance, and regulatory alignment",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Joseba Jimeno-Huarte",
+      "Elvira Fernandez-Herrero",
+      "Carlos Madina-Doñabeitia",
+      "Itxaso Aranzabal-Santamaria",
+      "Nerea Ruiz-Caramés"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004039?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-An-overview-of-prices-and-learning-rates",
+    "title": "An overview of prices and learning rates for Li-ion batteries",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Tom Kroon",
+      "Moniek Tromp",
+      "Bob van der Zwaan"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003502?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Increasing-block-pricing--household-grou",
+    "title": "Increasing block pricing, household group segmentation and distributional characteristics",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Fernando Navajas",
+      "Julian Puig"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S030142152600399X?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Green-deal--American-rules--The-hidden-c",
+    "title": "Green deal, American rules: The hidden costs of the U.S.–EU ‘Energy trade deal’ of July 2025",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Vincent D'Herbemont",
+      "Candice Roche",
+      "Louis-Marie Malbec",
+      "Emmanuel Hache"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004027?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Developing-effective-market-based-polici",
+    "title": "Developing effective market-based policies to incentivise fair and efficient European electricity transmission grid expansion",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Sam Vandezande",
+      "Richard Green",
+      "Raphael Slade"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003939?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Future-scenarios-for-the-benefit-of-batt",
+    "title": "Future scenarios for the benefit of battery storage in the German day-ahead electricity market",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Thomas Gottfried",
+      "Gernot Müller"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003952?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Assessing-green-hydrogen-support-mechani",
+    "title": "Assessing green hydrogen support mechanisms in coupled electricity and hydrogen markets under Cournot competition",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Luis Alberto Herrero Rozas",
+      "Fco Alberto Campos",
+      "José Villar"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526003964?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Evaluating-the-effectiveness-of-green-re",
+    "title": "Evaluating the effectiveness of green recovery measures on sectoral energy transition pathways and employment opportunities towards net zero: Evidence from the Greek National Recovery and Resilience Plan",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Nikos Kleanthis",
+      "Vassilis Stavrakas",
+      "Dimitris Papantonis",
+      "Alexandros Flamos"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004015?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Evolutionary-impacts-of-policy-instrumen",
+    "title": "Evolutionary impacts of policy instruments on photovoltaic module recycling: A systemic evaluation of long-term dynamics",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Menglu Wang",
+      "Jing Li"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004064?dgcid=rss_sd_all",
+    "volume": "217",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "RESO-0000-Optimizing-thinning-and-clearcuts-in-a-m",
+    "title": "Optimizing thinning and clearcuts in a market-level, age-structured forest model",
+    "journal": "Resource and Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Matti Laukkanen",
+      "Olli Tahvonen"
+    ],
+    "doi": "10.1016/j.reseneeco.2026.101585",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0928765526000345?dgcid=rss_sd_all",
+    "volume": "87",
+    "issue": "",
+    "pages": "101585",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "RESO-0000-Spillover-effects-of-an-environmental-ca",
+    "title": "Spillover effects of an environmental campaign on policy support: Within and between domains",
+    "journal": "Resource and Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Zihan Nie",
+      "Thong Q. Ho",
+      "Francisco Alpízar",
+      "Fredrik Carlsson",
+      "Pham Khanh Nam"
+    ],
+    "doi": "10.1016/j.reseneeco.2026.101584",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0928765526000333?dgcid=rss_sd_all",
+    "volume": "87",
+    "issue": "",
+    "pages": "101584",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "RESO-0000-Municipal-tax-incentives-and-solar-PV-ad",
+    "title": "Municipal tax incentives and solar PV adoption: Causal evidence from Catalonia",
+    "journal": "Resource and Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Lynn van Raalte",
+      "Jordi J. Teixidó"
+    ],
+    "doi": "10.1016/j.reseneeco.2026.101583",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0928765526000321?dgcid=rss_sd_all",
+    "volume": "87",
+    "issue": "",
+    "pages": "101583",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
   },
   {
     "id": "ENER-0000-The-impact-of-clean-coal-substitution-on",
