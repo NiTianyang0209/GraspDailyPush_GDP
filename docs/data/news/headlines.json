@@ -1,37 +1,13 @@
 {
-  "updated_at": "2026-07-19T16:42:52+08:00",
+  "updated_at": "2026-07-19T22:01:37+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "王毅分别会见印尼、莱索托、多米尼克客人",
-          "url": "http://politics.people.com.cn/n1/2026/0719/c1001-40763375.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "张国清赶赴重庆彭水县指导山体崩塌灾害现场搜救和应急处置工作",
-          "url": "http://politics.people.com.cn/n1/2026/0719/c1001-40763407.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "外交部发言人就英钢国有化问题答记者问",
-          "url": "https://world.people.com.cn/n1/2026/0719/c1002-40763378.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "“家书里的中国”主题活动启动",
-          "url": "http://society.people.com.cn/n1/2026/0719/c1008-40763389.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "读懂家书里的山河与情怀",
-          "url": "http://ent.people.com.cn/n1/2026/0719/c1012-40763400.html",
+          "title": "泰国总理阿努廷抵达北京",
+          "url": "http://world.people.com.cn/n1/2026/0719/c1002-40763662.html",
           "summary": "",
           "time": ""
         },
@@ -60,8 +36,32 @@
           "time": ""
         },
         {
-          "title": "重庆彭水：多方协同 全力搜救",
-          "url": "http://society.people.com.cn/n1/2026/0719/c1008-40763387.html",
+          "title": "世界人工智能合作组织未来将重点开展三方面工作",
+          "url": "http://world.people.com.cn/n1/2026/0719/c1002-40763668.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "中国代表队4名选手获第58届国际化学奥赛金牌",
+          "url": "http://edu.people.com.cn/n1/2026/0719/c1006-40763667.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "台“毒油”食安事件延烧 当局施政失能引众怒",
+          "url": "http://tw.people.com.cn/n1/2026/0719/c14657-40763657.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "重庆彭水，一场与时间赛跑的营救",
+          "url": "http://cq.people.com.cn/n2/2026/0719/c365401-41643365.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "全国“两优一先”风采｜刘芳：“叫我‘闺女书记’，我爱听”",
+          "url": "http://society.people.com.cn/n1/2026/0719/c1008-40763386.html",
           "summary": "",
           "time": ""
         }
@@ -72,14 +72,14 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "高技术制造业绽放澎湃动能",
-          "url": "https://www.news.cn/tech/20260719/dc1b5867a5b745b09f9494a8407a8075/c.html",
+          "title": "暑期旅游开启旺季模式 各地加大产品和服务供给",
+          "url": "https://www.news.cn/20260719/022c3ae4786141ff9686a538e8d3a0b8/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "暑期旅游开启旺季模式 各地加大产品和服务供给",
-          "url": "https://www.news.cn/20260719/022c3ae4786141ff9686a538e8d3a0b8/c.html",
+          "title": "全国“两优一先”风采录丨内蒙古满洲里市新开河镇二卡社区党支部：边境线上暖洋洋的大家庭",
+          "url": "https://www.news.cn/politics/20260719/31f563006bcd461d99249b876dc14414/c.html",
           "summary": "",
           "time": ""
         },
@@ -96,8 +96,8 @@
           "time": ""
         },
         {
-          "title": "中国中央歌剧院赴澳首站演出获成功",
-          "url": "https://www.news.cn/20260719/078eff77a71f495ba48bf8cceb45d99d/c.html",
+          "title": "陈茂波：香港将出台政策支持中小企业采用AI",
+          "url": "https://www.news.cn/gangao/20260719/8cebd647cb194f24ac320f84dcbf99c1/c.html",
           "summary": "",
           "time": ""
         },
@@ -114,20 +114,20 @@
           "time": ""
         },
         {
-          "title": "全国乒乓球锦标赛(双打)：马龙/许昕晋级男双决赛",
-          "url": "https://www.news.cn/photo/20260719/e11e0917e6d547b29622dba0615061ca/c.html",
+          "title": "马龙/许昕三夺乒乓球全锦赛男双冠军",
+          "url": "https://www.news.cn/sports/20260719/9799343b185a4f9fab16e35242bbb912/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国家开发银行原党委副书记、行长欧阳卫民被查",
-          "url": "https://www.news.cn/legal/20260719/eea1313cb5804586a98de91e64273a48/c.html",
+          "title": "新赛季乒超联赛迎扩军 赛制效仿混团",
+          "url": "https://www.news.cn/sports/20260719/e866d7dea52748ebaae0c9f1789f2b04/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "绵阳通报四川幼儿师范高等专科学校招聘调查情况",
-          "url": "https://www.news.cn/legal/20260719/2f003eb63c2b469fa23433e64ec3b33d/c.html",
+          "title": "黄金产业提质向新——中国国际黄金大会观察",
+          "url": "https://www.news.cn/fortune/20260719/13bf144280f84e328c46e4ffbaf91001/c.html",
           "summary": "",
           "time": ""
         }
@@ -150,8 +150,8 @@
           "time": ""
         },
         {
-          "title": "外交部答问英钢国有化：必要时将采取维权措施",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260718_3094152.shtml",
+          "title": "世界人工智能合作组织未来将重点开展三方面工作",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202607/t20260719_3094937.shtml",
           "summary": "",
           "time": ""
         },
