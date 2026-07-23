@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T22:41:26+08:00",
+  "updated_at": "2026-07-24T03:55:45+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
@@ -72,8 +72,14 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "王毅会见英国外交大臣、",
-          "url": "https://www.news.cn/politics/leaders/20260723/9513b01199c34ffcbaedd1fb9fea6313/c.html",
+          "title": "王毅会见白俄罗斯外长、",
+          "url": "https://www.news.cn/20260724/d2d5a9c0bf6a4c9285fda3dea6bb7056/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "乌兹别克斯坦外长",
+          "url": "https://www.news.cn/20260724/c57221b0b9094c28a7268272ff00f7ae/c.html",
           "summary": "",
           "time": ""
         },
@@ -122,12 +128,6 @@
         {
           "title": "中国数学家邓煜、王虹获得菲尔兹奖",
           "url": "https://www.news.cn/world/20260723/82d2307790e6440c97d4ef3fa4f60c46/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "大暑节气，这些地区为何高温不断",
-          "url": "https://www.news.cn/politics/20260723/7d8874f7e14a4e42a4d03c685dc61f3a/c.html",
           "summary": "",
           "time": ""
         }
