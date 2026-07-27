@@ -224,6 +224,30 @@
     "is_new": false
   },
   {
+    "id": "NATU-2026-7-8-Urban-water-affordability-crisis-exacerb",
+    "title": "Urban water affordability crisis exacerbated by climate change",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Jennifer Skerker",
+      "Christian Klassert",
+      "Baptiste Francois",
+      "Aniket Verma",
+      "Casey Brown",
+      "Sarah Fletcher"
+    ],
+    "doi": "10.1038/s41893-026-01890-z",
+    "link": "https://doi.org/10.1038/s41893-026-01890-z",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-8",
+    "is_new": true
+  },
+  {
     "id": "NATU-2026-7-8-Mitigation-of-temperature-induced-vegeta",
     "title": "Mitigation of temperature-induced vegetable price volatility in urban wholesale markets",
     "journal": "Nature Cities",
@@ -789,6 +813,1286 @@
     "is_new": false
   },
   {
+    "id": "NATU-2026-7-24-Energy-system-savings-largely-offset-the",
+    "title": "Energy system savings largely offset the costs of urban building energy efficiency improvements in China",
+    "journal": "Nature Cities",
+    "publisher": "Nature",
+    "authors": [
+      "Shangwei Liu",
+      "Xiangwen Fu",
+      "Liqun Peng",
+      "Siyue Guo",
+      "Denise L. Mauzerall"
+    ],
+    "doi": "10.1038/s44284-026-00475-3",
+    "link": "https://doi.org/10.1038/s44284-026-00475-3",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-24",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-24-Effects-of-Uber-and-Lyft-on-jobs--wages-",
+    "title": "Effects of Uber and Lyft on jobs, wages and GDP",
+    "journal": "Nature Cities",
+    "publisher": "Nature",
+    "authors": [
+      "Adam Koling",
+      "Jeremy Michalek",
+      "Daniel Armanios",
+      "Connor Forsythe",
+      "Akshaya Jha"
+    ],
+    "doi": "10.1038/s44284-026-00478-0",
+    "link": "https://doi.org/10.1038/s44284-026-00478-0",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Between 2010 and 2019, Uber and Lyft launched in hundreds of cities across the USA. Economic theory and prior literature, coupled with company claims, posit that ride-hailing increases job flexibility for drivers and mobility for passengers, thereby stimulating local economic activity. Here we test these claims by leveraging the staggered entry of Uber and Lyft across 167 service regions nationwide to estimate the aggregate effects on jobs, wages and regional GDP using difference-in-differences approaches that generate consistent estimates in the presence of heterogeneous treatment effects. We find that Uber and Lyft entry led to an increase in both regional GDP per capita and in seasonal, temporary or otherwise intermittent employment per working age population. We do not detect statistically significant effects on overall employment or earnings.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-24",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-24-Divergent-humidity-driven-growth-in-urba",
+    "title": "Divergent humidity-driven growth in urban air-conditioning energy demand under climate change",
+    "journal": "Nature Cities",
+    "publisher": "Nature",
+    "authors": [
+      "Xinchang ‘Cathy’ Li",
+      "Lei Zhao",
+      "Zhiwen Luo",
+      "Keith Oleson",
+      "Yifan Cheng",
+      "Xiaoxiong Xie",
+      "Alvin C. G. Varquez",
+      "Mitsuna Sekiya"
+    ],
+    "doi": "10.1038/s44284-026-00474-4",
+    "link": "https://doi.org/10.1038/s44284-026-00474-4",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Rapid urbanization and climate change are intensifying humid heat in cities, making air conditioning (AC) increasingly essential for both cooling and dehumidification. However, the evolving and spatially varied contribution of humidity to urban AC energy demand remains poorly understood, posing risks to climate-sensitive urban energy planning and building thermal design. Here, by coupling an updated urban building energy model with a global Earth system model, we project that urban dehumidification energy demand will rise by 47% globally under a high-emission scenario. Its contribution to total urban AC demand diverges markedly across regions owing to interacting changes in temperature and humidity that reshape city-specific building thermal design conditions. We further show that humidity amplifies the temperature sensitivity of urban AC demand across climate zones, leading to AC energy demand two to three times higher on humid days. These findings highlight the critical need to incorporate humidity dynamics into urban energy and infrastructure planning, particularly in rapidly urbanizing regions of the global south.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-24",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-24-Sacred-sites-as-refuges-for-native-plant",
+    "title": "Sacred sites as refuges for native plant diversity in an urbanized tropical landscape",
+    "journal": "Nature Cities",
+    "publisher": "Nature",
+    "authors": [
+      "Luc Schmid",
+      "Adrienne Grêt-Regamey",
+      "Hoby Nambinintsoa Nomenjanahary",
+      "Aro Vonjy Ramarosandratana",
+      "Harison Rabarison",
+      "Sariaka Ramamonjisoa",
+      "Tokiniaina Ramaroson",
+      "Johnson Gabriel Andrianantenaina",
+      "Michiel van Breugel"
+    ],
+    "doi": "10.1038/s44284-026-00489-x",
+    "link": "https://doi.org/10.1038/s44284-026-00489-x",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  In fragmented and intensively managed remnant urban green spaces, enabling natural regeneration is crucial to sustain ecosystem functioning and associated services. Natural regeneration therefore offers an important lens into ecological resilience in human-modified landscapes. Here we present one of the most comprehensive field-based assessments of urban plant diversity in the Afrotropics, comprising over 25,000 naturally regenerating woody plant individuals of 206 species (39% native) across 329 vegetation patches in Antananarivo, Madagascar. Landscape-level native species diversity declined with greater building complexity, density and socio-economic development, whereas exotic species showed no consistent associations with determinants of urban characteristics. Native species richness was highest in ‘sacred’ forest fragments, many of which contain historic remains dating back to pre-colonial times. Notably, seven of the ten most species-rich patches were located in such sites. Our findings highlight the potentially important role of these sites in sustaining native species diversity and indicate how socio-cultural factors can present both opportunities",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-24",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-23-On-the-relevance-of-post-growth-in-China",
+    "title": "On the relevance of post-growth in China",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Mengyu Li",
+      "Manfred Lenzen",
+      "Jason Hickel"
+    ],
+    "doi": "10.1038/s41893-026-01889-6",
+    "link": "https://doi.org/10.1038/s41893-026-01889-6",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-23-Research-priorities-for-addressing-globa",
+    "title": "Research priorities for addressing global absorbent hygiene product waste",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Elze Porte",
+      "Mark Miodownik"
+    ],
+    "doi": "10.1038/s41893-026-01903-x",
+    "link": "https://doi.org/10.1038/s41893-026-01903-x",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-23-The-politics-of-measuring-sustainability",
+    "title": "The politics of measuring sustainability progress and citizen science",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Dilek Fraisl"
+    ],
+    "doi": "10.1038/s41893-026-01899-4",
+    "link": "https://doi.org/10.1038/s41893-026-01899-4",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-23-Self-deploying-concrete-systems-for-low-",
+    "title": "Self-deploying concrete systems for low‑carbon urban construction",
+    "journal": "Nature Cities",
+    "publisher": "Nature",
+    "authors": [
+      "Wei Chen"
+    ],
+    "doi": "10.1038/s44284-026-00499-9",
+    "link": "https://doi.org/10.1038/s44284-026-00499-9",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-7-23-A-Dynamic-Model-of-Crack-Spreads",
+    "title": "A Dynamic Model of Crack Spreads",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Hamed Ghoddusi",
+      "Sadegh Navabi"
+    ],
+    "doi": "10.1177/01956574261467501",
+    "link": "https://doi.org/10.1177/01956574261467501",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Crack spreads are a central measure of refinery profitability, yet they are often treated as exogenous differences between crude-oil and refined-product prices. We develop a structural dynamic model in which crack spreads arise endogenously from refined-product demand, crude-supply conditions, convex utilization costs, refinery complexity, hard capacity constraints, and costly production adjustment. The model shows that crack-spread dynamics depend on the source of shocks and the degree of capacity pressure. Demand-driven episodes generate strong positive comovement between refined-product prices and crack spreads, while supply-driven episodes can produce weaker or offsetting relationships. Adjustment frictions further create negative short-run comovement between changes in utilization and changes in spreads. Numerical comparative statics from an illustrative implementation show how the model’s mechanisms operate under alternative volatility, adjustment-cost, and capacitytightness scenarios.\n                  \n                    JEL Classification:\n                    D21, Firm Behavior: Theory; D22, Firm Behavior: Empirical Analysis",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-23-Biodegradation-of----------------------s",
+    "title": "Biodegradation of\n                    <sup>13</sup>\n                    C-Labeled and Nonlabeled Aliphatic–Aromatic Polyesters in Compost: Advancing Assessments through Combined Respirometry and Residual Polyester Analysis",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Flora Wille",
+      "Kevin Kleemann",
+      "Yao Zhou",
+      "Madalina Jaggi",
+      "Stefano M. Bernasconi",
+      "Hannah Kleyer",
+      "Davide Ciccarese",
+      "Johannes Zimmer",
+      "Kai O. Siegenthaler",
+      "Martin Worch",
+      "Glauco Battagliarin",
+      "Andreas Künkel",
+      "Michael Sander"
+    ],
+    "doi": "10.1021/acs.est.6c00032",
+    "link": "https://doi.org/10.1021/acs.est.6c00032",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-23-Chronic-Kidney-Disease-Risk-Posed-by-1-E",
+    "title": "Chronic Kidney Disease Risk Posed by 1-Ethoxy-2,3-difluoro-4-(trans-4-propylcyclohexyl) Benzene (EDPrB): An AOP of mTOR-Mediated Autophagy Dysregulation",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Chenjiao Miao",
+      "Binwen Zhang",
+      "Wangyong Yu",
+      "Yanfei Li",
+      "Zheng Cao"
+    ],
+    "doi": "10.1021/acs.est.6c06697",
+    "link": "https://doi.org/10.1021/acs.est.6c06697",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-23-Dual-Stage-Membrane-Distillation-for-One",
+    "title": "Dual-Stage Membrane Distillation for One-Step Separation, Concentration of Volatile Fatty Acids, and Simultaneous Water Recovery from Wastewater",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Lingxi Xia",
+      "Qinghao Wu",
+      "You Zhou",
+      "Ruixue Zhao",
+      "Sijia Chen",
+      "Ziwei Liu",
+      "Xinran Meng",
+      "Nannan Zhang",
+      "Huan Liu",
+      "Yuanfeng Liu",
+      "Zihan Zhong",
+      "Xiaoqi Sun",
+      "Xia Huang",
+      "Xue Xia",
+      "Kuichang Zuo"
+    ],
+    "doi": "10.1021/acs.est.6c01981",
+    "link": "https://doi.org/10.1021/acs.est.6c01981",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-23-Iron-Rich-Clay-Minerals-Mediate-Abiotic-",
+    "title": "Iron-Rich Clay Minerals Mediate Abiotic Methane Formation through Distinct Fe Coordination Environments",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Ying Yan",
+      "Jianlong Zou",
+      "Hao Wang",
+      "Menghan Yu",
+      "Huaming Yang"
+    ],
+    "doi": "10.1021/acs.est.6c04020",
+    "link": "https://doi.org/10.1021/acs.est.6c04020",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-23-Microplastic-Pollution-Is-Associated-wit",
+    "title": "Microplastic Pollution Is Associated with Fragmentation and Environmental Sensitivity of Marine Planktonic Microbial Communities",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Rui Ma",
+      "Guanlin Guo",
+      "Chunhui Liu",
+      "Peng Deng",
+      "Xu Dong",
+      "Li Mu",
+      "Qian Qu",
+      "Xiangang Hu"
+    ],
+    "doi": "10.1021/acs.est.6c06158",
+    "link": "https://doi.org/10.1021/acs.est.6c06158",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-23-Carbon-Clues-to-Plastic-Biodegradation--",
+    "title": "Carbon Clues to Plastic Biodegradation: Capabilities, Limitations, and Interpretation of Stable Isotope Evidence",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Lei He",
+      "Dong-Feng Liu",
+      "Gengxin Zhang",
+      "Caide Huang",
+      "Deyi Hou",
+      "Yalei Zhang",
+      "Bo-Yu Peng",
+      "Shan-Shan Yang",
+      "Defeng Xing",
+      "Craig S. Criddle",
+      "Han-Qing Yu",
+      "Wei-Min Wu"
+    ],
+    "doi": "10.1021/acs.est.6c06651",
+    "link": "https://doi.org/10.1021/acs.est.6c06651",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-23-Three-Dimensional-Structural-and-Diurnal",
+    "title": "Three-Dimensional Structural and Diurnal Dynamics of NO\n                    <b>\n                      <sub>2</sub>\n                    </b>\n                    and HCHO by UAV Hyperspectral in Bangkok",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Tiliang Zou",
+      "Worapop Thongsame",
+      "Chonlada Bennett",
+      "Chengzhi Xing",
+      "Titaporn Supasri",
+      "Jeerasak Longmali",
+      "Wei Tan",
+      "Cheng Liu"
+    ],
+    "doi": "10.1021/acs.est.6c05199",
+    "link": "https://doi.org/10.1021/acs.est.6c05199",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-23-Atmospheric-Mixing-Controls-Air-Pollutio",
+    "title": "Atmospheric Mixing Controls Air Pollution Chemistry and Mitigation Efficacy in High-Latitude Cities",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Jonas Kuhn",
+      "Laura M. D. Heinlein",
+      "Meeta Cesler-Maloney",
+      "Michael O. Sunday",
+      "Fangzhou Guo",
+      "James H. Flynn",
+      "Allison Moon",
+      "Becky Alexander",
+      "William R. Simpson",
+      "Cort Anastasio",
+      "Jochen Stutz"
+    ],
+    "doi": "10.1021/acs.est.6c00181",
+    "link": "https://doi.org/10.1021/acs.est.6c00181",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-23",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-22-When-drought-meets-war-trauma",
+    "title": "When drought meets war trauma",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Elizabeth Frankenberg"
+    ],
+    "doi": "10.1038/s41893-026-01909-5",
+    "link": "https://doi.org/10.1038/s41893-026-01909-5",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-22-Culturalizing-sustainability",
+    "title": "Culturalizing sustainability",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Benno Werlen",
+      "Garry Jacobs",
+      "Gordon McBean",
+      "Paul Shrivastava",
+      "Olimpia Niglio",
+      "André Boeing",
+      "Joanne Kauffman",
+      "Raminder Kaur",
+      "Tadie Degie Yigzaw",
+      "Mira Sartika",
+      "Peter Neill",
+      "Zoltán Somhegyi"
+    ],
+    "doi": "10.1038/s41893-026-01898-5",
+    "link": "https://doi.org/10.1038/s41893-026-01898-5",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-22-Drought-amplifies-the-psychological-burd",
+    "title": "Drought amplifies the psychological burden of war",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Stefan Döring",
+      "Tobias Hecker",
+      "Jonathan Hall"
+    ],
+    "doi": "10.1038/s41893-026-01882-z",
+    "link": "https://doi.org/10.1038/s41893-026-01882-z",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  \n                    The convergence of climate shocks and armed conflict poses a critical threat to human security and sustainable development. However, their joint impacts on human populations, particularly the erosion of psychosocial resilience, remain poorly quantified. Here, integrating georeferenced drought data from respondents’ pre-displacement regions with survey data from Syrian and Iraqi refugees (\n                    N\n                     = 3,751), we find that the association between war exposure and post-traumatic stress is stronger among those from more drought-affected areas of origin. Under severe drought conditions, the increase in post-traumatic stress associated with war exposure was more than twice as large as under average moisture conditions. This pattern is consistent with resilience corrosion, whereby climate-induced hardship may degrade mental health and weaken the adaptive capacities communities need to navigate future shocks. These findings support policy approaches that integrate mental health into climate adaptation and humanitarian response in settings shaped by overlapping crises.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-22-Hidden-patterns-of-urban-mixing-across-f",
+    "title": "Hidden patterns of urban mixing across five global cities",
+    "journal": "Nature Cities",
+    "publisher": "Nature",
+    "authors": [
+      "Zhuangyuan Fan",
+      "Becky P. Y. Loo",
+      "Fabio Duarte",
+      "Carlo Ratti",
+      "Esteban Moro"
+    ],
+    "doi": "10.1038/s44284-026-00477-1",
+    "link": "https://doi.org/10.1038/s44284-026-00477-1",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-22-Governing-the-algorithmic-reallocation-o",
+    "title": "Governing the algorithmic reallocation of urban space in the digital age",
+    "journal": "Nature Cities",
+    "publisher": "Nature",
+    "authors": [
+      "Tianheng Shu",
+      "Xia Liao",
+      "Shuo Yang"
+    ],
+    "doi": "10.1038/s44284-026-00496-y",
+    "link": "https://doi.org/10.1038/s44284-026-00496-y",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-22-Inequities-in-geographic-access-to-emerg",
+    "title": "Inequities in geographic access to emergency obstetric and newborn care in Greater Accra",
+    "journal": "Nature Cities",
+    "publisher": "Nature",
+    "authors": [
+      "Kerry L. M. Wong",
+      "Winfred Dotse-Gborgbortsi",
+      "Duah Dwomoh",
+      "Cephas Avoka",
+      "Shravya Shetty",
+      "Pratibha Sriram",
+      "Gautam Prasad",
+      "Malcolm Kane",
+      "Mark Young",
+      "Charlotte Stanton",
+      "Aduragbemi Banke-Thomas"
+    ],
+    "doi": "10.1038/s44284-026-00479-z",
+    "link": "https://doi.org/10.1038/s44284-026-00479-z",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  This study assessed the levels and inequities of geographic accessibility to comprehensive emergency obstetric and newborn care (EmONC) facilities across all 29 districts of Greater Accra Region using peak and non-peak travel time estimates derived from the Google Maps Directions Application Programming Interface. We calculated median travel times (MTT), the proportion of women aged 15–49 years and reachable facilities within 15-, 30- and 60-min thresholds, stratified by wealth. MTT to the nearest public comprehensive EmONC facility was 29.7 min during peak traffic. Nearly 90% of women were within 30 min of public comprehensive EmONC, and 93% were within 30 min of public or private care. In peri-urban areas, public facilities reachable within 30 min dropped from at least one during non-peak to none during peak traffic. Geographic accessibility was notably better among the wealthiest 40%. Our findings highlight geographic and socioeconomic inequities, calling for targeted investments especially in peri-urban areas.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-7-22-Carbon-Leakage-within-Firm-Ownership-Net",
+    "title": "Carbon Leakage within Firm Ownership Networks",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Jingbo Cui",
+      "Chunhua Wang",
+      "Zhenxuan Wang",
+      "Junjie Zhang",
+      "Yang Zheng"
+    ],
+    "doi": "10.1086/743175",
+    "link": "https://doi.org/10.1086/743175",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-7-22-The-Implications-of-Battery-Integration-",
+    "title": "The Implications of Battery Integration for Variable Renewables in the Australian National Electricity Market",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Parna Imannezhad",
+      "Magnus Soederberg",
+      "Phillip Wild"
+    ],
+    "doi": "10.1177/01956574261466883",
+    "link": "https://doi.org/10.1177/01956574261466883",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Renewable projects in Australia often rely on Power Purchase Agreements (PPAs) or Contracts-for-Differences (CFDs) to manage merchant risk and ensure revenue stability. This study examines whether lithium-ion batteries can serve as an alternative for a merchant 250 MW wind farm portfolio in Australia’s National Electricity Market (NEM). Using technical and financial models, portfolio performance is evaluated in the energy, derivatives, and Frequency Control Ancillary Services (FCAS) markets. Scenarios consider battery capacities of 25 MW and 50 MW, each with two- and four-hour storage durations. Results show merchant wind farms face missing money and volatile revenues, but battery integration mitigates these issues. Under 50 MW scenarios, positive net present values (NPV) over adjusted free cash flows are achieved under a perfect foresight benchmark. This suggests that batteries can improve portfolio viability and reduce reliance on PPAs and CFDs, although these outcomes represent best-case scenarios and profitability declines materially once price uncertainty is introduced.\n                  \n                    JEL Classification:\n                    C61, Optimisation Techniques;",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Greenland-Emissions-Contribute-to-Black-",
+    "title": "Greenland Emissions Contribute to Black Carbon Aerosols in the Arctic Marine Boundary Layer",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Xiaomi Teng",
+      "Mao Du",
+      "Congbo Song",
+      "Yuqing Dai",
+      "Vipul Lal Chandani",
+      "David C. S. Beddows",
+      "Manuel Dall’Osto",
+      "Darrel Baumgardner",
+      "Roy M. Harrison",
+      "James Brean",
+      "Mingxi Yang",
+      "Yangmei Zhang",
+      "Weijun Li",
+      "Zongbo Shi"
+    ],
+    "doi": "10.1021/acs.est.6c03343",
+    "link": "https://doi.org/10.1021/acs.est.6c03343",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Chromatography-Coupled-to-High-Resolutio",
+    "title": "Chromatography Coupled to High-Resolution Mass Spectrometry Analysis Reveals Flaws in van Krevelen Compound Class Assignments in DOM",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Maria G. Digernes",
+      "Alexander J. Craig",
+      "Tsz Yung Patrick Wong",
+      "Erik Bergström",
+      "Murat V. Ardelan",
+      "Jeffrey A. Hawkes"
+    ],
+    "doi": "10.1021/acs.est.6c00809",
+    "link": "https://doi.org/10.1021/acs.est.6c00809",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Sulfonyl-Functionalized-Materials-Enable",
+    "title": "Sulfonyl-Functionalized Materials Enable In Situ Purification and Circular Resource Recovery from Chromium Electroplating Aging Solutions",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Zhinan Dai",
+      "Zhiyuan Su",
+      "Kexin Wei",
+      "Bo He",
+      "Jinhua Li",
+      "Chaoyue Xie",
+      "Changhui Zhou",
+      "Yongyang Chen",
+      "Beibei Li",
+      "Jing Bai",
+      "Tianlei Yang",
+      "Yuewen Yuan",
+      "Hua Yuan",
+      "Yuncai Chen",
+      "Baoxue Zhou"
+    ],
+    "doi": "10.1021/acs.est.6c08920",
+    "link": "https://doi.org/10.1021/acs.est.6c08920",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Limited-Capacity-of-Bioaerosols-to-Serve",
+    "title": "Limited Capacity of Bioaerosols to Serve as Cloud-Condensation Nuclei May Restrict Their Potential to Initiate Immersion Freezing in Mixed-Phase Clouds",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Tina Šantl-Temkiv",
+      "Miha Živec",
+      "Marie Braad Lund",
+      "Mojca Benčina",
+      "Anja Bille Bohn",
+      "Samo Stanič",
+      "Griša Močnik"
+    ],
+    "doi": "10.1021/acs.est.4c10919",
+    "link": "https://doi.org/10.1021/acs.est.4c10919",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-From-Release-to-Transformation--Elucidat",
+    "title": "From Release to Transformation: Elucidating the Microplastic-Facilitated Fate of Brominated Additives in Soil",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Ying Zhang",
+      "Hao Chen",
+      "Jingwen Li",
+      "Mengqiang He",
+      "Ping Sun",
+      "Zhongbo Wei",
+      "Dongmei Zhou",
+      "Moustafa M. G. Fouda",
+      "Hanan Sayed Abdel-Rahman",
+      "Zunyao Wang",
+      "Ruijuan Qu"
+    ],
+    "doi": "10.1021/acs.est.6c05830",
+    "link": "https://doi.org/10.1021/acs.est.6c05830",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Natural-and-Anthropogenic-Temperature-Se",
+    "title": "Natural and Anthropogenic Temperature-Sensitive Emissions Amplify Ozone Pollution under Heatwaves in the Sichuan Basin",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Yaohan Xian",
+      "Nan Wang",
+      "Song Liu",
+      "Fumo Yang"
+    ],
+    "doi": "10.1021/acs.est.6c05307",
+    "link": "https://doi.org/10.1021/acs.est.6c05307",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Soil-Freeze-Thaw-Induced-Aggregate-Struc",
+    "title": "Soil Freeze–Thaw-Induced Aggregate Structural Transformation Promotes Colloidal Cd Mobilization from Macroaggregates",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Chang Liu",
+      "Kengbo Ding",
+      "Bofang Yan",
+      "Yanjun Jiang",
+      "Miaoyue Zhang",
+      "Rong-Liang Qiu",
+      "Ye-Tao Tang"
+    ],
+    "doi": "10.1021/acs.est.6c08003",
+    "link": "https://doi.org/10.1021/acs.est.6c08003",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Air-Emissions-Impacts-of-Fuel-Substituti",
+    "title": "Air Emissions Impacts of Fuel Substitution in the United States Cement Industry",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Anaís Ostroski",
+      "Vi H. Rapp",
+      "Corinne D. Scown"
+    ],
+    "doi": "10.1021/acs.est.5c18471",
+    "link": "https://doi.org/10.1021/acs.est.5c18471",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Carbon-Dioxide-Emissions-from-Acid-Mine-",
+    "title": "Carbon Dioxide Emissions from Acid Mine Drainage Neutralization Are a Major Component of Metal Mining Carbon Footprints",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Stanisław Kołodziejski",
+      "Eva E. Stüeken",
+      "Laura Sánchez López",
+      "Jose Miguel Nieto",
+      "Carlos R. Cánovas",
+      "Rafael Pérez-López",
+      "Luke Bridgestock"
+    ],
+    "doi": "10.1021/acs.est.6c05684",
+    "link": "https://doi.org/10.1021/acs.est.6c05684",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Circularity-Policy-Interventions-in-One-",
+    "title": "Circularity Policy Interventions in One Sector Can Reduce Circularity in Others",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Mattia Maeder",
+      "Dominik Reichert",
+      "Magnus Fröhling"
+    ],
+    "doi": "10.1021/acs.est.6c05815",
+    "link": "https://doi.org/10.1021/acs.est.6c05815",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Increased-Support-Layer-Hydraulic-Resist",
+    "title": "Increased Support Layer Hydraulic Resistance Partially Explains Permeability Loss in High-Pressure Reverse Osmosis",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Sima Zeinali Danalou",
+      "Hongchen Wang",
+      "Niher R. Sarker",
+      "Nan Zhang",
+      "Jordan Fidelino",
+      "Jiahao Zhu",
+      "Fiona Chang",
+      "Gawtham Senthilvelan",
+      "Patrick C. Lee",
+      "Jason Hattrick-Simpers",
+      "Jay R. Werber"
+    ],
+    "doi": "10.1021/acs.est.6c02708",
+    "link": "https://doi.org/10.1021/acs.est.6c02708",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Building-the-Foundations-of-AI-Driven-To",
+    "title": "Building the Foundations of AI-Driven Toxicology: How to Use Fragmented Data for Mechanism-Based Human Health Risk Assessment",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Bin Wang",
+      "Tianxiang Wu",
+      "Yingqing Shou",
+      "Yu Ma",
+      "Mengyuan Ren",
+      "Pablo Gago-Ferrero",
+      "Daniel Schlenk",
+      "Mingliang Fang"
+    ],
+    "doi": "10.1021/acs.est.5c17092",
+    "link": "https://doi.org/10.1021/acs.est.5c17092",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Legacy-N----------------------sub-2--sub",
+    "title": "Legacy N\n                    <sub>2</sub>\n                    O Emissions Overlooked and Crop-Specific Mitigation Solutions",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Zhaoxin Li",
+      "Ziheng Zou",
+      "Xiaobo Liu",
+      "Tengyue Ye",
+      "Qidong Yu",
+      "Fadong Li",
+      "Gang Chen",
+      "Jinyang Wang",
+      "Shuwei Liu",
+      "Jianwen Zou"
+    ],
+    "doi": "10.1021/acs.est.5c14919",
+    "link": "https://doi.org/10.1021/acs.est.5c14919",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-An-Ultra-Sensitive-QCM-Based-Detecting-P",
+    "title": "An Ultra-Sensitive QCM-Based Detecting Platform for On-Site and Rapid Quantification of Nanoplastics in Bottled Water",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Xueyan Suo",
+      "Yang Huo",
+      "Yifei Wang",
+      "Kairui Liu",
+      "Siyu Zhang",
+      "Jinshan Wei",
+      "Yingxu Liu",
+      "Yunfei Tan",
+      "Chengzhi Hu",
+      "Mingxin Huo",
+      "Jiuhui Qu",
+      "Meng Sun"
+    ],
+    "doi": "10.1021/acs.est.6c04284",
+    "link": "https://doi.org/10.1021/acs.est.6c04284",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-22-Electrochemical-Formation-of------------",
+    "title": "Electrochemical Formation of\n                    <i>N</i>\n                    -Nitrosodimethylamine in Nitrite-Impacted Waters",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Barathkumar Baskaran",
+      "Michelle Wang",
+      "Kristen A. Riedinger",
+      "Glen Andrew D. de Vera",
+      "Elijah E. Martin",
+      "Chad D. Vecitis",
+      "Desiree L. Plata"
+    ],
+    "doi": "10.1021/acs.est.6c00610",
+    "link": "https://doi.org/10.1021/acs.est.6c00610",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-22",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-21-The-true-impacts-of-the-built-environmen",
+    "title": "The true impacts of the built environment",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [],
+    "doi": "10.1038/s41893-026-01910-y",
+    "link": "https://doi.org/10.1038/s41893-026-01910-y",
+    "volume": "9",
+    "issue": "7",
+    "pages": "943-943",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-21",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-21-African-water-research-beyond-the-narrat",
+    "title": "African water research beyond the narratives of conflict and scarcity",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Essam Heggy",
+      "Jongeun You",
+      "Abotalib Z. Abotalib",
+      "Sara S. Fouad",
+      "Mohamed Ramah"
+    ],
+    "doi": "10.1038/s41893-026-01895-8",
+    "link": "https://doi.org/10.1038/s41893-026-01895-8",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-21",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-21-Silicalite-1-Confined-Synergistic-Effect",
+    "title": "Silicalite-1-Confined Synergistic Effects of Bimetallic Oxide Nanoclusters toward High Water Resistance for Complete Propane Oxidation",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Zhiqiang Chen",
+      "Xiaoqiang Xie",
+      "Xincheng Zhou",
+      "Xiang Tu",
+      "Fengqing Zhuo",
+      "Jian Ji",
+      "Fengbo Yu",
+      "Guobo Li",
+      "Wenming Liu",
+      "Lu Wei",
+      "Jiguang Deng",
+      "Weili Dai",
+      "Honggen Peng"
+    ],
+    "doi": "10.1021/acs.est.6c05476",
+    "link": "https://doi.org/10.1021/acs.est.6c05476",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-21",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-21-Predicting-PFAS-Exposure-Risks-from-Rura",
+    "title": "Predicting PFAS Exposure Risks from Rural Private Wells Using Integrated Mechanistic and Machine-Learned Bayesian Network Models",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Hana Chmielewski Long",
+      "Rohit Warrier",
+      "Krishna Ganta",
+      "Riley Mulhern",
+      "Ted Lillys",
+      "Jennifer Hoponick Redmon",
+      "Jacqueline MacDonald Gibson"
+    ],
+    "doi": "10.1021/acs.est.6c01721",
+    "link": "https://doi.org/10.1021/acs.est.6c01721",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-21",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-21-Aviation-as-an-Emerging-Urban-Air-Qualit",
+    "title": "Aviation as an Emerging Urban Air Quality Challenge in Megacities",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Junheng Yan",
+      "Jingran Zhang",
+      "Ruoxi Wu",
+      "Chris P. Nielsen",
+      "Ye Wu",
+      "Shaojun Zhang",
+      "Michael B. McElroy"
+    ],
+    "doi": "10.1021/acs.est.6c02662",
+    "link": "https://doi.org/10.1021/acs.est.6c02662",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-21",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-21-Issue-Editorial-Masthead",
+    "title": "Issue Editorial Masthead",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [],
+    "doi": "10.1021/esv060i028_2105282",
+    "link": "https://doi.org/10.1021/esv060i028_2105282",
+    "volume": "60",
+    "issue": "28",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-21",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-21-Moisture-Driven-CO----------------------",
+    "title": "Moisture-Driven CO\n                    <sub>2</sub>\n                    Direct Air Capture and Delivery for Cultivating Cyanobacteria",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Justin Flory",
+      "Shuqin Li",
+      "Samantha Taylor",
+      "Sunil Tiwari",
+      "Garrett M. Cole",
+      "Marlene A. Velazco Medel",
+      "Amory Lowe",
+      "Jordan Monroe",
+      "Sara Sarbaz",
+      "Nick Lowery",
+      "Joel Eliston",
+      "Heidi P. Feigenbaum",
+      "Heather Emady",
+      "Jason C. Quinn",
+      "Matthew D. Green",
+      "John McGowen",
+      "Klaus S. Lackner",
+      "Wim F. J. Vermaas"
+    ],
+    "doi": "10.1021/acs.est.5c18524",
+    "link": "https://doi.org/10.1021/acs.est.5c18524",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-21",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-21-Triggering-Low-Temperature-Chlorine-Acti",
+    "title": "Triggering Low-Temperature Chlorine Activation via Interfacial Ru–O–Mn Coordination Bridges for Robust Waste Incineration Flue Gas Mercury Oxidation",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Hongyuan Qi",
+      "Yurui Fan",
+      "Yongpeng Ma",
+      "Mingze Jiao",
+      "Wuwen Luo",
+      "Liang Shan",
+      "Zhisong Liu",
+      "Qinyuan Hong",
+      "Wenjun Huang",
+      "Zan Qu",
+      "Naiqiang Yan",
+      "Haomiao Xu"
+    ],
+    "doi": "10.1021/acs.est.6c04609",
+    "link": "https://doi.org/10.1021/acs.est.6c04609",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-21",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-7-21-Understanding-and-Reporting-PFAS-Exposur",
+    "title": "Understanding and Reporting PFAS Exposure: Wide-Scope Retrospective Suspect Screening of High-Resolution Mass Spectrometry Data from Exposomics Studies",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Lapo Renai",
+      "Federica Calabró",
+      "Viktoriia Turkina",
+      "Pradeep Dewapriya",
+      "Kevin V. Thomas",
+      "Stefano Papazian",
+      "Saer Samanipour"
+    ],
+    "doi": "10.1021/acs.est.6c03864",
+    "link": "https://doi.org/10.1021/acs.est.6c03864",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-21",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-20-Recognizing-the-human-health-impacts-of-",
+    "title": "Recognizing the human health impacts of marine heatwaves",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Laura J. Falkenberg",
+      "Bayden D. Russell"
+    ],
+    "doi": "10.1038/s41893-026-01892-x",
+    "link": "https://doi.org/10.1038/s41893-026-01892-x",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-20",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-2-Increased-dengue-transmission-following-",
+    "title": "Increased dengue transmission following highway paving in the Peruvian Amazon",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Alyson L. Singleton",
+      "Andres G. Lescano",
+      "Kevin S. Martel",
+      "Andrew J. MacDonald",
+      "Lisa Mandle",
+      "Terrell J. Sipin",
+      "Ana S. M. Bautista",
+      "Esteban D. R. Carrera",
+      "Gustavo A. Choque",
+      "César V. Munayco",
+      "Stephen P. Luby",
+      "Erin A. Mordecai"
+    ],
+    "doi": "10.1038/s41893-026-01879-8",
+    "link": "https://doi.org/10.1038/s41893-026-01879-8",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-2",
+    "is_new": true
+  },
+  {
     "id": "ES&T-2026-7-2-Microbiome-Based-Framework-for-Achieving",
     "title": "Microbiome-Based Framework for Achieving Simultaneous Efficient Transformation of Persistent Organic Pollutants and Restored Biogeochemical Cycling",
     "journal": "ES&T",
@@ -1125,7 +2429,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-19",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-18--i-In-Situ--i----------------------Measu",
@@ -1147,7 +2451,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-18",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-18-Ferroelectric-Heterojunction-with-Spatio",
@@ -1171,7 +2475,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-18",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-18-Identification-of-Organic-Radicals-in-Aq",
@@ -1195,7 +2499,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-18",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-18-Colonization-and-Expansion-of-Burrowing-",
@@ -1222,7 +2526,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-18",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-18-Characterization-of-the-Human-Exposome-a",
@@ -1248,6 +2552,31 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-18",
+    "is_new": false
+  },
+  {
+    "id": "NATU-2026-7-17-Author-Correction--Spatial-assessment-of",
+    "title": "Author Correction: Spatial assessment of tap-water safety in China",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Mengjie Liu",
+      "Nigel Graham",
+      "Wenyu Wang",
+      "Renzun Zhao",
+      "Yonglong Lu",
+      "Menachem Elimelech",
+      "Wenzheng Yu"
+    ],
+    "doi": "10.1038/s41893-026-01911-x",
+    "link": "https://doi.org/10.1038/s41893-026-01911-x",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-17",
     "is_new": true
   },
   {
@@ -1267,7 +2596,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-7-17-Measurements-and-distinctions--from-urba",
@@ -1284,7 +2613,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-7-17-Kashan-s-path-from-ancient-culture-to-th",
@@ -1303,7 +2632,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-7-17-Integrating-construction-and-solar-expan",
@@ -1322,7 +2651,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-17-Highly-Resolved-Life-Cycle-Emissions-of-",
@@ -1354,7 +2683,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-17-Trivalent-Metal-Coordination-Drives-Ultr",
@@ -1380,7 +2709,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-17-Climate-Driven-Harmful-Algal-Blooms-Impa",
@@ -1403,7 +2732,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-17-Decoupling-Energy-Demand-from-Boron-Comp",
@@ -1428,6 +2757,47 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-17",
+    "is_new": false
+  },
+  {
+    "id": "NATU-2026-7-16-Evidence-and-limits-of-restitution",
+    "title": "Evidence and limits of restitution",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Manuel Prieto"
+    ],
+    "doi": "10.1038/s41893-026-01850-7",
+    "link": "https://doi.org/10.1038/s41893-026-01850-7",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-16",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-16-Environmental-impacts-of-Indigenous-land",
+    "title": "Environmental impacts of Indigenous land restitution in Chile",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Dany Jaimovich",
+      "Felipe Jordán",
+      "Matías Black",
+      "Robert Heilmayr"
+    ],
+    "doi": "10.1038/s41893-026-01876-x",
+    "link": "https://doi.org/10.1038/s41893-026-01876-x",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-16",
     "is_new": true
   },
   {
@@ -1454,7 +2824,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-Dual-Cation-Exchange-Membrane-Solid-Elec",
@@ -1486,7 +2856,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-Locating-Undocumented-Wells-Using-Histor",
@@ -1514,7 +2884,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-Freeze-Drying-as-a-Novel-Concentrating-M",
@@ -1537,7 +2907,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-Bioaccumulation--Tissue-Distribution--an",
@@ -1565,7 +2935,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-Paper-Based-Chip-Platform--PCR-SERS-LFA-",
@@ -1594,7 +2964,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-A-Targeted-Mitigation-Strategy-for-Fresh",
@@ -1621,7 +2991,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-Digging-into-Soil--Effects-of-Soil-Textu",
@@ -1648,7 +3018,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-Anthropogenic-Carbon-Particles-Trigger-O",
@@ -1684,7 +3054,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-Correction-to--Linking-the-Environmental",
@@ -1711,7 +3081,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-Reversible-Control-of-Microbial-As-III--",
@@ -1735,7 +3105,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-Land-Use-Modulates-Viral-Impacts-on-Soil",
@@ -1759,7 +3129,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-16-A-Novel-Low-Dose-Mn-VII--PMS-System-for-",
@@ -1789,6 +3159,23 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-16",
+    "is_new": false
+  },
+  {
+    "id": "NATU-2026-7-15-Residents-near-small-rivers-in-the-USA-c",
+    "title": "Residents near small rivers in the USA could face disproportionately high future flood risk",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [],
+    "doi": "10.1038/s41893-026-01905-9",
+    "link": "https://doi.org/10.1038/s41893-026-01905-9",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-15",
     "is_new": true
   },
   {
@@ -1808,7 +3195,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-15",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-7-15-Urban-climate-vulnerability--housing-and",
@@ -1827,7 +3214,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-15",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-15-Nontarget-Discovery-of-Organophosphite-A",
@@ -1852,7 +3239,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-15",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-15-Effect-of-Formation-pH-on-the-Structure-",
@@ -1878,7 +3265,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-15",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-15-Shifting-Hotspots-of-Mercury-Emissions-f",
@@ -1905,7 +3292,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-15",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-15-Nitrogen-Availability-Modulates-Root-Med",
@@ -1927,7 +3314,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-15",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-15-From-Naturally-Occurring-to-Engineered-N",
@@ -1952,7 +3339,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-15",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-15-Contribution-of-Consumer-Products-to-Eme",
@@ -1978,7 +3365,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-15",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-15-Integrating-Adverse-Outcome-Pathways-wit",
@@ -2008,6 +3395,114 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-15",
+    "is_new": false
+  },
+  {
+    "id": "NATU-2026-7-14-Monitoring-nature-based-solutions-is-key",
+    "title": "Monitoring nature-based solutions is key for compliance, co-creation and practice improvement",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Erich Wolff",
+      "Perrine Hamel",
+      "Alex M. Lechner",
+      "Kim Irvine",
+      "Niki Frantzeskaki",
+      "Loan Diep",
+      "Luisa Tavenisa",
+      "Ashley Welch",
+      "Pamela Gloria Cajilig",
+      "Monalisa Sen",
+      "Chloe Pottinger-Glass",
+      "Lelani Mannetti",
+      "Claudia Tan",
+      "Alina Bill-Weilandt",
+      "Shaikh Fairul Edros Ahmad Shaikh",
+      "Kashif Shaad",
+      "Cathy Oke",
+      "Dixi Mengote-Quah",
+      "Yuliya Dzyuban"
+    ],
+    "doi": "10.1038/s41893-026-01885-w",
+    "link": "https://doi.org/10.1038/s41893-026-01885-w",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-14",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-14-Addressing-water-resource-constraints-fo",
+    "title": "Addressing water resource constraints for electrolytic hydrogen demand in China",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Hongyi Xie",
+      "Yujie Wu",
+      "Yutao Wang",
+      "Yang Guo"
+    ],
+    "doi": "10.1038/s41893-026-01894-9",
+    "link": "https://doi.org/10.1038/s41893-026-01894-9",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-14",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-14-Resilience-metrics-to-guide-back-up-inve",
+    "title": "Resilience metrics to guide back-up investments in the power system during extreme weather",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Aleksander Grochowicz",
+      "Hannah C. Bloomfield",
+      "Marta Victoria"
+    ],
+    "doi": "10.1038/s41893-026-01897-6",
+    "link": "https://doi.org/10.1038/s41893-026-01897-6",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-14",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-14-Human-mobility-dynamics-for-cost-effecti",
+    "title": "Human mobility dynamics for cost-effective flood emergency resource allocation",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Junqing Tang",
+      "Wei Lyu",
+      "Pengjun Zhao",
+      "Fengjue Huang",
+      "Jiaying Li",
+      "Chao Fan",
+      "Qiuchen Lu",
+      "Jing Wang",
+      "Lingzhi Ye",
+      "Zengjun Guo"
+    ],
+    "doi": "10.1038/s41893-026-01886-9",
+    "link": "https://doi.org/10.1038/s41893-026-01886-9",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-14",
     "is_new": true
   },
   {
@@ -2027,7 +3522,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-13",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-13-The-Reliability-and-Welfare-Impacts-of-M",
@@ -2051,7 +3546,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-13",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-7-12-Foreign-Labor-and-Dutch-Disease--Evidenc",
@@ -2072,7 +3567,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7-12",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-7-12-Knowledge-Based-Feature-Selection-Substa",
@@ -2202,6 +3697,59 @@
     "theme": "green",
     "publication_date": "2026-7-11",
     "is_new": false
+  },
+  {
+    "id": "NATU-2026-7-10-Future-flood-risk-concentration-for-resi",
+    "title": "Future flood risk concentration for residents near small rivers across the USA",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Ruijie Jiang",
+      "Hui Lu",
+      "Deliang Chen",
+      "Kun Yang",
+      "Dai Yamazaki",
+      "Hiroshi Cho",
+      "Gang Zhao",
+      "Jiahua Wei",
+      "Fuqiang Tian",
+      "Dabo Guan"
+    ],
+    "doi": "10.1038/s41893-026-01896-7",
+    "link": "https://doi.org/10.1038/s41893-026-01896-7",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-10",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-7-10-Author-Correction--Strong-and-recyclable",
+    "title": "Author Correction: Strong and recyclable bio-derived poly(ester amide) hot-melt adhesive",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Xin Liu",
+      "Katherine L. Harry",
+      "Yucheng Zhao",
+      "Emma M. Rettner",
+      "Joel Miscall",
+      "Nicholas A. Rorrer",
+      "Garret M. Miyake"
+    ],
+    "doi": "10.1038/s41893-026-01904-w",
+    "link": "https://doi.org/10.1038/s41893-026-01904-w",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-7-10",
+    "is_new": true
   },
   {
     "id": "ES&T-2026-7-10-H----------------------sub-2--sub-------",
@@ -2891,7 +4439,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-7-Catastrophic-Wildfires--amp--Suicide",
@@ -2913,7 +4461,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-7",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENVI-2026-7-Restoration-Responsibility-in-a-Dynamic-",
@@ -3504,6 +5052,73 @@
     "is_new": false
   },
   {
+    "id": "NATU-2026-6-29-Biodiversity-recovery-is-slow-following-",
+    "title": "Biodiversity recovery is slow following clear-cut harvest of boreal forests",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "S. Ellen Macdonald",
+      "Anne C. S. McIntosh",
+      "Selena Schut",
+      "Samuel Bartels",
+      "Seung-Il Lee",
+      "Elvira Baisheva",
+      "Jeff Battigelli",
+      "Erin Bayne",
+      "Yves Bergeron",
+      "Mathieu Bouchard",
+      "Brendan Casey",
+      "Mats Dynesius",
+      "I. Tanya Handa",
+      "Joakim Hjältén",
+      "Kristoffer Hylander",
+      "Matti Koivula",
+      "Jari Kouki",
+      "Therese Löfroth",
+      "Asko Lõhmus",
+      "Anders Nielsen",
+      "Sonya Odsen",
+      "Manuela Panzacchi",
+      "Jaime Pinzon",
+      "Peter B. Reich",
+      "Pavel Shirokikh",
+      "Ekaterina Shorohova",
+      "Ilkka Vanha-Majamaa",
+      "Lisa Venier",
+      "Tim Work",
+      "Linhao Wu"
+    ],
+    "doi": "10.1038/s41893-026-01868-x",
+    "link": "https://doi.org/10.1038/s41893-026-01868-x",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-29",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-6-29-A-campus-sustainability-journey",
+    "title": "A campus sustainability journey",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Yaoqing Zhang"
+    ],
+    "doi": "10.1038/s41893-026-01884-x",
+    "link": "https://doi.org/10.1038/s41893-026-01884-x",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-29",
+    "is_new": true
+  },
+  {
     "id": "JAER-2026-6-29-The-General-Equilibrium-Effects-of-the-S",
     "title": "The General Equilibrium Effects of the Shale Revolution",
     "journal": "JAERE",
@@ -3545,6 +5160,96 @@
     "theme": "green",
     "publication_date": "2026-6-27",
     "is_new": false
+  },
+  {
+    "id": "NATU-2026-6-26-Increasing-global-threat-of-outburst-flo",
+    "title": "Increasing global threat of outburst floods from overlooked small alpine lakes",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Rayees Ahmed",
+      "Lydia Sam",
+      "Anshuman Bhardwaj",
+      "Anil V. Kulkarni",
+      "Shintaro Yamasaki"
+    ],
+    "doi": "10.1038/s41893-026-01873-0",
+    "link": "https://doi.org/10.1038/s41893-026-01873-0",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-26",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-6-26-Fast-solvation-restructuring-accelerates",
+    "title": "Fast solvation restructuring accelerates interfacial charge transfer",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [],
+    "doi": "10.1038/s41893-026-01866-z",
+    "link": "https://doi.org/10.1038/s41893-026-01866-z",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-26",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-6-26-Decoupling-development-from-concrete",
+    "title": "Decoupling development from concrete",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Seth Kane"
+    ],
+    "doi": "10.1038/s41893-026-01883-y",
+    "link": "https://doi.org/10.1038/s41893-026-01883-y",
+    "volume": "9",
+    "issue": "7",
+    "pages": "956-957",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-26",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-6-26-Greater-losses-from-heat-exposure-experi",
+    "title": "Greater losses from heat exposure experienced by female smallholders in sub-Saharan Africa",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Lan Wu",
+      "Yingnan Zhang",
+      "Hualou Long",
+      "Wenkai Bao",
+      "Wu Xiao",
+      "Binlei Gong",
+      "Uchendu Eugene Chigbu",
+      "Li Ma",
+      "Liqing Peng",
+      "Wenbo Li",
+      "Xuwen Gao",
+      "Yuanli Zhu",
+      "Fujie Rao"
+    ],
+    "doi": "10.1038/s41893-026-01881-0",
+    "link": "https://doi.org/10.1038/s41893-026-01881-0",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-26",
+    "is_new": true
   },
   {
     "id": "NATU-2026-6-26-Gods-in-the-gaps",
@@ -4060,6 +5765,27 @@
     "is_new": false
   },
   {
+    "id": "NATU-2026-6-24-Resource-consumption-in-global-concrete-",
+    "title": "Resource consumption in global concrete production",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Seth Kane",
+      "Daniel Costa Reis",
+      "Sabbie A. Miller"
+    ],
+    "doi": "10.1038/s41893-026-01858-z",
+    "link": "https://doi.org/10.1038/s41893-026-01858-z",
+    "volume": "9",
+    "issue": "7",
+    "pages": "1109-1117",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-24",
+    "is_new": true
+  },
+  {
     "id": "NATU-2026-6-24-Algorithms-and-the-mountain",
     "title": "Algorithms and the mountain",
     "journal": "Nature Cities",
@@ -4308,6 +6034,52 @@
     "theme": "green",
     "publication_date": "2026-6-24",
     "is_new": false
+  },
+  {
+    "id": "NATU-2026-6-23-Dynamic-solvent-exchange-for-fast-chargi",
+    "title": "Dynamic solvent exchange for fast-charging lithium batteries and beyond",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Chang-Xin Zhao",
+      "Zheng Li",
+      "Daoning Zhang",
+      "Nan Zhang",
+      "Qiu Zhang",
+      "Zeyi Wang",
+      "Yue Li",
+      "Yawei Chen",
+      "Chunsheng Wang"
+    ],
+    "doi": "10.1038/s41893-026-01871-2",
+    "link": "https://doi.org/10.1038/s41893-026-01871-2",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-23",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-6-23-Material-equality-undermined-by-global-t",
+    "title": "Material equality undermined by global trade",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Sonya Ahamed"
+    ],
+    "doi": "10.1038/s41893-026-01838-3",
+    "link": "https://doi.org/10.1038/s41893-026-01838-3",
+    "volume": "9",
+    "issue": "6",
+    "pages": "787-788",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-6-23",
+    "is_new": true
   },
   {
     "id": "REEP-2026-6-23-Aligning-the-Aviation-Industry-with-Glob",
@@ -8475,6 +10247,161 @@
     "is_new": false
   },
   {
+    "id": "NATU-2026-07-24-Less-than-net-zero-needed-to-stabilize-c",
+    "title": "Less than net zero needed to stabilize climate",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Andrew H. MacDougall"
+    ],
+    "doi": "10.1038/s41558-026-02708-8",
+    "link": "https://www.nature.com/articles/s41558-026-02708-8",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Climate Change, Published online: 24 July 2026; doi:10.1038/s41558-026-02708-8Global temperature change over long times after cessation of greenhouse gas emissions is not well constrained. Now, research shows a consistent global cooling, especially if negative CO2 emissions compensate for continued CH4 and N2O emissions.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-24",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-24-Tracking-the-status-of-global-evidence",
+    "title": "Tracking the status of global evidence",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Katharine Vincent"
+    ],
+    "doi": "10.1038/s41558-026-02720-y",
+    "link": "https://www.nature.com/articles/s41558-026-02720-y",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Climate Change, Published online: 24 July 2026; doi:10.1038/s41558-026-02720-yAssessing the status of adaptation is important to target support and determine priority gaps. Here I look back on an influential 2021 study that reported a systematic review of evidence of implemented human adaptation and consider how this underscored the imperative for greater policy action and spawned methodological advancements in how to track adaptation progress.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-24",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-24-Multi-century-cooling-after-net-zero-gre",
+    "title": "Multi-century cooling after net-zero greenhouse gas emissions",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Nathaniel Tarshish",
+      "Nadir Jeevanjee",
+      "Inez Fung"
+    ],
+    "doi": "10.1038/s41558-026-02700-2",
+    "link": "https://www.nature.com/articles/s41558-026-02700-2",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Climate Change, Published online: 24 July 2026; doi:10.1038/s41558-026-02700-2How global temperatures change after net-zero emissions are reached is highly uncertain. Here the authors constrain this response and find that net-zero GHG emissions lead to multi-century cooling of at least 0.6 °C.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-24",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-23-Global-vessel-carbon-dioxide-emission-fr",
+    "title": "Global vessel carbon dioxide emission from navigable rivers",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Dawei Lu",
+      "Di Zhang",
+      "Shuwu Wang",
+      "Haotian Wang",
+      "Zhiyi Min",
+      "Xiangyu Li",
+      "Yuehan Wu",
+      "Yuming Huang",
+      "Tengfei Wang",
+      "Shaoda Liu",
+      "Xinghui Xia",
+      "Xinping Yan",
+      "Guibin Jiang"
+    ],
+    "doi": "10.1038/s41558-026-02718-6",
+    "link": "https://www.nature.com/articles/s41558-026-02718-6",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Climate Change, Published online: 23 July 2026; doi:10.1038/s41558-026-02718-6The magnitude and distribution of CO2 emissions from river transport are poorly constrained. This study finds that global CO2 emissions from inland vessels were about one-quarter of total vessel emissions, and that emissions were concentrated in the Northern Hemisphere, related to economic activity.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-23",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-22-Ecological-novelty-induced-by-climate-ch",
+    "title": "Ecological novelty induced by climate change",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Claire Wright",
+      "Laura L. Govers",
+      "Eric S. Higgs",
+      "Matthew R. Kerr",
+      "Catarina P. Teixeira",
+      "Tina Heger"
+    ],
+    "doi": "10.1038/s41558-026-02697-8",
+    "link": "https://www.nature.com/articles/s41558-026-02697-8",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Climate Change, Published online: 22 July 2026; doi:10.1038/s41558-026-02697-8The authors review ecological novelty—ecological situations with no precedent—arising from climate change. They discuss ecological novelty due to direct and indirect effects of climate change, and due to adaptation and mitigation measures, and explore management options that are against, for or tolerant of ecological novelty.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-22",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-21-Temporal-horizons-in-US-climate-change-n",
+    "title": "Temporal horizons in US climate change news",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Antal Wozniak"
+    ],
+    "doi": "10.1038/s41558-026-02716-8",
+    "link": "https://www.nature.com/articles/s41558-026-02716-8",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Climate Change, Published online: 21 July 2026; doi:10.1038/s41558-026-02716-8Whether news presents climate change as something happening now or in the future impacts public risk perceptions and climate action. A recent study shows that, in US news, the timing of anticipated climate impacts has got closer but coordinated climate actions are consistently deferred to the future.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-21",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-07-21-Reform-preferences-of-key-actors-in-the-",
+    "title": "Reform preferences of key actors in the UNFCCC process",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Faradj Koliev",
+      "Naghmeh Nasiritousi",
+      "Alexandra Buylova",
+      "Björn-Ola Linnér"
+    ],
+    "doi": "10.1038/s41558-026-02723-9",
+    "link": "https://www.nature.com/articles/s41558-026-02723-9",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Climate Change, Published online: 21 July 2026; doi:10.1038/s41558-026-02723-9COP meetings have faced criticism and calls for reform, yet evidence on reform choices remains limited. Here a survey of COP participants reveals broad support for enhancing transparency and implementation, while proposals to change consensus rules or the COP presidency are less favoured.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-07-21",
+    "is_new": true
+  },
+  {
     "id": "NATU-2026-07-17-Author-Correction--Spatial-assessment-of",
     "title": "Author Correction: Spatial assessment of tap-water safety in China",
     "journal": "Nature Sustainability",
@@ -8497,7 +10424,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-17-Win-wins-for-wind-and-whales",
@@ -8516,7 +10443,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-17-Tropical-forest-restoration-can-offset-w",
@@ -8533,7 +10460,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-17-Balancing-marine-species-conservation-wi",
@@ -8559,7 +10486,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-17-Intercity-connectivity-enhances-urban-mo",
@@ -8579,7 +10506,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-17",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-16-Evidence-and-limits-of-restitution",
@@ -8598,7 +10525,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-16-Environmental-impacts-of-Indigenous-land",
@@ -8620,7 +10547,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-16",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-15-Residents-near-small-rivers-in-the-USA-c",
@@ -8637,7 +10564,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-15",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-15-Targeted-tropical-forest-restoration-can",
@@ -8662,7 +10589,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-15",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-14-Addressing-water-resource-constraints-fo",
@@ -8684,7 +10611,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-14",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-14-Monitoring-nature-based-solutions-is-key",
@@ -8721,7 +10648,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-14",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-14-Resilience-metrics-to-guide-back-up-inve",
@@ -8742,7 +10669,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-14",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-14-Human-mobility-dynamics-for-cost-effecti",
@@ -8770,7 +10697,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-14",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-14-A-shrinking-buffer",
@@ -8790,7 +10717,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-14",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-14-Building-local-adaptive-capacity-for-hea",
@@ -8809,7 +10736,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-14",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-13-Ecology-is-not-at-risk-of-a-methodologic",
@@ -8829,7 +10756,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-07-13",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-07-10-Author-Correction--Strong-and-recyclable",
@@ -13741,6 +15668,436 @@
     "is_new": false
   },
   {
+    "id": "JEEM-0000-Testing-for-spillovers-in-resource-conse",
+    "title": "Testing for spillovers in resource conservation: Evidence from a natural field experiment",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Lorenz Goette",
+      "Zhi Hao Lim"
+    ],
+    "doi": "10.2139/ssrn.5707087",
+    "link": "https://www.sciencedirect.com/science/article/pii/S009506962600121X?dgcid=rss_sd_all",
+    "volume": "140",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "JEEM-0000-The-regional-economic-impact-of-weather-",
+    "title": "The regional economic impact of weather shocks: Evidence from Portugal",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Dhruv Akshay Pandit",
+      "Paulo M.M. Rodrigues",
+      "João Seixo"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001294?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "JEEM-0000-Corrigendum-to--Power-plays-in-the-jungl",
+    "title": "Corrigendum to “Power plays in the jungle: Political alignment and environmental degradation in Colombia” [J. Environ. Econ. Manag. 138 (2026) 103335]",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Juan Miguel Jimenez",
+      "Lizeth Melissa Molina Alvarez",
+      "Santiago Saavedra"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001142?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Optimal-climate-and-monetary-fiscal-poli",
+    "title": "Optimal climate and monetary–fiscal policies in a climate-DSGE framework",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Lorenzo Forni",
+      "Mehrab Kiarsi"
+    ],
+    "doi": "10.2139/ssrn.5097646",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326004032?dgcid=rss_sd_all",
+    "volume": "161",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-When-diversification-fails--Geopolitical",
+    "title": "When diversification fails: Geopolitical contagion and hidden vulnerabilities in Europe’s energy transition",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Frédy Pokou",
+      "Jules Sadefo Kamdem"
+    ],
+    "doi": "10.1016/j.enpol.2026.115520",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004544?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115520",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-The-critical-challenges-of-energy-divers",
+    "title": "The critical challenges of energy diversification and environmental sustainability in the European Green Deal: Empirical evidence from European countries",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Ulviyya Abasova",
+      "Syed Anees Haider Zaidi",
+      "Rana Umair Ashraf"
+    ],
+    "doi": "10.1016/j.enpol.2026.115517",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004519?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115517",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Growing-firms-and-carbon-intensity--Do-e",
+    "title": "Growing firms and carbon intensity: Do environmental taxation policy and green technological innovation ecosystems matter?",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Ines Kateb",
+      "Muath Abdelqader",
+      "Ali Uyar"
+    ],
+    "doi": "10.1016/j.enpol.2026.115508",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004428?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115508",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Geopolitical-fragmentation--energy-vulne",
+    "title": "Geopolitical fragmentation, energy vulnerability, and national ESG trajectories after Russia's invasion of Ukraine",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Chankook Park"
+    ],
+    "doi": "10.1016/j.enpol.2026.115489",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004234?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115489",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-California-s-plan-to-decarbonize-electri",
+    "title": "California's plan to decarbonize electricity omits key greenhouse gas emissions",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Marie-Odile P. Fortier",
+      "Amir Sharafi",
+      "Alyssa R. Pfadt-Trilling",
+      "Samuel A. Markolf"
+    ],
+    "doi": "10.1016/j.enpol.2026.115509",
+    "link": "https://www.sciencedirect.com/science/article/pii/S030142152600443X?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115509",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Beyond-the-consumer--Stakeholder-narrati",
+    "title": "Beyond the consumer: Stakeholder narratives on electricity tariff structures and payment dynamics in Ghana",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Adam Salifu",
+      "Timothy King Avodeh",
+      "Ibrahim Mohammed",
+      "Andaratu Achuliwor Khalid"
+    ],
+    "doi": "10.1016/j.enpol.2026.115519",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004532?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "115519",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Household-demand-and-willingness-to-pay-",
+    "title": "Household demand and willingness to pay for grid electricity: Evidence from Burkina Faso",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Agnieszka Postepska",
+      "Leopold Sarr"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004453?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-The-impacts-of-China-s-low-carbon-power-",
+    "title": "The impacts of China's low-carbon power transition on employment structure: a regional perspective combining skill and gender",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Yuan Yuan",
+      "Xiaowen Yang",
+      "Jiahai Yuan",
+      "Haonan Zhang"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004416?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Spatial-tradeoffs-in-incomes-and-car-fue",
+    "title": "Spatial tradeoffs in incomes and car fuel, domestic energy, and housing expenditures",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Chris ten Dam",
+      "Francesco Dalla Longa",
+      "Francisco Bahamonde-Birke",
+      "Peter Mulder",
+      "Dick Ettema",
+      "Vinzenz Koning"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004052?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Energy-communities-in-the-energy-transit",
+    "title": "Energy communities in the energy transition: A research-practice agenda from the Netherlands",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Daniel Petrovics",
+      "Thomas Bauwens",
+      "Björn Hoops",
+      "Lea Diestelmeier",
+      "Floor Alkemade",
+      "Frans Coenen",
+      "Javanshir Fouladvand",
+      "Amineh Ghorbani",
+      "Johanna Höffken",
+      "Thomas Hoppe",
+      "Nenya Jochemsen",
+      "René Kemp",
+      "Matthijs Punt",
+      "Pepijn Quast",
+      "Luc van Summeren",
+      "Beau Warbroek",
+      "Anna Wieczorek",
+      "Julia M. Wittmayer",
+      "Mendel Giezen",
+      "Ilonka Marselis"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004180?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Redistribution-through-cross-border-elec",
+    "title": "Redistribution through cross-border electricity trade: How to achieve pareto improvement for consumers?",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Polina Emelianova",
+      "Pia Hoffmann-Willers",
+      "Oliver Ruhnau"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004568?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Who-pays-for-community-energy--Peer-to-p",
+    "title": "Who pays for community energy? Peer-to-peer trading, distribution grid headroom and the supplier’s dilemma",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Ioanna Kalospyrou",
+      "Timothy Hutty",
+      "Solomon Brown"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004192?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Impact-of-occupancy-assumptions-in-inter",
+    "title": "Impact of occupancy assumptions in international building codes and standards on building performance and energy conservation measures",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Elin Markarian",
+      "Farzam Sepanta",
+      "William O'Brien",
+      "Burak Gunay",
+      "Elie Azar"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004611?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Analysis-and-standardization-of-energy-p",
+    "title": "Analysis and standardization of energy performance certificates and smart readiness indicators in the EU: Results from surveys and interviews with key stakeholders",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Luca Zaniboni",
+      "Tomasz Cholewa",
+      "Elisa Caracci",
+      "Georg Vogt",
+      "Martyna Bocian",
+      "Giorgio Buonanno",
+      "Laura Canale",
+      "Marco Dell’Isola",
+      "Marzenna R. Dudzińska",
+      "Sławomira Dumała",
+      "Giorgio Ficco",
+      "Ongun Berk Kazanci",
+      "Tatiana Novikova",
+      "Alicja Siuta-Olcha",
+      "Amelia Staszowska",
+      "Jørn Toftum",
+      "Rune Korsholm Andersen"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526004404?dgcid=rss_sd_all",
+    "volume": "218",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "RESO-0000-The-Ecological-Footprint-of-Economic-Fre",
+    "title": "The Ecological Footprint of Economic Freedom",
+    "journal": "Resource and Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "By Horst Feldmann"
+    ],
+    "doi": "10.1016/j.reseneeco.2026.101587",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0928765526000369?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "101587",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
     "id": "JEEM-0000-Do-economic-principles-explain-orbital-u",
     "title": "Do economic principles explain orbital use in space?",
     "journal": "JEEM",
@@ -13758,7 +16115,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JEEM-0000-The-uncertainty-premium-of-climate-tippi",
@@ -13777,7 +16134,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JEEM-0000-Corrigendum-to--A-helping-hand-for-the-r",
@@ -13798,7 +16155,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JEEM-0000-Competition-between-green-and-blue-hydro",
@@ -13819,7 +16176,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Climate-risk-meets-machine-learning--For",
@@ -13840,7 +16197,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Strengthening-environmental-policies-to-",
@@ -13860,7 +16217,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-What-drives-electric-vehicle-owners-to-c",
@@ -13881,7 +16238,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Has-the-U-S--strengthened-the-resilience",
@@ -13901,7 +16258,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-The-shape-of-U---On-the-structure-of-uti",
@@ -13920,7 +16277,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-How-demand-side-climate-policy-shapes-pu",
@@ -13946,7 +16303,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Bitcoin-s-productivity-trap",
@@ -13967,7 +16324,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-An-empirical-estimate-of-the-electricity",
@@ -13990,7 +16347,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-When-do-consumers-lose-from-variable-ele",
@@ -14011,7 +16368,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-The-climate-electricity-nexus-in-the-GCC",
@@ -14032,7 +16389,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-How-could-the-government-support-the-spr",
@@ -14051,7 +16408,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Assessing-state-biodiversity-conservatio",
@@ -14076,7 +16433,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Renewable-energy-pathway-and-the-pursuit",
@@ -14100,7 +16457,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Does-energy-poverty-hinder-human-capital",
@@ -14121,7 +16478,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Electricity-prices-beyond-the-merit-orde",
@@ -14140,7 +16497,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Who-uses-online-electricity-monitoring-s",
@@ -14159,7 +16516,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Financial-systems--inflation-uncertainty",
@@ -14180,7 +16537,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "RESO-0000-On-the-fair-abatement-of-riparian-pollut",
@@ -14200,7 +16557,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JEEM-0000-Quota-regulation-under-corruption---Gran",
