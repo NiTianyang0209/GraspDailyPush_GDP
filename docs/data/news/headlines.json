@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-02T16:54:51+08:00",
+  "updated_at": "2026-08-02T22:08:16+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "两部门联合印发“十五五”公共机构节能降碳工作方案",
-          "url": "http://finance.people.com.cn/n1/2026/0802/c1004-40772239.html",
+          "title": "中央政法委负责同志就开展深化扫黑除恶专项斗争有关问题答问",
+          "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772436.html",
           "summary": "",
           "time": ""
         },
@@ -24,14 +24,20 @@
           "time": ""
         },
         {
-          "title": "水利部针对重庆市启动洪水防御Ⅳ级应急响应",
-          "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772425.html",
+          "title": "两部门对北京河北、",
+          "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772431.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "五年规划发布 全国供销合作社将全面升级为农服务",
-          "url": "http://finance.people.com.cn/n1/2026/0802/c1004-40772241.html",
+          "title": "贵州启动防汛四级应急响应",
+          "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772433.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "水利部针对重庆市启动洪水防御Ⅳ级应急响应",
+          "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772425.html",
           "summary": "",
           "time": ""
         },
@@ -58,12 +64,6 @@
           "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772243.html",
           "summary": "",
           "time": ""
-        },
-        {
-          "title": "上半年保险市场运行总体平稳 原保险保费收入同比增长3.3%",
-          "url": "http://finance.people.com.cn/n1/2026/0802/c1004-40772423.html",
-          "summary": "",
-          "time": ""
         }
       ]
     },
@@ -84,26 +84,26 @@
           "time": ""
         },
         {
+          "title": "国家外汇局：将继续稳步扩大外汇领域制度型开放",
+          "url": "https://www.news.cn/fortune/20260802/cc3f86f025a84f24ba4f68179ea21128/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "住房城乡建设部就防范燃气安全事故约谈相关负责人",
+          "url": "https://www.news.cn/politics/20260802/0b766c643d054449ade2bc43d3992435/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "陈茂波：香港离岸人民币业务枢纽发展迎来新里程",
           "url": "https://www.news.cn/gangao/20260802/2353c2a635b3421db630c54e96d8b7d6/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "首届全国青少年人工智能大赛决赛上海开赛",
-          "url": "https://www.news.cn/tech/20260802/5afdbfc262434edea1773969b960e61e/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "第十一届香港大学生外交夏令营启程",
-          "url": "https://www.news.cn/gangao/20260802/0af669fb2d91416c9c4953cf02e09b8f/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "“最美新时代革命军人”李灿：跑好自己这一棒",
-          "url": "https://www.news.cn/politics/20260802/615d51bcd097469ab4ef2bebf581c6f3/c.html",
+          "title": "台湾民间团体联合声明抗议当局声请解散统派政党",
+          "url": "https://www.news.cn/tw/20260802/4c37da49432c4f81bee3be9e14ae88b2/c.html",
           "summary": "",
           "time": ""
         },
@@ -120,8 +120,8 @@
           "time": ""
         },
         {
-          "title": "哈尔滨聚力打造国家先进制造业集群",
-          "url": "https://www.news.cn/local/20260802/91bd2e9926b749a7914555694a11f972/c.html",
+          "title": "哈尔滨从高校科研成果中寻找产业化潜力“种子”",
+          "url": "https://www.news.cn/politics/20260802/2a17e492885d473da89888944f111333/c.html",
           "summary": "",
           "time": ""
         },
@@ -144,7 +144,7 @@
           "time": ""
         },
         {
-          "title": "央行下半年工作会议：明确8项重点工作",
+          "title": "央行：及时谋划出台务实管用的增量政策",
           "url": "http://finance.ce.cn/bank12/scroll/202608/t20260802_3123192.shtml",
           "summary": "",
           "time": ""
@@ -174,6 +174,12 @@
           "time": ""
         },
         {
+          "title": "5G没拦住中国，美国又想在6G上使绊",
+          "url": "http://intl.ce.cn/sjjj/qy/202608/t20260802_3123271.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "电动车开了5年 电池应该什么状态？新国标规范→",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260802_3123113.shtml",
           "summary": "",
@@ -188,12 +194,6 @@
         {
           "title": "频繁上演撤档潮，电影市场翻盘还得靠硬实力",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260802_3122366.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "“民宿+”产业链越串越长 如何让游客觉得没白来",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260802_3122447.shtml",
           "summary": "",
           "time": ""
         }
