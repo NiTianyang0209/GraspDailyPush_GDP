@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-08-02T12:04:03+08:00",
+  "updated_at": "2026-08-02T16:54:51+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
-        {
-          "title": "驻香港部队举行庆祝中国人民解放军建军99周年招待会",
-          "url": "http://gba.people.cn/n1/2026/0802/c42272-40772225.html",
-          "summary": "",
-          "time": ""
-        },
         {
           "title": "两部门联合印发“十五五”公共机构节能降碳工作方案",
           "url": "http://finance.people.com.cn/n1/2026/0802/c1004-40772239.html",
@@ -30,14 +24,20 @@
           "time": ""
         },
         {
+          "title": "水利部针对重庆市启动洪水防御Ⅳ级应急响应",
+          "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772425.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "五年规划发布 全国供销合作社将全面升级为农服务",
           "url": "http://finance.people.com.cn/n1/2026/0802/c1004-40772241.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "三部门向吉林黑龙江调拨1.1万件中央救灾物资",
-          "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772221.html",
+          "title": "国家防减救灾委对甘肃“7·26”重大山洪灾害调查评估挂牌督办",
+          "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772414.html",
           "summary": "",
           "time": ""
         },
@@ -60,8 +60,8 @@
           "time": ""
         },
         {
-          "title": "电动汽车充电桩CCC认证8月1日起强制实施",
-          "url": "http://finance.people.com.cn/n1/2026/0802/c1004-40772244.html",
+          "title": "上半年保险市场运行总体平稳 原保险保费收入同比增长3.3%",
+          "url": "http://finance.people.com.cn/n1/2026/0802/c1004-40772423.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "电动汽车充电桩CCC认证8月1日起强制实施",
-          "url": "https://www.news.cn/legal/20260801/4e8a24d071944ed29a90d67eedd36e82/c.html",
+          "title": "中央政法委就开展深化扫黑除恶专项斗争答记者问",
+          "url": "https://www.news.cn/politics/20260802/086874edfc1141a9825faa78d24fbf18/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "新增65种药品 国家药品集采再扩围",
-          "url": "https://www.news.cn/fortune/20260801/8ef03b539439440f8cc62a490b0629a7/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "国家防减救灾委对甘肃渭源县双石门沟“7·26”重大山洪灾害调查评估挂牌督办",
+          "title": "国家防减救灾委挂牌督办渭源重大山洪灾害调查评估",
           "url": "https://www.news.cn/politics/20260802/a4b1be7900f04a718021959d71132e49/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国企业家代表团与美中贸委会及其会员企业交流座谈",
-          "url": "https://www.news.cn/world/20260801/68d4b68af22348ee929f377c71914649/c.html",
+          "title": "陈茂波：香港离岸人民币业务枢纽发展迎来新里程",
+          "url": "https://www.news.cn/gangao/20260802/2353c2a635b3421db630c54e96d8b7d6/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中外专家共话科技考古与文化遗产保护",
-          "url": "https://www.news.cn/tech/20260801/9f36cffd2df54237b095b2403967d877/c.html",
+          "title": "首届全国青少年人工智能大赛决赛上海开赛",
+          "url": "https://www.news.cn/tech/20260802/5afdbfc262434edea1773969b960e61e/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "哈尔滨：激活城市“本底”释放振兴动能",
-          "url": "https://www.news.cn/local/20260802/6d89cdc7285042908398463b11cdb6bf/c.html",
+          "title": "第十一届香港大学生外交夏令营启程",
+          "url": "https://www.news.cn/gangao/20260802/0af669fb2d91416c9c4953cf02e09b8f/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "多地产业创新提速 中国智造多点出彩",
-          "url": "https://www.news.cn/tech/20260801/2d842298e6614a7b838e829e72a315fb/c.html",
+          "title": "“最美新时代革命军人”李灿：跑好自己这一棒",
+          "url": "https://www.news.cn/politics/20260802/615d51bcd097469ab4ef2bebf581c6f3/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "北京将迎短时强降水 已发布多重预警",
-          "url": "https://www.news.cn/local/20260802/dcd167210e074c73a6666038cf4fe42a/c.html",
+          "title": "上海港单日集装箱吞吐量突破20万标准箱创新高",
+          "url": "https://www.news.cn/fortune/20260802/7ed5c6c6b78e4921979a1a7f1b92f964/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "跨国企业锚定中国服务消费增长新机遇",
-          "url": "https://www.news.cn/fortune/20260801/d05c00758e1c4e568b091d5cdeba635b/c.html",
+          "title": "中印尼青年共话AI发展机遇与挑战",
+          "url": "https://www.news.cn/world/20260802/9b3701515fd040ca9b2f940f0ebfb3be/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "新疆革命军事馆开馆：承载红色历史、传承戍边精神",
-          "url": "https://www.news.cn/politics/20260801/2b2a46bd4d0c4bf8bd6e4492e6198254/c.html",
+          "title": "哈尔滨聚力打造国家先进制造业集群",
+          "url": "https://www.news.cn/local/20260802/91bd2e9926b749a7914555694a11f972/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "防灾减灾救灾一线见闻丨内蒙古草原战旱情",
+          "url": "https://www.news.cn/local/20260802/af065eb30cb34a11a942ff3772d8e216/c.html",
           "summary": "",
           "time": ""
         }
@@ -144,14 +144,14 @@
           "time": ""
         },
         {
-          "title": "活力中国调研行｜江苏制造业正经历深层次变革",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260802_3122362.shtml",
+          "title": "央行下半年工作会议：明确8项重点工作",
+          "url": "http://finance.ce.cn/bank12/scroll/202608/t20260802_3123192.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "电动汽车充电桩CCC认证8月1日起强制实施",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260801_3122217.shtml",
+          "title": "活力中国调研行｜江苏制造业正经历深层次变革",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260802_3122362.shtml",
           "summary": "",
           "time": ""
         },
@@ -168,13 +168,7 @@
           "time": ""
         },
         {
-          "title": "回应急迫需求 各地优化住房公积金政策",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260802_3123146.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "全球央行净购入黄金大增62% 释放哪些信号？",
+          "title": "全球央行购金大增62% 释放哪些信号？",
           "url": "http://intl.ce.cn/sjjj/qy/202608/t20260802_3122436.shtml",
           "summary": "",
           "time": ""
@@ -182,6 +176,12 @@
         {
           "title": "电动车开了5年 电池应该什么状态？新国标规范→",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260802_3123113.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "回应急迫需求 各地持续优化住房公积金政策",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260802_3123146.shtml",
           "summary": "",
           "time": ""
         },
