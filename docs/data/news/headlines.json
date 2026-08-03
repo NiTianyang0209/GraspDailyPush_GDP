@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T18:12:46+08:00",
+  "updated_at": "2026-08-03T23:25:25+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
@@ -13,13 +13,19 @@
         },
         {
           "title": "《新型电力系统建设“十五五”规划》发布",
-          "url": "http://finance.people.com.cn/n1/2026/0803/c1004-40773130.html",
+          "url": "http://finance.people.com.cn/n1/2026/0803/c1004-40773171.html",
           "summary": "",
           "time": ""
         },
         {
           "title": "最高法发布典型案例规范平台经营保护消费者合法权益",
           "url": "http://society.people.com.cn/n1/2026/0803/c1008-40772964.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "农业农村部：统筹抓好田间管理和农业防灾减灾救灾",
+          "url": "http://finance.people.com.cn/n1/2026/0803/c1004-40773150.html",
           "summary": "",
           "time": ""
         },
@@ -54,14 +60,8 @@
           "time": ""
         },
         {
-          "title": "“电子带娃”代替不了暖心陪伴",
-          "url": "http://society.people.com.cn/n1/2026/0803/c1008-40772556.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "网络文学，勾勒大众共创新画像",
-          "url": "http://ent.people.com.cn/n1/2026/0803/c1012-40772466.html",
+          "title": "北京发布七起清理整顿人力资源市场典型案例",
+          "url": "http://finance.people.com.cn/n1/2026/0803/c1004-40773147.html",
           "summary": "",
           "time": ""
         }
@@ -72,14 +72,20 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "《科学规划促发展》出版发行",
-          "url": "https://www.news.cn/politics/20260803/f564b9ca2e35438b98067f63b18d6ae0/c.html",
+          "title": "新华社权威速览丨什么是“黄金大外环”？怎么建？",
+          "url": "https://www.news.cn/politics/20260803/8aa8c2e09b4c4e86918c268473c9ee4f/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "央行：将综合运用并适时调整货币政策工具",
-          "url": "https://www.news.cn/fortune/20260803/d94952ca94aa4dd9bc777544abe01067/c.html",
+          "title": "国管局：扎实开展中央行政事业单位资产核查治理",
+          "url": "https://www.news.cn/politics/20260803/afdb368f30a042d48c8d24de5350e386/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "农业农村部：统筹抓好田间管理和农业防灾减灾救灾",
+          "url": "https://www.news.cn/20260803/920605fa773741818458045972c5182f/c.html",
           "summary": "",
           "time": ""
         },
@@ -90,44 +96,38 @@
           "time": ""
         },
         {
-          "title": "上半年我国分红险原保险保费收入同比增长94.4%",
-          "url": "https://www.news.cn/fortune/20260803/53dcd7f8c22c4bcca651c41aa2c21eb4/c.html",
+          "title": "广东立法规范消费乱象 10月1日起正式施行",
+          "url": "https://www.news.cn/local/20260803/5e09da82fc694bf28f13d4d0b05d2b39/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "浙江以“数字之桥”绘就“侨乡同心”新篇章",
-          "url": "https://www.news.cn/local/20260803/f96c57577e8048fdae22e6294e4b3ce2/c.html",
+          "title": "黑龙江部分受灾地区加速恢复生产生活",
+          "url": "https://www.news.cn/local/20260803/ee848319b1d24b1788962a452dab0cff/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "徐世昌《韬养斋日记》入藏中国国家版本馆",
-          "url": "https://www.news.cn/ci/20260803/72255775e6af4ce9b1b8e205e089f285/c.html",
+          "title": "新华调查丨警惕新型“老物件回收”骗局",
+          "url": "https://www.news.cn/20260803/f12c06d03285484eb7f475b06f6ed9ad/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "从实验室到产业一线：AI“入海”解锁海洋新质生产力",
-          "url": "https://www.news.cn/fortune/20260803/685dbf2c49a444f1950bf60606cab389/c.html",
+          "title": "中广核太平岭核电项目2号机组投产发电",
+          "url": "https://www.news.cn/20260803/15a1d2d65b7b4994bc3e875f236aea7f/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "我国合成钻出口突飞猛进 为世界带去“创造之美”",
-          "url": "https://www.news.cn/fortune/20260803/4e34a618db2b408faee95b8a962b665e/c.html",
+          "title": "上海对12家网约车平台开出集中处罚决定书",
+          "url": "https://www.news.cn/local/20260803/99ce395332254369b75ea7ea41e44c76/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "辽东半岛水资源配置工程迈入实质建设阶段",
-          "url": "https://www.news.cn/20260803/cbf108426e334ab883e22705de02601e/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "大连通报3起破坏营商环境典型案例",
-          "url": "https://www.news.cn/legal/20260803/f841139a4a8248d588ae436c07170de2/c.html",
+          "title": "北京发布七起清理整顿人力资源市场典型案例",
+          "url": "https://www.news.cn/local/20260803/05f9bf7a251c4e888ac8177a52ca2d89/c.html",
           "summary": "",
           "time": ""
         }
@@ -150,14 +150,14 @@
           "time": ""
         },
         {
-          "title": "更大力度扩内需 下半年宏观政策重点划定",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3123685.shtml",
+          "title": "上半年我国海洋生产总值5.5万亿元 同比增长5.1%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3124483.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "上半年我国海洋生产总值5.5万亿元 同比增长5.1%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3124483.shtml",
+          "title": "截至去年末中国算力租赁资产余额同比增109.89%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3126394.shtml",
           "summary": "",
           "time": ""
         },
@@ -174,26 +174,26 @@
           "time": ""
         },
         {
-          "title": "国庆假期部分火车票开启预约！购票步骤图解来了",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3124633.shtml",
+          "title": "涉电解铝等行业 我国首次开展碳效领跑者企业遴选",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3125274.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "财政金融协同促内需 如何实现“1+1>2”效果？",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3123331.shtml",
+          "title": "我国合成钻石出口突飞猛进 为世界带去\"创造之美\"",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3126404.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "楼市延续修复态势 重点城市成交保持活跃",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3123616.shtml",
+          "title": "最高法发布典型案例规范平台经营保护消费者权益",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3124639.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "首饰金与投资金价差达330元 并未抑制\"悦己消费\"",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3123582.shtml",
+          "title": "总金额超2500万元！12家网约车平台被集中处罚",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3126410.shtml",
           "summary": "",
           "time": ""
         }
