@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-08-04T11:48:42+08:00",
+  "updated_at": "2026-08-04T17:20:50+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
+        {
+          "title": "整治恶意炒作涉企信息  国家网信办公开一批典型案例",
+          "url": "http://politics.people.com.cn/n1/2026/0804/c461001-40773807.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "水利部：维持对5省份的洪水防御Ⅳ级应急响应",
+          "url": "http://society.people.com.cn/n1/2026/0804/c1008-40773833.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "《全国地质灾害防治“十五五”实施方案》公布",
           "url": "http://politics.people.com.cn/n1/2026/0804/c461001-40773324.html",
@@ -18,20 +30,8 @@
           "time": ""
         },
         {
-          "title": "四部门印发实施方案 加快建设统一开放的交通运输市场",
-          "url": "http://society.people.com.cn/n1/2026/0804/c1008-40773239.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "去年万元国内生产总值用水量下降4.5%",
-          "url": "http://env.people.com.cn/n1/2026/0804/c1010-40773259.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "21.54亿元农业防灾减灾和水利救灾资金下达",
-          "url": "http://society.people.com.cn/n1/2026/0804/c1008-40773255.html",
+          "title": "制胜丨第五集《东风浩荡》",
+          "url": "http://politics.people.com.cn/n1/2026/0804/c461001-40773787.html",
           "summary": "",
           "time": ""
         },
@@ -48,8 +48,8 @@
           "time": ""
         },
         {
-          "title": "理论丨以数智技术赋能基层应急治理现代化",
-          "url": "http://opinion.people.com.cn/n1/2026/0804/c461530-40773234.html",
+          "title": "农户投保从\"躲着走\"到\"愿意投\"",
+          "url": "http://society.people.com.cn/n1/2026/0804/c1008-40773260.html",
           "summary": "",
           "time": ""
         },
@@ -72,20 +72,26 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
+          "title": "国务院成立重庆彭水汉葭街道“7·17”特别重大山体崩塌灾害调查评估组",
+          "url": "https://www.news.cn/politics/20260804/28d74d55d95846139237f96d79bc4d5a/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "今年上半年1535名纪检监察干部被处分",
           "url": "https://www.news.cn/legal/20260804/b543da4a628e45c084537442e4ef9abb/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "新型电力系统建设蓝图浮现 这些领域投资机会释放",
-          "url": "https://www.news.cn/fortune/20260804/a9985c8edfd944bc8fe235999b447506/c.html",
+          "title": "教育部部署义务教育阶段科学教育“做中学”领航行动",
+          "url": "https://education.news.cn/20260804/03d0a45870f741b49229abf66c4159db/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "整治恶意炒作涉企信息专项行动曝光一批典型案例",
-          "url": "https://www.news.cn/fortune/20260804/cd99e83434d44e7e953f781deb932118/c.html",
+          "title": "广东立法促进粤港澳大湾区消费者权益保护",
+          "url": "https://www.news.cn/20260804/772d58cb65584719bb8e2fbfa7621054/c.html",
           "summary": "",
           "time": ""
         },
@@ -96,14 +102,14 @@
           "time": ""
         },
         {
-          "title": "新华智见丨青藏高原如何塑造今日动物世界？",
-          "url": "https://www.news.cn/politics/20260804/74e9db8ba64a4a4cb0309fdd91a3dac6/c.html",
+          "title": "洪灾过后重建家园 吉林汪清加快恢复生产生活见闻",
+          "url": "https://www.news.cn/20260804/c0ab41026058438e965f3c62727ac310/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国之城丨浙江开化：“九山半水半分田”的钱塘源头",
-          "url": "https://www.news.cn/local/20260804/02fb9ed5fc624099b55a39bf3fefb38c/c.html",
+          "title": "热点追踪丨“20度清凉圈”，暑期出游新玩法",
+          "url": "https://www.news.cn/fortune/20260804/0741dbc583744197975466aa4f06964a/c.html",
           "summary": "",
           "time": ""
         },
@@ -114,20 +120,14 @@
           "time": ""
         },
         {
-          "title": "部分受灾地区加速恢复生产生活",
-          "url": "https://www.news.cn/local/20260803/ee848319b1d24b1788962a452dab0cff/c.html",
+          "title": "陕西汉中一名村干部在开展防汛工作中遇难",
+          "url": "https://www.news.cn/local/20260804/1a17ec8750374f1aa35d17a79479c56d/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "布局甲醇电动技术路线 一座汽车城的“绿色新解”",
-          "url": "https://www.news.cn/fortune/20260804/10c7f0e36f314309b954ab625d06b627/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "中国合成钻石为世界带去“创造之美”",
-          "url": "https://www.news.cn/politics/20260804/ee9763460a6648baa7864e70c364eefa/c.html",
+          "title": "受持续降雨影响 重庆临时停运列车12趟",
+          "url": "https://www.news.cn/local/20260804/0c163677ed474d068efd5e42a4a54ee7/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,7 +138,13 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "经济日报：扩内需仍有巨大潜力与空间",
+          "title": "今年上半年我国服务进出口总额37797.5亿元",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260804_3128542.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "经济日报评论员：扩内需仍有巨大潜力与空间",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260804_3126456.shtml",
           "summary": "",
           "time": ""
@@ -162,26 +168,20 @@
           "time": ""
         },
         {
-          "title": "国管局：扎实开展中央行政事业单位资产核查治理",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3125100.shtml",
+          "title": "图解丨5.5万亿元！一图看懂海洋经济半年报",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260804_3128412.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "什么是“黄金大外环”，怎么建",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260804_3126640.shtml",
+          "title": "最高法公布典型案例 江小白诉东方甄选获赔30万",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260804_3128288.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "突破十三万列！数说中欧班列十年成就",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260804_3128175.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "我国合成钻石出口突飞猛进 为世界带去\"创造之美\"",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260803_3126404.shtml",
+          "title": "高端电路板“爆单” AI算力还将带火哪些产业",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260804_3126711.shtml",
           "summary": "",
           "time": ""
         },
