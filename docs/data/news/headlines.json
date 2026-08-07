@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T08:24:18+08:00",
+  "updated_at": "2026-08-07T11:28:49+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
@@ -72,32 +72,20 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "中国和阿根廷两国央行续签双边本币互换协议",
-          "url": "https://www.news.cn/world/20260806/044a54869b36422790e1429699a268f5/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "“新”意盎然，外资机构持续看好中国经济",
           "url": "https://www.news.cn/fortune/20260806/7e5d731027444af7bb7d07e435360eb0/c.html",
           "summary": "",
           "time": ""
         },
         {
+          "title": "上半年机械工业规上企业增加值同比增6.4%",
+          "url": "https://www.news.cn/fortune/20260807/51c7e3293b2f490f8f4619d885e6d657/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "我国首个银行业数据出境负面清单备案落地北京",
           "url": "https://www.news.cn/fortune/20260806/ddd0851c607d4030b603cb120c26d17f/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "防减救灾一线见闻丨高温持续，多地旱涝同防保民生",
-          "url": "https://www.news.cn/politics/20260806/10b928429bd6493daa7adfa0c8f0b299/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "“先投后股”何以促进科技成果转化 来自多地的调研",
-          "url": "https://www.news.cn/tech/20260807/9d7d2844810f4a0fa57c428cd877ab90/c.html",
           "summary": "",
           "time": ""
         },
@@ -114,8 +102,20 @@
           "time": ""
         },
         {
-          "title": "部分网红游乐项目存安全隐患 惊险背后的盲区",
-          "url": "https://www.news.cn/20260806/cff0fb91b16341ada83d416f0976a61c/c.html",
+          "title": "江淮大地，科技成果正落地生“金”",
+          "url": "https://www.news.cn/tech/20260807/50aebaddd62248739c151695720353ed/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "上半年黄金ETF增仓下滑超6成 市场仍看好配置价值",
+          "url": "https://www.news.cn/fortune/20260807/b9f3853fbaeb4ad7ba9751966adedbff/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "融资密集落地 AI视频大模型竞速商业化",
+          "url": "https://www.news.cn/fortune/20260807/72b9328c9d4745c4afe1234192330ead/c.html",
           "summary": "",
           "time": ""
         },
@@ -126,8 +126,8 @@
           "time": ""
         },
         {
-          "title": "财经慧说丨等灯停表，守护的不只是骑手安全",
-          "url": "https://www.news.cn/fortune/20260806/6bffc81cb9394e14829ebe6f019be56d/c.html",
+          "title": "近346亿元 广东电网交出上半年投资建设亮眼答卷",
+          "url": "https://www.news.cn/fortune/20260807/848dbe330d4b4ca897b74ebaeb775f07/c.html",
           "summary": "",
           "time": ""
         }
@@ -144,26 +144,26 @@
           "time": ""
         },
         {
+          "title": "前7个月我国货物贸易进出口超30万亿元",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260807_3134267.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "突破瓶颈发展未来产业:拒绝概念泡沫消解耐心资本",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260807_3132357.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "促投资稳工业扩外贸 地方经济“下半场”划重点",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260807_3132578.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "上半年我国机械工业规上企业增加值同比增长6.4%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260806_3132004.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "新需求牵引新供给 新型消费拓展内需增长空间",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260807_3132361.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "促投资稳工业扩外贸 地方经济“下半场”划重点",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260807_3132578.shtml",
           "summary": "",
           "time": ""
         },
@@ -186,8 +186,8 @@
           "time": ""
         },
         {
-          "title": "警惕变味的\"标会\" 一不小心掉进\"无底洞\"(视频)",
-          "url": "http://yun.ce.cn/cen/gd/202608/t20260806_3132243.shtml",
+          "title": "什么是柔性制造？如何高效匹配差异化需求？",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260807_3133964.shtml",
           "summary": "",
           "time": ""
         },
