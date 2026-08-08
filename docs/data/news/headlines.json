@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T10:28:10+08:00",
+  "updated_at": "2026-08-08T15:29:14+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
@@ -24,14 +24,8 @@
           "time": ""
         },
         {
-          "title": "上半年中国海船新承接订单量增105.2%",
-          "url": "http://finance.people.com.cn/n1/2026/0808/c1004-40775912.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "前7月我国货物贸易进出口同比增长17.3%",
-          "url": "http://finance.people.com.cn/n1/2026/0808/c1004-40775921.html",
+          "title": "今年上半年人形机器人领域新设企业11.6万户",
+          "url": "http://finance.people.com.cn/n1/2026/0808/c1004-40776103.html",
           "summary": "",
           "time": ""
         },
@@ -54,14 +48,20 @@
           "time": ""
         },
         {
-          "title": "上半年规上轻工业实现营收11.2万亿元",
-          "url": "http://finance.people.com.cn/n1/2026/0808/c1004-40775923.html",
+          "title": "活力中国调研行｜永新光学追“新”记",
+          "url": "http://zj.people.com.cn/n2/2026/0808/c228592-41662645.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国家防总针对浙江、福建提升防汛防台风应急响应至三级",
-          "url": "http://society.people.com.cn/n1/2026/0808/c1008-40775935.html",
+          "title": "“世界建筑之都”北京将让世界看到什么",
+          "url": "http://ent.people.com.cn/n1/2026/0808/c1012-40775910.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "文物保护，如何面对气候挑战",
+          "url": "http://ent.people.com.cn/n1/2026/0808/c1012-40775950.html",
           "summary": "",
           "time": ""
         }
@@ -72,50 +72,14 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "公安部发布《公安机关网络空间安全监督检查办法》",
-          "url": "https://www.news.cn/politics/20260807/09a357f6cf91496aaa2658554b606279/c.html",
+          "title": "权威数读丨一周“靓”数",
+          "url": "https://www.news.cn/fortune/20260808/a1c93cbf475b458c85319dc3a09b27cd/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "工信部新增配置P频段资源助力应对极端天气",
-          "url": "https://www.news.cn/20260807/938a02f987084754956c160b8cd3b0e7/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "全国76个典型地区再生水利用配置试点工作完成",
-          "url": "https://www.news.cn/politics/20260807/ab8368eb21de43468cf511d9556380a0/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "多家航司发布受台风“白海豚”影响航线客票处置方案",
-          "url": "https://www.news.cn/fortune/20260807/359c441b59d74a15a392e88b8aa573f5/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "外国嘉宾齐聚牛河梁遗址探寻红山文化的世界意义",
-          "url": "https://www.news.cn/world/20260808/ee385581e7704cfd9861c5b84aa25c93/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "气候变化考验石窟保护",
-          "url": "https://www.news.cn/politics/20260808/81615c62467d4e5cbe8658c20c98546d/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "文物保护如何面对气候挑战",
-          "url": "https://www.news.cn/politics/20260808/b47a71b201314694ac55e4753d726af4/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "具身智能是什么？怎样影响未来？",
-          "url": "https://www.news.cn/tech/20260808/02480c2b77f54347bab741d7827c738b/c.html",
+          "title": "防灾害强田管 多地秋粮生产一线见闻",
+          "url": "https://www.news.cn/politics/20260808/9f2effa1fc634f64b93057dbbfbed81a/c.html",
           "summary": "",
           "time": ""
         },
@@ -126,8 +90,44 @@
           "time": ""
         },
         {
+          "title": "具身智能是什么？怎样影响未来？",
+          "url": "https://www.news.cn/tech/20260808/02480c2b77f54347bab741d7827c738b/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "外国嘉宾齐聚牛河梁遗址探寻红山文化的世界意义",
+          "url": "https://www.news.cn/world/20260808/ee385581e7704cfd9861c5b84aa25c93/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "体操中心公示亚运会三个分项中国队参赛运动员名单",
           "url": "https://www.news.cn/sports/20260808/8fbe7a5336184c67aff5d3cadd337854/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "杭台高铁温玉段开通运营 台州市实现“县县通铁路”",
+          "url": "https://www.news.cn/local/20260808/a5663441ad114addae4194edb5705d7a/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "从独自抗癌到带队健身，她用28年筑起“邻里港湾”",
+          "url": "https://www.news.cn/politics/20260808/ebc7f26a3b4742cea7abfcabdafd0d67/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "中国东方电气集团有限公司原党组副书记宋致远被查",
+          "url": "https://www.news.cn/politics/20260808/90d96f83aa4e44d0940cb570d86dfeb5/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "中国画家获颁国际安徒生奖插画家奖",
+          "url": "https://www.news.cn/world/20260808/0f8e7b8f9d6b430b81b34a0755d2c355/c.html",
           "summary": "",
           "time": ""
         }
