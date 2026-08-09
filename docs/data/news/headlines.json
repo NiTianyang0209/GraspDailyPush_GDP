@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-08-09T10:35:41+08:00",
+  "updated_at": "2026-08-09T15:32:47+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
+        {
+          "title": "国防部征兵办公室印发征兵工作人员职业道德准则",
+          "url": "http://military.people.com.cn/n1/2026/0809/c1011-40776347.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "农业农村领域紧抓整治形式主义为基层减负",
           "url": "http://society.people.com.cn/n1/2026/0809/c1008-40776172.html",
@@ -12,14 +18,8 @@
           "time": ""
         },
         {
-          "title": "新订单指数回升 物流业景气指数保持在扩张区间",
-          "url": "http://finance.people.com.cn/n1/2026/0809/c1004-40776148.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "两部门发布红色山洪灾害气象预警国家防办印发防台风\"12条措施\"",
-          "url": "http://society.people.com.cn/n1/2026/0809/c1008-40776173.html",
+          "title": "中央气象台发布台风红色预警 为何发布最高级别预警",
+          "url": "http://society.people.com.cn/n1/2026/0809/c1008-40776336.html",
           "summary": "",
           "time": ""
         },
@@ -36,14 +36,14 @@
           "time": ""
         },
         {
-          "title": "南水北调中线工程调水超800亿立方米",
-          "url": "http://society.people.com.cn/n1/2026/0809/c1008-40776153.html",
+          "title": "这个数，飙涨516%！",
+          "url": "http://finance.people.com.cn/n1/2026/0809/c1004-40776337.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "让可再生能源用得上用得多",
-          "url": "http://finance.people.com.cn/n1/2026/0809/c1004-40776158.html",
+          "title": "中国第16次北冰洋考察队“雪龙2”号开始冰站调查作业",
+          "url": "http://finance.people.com.cn/n1/2026/0809/c1004-40776343.html",
           "summary": "",
           "time": ""
         },
@@ -54,7 +54,7 @@
           "time": ""
         },
         {
-          "title": "周末戏相逢 观众变主角",
+          "title": "福建周末戏相逢 百姓舞台百姓演",
           "url": "http://ent.people.com.cn/n1/2026/0809/c1012-40776169.html",
           "summary": "",
           "time": ""
@@ -72,20 +72,50 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "两部门发文促进可再生能源高质量发展 解读",
-          "url": "https://www.news.cn/fortune/20260809/46acd22c65d9452cae269601681f8516/c.html",
+          "title": "国防部征兵办公室印发征兵工作人员职业道德准则",
+          "url": "https://www.news.cn/politics/20260809/04500f467cf949cabb309168966975b1/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "农业农村部部署台风“白海豚”防范应对工作",
-          "url": "https://www.news.cn/politics/20260808/c6de1d1e56bd458caf9c76328780236f/c.html",
+          "title": "上半年全国共查办不正当竞争案件11465件",
+          "url": "https://www.news.cn/20260809/19ad4322d05741ac9b936ddfedd9bf65/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "这个钢厂不“喝”一滴地下水",
-          "url": "https://www.news.cn/local/20260808/303e506069d24fd2b3550fcbf8354348/c.html",
+          "title": "走进传感谷 感知“芯”动能",
+          "url": "https://www.news.cn/tech/20260809/404ac3b090df47c69e5eaa2c2281e233/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "浙江宁波：“兴村八事”“强社八法”推动共富善治",
+          "url": "https://www.news.cn/local/20260809/8e242315ab1a4da4b4ce2f3131d56405/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "沃土·甘霖·引路人——青年拔尖创新人才这样养成",
+          "url": "https://education.news.cn/20260809/1b028e58d743431685a8d9b060b33e26/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "国安普法：为赚流量闯禁区 黑飞偷拍切莫为",
+          "url": "https://www.news.cn/legal/20260809/6d692ac2f36f472d81073ac19f29e1a7/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "上市公司上半年业绩预告折射经济韧性",
+          "url": "https://www.news.cn/fortune/20260809/f2f7948a10174f759bd09ede6fa6122d/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "生猪养殖户有了兜底保障 这份收入险“新”在哪？",
+          "url": "https://www.news.cn/fortune/20260809/df69ac1c6c4c4490aea67f97ccf70800/c.html",
           "summary": "",
           "time": ""
         },
@@ -96,38 +126,8 @@
           "time": ""
         },
         {
-          "title": "走，去文博场馆过暑假 如何让看展回归初衷？",
-          "url": "https://www.news.cn/local/20260809/45e0b98f59374272bdc64538f56fa5ed/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "山乡新画卷：流量变“留量”  村马奔腾激活夜经济",
-          "url": "https://www.news.cn/20260809/356633461a784f7ab5b2a17b4dffc339/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "强对流蓝色预警：皖苏等6省市有10级以上雷暴大风",
-          "url": "https://www.news.cn/politics/20260809/df09413dc6624e53abb1dc17042d83b7/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "梦想启航 香港中学生在京研习机器人与人工智能",
-          "url": "https://www.news.cn/gangao/20260808/84ed5ef7804742838515d9a37441734f/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "销量增长 租赁成新选择 体验式消费带热运动相机",
-          "url": "https://www.news.cn/20260809/8fb84b3870d74b768748caec1d62903c/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "内蒙古自治区体育局原副局长吴刚被开除党籍",
-          "url": "https://www.news.cn/20260808/19ebc6a52b0743e9933560544b1ebd8c/c.html",
+          "title": "国外归来，“花痴博士”倾力为月季装上“中国芯”",
+          "url": "https://www.news.cn/local/20260809/81cd07d525ea4fe0a5f6388e3ab82ef1/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,8 +138,14 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "学习新语｜乐享全民健身 共筑健康中国",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202608/t20260808_3135968.shtml",
+          "title": "7月份CPI上涨0.5%",
+          "url": "http://finance.ce.cn/sub/2026/202607cpi/index.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "PPI涨3.5%",
+          "url": "http://finance.ce.cn/stock/gsgdbd/202608/t20260809_3136814.shtml",
           "summary": "",
           "time": ""
         },
@@ -188,12 +194,6 @@
         {
           "title": "新订单指数回升 物流业景气指数保持在扩张区间",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260808_3135970.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "文体市场面面观｜中国神话何以打动世界",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260809_3136072.shtml",
           "summary": "",
           "time": ""
         }
