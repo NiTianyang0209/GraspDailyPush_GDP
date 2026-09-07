@@ -1,5 +1,1371 @@
 [
   {
+    "id": "ES&T-2026-9-6-Organ-Specific-Toxicity-of-Lynestrenol-i",
+    "title": "Organ-Specific\nToxicity\nof Lynestrenol in Mandarin\nFish: Hepatic Metabolic Collapse versus Ovarian Resilience through\nEfflux Transporter Activation",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Weibin Li",
+      "Weijian Chen",
+      "Shengyue Lin",
+      "Guojun Cai",
+      "Ziyan Deng",
+      "Yongqing Zhang",
+      "Haiying Yang",
+      "Qiang Li",
+      "Chong Han"
+    ],
+    "doi": "10.1021/acs.est.6c07917",
+    "link": "https://doi.org/10.1021/acs.est.6c07917",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Lynestrenol (LYN), a fourth-generation synthetic progestin whose active metabolite norethisterone is frequently detected in aquatic environments, poses potential risks to fish. Using integrated multi-omics, enzymology, and histopathology, we investigated the organ-specific toxicity of chronic LYN exposure (0.01, 1 μg/L for 60 days) in female mandarin fish (Siniperca chuatsi). LYN induced severe, dose-dependent hepatic necrosis, driven by concurrent blockade of the 2-oxocarboxylic acid metabolism pathway (via idh1 suppression) and ammonia detoxification failure. Additionally, LYN triggered a multi-node blockade of the ubiquinoid antioxidant system through coordinated downregulation of hpda, nqo1, and ggcx, resulting in oxidative collapse (increased ROS, MDA, ALT; decreased T-AOC, NQO1, IDH1). In contrast, ovaries remained histologically intact with no masculinization. Ovarian resilience involved dual adaptation: recalibration of steroidogenesis (downregulation of cyp19a, hsd11b2, and cpeb2 coupled with esr1 upregulation) and, for the first time in teleost gonads under progestin exposure, upregulation of ABCC efflux transporters (abcc2/3), via l-arginine/Nr",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-6",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-6-Nationwide-Assessment-of-De-Facto-Wastew",
+    "title": "Nationwide\nAssessment\nof De Facto Wastewater Reuse\nReveals Vulnerable Drinking Water Systems and Infrastructure Gaps",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Jinyue Jiang",
+      "Thuy Nguyen",
+      "Julianna Acero",
+      "Minhazul Islam",
+      "Paul Westerhoff"
+    ],
+    "doi": "10.1021/acs.est.6c09442",
+    "link": "https://doi.org/10.1021/acs.est.6c09442",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Unplanned wastewater reuse, or de facto reuse (DFR), improves surface water supply resiliency but can introduce nutrients and emerging contaminants into drinking water sources. Previous national DFR assessments excluded thousands of smaller drinking water systems that serve ≤10,000 people. By expanding the De Facto Reuse Incidence in our Nation’s Consumable Supply (DRINCS) model into DRINCS2.0 to include all 6,881 U.S. surface water intakes serving ∼232 million people, we identify a previously unrecognized national infrastructure gap. DRINCS2.0 uses updated high-resolution hydrography data and post-2020 water and wastewater facility details. Although large systems serving &amp;gt;10,000 people experience higher DFR frequency (41% versus 34%) and magnitude (medians of 2.0% versus 1.2%), 71% of impacted small systems (≤10,000 people) lack advanced treatment (i.e., activated carbon, ozone, and reverse osmosis) capable of treating pollutants of wastewater origin, compared with 43% of large systems. Higher DFR was associated with increased PFAS occurrence in treated drinking water obtained from EPA UCMR5 data sets. Sociodemographic analysis further showed that",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-6",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-6-Strained-Partnership--Biocompatibility-a",
+    "title": "Strained Partnership:\nBiocompatibility and Transcriptomic\nResponses of Hydrogenotrophic Methanogens to Methyl Diethanolamine\nin Bio-integrated Carbon Capture and Utilization",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Madhuni M. Wijesooriya",
+      "Mathias Eskildsen",
+      "Jeppe L. Nielsen",
+      "Michael V. W. Kofoed"
+    ],
+    "doi": "10.1021/acs.est.6c01434",
+    "link": "https://doi.org/10.1021/acs.est.6c01434",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Biointegrated carbon capture and utilization (BICCU) represents a promising alternative to conventional carbon capture technologies, combining microbial methanogenesis with CO2 capture agents, such as methyl diethanolamine (MDEA), to produce renewable methane from dilute CO2 sources. However, the biotoxicity of these solvents poses a major challenge to the viability of the BICCU approach. This study investigates the biocompatibility and physiological responses ofMethanococcus maripaludis and Methanosarcina barkeri to MDEA, through batch experiments and transcriptomic analysis. Both methanogens exhibited inhibited methane production when exposed to MDEA, with M. barkeri displaying higher sensitivity. M. maripaludis maintained the highest CH4 production rate at 30 mmol/L MDEA, while M. barkeri was almost fully inhibited at this concentration. Transcriptomic analysis revealed upregulation of genes associated with S-layer formation, cell envelope biogenesis, glycosyltransferase activity, and ion transport, alongside downregulation of lysine biosynthesis and secretion system genes. These findings suggest a metabolic trade-off, where cellular energy is realloca",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-6",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-5-Monomer-Quaternization-Enables-Antibiofo",
+    "title": "Monomer Quaternization\nEnables Antibiofouling and\nSuperior Perm-selectivity of Nanofiltration Membranes for Sustainable\nWater Purification",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Zhiwei Qiu",
+      "Yana Li",
+      "Bozhan Ma",
+      "Ruobin Dai",
+      "Zhiwei Wang"
+    ],
+    "doi": "10.1021/acs.est.6c05832",
+    "link": "https://doi.org/10.1021/acs.est.6c05832",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Biofouling poses a substantial challenge to advanced wastewater treatment and reuse via nanofiltration (NF) membranes, while current strategies for enhancing antibiofouling performance often compromise membrane perm-selectivity. Herein, quaternized NF (QPIP-NF) membranes were fabricated via piperazine (PIP) quaternization to simultaneously enhance antibiofouling performance and perm-selectivity. Compared with PIP-NF membranes, QPIP-NF membranes exhibited 1.4-fold higher pure water permeance, slightly increased Na2SO4 rejection, and 1.4-fold higher water/Na2SO4 selectivity, owing to increased surface roughness, reduced polyamide thickness, and improved size-sieving. Furthermore, QPIP-NF membranes also exhibited a 91% improvement in antibacterial efficiency against Escherichia coli and a 48% enhancement in dynamic antibiofouling performance. Kit-based measurements of key bacterial enzyme activities and reactive-species levels, postfouling antibacterial evaluations, and confocal laser scanning microscopy analyses of live/dead cell distributions and biofilm thickness on the membrane surface collectively revealed the antibiofouling mechanism of the QPIP-NF mem",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-5",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-5-Uncoupling-Aviation-and-Roadway-Contribu",
+    "title": "Uncoupling\nAviation and Roadway Contributions to Ultrafine\nParticle and Black Carbon Exposure in a Marginalized Neighborhood",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Samer Sawan",
+      "Arman Ganji",
+      "Keith Van Ryswyk",
+      "Ryan Kulka",
+      "Angelos T. Anastasopolos",
+      "Cheol-Heon Jeong",
+      "Greg Evans",
+      "Marianne Hatzopoulou"
+    ],
+    "doi": "10.1021/acs.est.6c06666",
+    "link": "https://doi.org/10.1021/acs.est.6c06666",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Ultrafine particles (UFP) and black carbon (BC) are key markers of combustion-related air pollution, yet disentangling their sources remains a challenge in complex urban environments. Using a hybrid mobile and fixed-site monitoring campaign, we investigated a marginalized northwest Toronto neighbourhood downwind of Toronto Pearson International Airport and a freight distribution corridor. Results reveal a divergent spatial footprint for the two pollutants. UFP concentrations correlated strongly with flight activity (r = 0.58, p &amp;lt; 0.05 at 3.5 km), with 1.7- to 3.3-fold enrichment downwind of the airport, measured as the ratio of the IQR of UFP concentrations under downwind versus other wind conditions, reaching 3.2-fold at residential sites ∼8 km away. BC was instead driven by roadway proximity and freight activity, with weak correlations with flight counts. BC–UFP correlations were strong during northerly winds (Mean r = 0.62), but weak downwind of the airport (Mean r = 0.1), indicating shared traffic and industrial sources versus independent sources downwind. Random Forest models (R2 = 0.79 for UFP, R2 = 0.87 for BC) identified industrial land-use",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-5",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-9-4-Emerging-skills-and-wage-gaps-in-the-low",
+    "title": "Emerging skills and wage gaps in the low-carbon transition: evidence from online job vacancy data",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Aurélien Saussay",
+      "Misato Sato",
+      "Francesco Vona"
+    ],
+    "doi": "10.1086/743961",
+    "link": "https://doi.org/10.1086/743961",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Pyrolysis-Tuned-Dual-Function-Biochar-De",
+    "title": "Pyrolysis-Tuned\nDual-Function Biochar-Derived Dissolved\nOrganic Matter Drives Redox Coupling for Deep PFAS Defluorination\nin UV/Sulfite Systems",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Fang Jiang",
+      "Xinrong Liao",
+      "Haonan Dong",
+      "Ziyao Zhu",
+      "Li Guo",
+      "Huaxin Li",
+      "Li Rao",
+      "Zhihui Ai",
+      "Jingming Gong"
+    ],
+    "doi": "10.1021/acs.est.6c06874",
+    "link": "https://doi.org/10.1021/acs.est.6c06874",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  The growing use of biochar is increasing the release of biochar-derived dissolved organic matter (BDOM) in surface waters. Concurrently, remediation of persistent per- and polyfluoroalkyl substances (PFAS) remains challenging. Although natural DOM can both photosensitize and scavenge reactive species, how BDOM modulates PFAS transformation in waters is unclear. Here, we show that low-level BDOM (1 mgC L–1) unexpectedly promotes PFAS defluorination in the UV/sulfite (UV/S) system by simultaneously boosting hydrated electron (eaq–) production and generating oxidizing radicals via triplet states (3BDOM*). The hydrophilic, moderately condensed aromatic, fulvic/humic-like fraction of BDOM is most effective across all tested feedstocks and pyrolysis temperatures. BDOM derived at 500 °C raises eaq– yield 2.6-fold over UV/S alone while co-producing •OH. Crucially, BDOM appears to reroute the eaq–-mediated decarboxylation–hydroxylation–elimination–hydrolysis pathway: instead of water addition, •OH may directly attack perfluorinated radical, making key steps more thermodynamically favorable and accelerating C–F cleavage. Leveraging naturally derived BDOM in waters,",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Quaternary-Phosphonium-Salt-Functionaliz",
+    "title": "Quaternary Phosphonium\nSalt Functionalization of Polyamide\nReverse Osmosis Membranes: Effects on Separation Performance",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Yanfang Hao",
+      "Na Li",
+      "Yujian Yao",
+      "Gaoying Wu",
+      "Lei Qi",
+      "Xuan Zhang"
+    ],
+    "doi": "10.1021/acs.est.6c10545",
+    "link": "https://doi.org/10.1021/acs.est.6c10545",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Biofouling is a persistent challenge in reverse osmosis (RO) desalination and water reuse because it accelerates flux decline, increases energy consumption, and drives chemical cleaning requirements. Developing durable antibiofouling interfaces is therefore critical for improving the sustainability of membrane-based water treatment. Here, we show that covalent installation of quaternary phosphonium functionality on polyamide thin-film composite (TFC) membranes provides a promising route to enhanced biofouling resistance while largely preserving desalination performance. Using a mild surface-grafting strategy, we immobilized quaternary phosphonium salts (QPS) on RO membrane surfaces and directly compared their behavior with that of structurally analogous quaternary ammonium salts (QAS). Surface analyses confirmed successful functionalization while preserving the characteristic morphology of the polyamide selective layer. Under optimized conditions, the QPS-modified membrane maintained NaCl rejection of ∼99% with only a limited permeance penalty. More importantly, QPS outperformed QAS in suppressing Escherichia coli, achieving 72.6% antibacterial efficiency",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Age-Dependent-Heterogeneity-Trends-in-th",
+    "title": "Age-Dependent\nHeterogeneity\nTrends in the Associations\nbetween Urban Green Space and Cardiovascular Health in a Humid-Subtropical\nMegacity",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Chengkang Wang",
+      "Xinyu Pei",
+      "Yajing Mao",
+      "Lina Kang",
+      "Biao Xu",
+      "Jun Jin",
+      "Jiajie Cao",
+      "Huilin Liang"
+    ],
+    "doi": "10.1021/acs.est.6c08296",
+    "link": "https://doi.org/10.1021/acs.est.6c08296",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Urban green space (UGS) is a promising nature-based solution for cardiovascular health, yet its associative pathways in pollution-saturated, high-density environments remain contested. We applied a two-stage framework combining gradient boosting decision trees and structural equation modeling to a clinical cohort of 23,312 patients in Nanjing, China. Air-quality-related pathways accounted for more than 75% of the relative statistical contribution to model variance, exceeding psychological restoration proxies. At the macroscale, the aggregated air-quality pathway showed a marginal positive coefficient; although this may conceptually resemble aerodynamic interference, the interpretation remains speculative because no morphological or fluid-dynamics data were available. Stage 2 models identified distinct protective associative networks. For chronic ischemic heart disease, vegetation vitality was inversely associated with NO2 and SO2 and was linked to more favorable metabolic markers. For heart failure, the vegetation condition was associated with mixed pollutants and hemodynamic-metabolic indicators. Age-stratified analyses suggested heterogeneity in canopy ",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Scale-Dependent-Drivers-Shape-Airborne-M",
+    "title": "Scale-Dependent\nDrivers Shape Airborne Microbiomes\nacross the Shanghai Subway Network",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Jing Cai",
+      "Yanling Shen",
+      "Lufang Jiang",
+      "Shizhen Li",
+      "Cong Li",
+      "Houcheng Li",
+      "Sujuan Zhou",
+      "Xinyue Liang",
+      "Chao Jiang",
+      "Na He"
+    ],
+    "doi": "10.1021/acs.est.6c00174",
+    "link": "https://doi.org/10.1021/acs.est.6c00174",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Urban subway systems represent important yet understudied environments for human exposure to airborne microorganisms. Therefore, we conducted an investigation of air microbiome across 43 underground stations spanning 13 lines of the Shanghai subway. Using stratified cluster sampling, we simultaneously collected total suspended particles (TSP, aerodynamic diameter ≤ 100 μm) and fine particulate matter (PM2.5, aerodynamic diameter ≤ 2.5 μm) at station entrances, halls, and platforms, integrating microbial taxonomy, transcriptional potential, PM2.5 chemical composition, microclimate, and network topology. We found bacteria dominated both particle-size fractions and accounted for the majority of transcriptional signals, whereas eukaryotic taxa were strongly enriched in TSP, reflecting pronounced particle-size filtering. Although transcriptional potential generally increased with abundance, dominant taxa such as Staphylococcus and Bacillus exhibited weak abundance–transcription coupling, indicating functional decoupling between numerical dominance and transcriptional contribution in subway air microbiomes. Microbial diversity and community composition remained",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Toward-a-Predictive-Threshold-Based-Fram",
+    "title": "Toward\na Predictive Threshold-Based Framework for\nAged Microplastics: Coupling Interfacial, Dissolved, and Photochemical\nDynamics into Reactive Pollution Plumes",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Minghui Xiang",
+      "Sirui Huang",
+      "Jin Zhang",
+      "Hui Li"
+    ],
+    "doi": "10.1021/acs.est.6c10941",
+    "link": "https://doi.org/10.1021/acs.est.6c10941",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Computational-Modeling-of-Micro--and-Nan",
+    "title": "Computational Modeling\nof Micro- and Nanoplastic–Protein\nInteractions: Move Beyond the Oligomer",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Zewen Ji",
+      "Hao Qiu"
+    ],
+    "doi": "10.1021/acs.est.6c11093",
+    "link": "https://doi.org/10.1021/acs.est.6c11093",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Exploiting-Geometric-Flexibility-of-Coor",
+    "title": "Exploiting Geometric\nFlexibility of Coordination Complexes\nfor Selective Cobalt–Nickel Membrane Separations",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Lauren Mazurowski",
+      "Jianhao Qian",
+      "Zhongren Jiao",
+      "Junwei Zhang",
+      "Mingjiang Zhong",
+      "Menachem Elimelech"
+    ],
+    "doi": "10.1021/acs.est.6c07466",
+    "link": "https://doi.org/10.1021/acs.est.6c07466",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Conventional membrane separation mechanisms based on size, charge, and valency cannot effectively differentiate between nearly identical transition metal ions such as cobalt, nickel, and manganese. To circumvent these fundamental limitations, we develop a cobalt-selective membrane that facilitates ion transport through specific ion–ligand coordination geometry, an underutilized separation mechanism in membranes. First, we fabricate and characterize a phosphonate-functionalized polyelectrolyte multilayer membrane designed to provide a sterically constrained coordination environment. Next, we evaluate ion flux and membrane selectivity in multisalt diffusion cell transport experiments, achieving Co2+/Ni2+ selectivity of ∼2.3, Mn2+/Co2+ of 1.9, and Zn2+/Co2+ of 17.3, and reversing selectivity expectations of the classical Irving–Williams stability series (Mn2+ &amp;lt; Co2+ &amp;lt; Ni2+ &amp;gt; Zn2+). Through isothermal titration calorimetry and density functional theory simulations, we demonstrate that the thermodynamically favorable binding of Co2+ over Ni2+ drives a coordinative “hopping” mechanism. Transport is governed by the ion’s ability to partially",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Time-of-Use-Pricing-Enhances-Vehicle-to-",
+    "title": "Time-of-Use Pricing\nEnhances Vehicle-to-Grid Benefits\nfor Power Systems and Vehicle Owners but May Undermine Decarbonization",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Bowen Tian",
+      "Pei Zhao",
+      "Min Liu",
+      "Chongyu Zhang",
+      "Fang Wang",
+      "Yinan Zhao",
+      "Wei Shen",
+      "James E. Anderson",
+      "Runyu Jiang",
+      "Sheng Zhao",
+      "Di Wang",
+      "Shaojun Zhang",
+      "Xi Lu",
+      "Ye Wu"
+    ],
+    "doi": "10.1021/acs.est.6c03971",
+    "link": "https://doi.org/10.1021/acs.est.6c03971",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Vehicle-to-grid (V2G) is an important flexibility management technology for lower-carbon transport and the electricity grid. However, its effectiveness relies on the temporal alignment between the price incentives and grid dynamics. To overcome the challenge of coordinating electricity pricing with V2G deployment, we integrated a Bayesian optimization framework into a unit commitment model of the 2030 Jing–Jin–Tang power grid. Results demonstrate that current static time-of-use tariffs incentivize EV fleets to discharge during midday solar peak hours. This behavior displaces zero-marginal-cost renewable generation and forces pumped storage hydropower units to absorb excess fleet discharge. Optimizing tariffs could reduce average net load, operating costs, and CO2 emissions. In summary, the synergistic interaction between V2G and dynamic pricing shows a dual effect: it reduces costs for both the grid and EV owners but, conversely, can increase CO2 emissions due to excessive EV participation. Our results demonstrate that a shift toward dynamic, carbon-aware pricing mechanisms is essential to ensure that widespread V2G deployment effectively supports decarbo",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Assessing-UV-Filter-Exposure-in-Queensla",
+    "title": "Assessing UV Filter\nExposure in Queensland, Australia:\nHuman Biomonitoring Evidence Highlighting Homosalate in Children",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Katharina E. Ebert",
+      "Danielle E. Que",
+      "Anne Lotz",
+      "Thomas Brüning",
+      "Leisa-Maree L. Toms",
+      "Peter Hobson",
+      "Heath Glover",
+      "Holger M. Koch",
+      "Jochen F. Mueller",
+      "Daniel Bury"
+    ],
+    "doi": "10.1021/acs.est.6c09445",
+    "link": "https://doi.org/10.1021/acs.est.6c09445",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Sunscreens are an important protection measure against harmful effects of ultraviolet radiation. However, potential health effects of several commonly used UV filters are currently being discussed. We conducted a human biomonitoring (HBM)-based exposure and risk assessment for octocrylene (OC), 2-ethylhexyl salicylate (EHS), and homosalate (HMS; a mixture of cis- and trans-HMS) in urine samples collected in Queensland and across Australia from 2012 to 2023, pooled by age, sex, and collection period (187 pools representing approximately 18,700 individuals). The pooled urines were analyzed by LC–MS/MS for specific exposure biomarkers of these UV filters. Determinants of exposure were investigated using Tobit regression. Biomarker concentrations increased over time, and clear age trends were observed, with children showing roughly one order of magnitude higher concentrations than adolescents/adults. Concentrations of the EHS biomarker 5cx-EPS exceeded the health-based guidance value (HBM-I) in 23% of children’s pooled urines. For the cis-HMS biomarker HMS-CA5, most pooled urines of children exceeded HBM-I (80%) and 53% even HBM-II. These findings indicate th",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Revisiting-Chemicals-of-Concern-in-the-P",
+    "title": "Revisiting Chemicals\nof Concern in the PlastChem Report:\nAddressing the Challenges, Gaps, and Future Directions",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Sergey V. Lyulin",
+      "Mikhail A. Proskurnin",
+      "Andrey A. Gurtovenko",
+      "Ivan M. Zorin",
+      "Todd Gouin",
+      "Jose M. Kenny"
+    ],
+    "doi": "10.1021/acs.est.6c05309",
+    "link": "https://doi.org/10.1021/acs.est.6c05309",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Chemical compounds released from plastics are of great concern as some of them could be hazardous to the environment and human health. Recently, a hazard-based assessment was applied to an extensive data set of 16 325 known plastic chemicals (the PlastChem database). Using this approach, 4219 chemicals of concern were identified on the basis that they are persistent, bioaccumulative, mobile, or toxic. A small portion of the chemicals of concern (568) is already regulated globally; the rest of them (3651 chemicals) constitute the so-called Red List. Because of the enormous importance of the chemicals of concern, several articles published in high-impact scientific journals called for immediate action. They insist that the chemicals from the Red List should be regulated and curtailed within the scope of the forthcoming Plastic Treaty currently being developed under UNEA Resolution 5/14. Here, we report a critical overview of the Red List and show that about 30% of its entries appear questionable, which calls for further in-depth analysis and comprehensive revision of the list. Furthermore, we argue that the hazard-based assessment should serve only as an in",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-UAV-Satellite-Integration-Reveals-Contin",
+    "title": "UAV-Satellite Integration\nReveals Continuous Methane\nEmission Variability from Chinese Coal Mine Ventilation Shafts",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Zhonghua He",
+      "Miao Liang",
+      "Nan Shao",
+      "Ling-Yun Zhu",
+      "Yong-Fang Song",
+      "Dajiang Yu",
+      "Huilin Chen",
+      "Zhao-Cheng Zeng"
+    ],
+    "doi": "10.1021/acs.est.6c03124",
+    "link": "https://doi.org/10.1021/acs.est.6c03124",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Satellite quantification of coal mine methane lacks validation for continuously operating ventilation systems with high temporal variability. We integrate 75 unmanned aerial vehicle (UAV) flights (30 successful, 13 days) with 6.5 years of satellite observations at a Chinese coal mine representing modern deep operations. Ventilation systems emit continuously with extreme variability (28-fold across days; 66–1,849 kg·h–1), challenging simple ON-OFF emission assumptions. Satellite sensor-dependent detection limits systematically exclude low-emission states directly documented by UAV measurements, introducing biases of −4% to +14% relative to our UAV-constrained Markov estimate across six statistical models. Our UAV-constrained Markov model integrates satellite detection frequencies with ground-truth subthreshold distributions, yielding 0.024 ± 0.015 Mt·a–1 for the target ventilation shaft and reconciling the model-dependent spread. At the facility scale, our estimate (0.075 ± 0.022 Mt·a–1) agrees with GCM2024 (−6%) and EDGAR v2024 (+15%); our regional estimate (0.145 ± 0.034 Mt·a–1) closely matches GFEI (0.147 Mt·a–1; −1%), and a sensitivity test applying UA",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Hydrogen-Digital-Product-Passport--Unloc",
+    "title": "Hydrogen Digital\nProduct Passport: Unlocking Trust\nand Transparency for a Global Low-Carbon Future",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "David Parra",
+      "Lourdes F. Vega",
+      "Magdy M. Hassan",
+      "Rebeca Poleo Caraballo",
+      "Paramaconi Rodriguez"
+    ],
+    "doi": "10.1021/acs.est.6c11263",
+    "link": "https://doi.org/10.1021/acs.est.6c11263",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Urinary-Metabolites-of-Volatile-Organic-",
+    "title": "Urinary Metabolites\nof Volatile Organic Compounds\nin a Subset of East Palestine, Ohio Residents Five Months Following\nthe Train Derailment Disaster",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Erin N. Haynes",
+      "Timothy J. Hilbert",
+      "Bela G. Nelson",
+      "Christine Kim",
+      "Misti Allison",
+      "Nicholas Peraino",
+      "Candace Brancato",
+      "Kristen McQuerry",
+      "Judy Westrick"
+    ],
+    "doi": "10.1021/acs.est.6c01315",
+    "link": "https://doi.org/10.1021/acs.est.6c01315",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  The February 2023 train derailment and subsequent vent and burn of 129,000 gallons of vinyl chloride in East Palestine, Ohio, raised a high level of concern about exposure to hazardous chemicals such as volatile organic compounds (VOCs) among residents. In this study, we measured urine metabolite levels of eight (8) VOCs collected five (5) months after the incident from 19 (19) nonsmoking East Palestine residents living within approximately one mile from the derailment site and compared them with levels from a comparison community and 2015–2016 National Health and Nutrition Examination Survey (NHANES) data. The samples were analyzed with a Thermo Altis LC–MS–MS system. Nearly 75% of East Palestine participants had detectable levels of a vinyl chloride metabolite, 2-hydroxyethylmercapturate (HEMA), whereas none of the comparison community participants had detectable levels and only 5% of NHANES participants had levels above the 3.0 ng/mL limit of detection (LOD). One East Palestine participant had a quantifiable level of the butyl acrylate metabolite, whereas none of the Marietta residents was above the LOD. The metabolite was not measured in the NHANES. T",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Chemical-Fingerprints-of-New-vs-Weathere",
+    "title": "Chemical\nFingerprints of New vs Weathered Plastics:\nA Machine Learning Approach",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Huy Nguyen",
+      "Eric Fries",
+      "David Jones",
+      "David Megson",
+      "Alexa Zonderman",
+      "Lars Hildebrandt",
+      "Scott Coffin",
+      "Daniel Pröfrock",
+      "Roxana Sühring"
+    ],
+    "doi": "10.1021/acs.est.6c03575",
+    "link": "https://doi.org/10.1021/acs.est.6c03575",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Regulatory initiatives to mitigate plastic pollution face challenges in identifying microplastics and their sources. Recent advances in computational fingerprinting offer opportunities for the forensic investigation of plastic pollution sources. Here, we present an open-source computational workflow integrating multi-instrumental, nontargeted (organic and inorganic) data from three distinct mass spectrometry methods to evaluate two approaches for potential plastic pollution source tracking. The workflow includes a novel data imputation, normalization, and feature selection strategy with a Random Forest classifier applied to data sets of 42 pristine (store-bought) and 21 weathered (environmentally collected) plastics from U.S. retail products and California beaches. To develop a workflow for source identification, we first, evaluated an “Universal Fingerprint” approach, which tested whether chemical profiles from pristine, store-bought plastic products could be used to identify weathered environmental counterparts based on their chemical additive patterns. This approach yielded low classification accuracy due to high geographic and manufacturer-specific fo",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Climate-Factors--Air-Pollutants--and-Ext",
+    "title": "Climate\nFactors,\nAir Pollutants, and Extreme Events\nShape Influenza Risk in China: A Hospital-Based Case-Crossover and\nMachine-Learning Study",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Enmin Ding",
+      "Rui Shen",
+      "Zilu Xu",
+      "Yu Wang",
+      "Song Tang",
+      "Xiaoming Shi",
+      "Weizhong Yang"
+    ],
+    "doi": "10.1021/acs.est.6c04755",
+    "link": "https://doi.org/10.1021/acs.est.6c04755",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Although the link between seasonal influenza and environment has been established, the heterogeneous impacts of climate extreme events with their interactions remain poorly understood. Based on 630,120 influenza-positive cases from hospitals in 335 Chinese cities (2005–2019), this case-crossover study adopted distributed lag nonlinear models to quantify exposure-lag-response relationships between environmental exposures and influenza, applied machine learning to rank dominant variables, and performed a Long Short-Term Memory (LSTM) model using Beijing as proof of concept to test the forecasting utility of extreme events. Meteorological variables, air pollution, and extreme events are significantly associated with influenza risk. Machine learning models indicate that atmospheric temperature, humidity, and particulate matter may be the primary contributors. Co-exposure to extreme events showed a higher joint risk than single exposure, with a significant submultiplicative interaction on the multiplicative scale and no evidence of additive interaction. Based on the Beijing-specific LSTM proof-of-concept framework, integrating extreme events significantly enha",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-4-Environmental-Exposure-to-Triclosan-Prom",
+    "title": "Environmental Exposure\nto Triclosan Promotes Rheumatoid\nArthritis via KEAP1/NRF2 Inhibition and Subsequent IL-17 Signaling\nActivation",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Jianmin Sang",
+      "Xuewei Ding",
+      "Zicheng Yan",
+      "Xiaoyan Yao",
+      "Shibo Cao",
+      "Chengtao Lei",
+      "Ruizi Gao",
+      "Ming Zong",
+      "Long He",
+      "Lieying Fan"
+    ],
+    "doi": "10.1021/acs.est.6c07298",
+    "link": "https://doi.org/10.1021/acs.est.6c07298",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Triclosan (TCS) is a ubiquitous environmental contaminant known for its endocrine-disrupting and immunotoxic effects, yet its role in autoimmune diseases, including rheumatoid arthritis (RA), remains poorly understood. Here, we observed that serum TCS levels were significantly elevated in RA patients compared to healthy controls. In vivo, TCS dose-dependently aggravated collagen-induced arthritis in mice, with KEAP1 upregulation, synovial hyperplasia, and elevated serum TNF-α, IL-6, and IL-1β. In rheumatoid arthritis fibroblast-like synoviocytes (RA-FLS), TCS promoted a pro-inflammatory and aggressive phenotype with enhanced cytokine production, proliferation, migration, and invasion. Mechanistically, surface plasmon resonance (SPR) and cellular thermal shift assay (CETSA) confirmed direct TCS-KEAP1 binding (KD = 4.5 μM), supported by molecular docking (binding energy: −7.93 kcal/mol) and molecular dynamics (MD) simulations. This interaction led to KEAP1 upregulation, enhanced KEAP1-NRF2 binding, and NRF2 sequestration in the cytoplasm via a degradation-independent mechanism, impairing its nuclear translocation and transcriptional activity. Consequently, ",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-4",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-9-3-Market-Inefficiencies-in-Renewable-Suppo",
+    "title": "Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Melita Van Steenberghe",
+      "Marten Ovaere"
+    ],
+    "doi": "10.1086/743936",
+    "link": "https://doi.org/10.1086/743936",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-3",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-3-Entropy-Driven-Modulation-of-Lattice-Oxy",
+    "title": "Entropy-Driven Modulation\nof Lattice Oxygen Stabilization\nand Oxygen Activation for Durable and Efficient Volatile Organic  Oxidation",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Yukang Hua",
+      "Bohua Sun",
+      "Qianqian Li",
+      "Maoyong Song",
+      "Rui Liu",
+      "Yongguang Yin",
+      "Jia Duo",
+      "Liang Pei",
+      "Jing Meng",
+      "Bin Shi",
+      "Guijin Su",
+      "John C. Crittenden"
+    ],
+    "doi": "10.1021/acs.est.6c06240",
+    "link": "https://doi.org/10.1021/acs.est.6c06240",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Achieving sustained activity without deactivation in metal oxide catalysts poses a critical challenge in volatile organic compounds abatement. Here, we introduce an entropy-increasing strategy to circumvent the inherent activity–stability trade-off by progressively incorporating thermodynamically diverse elements Zr, Mg, Co, Ni, and Mn into a CeO2 fluorite lattice to construct low-, medium-, and high-entropy oxides (LEO, MEO, and HEO). The optimized HEO affords 90% cyclohexane conversion at a markedly low 274 °C, alongside outstanding stability during both a 48 h accelerated aging test and a 100 h stability evaluation. Comprehensive analysis of fresh, used, and aged catalysts indicates that increasing configurational entropy modulates the strength of metal–oxygen bonds, precisely balancing lattice robustness and oxygen mobility, thereby sustaining a robust redox cycle. In-depth characterization under both O2-rich and O2-free conditions, combined with DFT calculations of the crystal orbital Hamiltonian population, further reveals that thermally sensitive Mn promote electron transfer for rapid oxygen activation, while thermally inert Zr strengthens metal–ox",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-3",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-3-Digging-into-Understudied-Sediments--Wha",
+    "title": "Digging into Understudied\nSediments: What\n                    <i>Lumbriculus variegatus</i>\n                    Reveals about Fluoxetine Exposure\nfrom the Cellular to the Individual Level",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Jacqueline Hilgendorf",
+      "Vânia Calisto",
+      "Diana Campos",
+      "Diogo N. Cardoso",
+      "Joana Fernandes",
+      "Diana L.D. Lima",
+      "Jesper G. Sørensen",
+      "Érika M.L. Sousa",
+      "Susana Loureiro"
+    ],
+    "doi": "10.1021/acs.est.5c12822",
+    "link": "https://doi.org/10.1021/acs.est.5c12822",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Sediments accumulate persistent and toxic compounds, yet assessing their effects on benthic species remains challenging. Especially antidepressants, such as fluoxetine, are of concern due to their sediment affinity and potential to disrupt neuroendocrine functions at low concentrations. This study investigated the chronic effects of fluoxetine in the sediment-dwelling worm Lumbriculus variegatus through two 28-day sediment exposures (0.00025–25 mg/kg) conducted in accordance with OECD 225, with modifications. Endpoints encompassed multiple biological levels, including biochemical markers of neurotoxicity (cholinesterase), oxidative stress (catalase, glutathione-S-transferase, total glutathione), damage (lipid peroxidation), energy metabolism (lipids, sugars, proteins, electron transport system), physiological responses (oxygen consumption), three novel behavioral assays (chemical avoidance, feeding, phototaxis), and conventional apical endpoints (mortality, growth, reproduction). Effects on the non-conventional endpoints occurred at environmentally relevant sediment concentrations. Additionally, oxidative stress and behavioral responses were substantially",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-3",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-3-Molecular-Characterization-of-Nighttime-",
+    "title": "Molecular\nCharacterization of Nighttime New Particle\nFormation in Coastal Urban Environment: Season-Dependent Roles of\nSulfuric Acid and Oxygenated Organic Molecules",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Qiuxuan Wu",
+      "Rujing Yin",
+      "Jin Wu",
+      "Han Liao",
+      "Yuyang Li",
+      "Qiaojing Zhao",
+      "Tingmeng Wang",
+      "Yangjie Zhang",
+      "Shouzheng Yan",
+      "Xiaohuan Wang",
+      "Rendan Zheng",
+      "Wei Nie",
+      "Chao Yan",
+      "Xu-Cheng He",
+      "Douglas R. Worsnop",
+      "Markku Kulmala",
+      "Jingwen Chen",
+      "Jingkun Jiang",
+      "Hong-Bin Xie"
+    ],
+    "doi": "10.1021/acs.est.6c04493",
+    "link": "https://doi.org/10.1021/acs.est.6c04493",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  New particle formation (NPF) substantially contributes to atmospheric aerosols, which influences human health and climate. Nighttime NPF has been observed with intensities comparable to those of daytime events in both pristine and polluted environments, yet its molecular mechanisms and driving precursors remain largely unknown. Here, we present a comprehensive analysis of nighttime NPF in Dalian, a coastal city in China, based on approximately 1.5 years of measurements using state-of-the-art instruments. Our results reveal seasonally distinct driving precursors. In the spring and winter, nocturnal sulfuric acid (H2SO4) formation primarily drives NPF, with elevated H2SO4 and its clusters closely linked to particle formation, while the H2SO4 dimer formation proceeds near the collision limit. In contrast, during the summer and warm autumn, oxygenated organic molecules (OOMs) abundantly emerge, whereas H2SO4 and its dimers are scarce. OOM dimers show positive correlations with nascent particles, with a mean Pearson correlation coefficient of 0.55. While organic-driven NPF has been reported only in biogenic environments, our observations provide molecular-leve",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-3",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-3-Machine-Learning-Attribution-of-Atmosphe",
+    "title": "Machine Learning\nAttribution of Atmospheric Black\nCarbon in a Coastal City: Source Variability and the Sea–Land\nBreeze Recirculation Mechanism",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Hao Yu",
+      "Xingyue Guo",
+      "Xinyu He",
+      "Mengyuan Luo",
+      "Dan Yao",
+      "Wenkang Gao",
+      "Guangxuan Yan",
+      "Pengtuan Hu",
+      "Xue Li",
+      "Menglin Liu",
+      "Xu Han",
+      "Zhiguo Cao"
+    ],
+    "doi": "10.1021/acs.est.6c10060",
+    "link": "https://doi.org/10.1021/acs.est.6c10060",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Black carbon (BC) variability in coastal environments reflects the combined effects of emission sources, regional transport, and mesoscale circulation. This study selected the typical coastal city of Qingdao as the study area, collected BC online observation data for one year in 2021, and integrated it with the Aethalometer model, trajectory analysis, and Random Forest (RF) machine learning framework to examine these mechanisms. The annual mean BC concentration was 1.78 ± 1.29 μg m–3, with fossil fuel combustion contributing 88.2% of the total mass, while the biomass burning contribution increased to 19% in winter. Source-resolved attribution showed distinct meteorological responses. Fossil-fuel black carbon (BCff) was more strongly associated with wind-controlled ventilation and transport, whereas biomass burning BC (BCbb) responded more strongly to low-temperature conditions. Under sea–land breeze (SLB) conditions, BC enhancement was most evident at wind speeds of 2.0 to 3.5 m s–1. Diurnal persistence, directional shifts in elevated fossil fuel BC, and interactions between wind speed and wind direction further supported return transport and reaccumulati",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-3",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-3-Scaling-of-Urban-3D-Form-with-Emissions-",
+    "title": "Scaling\nof Urban 3D Form with Emissions and GDP in\nChinese Cities",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Peiran Zhang",
+      "Liang Gao",
+      "Rafael Prieto-Curiel",
+      "Chaoyang Zhang",
+      "Daqing Li",
+      "Yupeng Liu",
+      "Lulu Song",
+      "Bin Jia",
+      "Wei-Qiang Chen",
+      "Ziyou Gao"
+    ],
+    "doi": "10.1021/acs.est.6c06830",
+    "link": "https://doi.org/10.1021/acs.est.6c06830",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Rapid urbanization has permanently transformed the face of cities. As the physical manifestation of these transformations, urban form provides a key basis for examining its connections with urban outcomes. While previous studies have primarily focused on two-dimensional (2D) measures, cities are inherently three-dimensional (3D), and the increasing availability of spatial data has recently enabled more detailed 3D analyses. However, comprehensive frameworks that integrate both horizontal and vertical dimensions remain limited. Here, we analyze building height data for 296 Chinese prefecture-level cities in 2019, proposing a volume-constrained framework to explore cross-sectional scaling relationships of urban 3D form with transport emissions, building operation emissions, and GDP. Our results suggest that, conditional on comparable total building volumes, cities characterized by greater vertical development and smaller horizontal extent are statistically associated with lower transport and building operation emissions and higher GDP. We further examine heterogeneity in these associations across cities with different levels of economic development, populat",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-3",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-3-Correspondence-on--PFAS-Toxicity--What-s",
+    "title": "Correspondence on\n“PFAS Toxicity: What’s\nTrue, What’s Not, and What Really Matters”",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Sarah E. Kleinschmidt",
+      "Geary W. Olsen",
+      "Oyebode A. Taiwo"
+    ],
+    "doi": "10.1021/acs.est.6c09319",
+    "link": "https://doi.org/10.1021/acs.est.6c09319",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-3",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-3-Release-and-Transformation-of-Polymer-As",
+    "title": "Release and Transformation\nof Polymer-Associated Chemicals\nfrom Aged Polypropylene and Polyurethane Microplastics in Freshwater\nLaboratory and Mesocosm Studies",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Imari Walker-Franklin",
+      "Jeanne Hankett",
+      "Joana Marie Sipe",
+      "Anna Villalobos Santeli",
+      "Nicholas K. Geitner",
+      "Mark R. Wiesner",
+      "Wendel Wohlleben",
+      "P. Lee Ferguson"
+    ],
+    "doi": "10.1021/acs.est.6c04893",
+    "link": "https://doi.org/10.1021/acs.est.6c04893",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Microplastics (MPs) release polymer-associated chemicals (PACs) into aquatic environments, yet their environmental release, transformation, and persistence remain poorly understood. We applied nontargeted liquid chromatography high-resolution mass spectrometry to characterize PACs released from polypropylene (PP) and polyurethane (PU) MPs in complementary 12-month freshwater wetland mesocosm and 3-month laboratory photolysis and leaching experiments. More leachable compounds were detected from PP (128) than PU (34), reflecting differences in polymer formulations and physicochemical properties. Laboratory studies identified readily mobilized and transformable PACs, including the PP additive bis(2,2,6,6-tetramethyl-4-piperidyl)sebacate (BTMS) and the PU monomer 4-(4-formamidobenzyl)phenyl formamide. Laboratory experiments using higher MP concentrations (10,000 mg L–1) prioritized target PACs for monitoring in lower-concentration mesocosms (50 mg L–1), where ricinine was quantified in PU treatments and BTMS and 2,2,6,6-tetramethyl-4-piperidinol (TMPO) were quantified in PP treatments. PAC concentrations increased over time under simplified laboratory conditi",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-3",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-3-Rebuttal-to-Correspondence-on--PFAS-Toxi",
+    "title": "Rebuttal to Correspondence\non “PFAS Toxicity:\nWhat’s True, What’s Not, and What Really Matters”",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Jamie C. DeWitt",
+      "Ian T. Cousins",
+      "Gretta Goldenman",
+      "Dorte Herzke",
+      "Rainer Lohmann",
+      "Mark Miller",
+      "Carla A. Ng",
+      "Martin Scheringer",
+      "Xenia Trier",
+      "Zhanyun Wang"
+    ],
+    "doi": "10.1021/acs.est.6c12749",
+    "link": "https://doi.org/10.1021/acs.est.6c12749",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-3",
+    "is_new": true
+  },
+  {
+    "id": "ES&T-2026-9-3-Evaluating-the-Effect-of-China-s-Pestici",
+    "title": "Evaluating\nthe Effect of China’s Pesticide\nGuidance Actions on Soil Ecological Risks Based on Spatiotemporal\nPesticide Input Dynamics from 2001 to 2050",
+    "journal": "ES&T",
+    "publisher": "ACS",
+    "authors": [
+      "Hongyu Mu",
+      "Bin Zhang",
+      "Hua Li",
+      "Gerard H. Ros",
+      "David R. Chadwick",
+      "Xiaomei Yang",
+      "Davey L. Jones",
+      "Jiarong Li",
+      "Zhong Zhuang",
+      "Yidong Xi",
+      "Yalan Zhou",
+      "Wei An",
+      "Xuejun Liu",
+      "Kai Wang"
+    ],
+    "doi": "10.1021/acs.est.6c04763",
+    "link": "https://doi.org/10.1021/acs.est.6c04763",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  A national action, titled the Zero Growth of Pesticide Use Action Plan (ZAP), was launched to tackle pesticide pollution risks by the Chinese government in 2015, leading to substantial reductions in pesticide inputs. However, the effect of such a national action on risk mitigation remains unknown. This study characterizes the spatiotemporal dynamics of pesticide inputs and risks of 146 pesticide active ingredients across China from 2001 to 2022 and provides projections up to 2050 to evaluate the efficacy of ZAP under a moderate future climate change scenario. A transition in pesticide input was observed from 2001 to 2022, revealing a redistribution of hotspots from the North China and Yangtze River basins to more widely distributed locations in southern China. Despite the overall reduction in quantities used, pesticide concentrations doubled in soils from 2001 (1.04 mg kg–1) to 2022 (2.25 mg kg–1), with pesticide residues in soils becoming more persistent. The launch of ZAP in the short term (from 2015 to 2022) decreased the applied mass of hazardous pesticides. From the long-term view, a reduction of pesticide inputs exceeding 50% is projected to be achi",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-3",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-9-1-Random-Forests-for-Benefit-Transfer",
+    "title": "Random Forests for Benefit Transfer",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Robert J. Johnston",
+      "Klaus Moeltner"
+    ],
+    "doi": "10.1086/741704",
+    "link": "https://doi.org/10.1086/741704",
+    "volume": "13",
+    "issue": "5",
+    "pages": "1153-1185",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-1",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-9-1-Political-Ideology-and-US-Electric-Vehic",
+    "title": "Political Ideology and US Electric Vehicle Adoption",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Lucas W. Davis",
+      "Jing Li",
+      "Katalin Springel"
+    ],
+    "doi": "10.1086/742108",
+    "link": "https://doi.org/10.1086/742108",
+    "volume": "13",
+    "issue": "5",
+    "pages": "1337-1351",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-1",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-9-1-Risky--Natural--Assets--Stochasticity--N",
+    "title": "Risky (Natural) Assets: Stochasticity, Nonconvexity, and the Value of Natural Capital",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Joshua K. Abbott",
+      "Eli P. Fenichel",
+      "Seong D. Yun"
+    ],
+    "doi": "10.1086/741689",
+    "link": "https://doi.org/10.1086/741689",
+    "volume": "13",
+    "issue": "5",
+    "pages": "1269-1309",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-1",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-9-1-Young-Local-Politicians-and-Deforestatio",
+    "title": "Young Local Politicians and Deforestation in the Brazilian Amazon",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Ricardo Dahis",
+      "Ivan de las Heras",
+      "Santiago Saavedra"
+    ],
+    "doi": "10.1086/741559",
+    "link": "https://doi.org/10.1086/741559",
+    "volume": "13",
+    "issue": "5",
+    "pages": "1229-1268",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-1",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-9-1-Front-Matter",
+    "title": "Front Matter",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [],
+    "doi": "10.1086/743613",
+    "link": "https://doi.org/10.1086/743613",
+    "volume": "13",
+    "issue": "5",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-1",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-9-1-Public-Economic-Benefits-of-Agricultural",
+    "title": "Public Economic Benefits of Agricultural Conservation: Evidence from Housing Markets",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Wei Zhang",
+      "Yanggu Li",
+      "Pengfei Liu"
+    ],
+    "doi": "10.1086/741829",
+    "link": "https://doi.org/10.1086/741829",
+    "volume": "13",
+    "issue": "5",
+    "pages": "1187-1227",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-1",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-9-1-Satisfaction--Willingness-to-Pay--and-Ri",
+    "title": "Satisfaction, Willingness to Pay, and Ridership When Buses Are            Electrified",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Alberto Salvo",
+      "Timothy Wong"
+    ],
+    "doi": "10.1086/741557",
+    "link": "https://doi.org/10.1086/741557",
+    "volume": "13",
+    "issue": "5",
+    "pages": "1353-1397",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-1",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-9-1-The-Effects-of-Competition-in-the-Retail",
+    "title": "The Effects of Competition in the Retail Gasoline Industry",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Reid Taylor",
+      "Erich Muehlegger"
+    ],
+    "doi": "10.1086/741830",
+    "link": "https://doi.org/10.1086/741830",
+    "volume": "13",
+    "issue": "5",
+    "pages": "1311-1336",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-1",
+    "is_new": true
+  },
+  {
+    "id": "JAER-2026-9-1-Correcting-Consumer-Misperceptions-about",
+    "title": "Correcting Consumer Misperceptions about CO\n                    <sub>2</sub>\n                    Emissions",
+    "journal": "JAERE",
+    "publisher": "University of Chicago Press",
+    "authors": [
+      "Taisuke Imai",
+      "Davide D. Pace",
+      "Peter Schwardmann",
+      "Joël J. van der Weele"
+    ],
+    "doi": "10.1086/741602",
+    "link": "https://doi.org/10.1086/741602",
+    "volume": "13",
+    "issue": "5",
+    "pages": "1399-1435",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9-1",
+    "is_new": true
+  },
+  {
+    "id": "ENVI-2026-9-Humid-Heat--Health--and-Behavioral-Adapt",
+    "title": "Humid Heat, Health, and Behavioral Adaptation: Evidence from China",
+    "journal": "Environmental & Resource Economics",
+    "publisher": "Springer",
+    "authors": [
+      "Yi Huang",
+      "Yanjun Li"
+    ],
+    "doi": "10.1007/s10640-026-01114-0",
+    "link": "https://doi.org/10.1007/s10640-026-01114-0",
+    "volume": "89",
+    "issue": "9",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENVI-2026-9-Cleaner-Domestic-Growth-from-a-Globaliza",
+    "title": "Cleaner Domestic Growth from a Globalization-Oriented Big Push: Evidence from China’s Belt and Road Initiative",
+    "journal": "Environmental & Resource Economics",
+    "publisher": "Springer",
+    "authors": [
+      "Hangtian Xu",
+      "Hanmiao Yu",
+      "Shuhua He",
+      "Akira Hibiki"
+    ],
+    "doi": "10.1007/s10640-026-01113-1",
+    "link": "https://doi.org/10.1007/s10640-026-01113-1",
+    "volume": "89",
+    "issue": "9",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENVI-2026-9-The-Effectiveness-of-Carbon-Pricing--A-G",
+    "title": "The Effectiveness of Carbon Pricing: A Global Evaluation",
+    "journal": "Environmental & Resource Economics",
+    "publisher": "Springer",
+    "authors": [
+      "Suphi Sen",
+      "Serhan Sadikoglu",
+      "Changjing Ji",
+      "Edwin van der Werf"
+    ],
+    "doi": "10.1007/s10640-026-01108-y",
+    "link": "https://doi.org/10.1007/s10640-026-01108-y",
+    "volume": "89",
+    "issue": "9",
+    "pages": "",
+    "abstract": "Abstract\n                  \n                    We estimate the effect of the staggered adoption of carbon pricing policies across the globe between 1990 and 2017 on per capita\n                    \n                      $$\\text{CO}_2$$\n                    \n                    emissions from fossil fuel combustion. We use recent econometric techniques robust to treatment effect heterogeneity. Our dynamic treatment effect estimations indicate gradual adjustments after implementation, resulting in a 19 to 23 percent decrease in\n                    \n                      $$\\text{CO}_2$$\n                    \n                    emissions after 10 years. These effects were primarily driven by resource substitution rather than improvements in energy efficiency and were not driven by short-term responses to carbon prices. Our results are robust to controlling for the potential effects of renewable energy policies. These results highlight the role of carbon pricing policies in steering medium-term expectations and complementing the climate policy mix.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENVI-2026-9-From-Willingness-to-Engage-to-Demand--A-",
+    "title": "From Willingness to Engage to Demand: A Behavioral Experiment on Green Consumer Information in a Digital Product Passport",
+    "journal": "Environmental & Resource Economics",
+    "publisher": "Springer",
+    "authors": [
+      "Zack Dorner",
+      "Steven Tucker",
+      "Abraham Zhang",
+      "Anna Heuber"
+    ],
+    "doi": "10.1007/s10640-026-01107-z",
+    "link": "https://doi.org/10.1007/s10640-026-01107-z",
+    "volume": "89",
+    "issue": "9",
+    "pages": "",
+    "abstract": "Abstract\n                  Existing evidence shows consumers are willing to pay for labeled environmental attributes. However, there is a gap regarding whether consumers have a willingness to engage (WTE) with detailed information. The European Union’s circular economy action plan provides for a new Digital Product Passport (DPP), holding information including embedded emissions, components and materials, chemical substances, and instructions for repair, disassembly and sustainable disposal. In our theory, a green consumer decides how much to engage with information that helps them mitigate their environmental damage from consumption, given a cognitive or time cost. We test the model using a lab experiment where environmental attributes of a good are only available through a DPP. We find education on the DPP’s purpose is key to increasing revealed WTE with a DPP. This is driven by those with a lower stated WTE; participants with a high stated WTE interact with the DPP regardless. Engagement with the DPP increases knowledge and willingness to pay (WTP), as the DPP reveals favorable environmental information. We find no evidence of positive spillovers from the DPP (no further shifts ",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENVI-2026-9-Heterogeneous-Individual-Valuations-of-a",
+    "title": "Heterogeneous Individual Valuations of a Mild Climate",
+    "journal": "Environmental & Resource Economics",
+    "publisher": "Springer",
+    "authors": [
+      "Jan Brueckner"
+    ],
+    "doi": "10.1007/s10640-026-01110-4",
+    "link": "https://doi.org/10.1007/s10640-026-01110-4",
+    "volume": "89",
+    "issue": "9",
+    "pages": "",
+    "abstract": "Abstract\n                  This paper explores heterogeneous individual valuations of an important amenity, climate mildness, using a traditional Rosen-Roback empirical framework. It does so by including interaction terms between the amenity and worker characteristics in an hedonic wage regression that also includes a housing-price measure. The results suggest that non-young workers (those in the mid-age and old groups) value a mild climate more than do young workers, matching the usual view that the tolerance for cold weather declines with age. The findings also suggest that, like their highly educated counterparts, workers with low education levels also highly value a mild climate, with workers in the middle range of education having a lower valuation. These findings, which contradict the view that only better-off individuals care about amenities, could reflect the lower burden in mild weather of the manual work done by the less educated. In addition to presenting these empirical findings, the paper further contributes by presenting new analytics for the Rosen-Roback model in a setting with individual heterogeneity.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-Book-Review-----------------------i-Euro",
+    "title": "Book Review:\n                    <i>European Gas Markets in Transition</i>\n                    edited by Sesini, M., Nicolle, A., Conti, I., &amp; Piebalgs, A. SesiniM.NicolleA.ContiI.PiebalgsA.(Eds.). (2026). European Gas Markets in Transition. Edward Elgar Publishing. 252 pp. ISBN 978-1-03538-295-8 hardcover, 9781035382965 ebook. https://doi.org/10.4337/9781035382965.",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Antonio Hidalgo"
+    ],
+    "doi": "10.1177/01956574261461477",
+    "link": "https://doi.org/10.1177/01956574261461477",
+    "volume": "47",
+    "issue": "5",
+    "pages": "257-259",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-Unveiling-Forces--Electricity-Market-Vol",
+    "title": "Unveiling Forces: Electricity Market Volatility and Natural Gas Prices—Evidence from India",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Pratik Biswas",
+      "Chandan Sharma"
+    ],
+    "doi": "10.1177/01956574261469477",
+    "link": "https://doi.org/10.1177/01956574261469477",
+    "volume": "47",
+    "issue": "5",
+    "pages": "225-256",
+    "abstract": "This study investigates the intricate relationships between natural gas prices and electricity price volatility in India. For this purpose, we use Indian daily market data from April 2012 to May 2024 and examine asymmetric interconnection between energy market indicators. By looking at both spot and futures prices of natural gas, we uncover detailed insights into how these indicators are inter-related over diverse time periods. Our findings indicate that increases and decreases in electricity market return volatility substantially and differently affect natural gas spot and future prices, highlighting the high asymmetric sensitivity of natural gas prices to electricity market volatility. The effect on natural gas trading volumes, however, is more complex. Increases in return volatility reduce the traded volumes, indicating increased risk aversion among market participants.\n                  \n                    JEL Classification:\n                    Q41, Q42, Q43, C19",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-How-Electric-Vehicles-Affect-Power-Distr",
+    "title": "How Electric Vehicles Affect Power Distribution Companies’ Efficiency: A Spatial Dependency Analysis",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Ørjan Mydland",
+      "Fikru Kefyalew Alemayehu",
+      "Subal C. Kumbhakar",
+      "Gudbrand Lien"
+    ],
+    "doi": "10.1177/01956574261466630",
+    "link": "https://doi.org/10.1177/01956574261466630",
+    "volume": "47",
+    "issue": "5",
+    "pages": "87-107",
+    "abstract": "The rapid increase in the number of electric vehicles (EVs) in Norway presents both challenges and opportunities for power distribution companies (PDCs). Growing EV adoption increases electricity demand and places pressure on local distribution networks, requiring substantial investments in grid infrastructure. This study examines the impact of EV adoption on distribution costs and technical efficiency using a spatial stochastic frontier analysis applied to a balanced panel data for Norwegian PDCs over the period 2016 to 2021. The results show that higher EV adoption is associated with increased distribution costs, reflecting the need for network reinforcements and grid modernization. At the same time, Norwegian PDCs exhibit generally high levels of technical efficiency, indicating that distribution networks are able to adapt effectively to rising demand. Importantly, we find that spatial dependence in costs operates primarily through correlated random shocks and unobserved factors rather than through inefficiency spillovers. Once spatial dependence is modeled jointly in both inefficiency and noise, we find that spatial correlation is concentrated in the random noise component, sug",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-Drivers-of-Renewable-Energy-Adoption-in-",
+    "title": "Drivers of Renewable Energy Adoption in Egypt’s SMEs",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Abeer Elshennawy",
+      "Mohammed Bouaddi"
+    ],
+    "doi": "10.1177/01956574261466633",
+    "link": "https://doi.org/10.1177/01956574261466633",
+    "volume": "47",
+    "issue": "5",
+    "pages": "63-85",
+    "abstract": "Increasing the adoption of renewable energy (RE) is essential to reduce greenhouse gases and combat climate change. Using a sample of 1,002 small and medium enterprises (SMEs) and employing a quantile regression, this paper identifies the main drivers of RE adoption in the case of Egypt. Our findings reveal that firms owned by females are more likely to consider adopting RE. Furthermore, the larger the share of youth in a firm’s labor force, the higher the firm’s probability to deploy RE. Information and communication technology (ICT) utilization, awareness of RE, and access to information on backup generation technology all strongly influence the likelihood of firms considering RE adoption. These results have important policy implications. In this context, removing the impediments facing women entrepreneurs should be a priority for policymakers in Egypt since they are more likely to deploy RE. Additionally, since youth are found to be important drivers of RE adoption, providing this group with the necessary skills through education would serve to enhance this role even more. Raising awareness of the benefits of RE is a straightforward means by which firms in Egypt can be encourage",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-A-Model-Based-Analysis-of-the-AggregateE",
+    "title": "A Model-Based Analysis of the AggregateEU Mechanism: Implications of Overbidding and Non-Commitment",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Dávid Csercsik",
+      "Borbála Takácsné Tóth",
+      "Péter Kotek",
+      "László Á. Kóczy",
+      "Anne Neumann"
+    ],
+    "doi": "10.1177/01956574261460196",
+    "link": "https://doi.org/10.1177/01956574261460196",
+    "volume": "47",
+    "issue": "5",
+    "pages": "195-224",
+    "abstract": "AggregateEU is a new centralised mechanism that provides a no-commitment platform to trade natural gas in the European Union. Throughout the consultation process, AggregateEU has been mocked as ‘Tinder of the European gas markets’ as it helps consumers and suppliers find partners, but leaves it up to the matched partners to decide whether to contract for potential trade. The non-commitment nature leads to substantial overbidding and many non-realised matches. We propose a quantitative modelling framework to study the effect of overbidding in the AggergateEU demand aggregation or joint purchasing mechanism. We conclude that the mechanism is prone to overbidding and that overbidding has ambiguous effects on trade. Depending on the parameters, overbidding may facilitate trade, but may also result in highly inefficient outcomes when overbidding is combined with miscoordination over the delivery points. Suggested remedies include allowing for convex bids, restrictions on overbidding or giving up part of the non-binding character of the market. Our results suggest that a potential future mechanism allowing the coordination of multiple delivery points could enhance the efficiency of gas m",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-Book-Review-----------------------i-Hand",
+    "title": "Book Review:\n                    <i>Handbook on Electricity Regulation</i>\n                    edited by Glachant, J.-M., Joskow, P. L., &amp; Pollitt, M. G. (Eds.). GlachantJ.-M.JoskowP. L.PollittM. G. (Eds.). (2025). Handbook on Electricity Regulation. Edward Elgar Publishing Limited. 558 pp. ISBN 9781035314348.",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Parag Nathaney"
+    ],
+    "doi": "10.1177/01956574261470006",
+    "link": "https://doi.org/10.1177/01956574261470006",
+    "volume": "47",
+    "issue": "5",
+    "pages": "269-273",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-Self--and-Cross-Cannibalization-in-Europ",
+    "title": "Self- and Cross-Cannibalization in Europe on the Path to Net Zero",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Iacopo Savelli"
+    ],
+    "doi": "10.1177/01956574261467508",
+    "link": "https://doi.org/10.1177/01956574261467508",
+    "volume": "47",
+    "issue": "5",
+    "pages": "1-29",
+    "abstract": "This study introduces the concepts of self-cannibalization and cross-cannibalization to analyze at a deeper level the co-evolution of the profit cannibalization dynamics for renewable energy sources (RES) and battery energy storage systems (BESS) while progressing toward net zero. We developed a high-resolution electricity market model comprising thirty-three European countries for 2030 and 2040, considering climate variability, outages, and different RES and BESS deployment levels. The results show that RES face severe self-cannibalization challenges, with a 10 percent capacity increase reducing RES profits by 19 percent in 2030 (23 percent in 2040), while BESS experiences only an 8 percent profit reduction. Notably, the cross-cannibalization effect of RES on BESS is beneficial, as 10 percent RES growth increases BESS profits by 15 percent in 2030. This can create a strategic incentive for pairing RES investment with BESS in the near term, as the beneficial cross-cannibalization can act as a financial “hedge” against RES profit erosion, even though this effect fades by 2040. Finally, we show that a 20 percent increase in RES capacity reduces market prices by 18 percent (2030) and ",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-A-Dynamic-Model-of-Crack-Spreads",
+    "title": "A Dynamic Model of Crack Spreads",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Hamed Ghoddusi",
+      "Sadegh Navabi"
+    ],
+    "doi": "10.1177/01956574261467501",
+    "link": "https://doi.org/10.1177/01956574261467501",
+    "volume": "47",
+    "issue": "5",
+    "pages": "31-61",
+    "abstract": "Crack spreads are a central measure of refinery profitability, yet they are often treated as exogenous differences between crude-oil and refined-product prices. We develop a structural dynamic model in which crack spreads arise endogenously from refined-product demand, crude-supply conditions, convex utilization costs, refinery complexity, hard capacity constraints, and costly production adjustment. The model shows that crack-spread dynamics depend on the source of shocks and the degree of capacity pressure. Demand-driven episodes generate strong positive comovement between refined-product prices and crack spreads, while supply-driven episodes can produce weaker or offsetting relationships. Adjustment frictions further create negative short-run comovement between changes in utilization and changes in spreads. Numerical comparative statics from an illustrative implementation show how the model’s mechanisms operate under alternative volatility, adjustment-cost, and capacitytightness scenarios.\n                  \n                    JEL Classification:\n                    D21, Firm Behavior: Theory; D22, Firm Behavior: Empirical Analysis",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-The-Implications-of-Battery-Integration-",
+    "title": "The Implications of Battery Integration for Variable Renewables in the Australian National Electricity Market",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Parna Imannezhad",
+      "Magnus Soederberg",
+      "Phillip Wild"
+    ],
+    "doi": "10.1177/01956574261466883",
+    "link": "https://doi.org/10.1177/01956574261466883",
+    "volume": "47",
+    "issue": "5",
+    "pages": "171-193",
+    "abstract": "Renewable projects in Australia often rely on Power Purchase Agreements (PPAs) or Contracts-for-Differences (CFDs) to manage merchant risk and ensure revenue stability. This study examines whether lithium-ion batteries can serve as an alternative for a merchant 250 MW wind farm portfolio in Australia’s National Electricity Market (NEM). Using technical and financial models, portfolio performance is evaluated in the energy, derivatives, and Frequency Control Ancillary Services (FCAS) markets. Scenarios consider battery capacities of 25 MW and 50 MW, each with two- and four-hour storage durations. Results show merchant wind farms face missing money and volatile revenues, but battery integration mitigates these issues. Under 50 MW scenarios, positive net present values (NPV) over adjusted free cash flows are achieved under a perfect foresight benchmark. This suggests that batteries can improve portfolio viability and reduce reliance on PPAs and CFDs, although these outcomes represent best-case scenarios and profitability declines materially once price uncertainty is introduced.\n                  \n                    JEL Classification:\n                    C61, Optimisation Techniques;",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-The-Reliability-and-Welfare-Impacts-of-M",
+    "title": "The Reliability and Welfare Impacts of Market-Based Demand Response Against Extreme Weather",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Boyan Zhang",
+      "Renhao Wang",
+      "Mingwei Yu",
+      "Jiayi Tang",
+      "Hao Chen",
+      "Zhan-Ming Chen"
+    ],
+    "doi": "10.1177/01956574261460167",
+    "link": "https://doi.org/10.1177/01956574261460167",
+    "volume": "47",
+    "issue": "5",
+    "pages": "109-136",
+    "abstract": "Market-based demand response (DR) has emerged as an important emergency mechanism to cope with extreme weather shocks as well as the growing penetration of variable renewable energy (VRE). However, the value of DR remains unclear, which undermines efforts to design effective flexibility markets and ensure system reliability. To support China’s resilient power system decarbonization, this study quantifies the welfare impacts of DR under extreme weather, and explores how pricing and VRE penetration influence its optimal deployment. Key findings are summarized as follows: (1) Although extreme weather threatens power supply-demand balance, DR reduces average power shortages from 6.16% to 5.20% under different weather scenarios. (2) An optimal DR mechanism yields positive net welfare gains. On average, each province experiences a welfare increase of approximately 40.49 billion yuan, equivalent to 0.10% of provincial GDP. (3) Compensation prices in current pilots are approximately twice the theoretical optimum. Such pricing distortions result in GDP losses of 0.51% to 4.91% across different pilots. (4) The benefits of DR rise modestly with power system decarbonization. On average, total ",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-Are--100--Renewable--Electricity-Claims-",
+    "title": "Are “100% Renewable” Electricity Claims Misleading? Evidence on Consumer Awareness and Preferences for Temporal Matching",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Johannes Bösch",
+      "Maximilian J. Blaschke"
+    ],
+    "doi": "10.1177/01956574261438737",
+    "link": "https://doi.org/10.1177/01956574261438737",
+    "volume": "47",
+    "issue": "5",
+    "pages": "137-169",
+    "abstract": "Green electricity tariffs marketed as “100% renewable” often rely on Energy Attribute Certificates (EACs), which allow a temporal mismatch between consumption and generation. This mismatch has raised concerns about the actual environmental impact of green electricity tariffs and the potential to mislead consumers. This paper examines German households’ awareness and preferences regarding temporal matching. Based on a stated-choice experiment with randomized information treatments and over 1,000 participants, we find: (1) 85% of consumers are unaware of the mismatch; (2) informing them about the mismatch reduces willingness to pay (WTP) for green electricity from 46% to 39% in our full sample, with stronger and more significant effects in relevant sub-samples; and (3) an explicit guarantee of temporal matching does not significantly increase WTP. We interpret these findings as an information failure in current green electricity markets, where a non-negligible share of consumers likely base their purchase decisions on incorrect or incomplete information. Various measures could help mitigate it, including clearer definitions and greater transparency mandates, alongside voluntary indus",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
+    "id": "ENER-2026-9-Book-Review--Rescission-of-the-Greenhous",
+    "title": "Book Review: Rescission of the Greenhouse Gas Endangerment Finding and Motor Vehicle Greenhouse Gas Emission Standards Under the Clean Air Act",
+    "journal": "Energy Journal",
+    "publisher": "SAGE",
+    "authors": [
+      "Gary Yohe"
+    ],
+    "doi": "10.1177/01956574261449649",
+    "link": "https://doi.org/10.1177/01956574261449649",
+    "volume": "47",
+    "issue": "5",
+    "pages": "261-267",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-9",
+    "is_new": true
+  },
+  {
     "id": "ENER-2026-8-9-Unveiling-Forces--Electricity-Market-Vol",
     "title": "Unveiling Forces: Electricity Market Volatility and Natural Gas Prices—Evidence from India",
     "journal": "Energy Journal",
@@ -981,6 +2347,27 @@
     "is_new": false
   },
   {
+    "id": "NATU-2026-8-31-Urban-design-interventions-reduce-fear-o",
+    "title": "Urban design interventions reduce fear of crime in public spaces in gender-sensitive ways",
+    "journal": "Nature Cities",
+    "publisher": "Nature",
+    "authors": [
+      "Pablo Navarrete-Hernandez",
+      "Tom Schlesser",
+      "Davide Luca"
+    ],
+    "doi": "10.1038/s44284-026-00494-0",
+    "link": "https://doi.org/10.1038/s44284-026-00494-0",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract\n                  Fear of crime in public spaces is a major policy problem worldwide. Environmental Crime Prevention proposes that modifying the built environment can reduce the fear of crime, but key questions remain: are these interventions equally effective across genders, and what intensity maximizes safety perceptions while optimizing costs? Here we evaluated three interventions: ‘Eyes on the Street’ (adding windows to blind walls), neutral stimuli (removing graffiti by repainting walls) and ‘Nature-Based Solutions’ (integrating tidy vegetation into urban infrastructure) in the context of ‘Broken Windows’ disorder. Interventions were applied at varying intensities across four types of public spaces. Using a randomized experiment in Chile with photo simulations and an adapted Positive and Negative Affective Schedule, we collected 18,150 perception ratings from 2,028 respondents. The results show that perceived safety improvements are positive but nonlinear, indicating diminishing returns beyond a certain intervention intensity. Critically, responses were highly gender specific: interventions were more effective for men, suggesting that environmental changes alone do no",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-8-31",
+    "is_new": true
+  },
+  {
     "id": "NATU-2026-8-3-Psychological-barriers-to-improving-carb",
     "title": "Psychological barriers to improving carbon competence",
     "journal": "Nature Sustainability",
@@ -1040,7 +2427,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-27",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-8-27-Quarantining-Electric-Utilities",
@@ -1060,7 +2447,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-27",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-8-25-Cities-beyond-freshwater",
@@ -1079,7 +2466,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-25",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-8-25-Art-as-inquiry-in-the-microbiome-informe",
@@ -1099,7 +2486,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-25",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-8-25-Urban-deprivation-map-highlights-a-hidde",
@@ -1116,7 +2503,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-25",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-2026-8-25-Are-the-Benefits-of-Electrification-Real",
@@ -1136,7 +2523,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-25",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-24-Lake-Breeze-Effects-on-the-Urban-Environ",
@@ -1164,7 +2551,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-24-Structural-Shift-of-Global-Consumption-B",
@@ -1188,7 +2575,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-24-Multisite-Observations-of-the-Oxygen-Iso",
@@ -1212,7 +2599,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-24-Manganese-Redox-Cycling-Promotes-Microbi",
@@ -1235,7 +2622,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-24-PFASs-Disrupt-Airway-Epithelial-Homeosta",
@@ -1262,7 +2649,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-24-Characterization-of-Fish-Serotonin--Dopa",
@@ -1300,7 +2687,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-24-Emulsified-Vegetable-Oil-Droplet-Interfa",
@@ -1324,7 +2711,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-23-Divergent-Evolutionary-Trajectories-of--",
@@ -1349,7 +2736,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-23",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-23-Water-Activation-on-Sulfur-Vacancies-Ena",
@@ -1376,7 +2763,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-23",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-23-Hydroxyl-Radical-Inactivation-of-Vesicle",
@@ -1399,7 +2786,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-23",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-22-Restoration-of-Gut-Microbiota-Vertical-T",
@@ -1425,7 +2812,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-22",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-22-A-High-Throughput-High-Content-Screening",
@@ -1450,7 +2837,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-8-22",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ES&T-2026-8-22-Beyond-Targeted-Calibrations--Comprehens",
@@ -15021,6 +16408,204 @@
     "is_new": false
   },
   {
+    "id": "NATU-2026-09-02-Power-asymmetries-in-adaptation",
+    "title": "Power asymmetries in adaptation",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Danyang Cheng"
+    ],
+    "doi": "10.1038/s41558-026-02745-3",
+    "link": "https://www.nature.com/articles/s41558-026-02745-3",
+    "volume": "16",
+    "issue": "9",
+    "pages": "1011-1011",
+    "abstract": "Nature Climate Change, Published online: 02 September 2026; doi:10.1038/s41558-026-02745-3Power asymmetries in adaptation",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-09-02",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-09-02-Policy-returns",
+    "title": "Policy returns",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Lingxiao Yan"
+    ],
+    "doi": "10.1038/s41558-026-02746-2",
+    "link": "https://www.nature.com/articles/s41558-026-02746-2",
+    "volume": "16",
+    "issue": "9",
+    "pages": "1011-1011",
+    "abstract": "Nature Climate Change, Published online: 02 September 2026; doi:10.1038/s41558-026-02746-2Policy returns",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-09-02",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-09-02-Record-breaking-wildfires-in-Canada",
+    "title": "Record-breaking wildfires in Canada",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Shuai Yang"
+    ],
+    "doi": "10.1038/s41558-026-02744-4",
+    "link": "https://www.nature.com/articles/s41558-026-02744-4",
+    "volume": "16",
+    "issue": "9",
+    "pages": "1011-1011",
+    "abstract": "Nature Climate Change, Published online: 02 September 2026; doi:10.1038/s41558-026-02744-4Record-breaking wildfires in Canada",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-09-02",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-09-02-Infrastructure-links-amplify-impacts",
+    "title": "Infrastructure links amplify impacts",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Wenhui Cui"
+    ],
+    "doi": "10.1038/s41558-026-02747-1",
+    "link": "https://www.nature.com/articles/s41558-026-02747-1",
+    "volume": "16",
+    "issue": "9",
+    "pages": "1011-1011",
+    "abstract": "Nature Climate Change, Published online: 02 September 2026; doi:10.1038/s41558-026-02747-1Infrastructure links amplify impacts",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-09-02",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-09-02-Restoring-reefs-with-heat-tolerant-coral",
+    "title": "Restoring reefs with heat-tolerant corals",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Bianca Nogrady"
+    ],
+    "doi": "10.1038/s41558-026-02721-x",
+    "link": "https://www.nature.com/articles/s41558-026-02721-x",
+    "volume": "16",
+    "issue": "9",
+    "pages": "1110-1110",
+    "abstract": "Nature Climate Change, Published online: 02 September 2026; doi:10.1038/s41558-026-02721-xAs the Great Barrier Reef reels from successive devastating bleaching events, researchers are working to regenerate small areas with corals selected or manipulated for better heat tolerance.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-09-02",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-09-02-Responding-to-ecological-novelty",
+    "title": "Responding to ecological novelty",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [],
+    "doi": "10.1038/s41558-026-02742-6",
+    "link": "https://www.nature.com/articles/s41558-026-02742-6",
+    "volume": "16",
+    "issue": "9",
+    "pages": "999-999",
+    "abstract": "Nature Climate Change, Published online: 02 September 2026; doi:10.1038/s41558-026-02742-6Climate change is shifting the world into new ecological states, prompting discussions of how humans and species will deal with this novelty, including how mitigation and adaptation will ultimately lead to further change.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-09-02",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-09-02-Declines-in-European-bumblebee-habitat-s",
+    "title": "Declines in European bumblebee habitat suitability attributable to climate change",
+    "journal": "Nature Climate Change",
+    "publisher": "Nature",
+    "authors": [
+      "Bastien De Tandt",
+      "Kyla Serres",
+      "Rosa Pietroiusti",
+      "Diana Erazo",
+      "François Massonnet",
+      "Denis Michez",
+      "Wim Thiery",
+      "Guillaume Ghisbain",
+      "Simon Dellicour"
+    ],
+    "doi": "10.1038/s41558-026-02734-6",
+    "link": "https://www.nature.com/articles/s41558-026-02734-6",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Climate Change, Published online: 02 September 2026; doi:10.1038/s41558-026-02734-6The authors consider factual and counterfactual scenarios to isolate the role of climate change in the decline of suitable habitats for European bumblebees (1901–2019). They show reductions of 5% on average, and up to 19% locally, with high-altitude gains partially offsetting losses.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-09-02",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-09-01-Seagrass-fisheries-expose-the-poverty-di",
+    "title": "Seagrass fisheries expose the poverty dimensions of marine conservation",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Benjamin L. H. Jones",
+      "Richard K. F. Unsworth",
+      "Rohani Ambo-Rappe",
+      "Filippo Carli",
+      "Lucy Coals",
+      "Akbar A. Digdo",
+      "Johan S. Eklöf",
+      "Narriman S. Jiddawi",
+      "Yayu A. La Nafie",
+      "Mary Rose Lopez",
+      "Lina Mtwana Nordlund",
+      "Citra Septiani",
+      "Susantha Udagedara",
+      "Leanne C. Cullen-Unsworth"
+    ],
+    "doi": "10.1038/s41893-026-01932-6",
+    "link": "https://www.nature.com/articles/s41893-026-01932-6",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Sustainability, Published online: 01 September 2026; doi:10.1038/s41893-026-01932-6The livelihood of people in poor coastal areas depends directly on local ecosystems, but such reliance is not well documented. With data from across 156 Indo-Pacific communities, this study examines the relationship between seagrass-associated fishing and household poverty.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-09-01",
+    "is_new": true
+  },
+  {
+    "id": "NATU-2026-08-31-Land-use-optimization-for-food-security-",
+    "title": "Land-use optimization for food security, bioenergy and forest conservation in Indonesia",
+    "journal": "Nature Sustainability",
+    "publisher": "Nature",
+    "authors": [
+      "Claire V. Squire",
+      "Jiehong Lou",
+      "Kyle J. Parker",
+      "Molly A. Schreier",
+      "Thomas C. Hilde",
+      "Agus Sari",
+      "Lauren C. Lohff",
+      "Kriti Shah",
+      "Nathan Hultman"
+    ],
+    "doi": "10.1038/s41893-026-01923-7",
+    "link": "https://www.nature.com/articles/s41893-026-01923-7",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Nature Sustainability, Published online: 31 August 2026; doi:10.1038/s41893-026-01923-7Balancing food and energy security is a key priority for Indonesia, but the associated land conversion could induce deforestation. This study examines how best to optimize energy security (biodiesel blend ratios of 50%) and food security (rice cropping) given land constraints and current policy.",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "2026-08-31",
+    "is_new": true
+  },
+  {
     "id": "NATU-2026-08-28-A-membraneless-electrochemical-system-fo",
     "title": "A membraneless electrochemical system for alcohol-laden wastewater upcycling",
     "journal": "Nature Sustainability",
@@ -15055,7 +16640,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-08-28",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-08-26-Daily-exposure-to-fine-particulate-matte",
@@ -15072,7 +16657,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-08-26",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-08-25-The-changing-economics-of-public-lands-i",
@@ -15092,7 +16677,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-08-25",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-08-25-Maximizing-electrochemical-carbon-dioxid",
@@ -15114,7 +16699,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-08-25",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-08-24-Lessons-learned-from-European-land-subsi",
@@ -15150,7 +16735,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-08-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-08-24-Climate-warming-drives-thermal-shocks-an",
@@ -15174,7 +16759,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "2026-08-24",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "NATU-2026-08-21-Contributions-of-traffic-to-daily-PM-sub",
@@ -22009,6 +23594,507 @@
     "is_new": false
   },
   {
+    "id": "JEEM-0000-Why-did-air-conditioning-adoption-accele",
+    "title": "Why did air conditioning adoption accelerate faster than predicted? Evidence from Mexico",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Lucas W. Davis",
+      "Paul Gertler"
+    ],
+    "doi": "10.2139/ssrn.5386613",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001452?dgcid=rss_sd_all",
+    "volume": "141",
+    "issue": "",
+    "pages": "",
+    "abstract": "A common theme in the vast literature on climate change is the estimation of models using historical data to make predictions many decades into the future. Although there is a large and growing number of these types of studies, researchers rarely return later to check the accuracy of their predictions. In this paper, we perform such an exercise. In Davis and Gertler (2015), we used household-level microdata from Mexico to predict future air conditioning adoption as a function of income and temperature. Revisiting these predictions with 12 years of additional data, we find that air conditioning in Mexico has accelerated, significantly exceeding our predictions. Neither errors in predicting income growth or rising temperatures, nor migration patterns, nor an overly restrictive model can explain the large prediction gap. Instead, our results point to the failure to account for falling electricity prices and technological changes in air conditioner efficiency as key drivers of the prediction gap.&lt;br&gt;&lt;br&gt;Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at &lt;a href=\"http://www",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "JEEM-0000-Coal-phase-out-in-a-second-best-setting-",
+    "title": "Coal phase-out in a second-best setting: Evidence from China’s coal-to-gas transition",
+    "journal": "JEEM",
+    "publisher": "Elsevier",
+    "authors": [
+      "Antonio Bento",
+      "Ruozi Song",
+      "Bing Zhang"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0095069626001373?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Pumped-hydro-energy-storage--Structural-",
+    "title": "Pumped hydro energy storage: Structural results and solution algorithms",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Harun Avci",
+      "Ece Cigdem Karakoyun",
+      "Ayse Selin Kocaman",
+      "Emre Nadar",
+      "Parinaz Toufani"
+    ],
+    "doi": "10.1016/j.eneco.2026.109568",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326004482?dgcid=rss_sd_all",
+    "volume": "162",
+    "issue": "",
+    "pages": "109568",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Presidents--prices-at-the-pump--and-the-",
+    "title": "Presidents, prices at the pump, and the difference in perceptions between energy market experts and non-experts",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Dylan Brewer",
+      "Matthew E. Oliver"
+    ],
+    "doi": "10.1016/j.eneco.2026.109583",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326004639?dgcid=rss_sd_all",
+    "volume": "162",
+    "issue": "",
+    "pages": "109583",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Dual-channel-mixed-frequency-forecasting",
+    "title": "Dual channel mixed frequency forecasting for carbon prices: Informer-BiLSTM deep features embedded in Grey-MIDAS framework",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Qi Ding",
+      "Xinping Xiao",
+      "Lizhong Yang",
+      "Zhuang Yang",
+      "Zhiwei Xu"
+    ],
+    "doi": "10.1016/j.eneco.2026.109586",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326004664?dgcid=rss_sd_all",
+    "volume": "162",
+    "issue": "",
+    "pages": "109586",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Comparative-research-and-analysis-on-thi",
+    "title": "Comparative research and analysis on third-party governance based on market effects",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Zuliang Lu",
+      "Junman Li",
+      "Mingsong Li",
+      "Zhihui Cao",
+      "Zhuran Xiang"
+    ],
+    "doi": "10.1016/j.eneco.2026.109570",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326004500?dgcid=rss_sd_all",
+    "volume": "162",
+    "issue": "",
+    "pages": "109570",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Climate-risk-perception--performance-fee",
+    "title": "Climate risk perception, performance feedback and corporate environmental responsibility",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Yan Yang",
+      "Jinyu Chen",
+      "Wenjun Xie",
+      "Ran Liu",
+      "Ying Tang",
+      "Andrea Moro"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326004676?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Macroeconomic-risk--political-instabilit",
+    "title": "Macroeconomic risk, political instability, and environmental sustainability risk: assessing vulnerabilities among emerging and developing economies",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Rexford Abaidoo",
+      "Ayodele Julius Alade",
+      "Elvis Kwame Agyapong"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326004731?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Fuel-taxes-without-borders--Tax-induced-",
+    "title": "Fuel taxes without borders: Tax-induced price changes and recorded fuel sales in the European Union",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Janez Dolšak"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326004743?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Designing-renewable-energy-auctions-for-",
+    "title": "Designing renewable energy auctions for high realization probability – CfD and payment-only auctions",
+    "journal": "Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Runxi Wang",
+      "Karl-Martin Ehrhart"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0140988326004640?dgcid=rss_sd_all",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Who-leads-the-global-gas-market--Geopoli",
+    "title": "Who leads the global gas market? Geopolitics and price transmission between the U.S. and Europe",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Mihai Mutascu",
+      "Fabio Anobile",
+      "Cosimo Magazzino"
+    ],
+    "doi": "10.1016/j.enpol.2026.115593",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526005276?dgcid=rss_sd_all",
+    "volume": "220",
+    "issue": "",
+    "pages": "115593",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Stringent-climate-policies-and-energy-po",
+    "title": "Stringent climate policies and energy poverty: Evidence of spatial spillovers and challenges for a just transition",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Tingting Bai",
+      "Gissell Huaccha"
+    ],
+    "doi": "10.1016/j.enpol.2026.115590",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526005240?dgcid=rss_sd_all",
+    "volume": "220",
+    "issue": "",
+    "pages": "115590",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Does-geopolitical-risk-shape-green-hydro",
+    "title": "Does geopolitical risk shape green hydrogen innovation? Policy ecosystem, governance, energy poverty, and global heterogeneity in an age of fragmentation",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Brahim Bergougui"
+    ],
+    "doi": "10.1016/j.enpol.2026.115599",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526005331?dgcid=rss_sd_all",
+    "volume": "220",
+    "issue": "",
+    "pages": "115599",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Corrigendum-to--Marginal-curtailment-of-",
+    "title": "Corrigendum to “Marginal curtailment of wind and solar PV: Transmission constraints, pricing and access regimes for efficient investment” [Energy Pol. 191 (2024) 114206]",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "David M. Newbery",
+      "Darryl R. Biggar"
+    ],
+    "doi": "10.1016/j.enpol.2026.115603",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526005379?dgcid=rss_sd_all",
+    "volume": "220",
+    "issue": "",
+    "pages": "115603",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Geopolitical-risk-exposure-and-innovatio",
+    "title": "Geopolitical risk exposure and innovation in the new energy vehicle industry: Policy implications for transport electrification",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Zongyou Zhang",
+      "Boqiang Lin"
+    ],
+    "doi": "10.1016/j.enpol.2026.115604",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526005380?dgcid=rss_sd_all",
+    "volume": "220",
+    "issue": "",
+    "pages": "115604",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-T-rkiye-and-South-Korea-s-atomic-energy-",
+    "title": "Türkiye and South Korea's atomic energy programs since 1958: A comparative study of industrial policy, technological learning, and localization strategies",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Murat Yulek",
+      "Busra Agan Celik",
+      "Serdar Celik",
+      "G. Gurcan Yulek"
+    ],
+    "doi": "10.1016/j.enpol.2026.115597",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526005318?dgcid=rss_sd_all",
+    "volume": "220",
+    "issue": "",
+    "pages": "115597",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-What-drives-innovation-and-imitation-in-",
+    "title": "What drives innovation and imitation in decentralized energy technologies? Evidence from distributed solar PV in Brazil",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Bruno Moreno Rodrigo de Freitas"
+    ],
+    "doi": "10.1016/j.enpol.2026.115596",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526005306?dgcid=rss_sd_all",
+    "volume": "220",
+    "issue": "",
+    "pages": "115596",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Temporal-evolution-of-Korea-s-hydrogen-e",
+    "title": "Temporal evolution of Korea's hydrogen economy discourse: A dynamic topic modeling approach to policy formation and institutionalization",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Gayoung Song",
+      "Yoonhee Ha"
+    ],
+    "doi": "10.1016/j.enpol.2026.115581",
+    "link": "https://www.sciencedirect.com/science/article/pii/S030142152600515X?dgcid=rss_sd_all",
+    "volume": "219",
+    "issue": "",
+    "pages": "115581",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-The-contingent-effectiveness-of-energy-e",
+    "title": "The contingent effectiveness of energy-efficiency credit policy: Geopolitical risk, digital economy development, and firm green innovation",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Zijia Liu",
+      "ShiCheng Chen",
+      "Bao Wu"
+    ],
+    "doi": "10.1016/j.enpol.2026.115591",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526005252?dgcid=rss_sd_all",
+    "volume": "219",
+    "issue": "",
+    "pages": "115591",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-How-education-shapes-household-energy-po",
+    "title": "How education shapes household energy poverty alleviation: Lessons from China's high-altitude regions",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Lu Jiang",
+      "Xiaonan Shi",
+      "Jingru Chen",
+      "Lu Yu"
+    ],
+    "doi": "10.1016/j.enpol.2026.115579",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526005136?dgcid=rss_sd_all",
+    "volume": "219",
+    "issue": "",
+    "pages": "115579",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Impact-of-commodity-prices-volatility-on",
+    "title": "Impact of commodity prices volatility on the sovereign risk of European economies: the case of the Russo-Ukrainian conflict",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "Agata Kliber",
+      "Małgorzata Just",
+      "Krzysztof Echaust"
+    ],
+    "doi": "10.1016/j.enpol.2026.115588",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526005227?dgcid=rss_sd_all",
+    "volume": "219",
+    "issue": "",
+    "pages": "115588",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "ENER-0000-Multidimensional-inequalities-in-attribu",
+    "title": "Multidimensional inequalities in attributed passenger-transport CO<sub>2</sub> across 21 EU member States in 2015",
+    "journal": "Energy Policy",
+    "publisher": "Elsevier",
+    "authors": [
+      "David Álvarez-Antelo",
+      "Íñigo Capellán-Pérez",
+      "Luis Javier Miguel González"
+    ],
+    "doi": "",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0301421526005161?dgcid=rss_sd_all",
+    "volume": "219",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "RESO-0000-Overcoming-the-Carbon-Trap-in-the-Global",
+    "title": "Overcoming the Carbon Trap in the Global South",
+    "journal": "Resource and Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Lucas Bretschger",
+      "Evgenij Komarov",
+      "Matthias Leuthard"
+    ],
+    "doi": "10.2139/ssrn.5011216",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0928765526000485?dgcid=rss_sd_all",
+    "volume": "88",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
+    "id": "RESO-0000-Optimal-circular-taxation-and-eco-modula",
+    "title": "Optimal circular taxation and eco-modulated extended producer responsibility under heterogeneous capital durability",
+    "journal": "Resource and Energy Economics",
+    "publisher": "Elsevier",
+    "authors": [
+      "Marcelo Villena",
+      "Claudia Pabón-Pereira"
+    ],
+    "doi": "10.1016/j.reseneeco.2026.101597",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0928765526000461?dgcid=rss_sd_all",
+    "volume": "88",
+    "issue": "",
+    "pages": "101597",
+    "abstract": "",
+    "keywords": [],
+    "theme": "green",
+    "publication_date": "",
+    "is_new": true
+  },
+  {
     "id": "JEEM-0000-Window-dressing-in-environmental-regulat",
     "title": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
     "journal": "JEEM",
@@ -22027,7 +24113,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Retraction-notice-to--Asymmetric-impact-",
@@ -22049,7 +24135,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Banking-on-carbon--modeling-intertempora",
@@ -22070,7 +24156,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Electricity-market-structure-and-consequ",
@@ -22092,7 +24178,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Regulatory-architecture-and-shipowner-in",
@@ -22112,7 +24198,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Just-transition--Exploring-the-climate-f",
@@ -22132,7 +24218,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Automakers--electrification-and-R-D-stra",
@@ -22152,7 +24238,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Which-carbon-policies-redirect-innovatio",
@@ -22174,7 +24260,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Expected-revenue--risk--and-grid-impact-",
@@ -22196,7 +24282,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Decomposing-the-pollution-generation-pro",
@@ -22216,7 +24302,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Urban-geopolitical-risk-exposure-and-ene",
@@ -22237,7 +24323,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Building-energy-performance-regulation--",
@@ -22258,7 +24344,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-The-rise-of-renewable-energy--How-it-sha",
@@ -22279,7 +24365,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Bridging-the-hydrogen-divide--how-networ",
@@ -22300,7 +24386,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Low-carbon-technology-licensing-under-ca",
@@ -22323,7 +24409,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Energy-and-Economy-Dynamics-in--math-xml",
@@ -22344,7 +24430,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Powering-progress--Clean-energy-and-indu",
@@ -22366,7 +24452,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-How-can-the-national-green-data-center-p",
@@ -22386,7 +24472,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Impact-of-subsidy-policies-on-the-develo",
@@ -22407,7 +24493,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-What-drives-price-divergence-in-Central-",
@@ -22430,7 +24516,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Electricity-transmission-planning-in-Lat",
@@ -22455,7 +24541,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ENER-0000-Does-micro-irrigation-save-energy--An-in",
@@ -22476,7 +24562,7 @@
     "keywords": [],
     "theme": "green",
     "publication_date": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "JEEM-0000-Convergent-validity-in-incentive-compati",
