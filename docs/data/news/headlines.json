@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-09-28T22:19:48+08:00",
+  "updated_at": "2026-09-29T07:26:17+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "中华海外联谊会六届三次常务理事会召开 李干杰出席并讲话",
-          "url": "http://politics.people.com.cn/n1/2026/0928/c1001-40806816.html",
+          "title": "王毅会见日本国际贸易促进协会会长岩屋毅",
+          "url": "http://politics.people.com.cn/n1/2026/0929/c1001-40807051.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "外交部：愿同美方通过人工智能政府间对话等渠道保持沟通",
-          "url": "http://world.people.com.cn/n1/2026/0928/c1002-40806872.html",
+          "title": "中华海外联谊会六届三次常务理事会召开 李干杰出席并讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0929/c1001-40807037.html",
           "summary": "",
           "time": ""
         },
         {
           "title": "张升民会见王戟同志先进事迹报告团成员并讲话",
-          "url": "http://politics.people.com.cn/n1/2026/0928/c1001-40806928.html",
+          "url": "http://politics.people.com.cn/n1/2026/0929/c1001-40807036.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中美贸易理事会和“300亿对300亿”对等降税框架有关情况公布",
-          "url": "http://world.people.com.cn/n1/2026/0928/c1002-40806830.html",
+          "title": "商务部美大司负责人解读第八轮中美经贸磋商成果",
+          "url": "http://world.people.com.cn/n1/2026/0929/c1002-40807052.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "“时代楷模”王戟同志先进事迹报告会在京举行",
-          "url": "http://politics.people.com.cn/n1/2026/0928/c461001-40806932.html",
+          "title": "中央精神文明建设办公室发布2026年第三批“中国好人榜”",
+          "url": "http://politics.people.com.cn/n1/2026/0929/c461001-40807033.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "工信部等七部门：到2030年长寿命锂电池循环寿命达到15000次",
-          "url": "http://finance.people.com.cn/n1/2026/0928/c1004-40806840.html",
+          "title": "《新型电池产业发展“十五五”规划》发布",
+          "url": "http://finance.people.com.cn/n1/2026/0929/c1004-40807038.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "2026世界智能网联汽车大会将于10月21日至23日在京举办",
-          "url": "http://finance.people.com.cn/n1/2026/0928/c1004-40806907.html",
+          "title": "评论丨重新出发的勇毅从何来",
+          "url": "http://opinion.people.com.cn/n1/2026/0929/c461529-40807030.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "1至8月科技保险提供风险保障同比增长66.9%",
-          "url": "http://finance.people.com.cn/n1/2026/0928/c1004-40806945.html",
+          "title": "理论丨抓基层 通民心 惠民生",
+          "url": "http://opinion.people.com.cn/n1/2026/0929/c461530-40807016.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "《党政领导干部生态环境损害责任追究办法》填补责任“空白地带”",
-          "url": "http://finance.people.com.cn/n1/2026/0928/c1004-40806871.html",
+          "title": "6位青年凭一技之长，闪耀世赛",
+          "url": "http://finance.people.com.cn/n1/2026/0929/c1004-40807025.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "新版再生纸浆国家标准落地 严禁使用不洁原料",
-          "url": "http://finance.people.com.cn/n1/2026/0928/c1004-40806908.html",
+          "title": "前8月科技保险提供风险保障8.7万亿元",
+          "url": "http://finance.people.com.cn/n1/2026/0929/c1004-40807039.html",
           "summary": "",
           "time": ""
         }
@@ -71,6 +71,12 @@
       "name": "新华网·要闻聚焦",
       "url": "https://www.xinhuanet.com",
       "items": [
+        {
+          "title": "王毅会见日本国际贸易促进协会会长岩屋毅",
+          "url": "https://www.news.cn/politics/leaders/20260928/683a02bd72434b6c90ef57c92d3ebc2c/c.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "李干杰出席中华海外联谊会六届三次常务理事会",
           "url": "https://www.news.cn/politics/leaders/20260928/43f29c67181641ab9c956909cc799664/c.html",
@@ -102,8 +108,14 @@
           "time": ""
         },
         {
-          "title": "1至8月科技保险提供风险保障同比增长66.9%",
-          "url": "https://www.news.cn/fortune/20260928/d03d955315784c85a9b296278d6fe419/c.html",
+          "title": "2025年我国渔业资源与水域生态环境状况保持稳定",
+          "url": "https://www.news.cn/politics/20260928/cb6966b1772a44e2a15dbd80bb3af9fa/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "2026尼山世界文明论坛在山东济宁开幕",
+          "url": "https://www.news.cn/local/20260928/6b390e2b2fc34a40a9890660fc67d959/c.html",
           "summary": "",
           "time": ""
         },
@@ -114,20 +126,8 @@
           "time": ""
         },
         {
-          "title": "新版再生纸浆国家标准落地 严禁使用不洁原料",
-          "url": "https://www.news.cn/fortune/20260928/635577ceb991437aad5a40432a4043ed/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "聚焦稳步迈进自动驾驶新时代 这场大会10月举办",
-          "url": "https://www.news.cn/fortune/20260928/514b25bf9df34d58a70e541e3c7136d0/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "新华视点丨“像造车一样盖房” 装配式建筑加速落地",
-          "url": "https://www.news.cn/fortune/20260928/3ec015a58d9f4b65ad8cb7c2f9e2755c/c.html",
+          "title": "上海：加强商品房预售管理，有序实施现房销售",
+          "url": "https://www.news.cn/local/20260928/334bfd67a62943e9a9acf49ed61c1c2d/c.html",
           "summary": "",
           "time": ""
         }
