@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-10-02T14:00:18+08:00",
+  "updated_at": "2026-10-02T21:00:04+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "公安部交管局提示：国庆假期出行牢记交通安全",
-          "url": "http://society.people.com.cn/n1/2026/1002/c1008-40808699.html",
+          "title": "国庆假期首日全社会跨区域人员流动量超3.29亿人次",
+          "url": "http://society.people.com.cn/n1/2026/1002/c1008-40808963.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "国家发展改革委民营局向民营企业公开推介投资项目",
+          "url": "http://finance.people.com.cn/n1/2026/1002/c1004-40808946.html",
           "summary": "",
           "time": ""
         },
@@ -18,8 +24,14 @@
           "time": ""
         },
         {
-          "title": "香港、澳门特区政府举行升旗仪式和国庆酒会庆祝新中国成立77周年",
-          "url": "http://gba.people.cn/n1/2026/1002/c42272-40808726.html",
+          "title": "百日千万招聘专项行动推出信息技术等招聘专场",
+          "url": "http://society.people.com.cn/n1/2026/1002/c1008-40808969.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "今年上半年外商股权性质直接投资同比增长55%",
+          "url": "http://finance.people.com.cn/n1/2026/1002/c1004-40808945.html",
           "summary": "",
           "time": ""
         },
@@ -32,12 +44,6 @@
         {
           "title": "事关商品住房预售、现房销售 多地新规出台",
           "url": "http://finance.people.com.cn/n1/2026/1002/c1004-40808886.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "数字人民币跨境联通合作范围稳步拓展",
-          "url": "http://finance.people.com.cn/n1/2026/1002/c1004-40808712.html",
           "summary": "",
           "time": ""
         },
@@ -56,12 +62,6 @@
         {
           "title": "《你好 2035》第1集 | 探秘“黑灯工厂”",
           "url": "http://politics.people.com.cn/n1/2026/1002/c461001-40808891.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "北京国庆假期以晴为主 其间有降雨",
-          "url": "http://society.people.com.cn/n1/2026/1002/c1008-40808704.html",
           "summary": "",
           "time": ""
         }
@@ -96,14 +96,14 @@
           "time": ""
         },
         {
-          "title": "数字人民币跨境联通合作范围稳步拓展",
-          "url": "https://www.news.cn/fortune/20261001/1da5b5cfd8964a94be1d0b9eb3ea5fe6/c.html",
+          "title": "防控松材线虫，林草部门再开展攻坚行动",
+          "url": "https://www.news.cn/politics/20261002/993bde9bb2f84d00987d6594d4d02d80/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "船逐浪 人赏河——平陆运河迎国庆一线见闻",
-          "url": "https://www.news.cn/local/20261001/5694aa7fb645412bb3c9df635fbf8c03/c.html",
+          "title": "外媒记者在黑土地上见证农业“智”变",
+          "url": "https://www.news.cn/world/20261002/8ce7b1c37b094cc6b13fb97808d0ea46/c.html",
           "summary": "",
           "time": ""
         },
@@ -114,20 +114,20 @@
           "time": ""
         },
         {
-          "title": "我国最长海底公路隧道完成盾构掘进",
-          "url": "https://www.news.cn/tech/20261002/778c893f14054ceb9d9062ec66714dd7/c.html",
+          "title": "山西：“赛事游”成外国人深度体验中国新潮流",
+          "url": "https://www.news.cn/local/20261002/bfc47e7d11754222988a94fb3578b593/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "我国科研人员破译飞蝗聚集产卵的“细菌密码”",
-          "url": "https://www.news.cn/tech/20261002/0da210925d8e46deb2f7ee2291c51397/c.html",
+          "title": "黑龙江：“五良”融合提升粮食单产",
+          "url": "https://www.news.cn/local/20261002/9ac08daaaf464095a992c5a0827a5782/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "浙江拓展基础测绘支撑经济社会高质量发展",
-          "url": "https://www.news.cn/local/20261001/e916fa553dee4587aacbaffa31a7435a/c.html",
+          "title": "内蒙古规划5年完成生态建设任务1.57亿亩以上",
+          "url": "https://www.news.cn/local/20261002/d7eeab4904de4094b03608e66689fe1e/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,14 +138,26 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "从9月4场展会看“中国机遇2.0”",
+          "title": "人民领袖｜播下爱我中华的种子",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202610/t20261002_3247107.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "什么是“中国机遇2.0”？9月4场展会告诉你答案",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261002_3246929.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "多国人士盛赞中国发展成就 期待深化对华合作",
-          "url": "http://intl.ce.cn/qqss/202610/t20261002_3247002.shtml",
+          "title": "国庆假期首日高速公路充电量同比增长60.4%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261002_3247105.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "21.3亿、268%！数说流动中国的假日新活力",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261002_3246919.shtml",
           "summary": "",
           "time": ""
         },
@@ -156,20 +168,8 @@
           "time": ""
         },
         {
-          "title": "今年上半年我国经常账户收支总额同比增长16%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261001_3246800.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "国庆假期首日全国铁路预计发送旅客2480万人次",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261001_3246844.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "21.3亿、268%！数说流动中国的假日新活力",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261002_3246919.shtml",
+          "title": "超2500万人次 铁路旅客发送量创单日新高",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261002_3247096.shtml",
           "summary": "",
           "time": ""
         },
