@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T19:54:41+08:00",
+  "updated_at": "2026-10-04T00:37:00+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
@@ -42,26 +42,26 @@
           "time": ""
         },
         {
+          "title": "应急管理部视频调度国庆假期安全防范工作",
+          "url": "http://society.people.com.cn/n1/2026/1003/c1008-40809165.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "中方强调联合国安理会制裁体系要持续完善",
           "url": "http://world.people.com.cn/n1/2026/1003/c1002-40809153.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "香港举办“向国旗敬礼”访京团学习成果分享会",
-          "url": "http://gba.people.cn/n1/2026/1003/c42272-40809012.html",
+          "title": "美国各界热议“要不要对中国车开放”",
+          "url": "https://world.people.com.cn/n1/2026/1003/c1002-40809176.html",
           "summary": "",
           "time": ""
         },
         {
           "title": "开局之年看中国丨富平柿饼，出海正当时",
           "url": "http://sn.people.com.cn/n2/2026/1003/c186331-41713794.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "第十届环球大湾区高峰论坛在港举行",
-          "url": "http://gba.people.cn/n1/2026/1003/c42272-40808985.html",
           "summary": "",
           "time": ""
         }
@@ -72,20 +72,14 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
+          "title": "应急管理部视频调度国庆假期安全防范工作",
+          "url": "https://www.news.cn/politics/20261003/139b7651d81846b18d84252f2f33e968/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "促进法律适用统一 最高法发布提级管辖典型案例",
           "url": "https://www.news.cn/legal/20261003/35969f7e23fa402988b1f84ed2456c55/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "民政部：防范非法养老App以“民惠通”等为名诈骗",
-          "url": "https://www.news.cn/legal/20261003/18b225c479964b57a30e7d1fb7a5dabb/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "公安机关发布国庆假期防范电信网络诈骗安全提示",
-          "url": "https://www.news.cn/politics/20261003/5ba5ff0cf8324fef95589d5b880f1d78/c.html",
           "summary": "",
           "time": ""
         },
@@ -96,26 +90,32 @@
           "time": ""
         },
         {
+          "title": "粮食大省秋收忙丨四川：一块田里的粮食增产秘笈",
+          "url": "https://www.news.cn/local/20261003/9ecc2f13493c43b1824a31d318945285/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "重庆：焕新历史街巷唤醒城市记忆",
+          "url": "https://www.news.cn/local/20261003/407f2228865c4dcf8370b8c0be862731/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "海南封关后首个国庆长假：国际范与烟火气十足",
           "url": "https://www.news.cn/local/20261003/f4ebc67df5584f8fa718b75bea9f43cb/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "广州美术学院图书馆：美育沃土播种创意",
-          "url": "https://www.news.cn/politics/20261003/4a9086fa42e14bcd8e47083149bdd8cf/c.html",
+          "title": "记住“三不一多”，谨防假期“退改签”诈骗",
+          "url": "https://www.news.cn/politics/20261003/c942be48bab64a89ba692c66416e1d29/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "前8个月全国电力市场交易电量同比增长19.2%",
-          "url": "https://www.news.cn/fortune/20261003/b165eb83976a45cd9880bf7cf75fb89f/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "截至8月末私募基金规模达25.75万亿元",
-          "url": "https://www.news.cn/fortune/20261003/506d9affc234488ebd518943af4bd041/c.html",
+          "title": "中国最北县级市何以成为“奔县游”热门目的地？",
+          "url": "https://www.news.cn/local/20261003/0a5d58ef15cc4a728629b57fdafa1647/c.html",
           "summary": "",
           "time": ""
         },
@@ -126,7 +126,7 @@
           "time": ""
         },
         {
-          "title": "北京发布大风蓝色预警 明日强劲北风在线",
+          "title": "北京发布大风蓝色预警 4日强劲北风在线",
           "url": "https://www.news.cn/local/20261003/a07b44abc3ec45e6a4411b8aac6fdd6b/c.html",
           "summary": "",
           "time": ""
@@ -138,8 +138,8 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "总书记治国理政故事丨“人民就是江山”",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202610/t20261003_3247410.shtml",
+          "title": "在历史深处，读懂中美相向而行的力量",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202610/t20261003_3247609.shtml",
           "summary": "",
           "time": ""
         },
