@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-10-05T14:03:45+08:00",
+  "updated_at": "2026-10-05T23:08:38+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "赓续长征精神 奋进复兴征程丨红色街区焕发新活力",
-          "url": "http://politics.people.com.cn/n1/2026/1005/c461001-40809498.html",
+          "title": "国务院安委办、应急管理部调度假期安全防范工作",
+          "url": "http://society.people.com.cn/n1/2026/1005/c1008-40809684.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "国庆假期第五天全国道路交通平稳有序",
+          "url": "http://society.people.com.cn/n1/2026/1005/c1008-40809687.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "奋战在一线 实干显担当——国庆假期建设者坚守掠影",
+          "url": "http://society.people.com.cn/n1/2026/1005/c1008-40809673.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "出行热 体验丰 门市旺——国庆假期消费市场观察",
+          "url": "http://finance.people.com.cn/n1/2026/1005/c1004-40809675.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "10月4日全社会跨区域人员流动量同比增长1.3%",
+          "url": "http://society.people.com.cn/n1/2026/1005/c1008-40809679.html",
           "summary": "",
           "time": ""
         },
@@ -18,50 +42,26 @@
           "time": ""
         },
         {
-          "title": "国产AG600飞机完成大兴安岭林区驻防",
-          "url": "http://finance.people.com.cn/n1/2026/1005/c1004-40809649.html",
+          "title": "南部战区就菲飞机非法侵入我黄岩岛领空发表谈话",
+          "url": "http://military.people.com.cn/n1/2026/1005/c1011-40809680.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "新项目 新形式 新场景 助力国庆长假文旅消费",
-          "url": "http://finance.people.com.cn/n1/2026/1005/c1004-40809479.html",
+          "title": "七部门部署“十五五”时期加强新型电池产品创新",
+          "url": "http://finance.people.com.cn/n1/2026/1005/c1004-40809667.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "在黄河流域看知识产权激活发展动能",
-          "url": "http://finance.people.com.cn/n1/2026/1005/c1004-40809481.html",
+          "title": "截至二季度末资产管理产品总规模突破88万亿元",
+          "url": "http://finance.people.com.cn/n1/2026/1005/c1004-40809670.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "假期电车出行迎充电考验，补能焦虑如何破局",
-          "url": "http://finance.people.com.cn/n1/2026/1005/c1004-40809480.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "新场景里看活力丨新疆叶城县：石榴红了 日子更甜了",
-          "url": "http://finance.people.com.cn/n1/2026/1005/c1004-40809501.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "跷脚牛肉、甜皮鸭……乐山的川味缩影",
-          "url": "http://ent.people.com.cn/n1/2026/1005/c1012-40809514.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "奔赴山野边关 直击“双节”县域游热潮",
-          "url": "http://finance.people.com.cn/n1/2026/1005/c1004-40809484.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "长江边、地铁口、街巷里……歌舞盛宴点亮武汉假日",
-          "url": "http://finance.people.com.cn/n1/2026/1005/c1004-40809482.html",
+          "title": "我国推进7项天然气国际标准成功立项",
+          "url": "http://finance.people.com.cn/n1/2026/1005/c1004-40809669.html",
           "summary": "",
           "time": ""
         }
@@ -72,20 +72,14 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "多地推进景区结婚登记 在风景里说“我愿意”",
-          "url": "https://www.news.cn/local/20261005/e8a6fada9a8d428baa8bdeb037f6bd30/c.html",
+          "title": "国务院安委办、应急管理部调度假期安全防范工作",
+          "url": "https://www.news.cn/politics/20261005/d97862179d114bf99803dd489c60932d/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "截至二季度末资产管理产品总规模突破88万亿元",
-          "url": "https://www.news.cn/fortune/20261005/8e42341bdf9641db986088c438d7bb16/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "南方电网投入5万余人 保障国庆电力供应",
-          "url": "https://www.news.cn/local/20261005/8292db6463034efca2f91157939718be/c.html",
+          "title": "国庆假期建设者坚守掠影：实干显担当",
+          "url": "https://www.news.cn/politics/20261005/4f5165cad25b4be4a34566efcaed1b8a/c.html",
           "summary": "",
           "time": ""
         },
@@ -96,38 +90,44 @@
           "time": ""
         },
         {
-          "title": "国产AG600飞机完成大兴安岭林区驻防",
-          "url": "https://www.news.cn/politics/20261005/a023334143434c1bbb19009c864c483f/c.html",
+          "title": "三峡水运新通道电力迁改一线见闻",
+          "url": "https://www.news.cn/fortune/20261005/58d1c31fb7124b169cd224069ab50670/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "三集纪录片《缅北电诈覆灭纪实》今晚开播",
-          "url": "https://www.news.cn/legal/20261005/932ef95a8c3d44dda159b602d4887e85/c.html",
+          "title": "自贸生长时 海南自贸港重大项目国庆假期建设见闻",
+          "url": "https://www.news.cn/local/20261005/8b2d5362dad848428c51883705533f15/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国庆出游 警惕“机票退改”“低价订房”骗局",
-          "url": "https://www.news.cn/legal/20261005/7614df86bb784239b70975e7af8c21b1/c.html",
+          "title": "“佤邦联合军”副总司令昆明落网 抓捕画面公开",
+          "url": "https://www.news.cn/20261005/aae18bfcd2b34efe9fec738b16c1a57a/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "生活观察丨掌握“三层穿衣法”，远离进藏失温",
-          "url": "https://www.news.cn/local/20261005/765ba0b95ec64dd2a087d7756415d5f0/c.html",
+          "title": "从“面朝黄土”到奔赴“诗与远方” 农民出游热度攀升",
+          "url": "https://www.news.cn/politics/20261005/2713712231ff4d898235ae475241f992/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "科学健身周周练丨国庆特辑之景区久走篇",
-          "url": "https://www.news.cn/politics/20261005/4f517f087c5a497fb1046981b15b9ad6/c.html",
+          "title": "中国航协：依法维护乘务权益 共建客舱服务秩序",
+          "url": "https://www.news.cn/politics/20261005/1418be672a934cbb81d46cc0b0efdca3/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "权威医者说丨胸闷憋气紧急处置方法",
-          "url": "https://www.news.cn/local/20261005/5c95453f2f5f47bf9986bd7d2d6fc771/c.html",
+          "title": "北京两机场客流较去年提前17天突破1亿人次",
+          "url": "https://www.news.cn/fortune/20261005/f2f4f1d7bd2e4cbc83948846ddd80b80/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "有趣有味有文化：药膳飘香激活假期文旅新体验",
+          "url": "https://www.news.cn/politics/20261005/b18bc11f226c46778b8e2c27309ec09d/c.html",
           "summary": "",
           "time": ""
         }
@@ -144,14 +144,20 @@
           "time": ""
         },
         {
-          "title": "G20会议未就产能过剩、强迫劳动等议题达成声明",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261004_3247816.shtml",
+          "title": "七部门部署“十五五”时期加强新型电池产品创新",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3248116.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "财政部：2025年全国政府采购规模超3.32万亿元",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3248006.shtml",
+          "title": "国庆假期前三天海南离岛免税销售额超3.5亿元",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3248065.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "10月4日全社会跨区域人员流动量同比增长1.3%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3248158.shtml",
           "summary": "",
           "time": ""
         },
@@ -162,19 +168,19 @@
           "time": ""
         },
         {
-          "title": "今起至假期结束我国大部晴好 总体利于外出与返程",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3248013.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "经济日报：购房贷款贴息重在精准滴灌",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3247933.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "7亿用户成AI产业底盘 规模驱动创新加速",
+          "title": "国庆档票房破8亿 \"电影+\"新活力激发消费新增量",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3248131.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "7亿用户成AI产业巨大底盘 规模驱动创新加速",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3247934.shtml",
           "summary": "",
           "time": ""
@@ -182,12 +188,6 @@
         {
           "title": "产业聚焦丨快递业从规模扩张转向价值竞争",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3247946.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "数据显示：粮油调味品消费亮点颇多 品类结构优化",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3247945.shtml",
           "summary": "",
           "time": ""
         },
