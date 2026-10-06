@@ -1,22 +1,10 @@
 {
-  "updated_at": "2026-10-06T08:14:23+08:00",
+  "updated_at": "2026-10-06T14:42:52+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
-        {
-          "title": "国务院安委办、应急管理部调度假期安全防范工作",
-          "url": "http://society.people.com.cn/n1/2026/1005/c1008-40809684.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "国庆假期第五天全国道路交通平稳有序",
-          "url": "http://society.people.com.cn/n1/2026/1005/c1008-40809687.html",
-          "summary": "",
-          "time": ""
-        },
         {
           "title": "百日千万招聘专项行动推出4个专场",
           "url": "http://society.people.com.cn/n1/2026/1006/c1008-40809747.html",
@@ -26,6 +14,12 @@
         {
           "title": "第九届进博会倒计时一个月：开局之年迎盛会 开放之约惠五洲",
           "url": "http://finance.people.com.cn/n1/2026/1006/c1004-40809693.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "国庆假期,长征展览人潮涌动",
+          "url": "http://society.people.com.cn/n1/2026/1006/c1008-40809718.html",
           "summary": "",
           "time": ""
         },
@@ -48,20 +42,26 @@
           "time": ""
         },
         {
-          "title": "鱼苗“游”全国 人才回乡来",
-          "url": "http://finance.people.com.cn/n1/2026/1006/c1004-40809692.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "人文茶座丨做传统的“激活者”",
           "url": "http://ent.people.com.cn/n1/2026/1006/c1012-40809730.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "黑龙江省博物馆藏金代铜坐龙：金源文化的实物范本",
-          "url": "http://ent.people.com.cn/n1/2026/1006/c1012-40809732.html",
+          "title": "鱼苗“游”全国 人才回乡来",
+          "url": "http://finance.people.com.cn/n1/2026/1006/c1004-40809692.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "一碗酸粉，是故乡的方位",
+          "url": "http://ent.people.com.cn/n1/2026/1006/c1012-40809737.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "芒市不忙，凡事慢慢来",
+          "url": "http://ent.people.com.cn/n1/2026/1006/c1012-40809736.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "国务院安委办、应急管理部调度假期安全防范工作",
-          "url": "https://www.news.cn/politics/20261005/d97862179d114bf99803dd489c60932d/c.html",
+          "title": "最高检：密切关注食药安全领域新情况新问题",
+          "url": "https://www.news.cn/legal/20261006/613a530533134963b23e93ff9e10e528/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国庆假期建设者坚守掠影：实干显担当",
-          "url": "https://www.news.cn/politics/20261005/4f5165cad25b4be4a34566efcaed1b8a/c.html",
+          "title": "今年以来全国开展食品抽检核查处置技术帮扶超万次",
+          "url": "https://www.news.cn/politics/20261006/6823e48104644bb58cd3a20513498618/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "自贸生长时 海南自贸港重大项目国庆假期建设见闻",
-          "url": "https://www.news.cn/local/20261005/8b2d5362dad848428c51883705533f15/c.html",
+          "title": "从“黑科技”到“贴心伴”：AI消费解锁假日新体验",
+          "url": "https://www.news.cn/tech/20261006/16eadaf11e87466491c2c68e154a43e5/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "三峡水运新通道电力迁改一线见闻",
-          "url": "https://www.news.cn/fortune/20261005/58d1c31fb7124b169cd224069ab50670/c.html",
+          "title": "青海祁连：10万人涌进5万人口县城 当地暖心守护",
+          "url": "https://www.news.cn/local/20261006/9eb405df750848cba910ebdf144c2646/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "黑龙江汤原：探访抗联密营 感受“红色印记”",
-          "url": "https://www.news.cn/local/20261006/43ac7d8619634feeb7e511aa327983f2/c.html",
+          "title": "十月沃野·大地华章丨青山叠翠间的增收“果”",
+          "url": "https://www.news.cn/local/20261006/2a5fd28f063a43f4b7e11ec0a2005061/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国航协：依法维护乘务权益 共建客舱服务秩序",
-          "url": "https://www.news.cn/politics/20261005/1418be672a934cbb81d46cc0b0efdca3/c.html",
+          "title": "宁夏石炭井：“影视+”促文旅热 老矿区现新活力",
+          "url": "https://www.news.cn/local/20261006/4b072e0689ac4e1bbfb971b51e724080/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "从“面朝黄土”到奔赴“诗与远方” 农民出游热度攀升",
-          "url": "https://www.news.cn/politics/20261005/2713712231ff4d898235ae475241f992/c.html",
+          "title": "微短剧突围：在短篇幅里寻求长赛道",
+          "url": "https://www.news.cn/politics/20261006/cdbe378793fb482cbcb2b433a35093b5/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "北京两机场客流较去年提前17天突破1亿人次",
-          "url": "https://www.news.cn/fortune/20261005/f2f4f1d7bd2e4cbc83948846ddd80b80/c.html",
+          "title": "警方提示：警惕机票退改签类诈骗",
+          "url": "https://www.news.cn/legal/20261006/69bffc1690614da59842d81c1b24b6d9/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "WTT中国大满贯：孙颖莎、梁靖崑“开门红”",
-          "url": "https://www.news.cn/sports/20261006/5a29335d03b34ef29772ccb9c3f20486/c.html",
+          "title": "吉林漫临线公路项目进入主体工程施工阶段",
+          "url": "https://www.news.cn/local/20261006/09282a04453845e0a3082f629da25ba3/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中网综合：郑钦文艰难过关 焦科维奇戏剧性晋级",
-          "url": "https://www.news.cn/sports/20261006/3f898276092c49959377c2fd3563fdbe/c.html",
+          "title": "破解“门难进”问题 一名社工干部的“骑手地图”",
+          "url": "https://www.news.cn/politics/20261006/ba2eb4d6e5dc4c54b31805e248673ecb/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,8 +138,8 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "金观平：锻造高素质技能人才队伍",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261006_3248193.shtml",
+          "title": "民生为大，把老百姓的事办实办好",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202610/t20261006_3248307.shtml",
           "summary": "",
           "time": ""
         },
@@ -150,8 +150,8 @@
           "time": ""
         },
         {
-          "title": "七部门部署“十五五”时期加强新型电池产品创新",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3248116.shtml",
+          "title": "金观平：锻造高素质技能人才队伍",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261006_3248193.shtml",
           "summary": "",
           "time": ""
         },
@@ -174,26 +174,26 @@
           "time": ""
         },
         {
+          "title": "中国航协发文回应“东航空姐跪地道歉”事件",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261006_3248308.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "国庆档电影票房超9亿 国产影片领跑档期",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261006_3248357.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "游客割9000碗米饭！下地干活成年轻人新旅游项目",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261006_3248319.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "今日迎返程高峰，各地交通天气如何？最新提醒",
           "url": "http://www.ce.cn/xwzx/shgj/gdxw/202610/t20261006_3248275.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "国庆档票房破8亿 \"电影+\"新活力激发消费新增量",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3248131.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "7亿用户成AI产业巨大底盘 规模驱动创新加速",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3247934.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "产业聚焦丨快递业从规模扩张转向价值竞争",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3247946.shtml",
           "summary": "",
           "time": ""
         }
