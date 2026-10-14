@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-10-15T01:28:16+08:00",
+  "updated_at": "2026-10-15T05:52:22+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
+        {
+          "title": "王毅会见俄罗斯外长拉夫罗夫",
+          "url": "http://politics.people.com.cn/n1/2026/1015/c1001-40814875.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "何立峰会见法国总统外事顾问博纳",
           "url": "http://politics.people.com.cn/n1/2026/1014/c1001-40814596.html",
@@ -56,12 +62,6 @@
         {
           "title": "9月份我国CPI同比上涨0.9%",
           "url": "http://finance.people.com.cn/n1/2026/1014/c1004-40814551.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功",
-          "url": "http://finance.people.com.cn/n1/2026/1014/c1004-40814853.html",
           "summary": "",
           "time": ""
         }
