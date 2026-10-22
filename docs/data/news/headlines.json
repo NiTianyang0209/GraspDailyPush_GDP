@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-22T20:14:57+08:00",
+  "updated_at": "2026-10-23T01:29:13+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
+        {
+          "title": "王毅同刚果（布）外长邦达会谈",
+          "url": "http://politics.people.com.cn/n1/2026/1022/c1001-40819845.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "陈文清会见俄罗斯联邦最高法院院长克拉斯诺夫",
+          "url": "http://politics.people.com.cn/n1/2026/1022/c1001-40819834.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "“党的创新理论大家读”丛书（第一辑）出版发行",
           "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819725.html",
@@ -12,8 +24,26 @@
           "time": ""
         },
         {
+          "title": "出版界推出一批纪念中国工农红军长征胜利90周年优秀主题图书",
+          "url": "http://ent.people.com.cn/n1/2026/1023/c1012-40819850.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "外交部：以冷战思维划分阵营不利于北极地区和平稳定发展",
           "url": "http://world.people.com.cn/n1/2026/1022/c1002-40819735.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "西藏巴青县发生7.0级地震",
+          "url": "http://society.people.com.cn/n1/2026/1023/c1008-40819854.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "国家地震灾害四级应急响应启动",
+          "url": "http://society.people.com.cn/n1/2026/1023/c1008-40819851.html",
           "summary": "",
           "time": ""
         },
@@ -25,43 +55,13 @@
         },
         {
           "title": "《对外投资管理办法》发布自12月1日起施行",
-          "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819808.html",
+          "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819835.html",
           "summary": "",
           "time": ""
         },
         {
           "title": "工业和信息化部工业软件标准化技术委员会成立",
           "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819713.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "两部门对上海浙江福建启动防汛防台风四级应急响应",
-          "url": "http://society.people.com.cn/n1/2026/1022/c1008-40819583.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "国家广播电视总局印发《广播电视和网络视听“十五五”规划》",
-          "url": "http://ent.people.com.cn/n1/2026/1022/c1012-40819764.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "人民建议·献策丨持续做大做强景德镇世遗“朋友圈”",
-          "url": "http://leaders.people.com.cn/n1/2026/1022/c58278-40819508.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "从湘江到鸭绿江，他们走过每一场硝烟",
-          "url": "http://ln.people.com.cn/n2/2026/1022/c378317-41728902.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "高端制造、数智经济、绿色产业协同发力 河南新动能加速集聚",
-          "url": "http://henan.people.com.cn/n2/2026/1022/c351638-41729128.html",
           "summary": "",
           "time": ""
         }
@@ -72,20 +72,26 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "党的十八大以来我国社零总额年均增长7.1%",
-          "url": "https://www.news.cn/fortune/20261022/caa2f2acd7284e6396df8c487d071598/c.html",
+          "title": "王毅同刚果（布）外长邦达会谈",
+          "url": "https://www.news.cn/politics/leaders/20261022/90220a4e60304231a19c839fcb7dea68/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "工业和信息化部工业软件标准化技术委员会成立",
-          "url": "https://www.news.cn/politics/20261022/4c77a4c3c92f4ea882087f7407719e6a/c.html",
+          "title": "陈文清会见俄罗斯联邦最高法院院长克拉斯诺夫",
+          "url": "https://www.news.cn/politics/leaders/20261022/3fa78288f9e94838b543f11b233beb07/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "陈茂波：欢迎APEC经济体的基建项目来港融资",
-          "url": "https://www.news.cn/gangao/20261022/1eff3865494b417dbdd3149a22aa0712/c.html",
+          "title": "APEC财长会深化务实合作 探寻共同繁荣路径",
+          "url": "https://www.news.cn/world/20261022/114b5142cfce418ea179c6b87cba4e57/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "碳排放双控，工业和信息化领域怎样推进",
+          "url": "https://www.news.cn/politics/20261022/034802fab9544bb0834133cb52fd9b39/c.html",
           "summary": "",
           "time": ""
         },
@@ -96,14 +102,8 @@
           "time": ""
         },
         {
-          "title": "北京多个老旧小区靠什么“逆龄生长”",
-          "url": "https://www.news.cn/local/20261022/92e1254464ce4664aeddc2c93a9d5570/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "首批学生运动能力国标实施试点进入“经验收获期”",
-          "url": "https://education.news.cn/20261022/26c34a32672e433d9a34c98ec85e0af5/c.html",
+          "title": "中国记协新闻道德委员会召开2025年度媒体社会责任报告评议会",
+          "url": "https://www.news.cn/politics/20261022/51cabb1d542d4d598544e493c8ca8a88/c.html",
           "summary": "",
           "time": ""
         },
@@ -114,20 +114,20 @@
           "time": ""
         },
         {
-          "title": "北京市委常委、副市长夏林茂接受审查调查",
-          "url": "https://www.news.cn/legal/20261022/519b32774e1d4b60a6561eaae577f282/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "长江上游水库群完成年度蓄水任务",
-          "url": "https://www.news.cn/politics/20261022/1ebba109ab194310ab3bfcfd8a6c9cb9/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "疆电入川渝、陇电入川两项特高压直流工程获核准",
           "url": "https://www.news.cn/politics/20261022/1e9cf4c3be0a4dbfb609e698123301c0/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "从第23届中国计算机大会看人工智能发展新动向",
+          "url": "https://www.news.cn/tech/20261022/15a3938d60194d06a14e9252e4efc56d/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "小游戏的“大航海”",
+          "url": "https://www.news.cn/politics/20261022/672bb3a5fb584fefa573ba0d720f7de2/c.html",
           "summary": "",
           "time": ""
         }
@@ -144,14 +144,14 @@
           "time": ""
         },
         {
-          "title": "党的十八大以来我国社零总额年均增长7.1%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268222.shtml",
+          "title": "《对外投资管理办法》发布 自12月起施行",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268373.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "《对外投资管理办法》发布 自12月1日起施行",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268351.shtml",
+          "title": "党的十八大以来我国社零总额年均增长7.1%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268222.shtml",
           "summary": "",
           "time": ""
         },
@@ -168,8 +168,8 @@
           "time": ""
         },
         {
-          "title": "我国对外投资存量连续9年保持世界前三",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268259.shtml",
+          "title": "周小川：中国现有金融工具可应对AI风险",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268385.shtml",
           "summary": "",
           "time": ""
         },
@@ -186,8 +186,8 @@
           "time": ""
         },
         {
-          "title": "AI动能有多强？一组高增长数据说明白丨数智中国",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3267266.shtml",
+          "title": "中欧班列开行突破14万列 服务覆盖亚欧全境",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3267974.shtml",
           "summary": "",
           "time": ""
         },
