@@ -1,25 +1,37 @@
 {
-  "updated_at": "2026-10-22T13:12:47+08:00",
+  "updated_at": "2026-10-22T20:14:57+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "王毅会见吉布提外长奥马尔",
-          "url": "http://politics.people.com.cn/n1/2026/1022/c1001-40819182.html",
+          "title": "“党的创新理论大家读”丛书（第一辑）出版发行",
+          "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819725.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "联合新闻公报",
-          "url": "http://politics.people.com.cn/n1/2026/1022/c1001-40819184.html",
+          "title": "外交部：以冷战思维划分阵营不利于北极地区和平稳定发展",
+          "url": "http://world.people.com.cn/n1/2026/1022/c1002-40819735.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "《中国应对气候变化的政策与行动2026年度报告》发布",
-          "url": "http://society.people.com.cn/n1/2026/1022/c1008-40819190.html",
+          "title": "我国退税商店超1.8万家 比2024年底增加4倍",
+          "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819736.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "《对外投资管理办法》发布自12月1日起施行",
+          "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819808.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "工业和信息化部工业软件标准化技术委员会成立",
+          "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819713.html",
           "summary": "",
           "time": ""
         },
@@ -30,38 +42,26 @@
           "time": ""
         },
         {
-          "title": "产业基础能力提升“十五五”规划发布",
-          "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819595.html",
+          "title": "国家广播电视总局印发《广播电视和网络视听“十五五”规划》",
+          "url": "http://ent.people.com.cn/n1/2026/1022/c1012-40819764.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国人民银行将发行中国工农红军长征胜利90周年金银纪念币",
-          "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819192.html",
+          "title": "人民建议·献策丨持续做大做强景德镇世遗“朋友圈”",
+          "url": "http://leaders.people.com.cn/n1/2026/1022/c58278-40819508.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国台办：两岸同胞走亲走近、走到一起的大潮流不可阻挡",
-          "url": "http://tw.people.com.cn/n1/2026/1022/c14657-40819163.html",
+          "title": "从湘江到鸭绿江，他们走过每一场硝烟",
+          "url": "http://ln.people.com.cn/n2/2026/1022/c378317-41728902.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "前三季度 全社会用电量同比增长3.9%",
-          "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819159.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "权威发布丨让法治服务发展、惠及百姓",
-          "url": "http://society.people.com.cn/n1/2026/1022/c1008-40819201.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "新兴领域良性循环加快形成",
-          "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819179.html",
+          "title": "高端制造、数智经济、绿色产业协同发力 河南新动能加速集聚",
+          "url": "http://henan.people.com.cn/n2/2026/1022/c351638-41729128.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "王毅会见吉布提外长奥马尔",
-          "url": "https://www.news.cn/politics/leaders/20261022/c6c6266538404210a77c4e7c26d8da30/c.html",
+          "title": "党的十八大以来我国社零总额年均增长7.1%",
+          "url": "https://www.news.cn/fortune/20261022/caa2f2acd7284e6396df8c487d071598/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "第33届APEC财长会在港闭幕",
-          "url": "https://www.news.cn/gangao/20261021/1aa23972d9ee444fb872b5f6f659d31e/c.html",
+          "title": "工业和信息化部工业软件标准化技术委员会成立",
+          "url": "https://www.news.cn/politics/20261022/4c77a4c3c92f4ea882087f7407719e6a/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "凝聚亚太合作新共识",
-          "url": "https://www.news.cn/gangao/20261022/c7c981ebdb5b42dba180d4a898fd146a/c.html",
+          "title": "陈茂波：欢迎APEC经济体的基建项目来港融资",
+          "url": "https://www.news.cn/gangao/20261022/1eff3865494b417dbdd3149a22aa0712/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "最高检：侵犯著作权犯罪更趋产业化链条化跨境化",
-          "url": "https://www.news.cn/legal/20261022/d0c0fac5d1c24da59b0208d2ec50cb78/c.html",
+          "title": "科技保险如何筑牢科技创新“防护网”",
+          "url": "https://www.news.cn/fortune/20261022/fd6456bf36214fc68912f4570def3d65/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "四方面部署 工业和信息化领域碳排放双控方案出炉",
-          "url": "https://www.news.cn/politics/20261022/6447e6b364994a7b9fa56495f26b727d/c.html",
+          "title": "北京多个老旧小区靠什么“逆龄生长”",
+          "url": "https://www.news.cn/local/20261022/92e1254464ce4664aeddc2c93a9d5570/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "全世界的水都会重逢——来自“良渚论坛”的文明对话",
-          "url": "https://www.news.cn/politics/20261022/bfc09bdc65f942afa897f01c1f9d93e6/c.html",
+          "title": "首批学生运动能力国标实施试点进入“经验收获期”",
+          "url": "https://education.news.cn/20261022/26c34a32672e433d9a34c98ec85e0af5/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "新能源、新智造：“十大科技前瞻”聚焦未来",
-          "url": "https://www.news.cn/tech/20261022/170d9db3096b4ab5836f871aa918f665/c.html",
+          "title": "多家公募基金集体“官宣”自购旗下主动ETF",
+          "url": "https://www.news.cn/fortune/20261022/7b3af0d96f2a478191a7acfa4c012f51/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "《中国工农红军长征胜利90周年》纪念邮票发行",
-          "url": "https://www.news.cn/politics/20261022/c0f57275e4264de7b67836925db3f469/c.html",
+          "title": "北京市委常委、副市长夏林茂接受审查调查",
+          "url": "https://www.news.cn/legal/20261022/519b32774e1d4b60a6561eaae577f282/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "香港旅发局推出“香港 连场好戏”全新电影旅游指南",
-          "url": "https://www.news.cn/gangao/20261021/11233d4a52074123b3dd4754a4c33105/c.html",
+          "title": "长江上游水库群完成年度蓄水任务",
+          "url": "https://www.news.cn/politics/20261022/1ebba109ab194310ab3bfcfd8a6c9cb9/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "世界传统医药日丨中医药助力世界守护民众健康",
-          "url": "https://www.news.cn/world/20261021/0d788e6005ae4e93bf972bc0576851a7/c.html",
+          "title": "疆电入川渝、陇电入川两项特高压直流工程获核准",
+          "url": "https://www.news.cn/politics/20261022/1e9cf4c3be0a4dbfb609e698123301c0/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,26 +138,20 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "追求真理坚定必胜信念",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3267256.shtml",
+          "title": "今天，我们一起追忆长征往事",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3267956.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "永不褪色的长征印记",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3267233.shtml",
+          "title": "党的十八大以来我国社零总额年均增长7.1%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268222.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "推动科技创新和产业创新深度融合 未来这样干",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261021_3267109.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "消费市场扩容升级 迈向60万亿元规模",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3267306.shtml",
+          "title": "《对外投资管理办法》发布 自12月1日起施行",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268351.shtml",
           "summary": "",
           "time": ""
         },
@@ -168,20 +162,26 @@
           "time": ""
         },
         {
-          "title": "国家能源局发文推动煤电与新能源融合发展",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261021_3267162.shtml",
+          "title": "数字人民币“基座”全面升级，将带来哪些改变？",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268350.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "前9月全社会用电量同比增长3.9%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3267454.shtml",
+          "title": "我国对外投资存量连续9年保持世界前三",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268259.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "2026年前三季度医保统筹基金支出超1.7万亿元",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261021_3267102.shtml",
+          "title": "图解丨四大维度透视前三季度工业经济“含金量”",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268218.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "我国面向全球的自贸网络已经初步成型",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3268355.shtml",
           "summary": "",
           "time": ""
         },
@@ -192,8 +192,8 @@
           "time": ""
         },
         {
-          "title": "工信部：智能网联汽车迈入规模化应用新阶段",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261022_3267535.shtml",
+          "title": "\"新\"中有你丨绿电直供 乌兰察布崛起零碳算力引擎",
+          "url": "http://vr.ce.cn/vr2017/news/202610/t20261022_3267701.shtml",
           "summary": "",
           "time": ""
         }
