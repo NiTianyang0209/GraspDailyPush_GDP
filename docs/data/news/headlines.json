@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-10-24T19:25:32+08:00",
+  "updated_at": "2026-10-25T00:09:30+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
+        {
+          "title": "陈文清：有序推进深化扫黑除恶专项斗争走深走实",
+          "url": "http://politics.people.com.cn/n1/2026/1024/c1001-40820851.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "《红军长征档案史料选编》出版发行",
           "url": "http://politics.people.com.cn/n1/2026/1024/c461001-40820818.html",
@@ -18,14 +24,8 @@
           "time": ""
         },
         {
-          "title": "和音丨走好新的长征路，为人类进步事业作出更大贡献",
-          "url": "http://opinion.people.com.cn/n1/2026/1024/c461529-40820617.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "从桥渡之变看跨越时空的精神力量",
-          "url": "http://politics.people.com.cn/n1/2026/1024/c461001-40820627.html",
+          "title": "商务部回应美发布新版对外投资限制拟议规则",
+          "url": "http://finance.people.com.cn/n1/2026/1024/c1004-40820861.html",
           "summary": "",
           "time": ""
         },
@@ -72,26 +72,32 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "王毅出席2026全球治理论坛（雄安）开幕式",
-          "url": "https://www.news.cn/politics/leaders/20261023/287dccb2e6324583a7ea3b72f818ae7e/c.html",
+          "title": "陈文清：有序推进深化扫黑除恶专项斗争走深走实",
+          "url": "https://www.news.cn/politics/leaders/20261024/35a9de4614814d2298fd5f078acaa413/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "赵辰昕同志任河北省委副书记、省政府党组书记",
-          "url": "https://www.news.cn/politics/20261024/ae4b781fce494974b0d71c006d327e63/c.html",
+          "title": "我国将依托标准赋能全球多媒体技术进步",
+          "url": "https://www.news.cn/politics/20261024/69286c7c51d2405285e09e138c3a3d65/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "陈永奇同志任江西省政府党组书记",
-          "url": "https://www.news.cn/politics/20261024/7def657c458341d3a5f67fd2261cbce8/c.html",
+          "title": "中国人民银行将发行2027版熊猫贵金属纪念币",
+          "url": "https://www.news.cn/fortune/20261024/32fd3bfa75d54d30b8241606e4a1b70f/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "刘奇凡任云南省委副书记、省政府党组书记",
-          "url": "https://www.news.cn/politics/20261024/9bb86aa22d8c44158368a2f7a17cbcdb/c.html",
+          "title": "聚焦港澳五年规划  “一国两制”学术研讨会召开",
+          "url": "https://www.news.cn/gangao/20261024/88a071dc295442e288bc25d85fad71e5/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "百余跨国企业高管和国际经贸人士组团觅“中国机遇”",
+          "url": "https://www.news.cn/20261024/5462662a31904233864ed414a6e370c4/c.html",
           "summary": "",
           "time": ""
         },
@@ -102,32 +108,26 @@
           "time": ""
         },
         {
-          "title": "渝昆高铁全线铺轨完成",
-          "url": "https://www.news.cn/politics/20261024/58c8ed727dac45ccaa40d30d48165cd8/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "乌蒙山区将连片接入高铁网",
-          "url": "https://www.news.cn/20261024/9b53bedebb69432a8cf9e6682c15b9a8/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "石家画堂：丹青传民俗 坚守续新韵",
-          "url": "https://www.news.cn/20261024/103dcfc124fa4afda34ddad728278bcc/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "每周航班约11.6万班 全国民航将换季运行",
           "url": "https://www.news.cn/politics/20261024/6952cb35fe334683893e7c0a97f5ba2c/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国人民银行将发行2027版熊猫贵金属纪念币",
-          "url": "https://www.news.cn/fortune/20261024/32fd3bfa75d54d30b8241606e4a1b70f/c.html",
+          "title": "10天9晚畅游东北 北京首趟舒适型旅游列车来了",
+          "url": "https://www.news.cn/20261024/821a5b9f0a284eb8bb7bc6072af969c6/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "老剧院成为“新客厅” 湖南南县打造县域消费新场景",
+          "url": "https://www.news.cn/20261024/b420456670c94b90a625ce9b69197785/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "青海省杂多县发生5.3级地震 县城没有明显震感",
+          "url": "https://www.news.cn/local/20261024/9206ba0a720045de9d93c0f452539861/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,14 +138,14 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "中共中央政治局召开会议 习近平主持会议",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202610/t20261023_3269262.shtml",
+          "title": "经济日报：坚持党的领导 凝心聚力奋进新征程",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261024_3269809.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "经济日报：坚持党的领导，凝心聚力奋进新征程",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261024_3269809.shtml",
+          "title": "商务部回应美发布新版对外投资限制拟议规则",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261024_3270189.shtml",
           "summary": "",
           "time": ""
         },
@@ -156,14 +156,14 @@
           "time": ""
         },
         {
-          "title": "航班换季来了！折扣力度可观 用好这个购票窗口期",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261024_3270144.shtml",
+          "title": "全球超八成新船订单涌向中国 有哪些中国制造密码",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261024_3269961.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "最大限度减少伤亡 全力以赴抓好重建",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261024_3269808.shtml",
+          "title": "二十届中央第八轮巡视对象公布",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261024_3270166.shtml",
           "summary": "",
           "time": ""
         },
