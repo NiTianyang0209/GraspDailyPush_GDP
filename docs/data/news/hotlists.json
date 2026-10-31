@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T14:07:34+08:00",
+  "updated_at": "2026-10-31T20:56:57+08:00",
   "platforms": [
     {
       "name": "百度热搜",
@@ -7,93 +7,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "习近平同德国总统施泰因迈尔会谈",
-          "heat": "7904672",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%96%BD%E6%B3%B0%E5%9B%A0%E8%BF%88%E5%B0%94%E4%BC%9A%E8%B0%88"
+          "title": "关键在全面从严治党",
+          "heat": "7904375",
+          "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E5%9C%A8%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A"
         },
         {
           "rank": 2,
-          "title": "官方披露：将有两名中国人登陆月球",
-          "heat": "7808509",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E6%8A%AB%E9%9C%B2%EF%BC%9A%E5%B0%86%E6%9C%89%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E9%99%86%E6%9C%88%E7%90%83"
+          "title": "人民日报评朱之文被“黑粉”举报",
+          "heat": "7808598",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%9C%B1%E4%B9%8B%E6%96%87%E8%A2%AB%E2%80%9C%E9%BB%91%E7%B2%89%E2%80%9D%E4%B8%BE%E6%8A%A5"
         },
         {
           "rank": 3,
-          "title": "曾爆火的“假笑男孩”已16岁",
-          "heat": "7712790",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E7%88%86%E7%81%AB%E7%9A%84%E2%80%9C%E5%81%87%E7%AC%91%E7%94%B7%E5%AD%A9%E2%80%9D%E5%B7%B216%E5%B2%81"
+          "title": "原中国石化董事长傅成玉被查",
+          "heat": "7713767",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E8%91%A3%E4%BA%8B%E9%95%BF%E5%82%85%E6%88%90%E7%8E%89%E8%A2%AB%E6%9F%A5"
         },
         {
           "rank": 4,
-          "title": "本周中国硬核成果持续上新",
-          "heat": "7616583",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%96%B0"
+          "title": "“城市更新”要更新什么",
+          "heat": "7618366",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%9F%8E%E5%B8%82%E6%9B%B4%E6%96%B0%E2%80%9D%E8%A6%81%E6%9B%B4%E6%96%B0%E4%BB%80%E4%B9%88"
         },
         {
           "rank": 5,
-          "title": "小沈阳发文回应夺冠",
-          "heat": "7521593",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%86%A0"
+          "title": "金价为何暴跌",
+          "heat": "7520699",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E6%9A%B4%E8%B7%8C"
         },
         {
           "rank": 6,
-          "title": "钓鱼男子被钱塘江涌潮卷走奇迹生还",
-          "heat": "7428757",
-          "url": "https://www.baidu.com/s?wd=%E9%92%93%E9%B1%BC%E7%94%B7%E5%AD%90%E8%A2%AB%E9%92%B1%E5%A1%98%E6%B1%9F%E6%B6%8C%E6%BD%AE%E5%8D%B7%E8%B5%B0%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98"
+          "title": "女子被火车上铺手机砸伤获赔23000元",
+          "heat": "7427501",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%81%AB%E8%BD%A6%E4%B8%8A%E9%93%BA%E6%89%8B%E6%9C%BA%E7%A0%B8%E4%BC%A4%E8%8E%B7%E8%B5%9423000%E5%85%83"
         },
         {
           "rank": 7,
-          "title": "昂跑未与姆巴佩解约或两头皆输",
-          "heat": "7328206",
-          "url": "https://www.baidu.com/s?wd=%E6%98%82%E8%B7%91%E6%9C%AA%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A7%A3%E7%BA%A6%E6%88%96%E4%B8%A4%E5%A4%B4%E7%9A%86%E8%BE%93"
+          "title": "是谁偷走了孩子的睡眠时间",
+          "heat": "7333081",
+          "url": "https://www.baidu.com/s?wd=%E6%98%AF%E8%B0%81%E5%81%B7%E8%B5%B0%E4%BA%86%E5%AD%A9%E5%AD%90%E7%9A%84%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4"
         },
         {
           "rank": 8,
-          "title": "库里晃倒东契奇",
-          "heat": "7234589",
-          "url": "https://www.baidu.com/s?wd=%E5%BA%93%E9%87%8C%E6%99%83%E5%80%92%E4%B8%9C%E5%A5%91%E5%A5%87"
+          "title": "苏超决赛：无锡vs常州",
+          "heat": "7239016",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E8%B6%85%E5%86%B3%E8%B5%9B%EF%BC%9A%E6%97%A0%E9%94%A1vs%E5%B8%B8%E5%B7%9E"
         },
         {
           "rank": 9,
-          "title": "古力娜扎直播卸妆卸了个寂寞",
-          "heat": "7138120",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%8A%9B%E5%A8%9C%E6%89%8E%E7%9B%B4%E6%92%AD%E5%8D%B8%E5%A6%86%E5%8D%B8%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E"
+          "title": "女子花3元买彩票中1439万",
+          "heat": "7141964",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B13%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD1439%E4%B8%87"
         },
         {
           "rank": 10,
-          "title": "语文课文在此刻形成闭环",
-          "heat": "7048233",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%AD%E6%96%87%E8%AF%BE%E6%96%87%E5%9C%A8%E6%AD%A4%E5%88%BB%E5%BD%A2%E6%88%90%E9%97%AD%E7%8E%AF"
+          "title": "王艺迪绝杀陈幸同",
+          "heat": "7045054",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%89%BA%E8%BF%AA%E7%BB%9D%E6%9D%80%E9%99%88%E5%B9%B8%E5%90%8C"
         },
         {
           "rank": 11,
-          "title": "一套房650万要缴450万的税",
-          "heat": "6952000",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A5%97%E6%88%BF650%E4%B8%87%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E"
+          "title": "被“盆栽哥”采样的王菲在海外有多火",
+          "heat": "6950669",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E2%80%9C%E7%9B%86%E6%A0%BD%E5%93%A5%E2%80%9D%E9%87%87%E6%A0%B7%E7%9A%84%E7%8E%8B%E8%8F%B2%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%9C%89%E5%A4%9A%E7%81%AB"
         },
         {
           "rank": 12,
-          "title": "红军突围靠打不靠让 驳“放水论”",
-          "heat": "6854232",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E5%86%9B%E7%AA%81%E5%9B%B4%E9%9D%A0%E6%89%93%E4%B8%8D%E9%9D%A0%E8%AE%A9%20%E9%A9%B3%E2%80%9C%E6%94%BE%E6%B0%B4%E8%AE%BA%E2%80%9D"
+          "title": "广西男子造谣“石场死了3个”被处罚",
+          "heat": "6854694",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E2%80%9C%E7%9F%B3%E5%9C%BA%E6%AD%BB%E4%BA%863%E4%B8%AA%E2%80%9D%E8%A2%AB%E5%A4%84%E7%BD%9A"
         },
         {
           "rank": 13,
-          "title": "长期吃外卖 14岁初中女生突发脑梗",
-          "heat": "6751166",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%9C%9F%E5%90%83%E5%A4%96%E5%8D%96%2014%E5%B2%81%E5%88%9D%E4%B8%AD%E5%A5%B3%E7%94%9F%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97"
+          "title": "胃癌之王印戒细胞癌专盯年轻人",
+          "heat": "6761076",
+          "url": "https://www.baidu.com/s?wd=%E8%83%83%E7%99%8C%E4%B9%8B%E7%8E%8B%E5%8D%B0%E6%88%92%E7%BB%86%E8%83%9E%E7%99%8C%E4%B8%93%E7%9B%AF%E5%B9%B4%E8%BD%BB%E4%BA%BA"
         },
         {
           "rank": 14,
-          "title": "注射死刑失败一个月后 美国女囚发声",
-          "heat": "6661924",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%A8%E5%B0%84%E6%AD%BB%E5%88%91%E5%A4%B1%E8%B4%A5%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%8E%20%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%9B%9A%E5%8F%91%E5%A3%B0"
+          "title": "孙心然被逆转无缘广网决赛",
+          "heat": "6661898",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E5%BF%83%E7%84%B6%E8%A2%AB%E9%80%86%E8%BD%AC%E6%97%A0%E7%BC%98%E5%B9%BF%E7%BD%91%E5%86%B3%E8%B5%9B"
         },
         {
           "rank": 15,
-          "title": "厉娜要把秋裤脱给马天宇",
-          "heat": "6570404",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%89%E5%A8%9C%E8%A6%81%E6%8A%8A%E7%A7%8B%E8%A3%A4%E8%84%B1%E7%BB%99%E9%A9%AC%E5%A4%A9%E5%AE%87"
+          "title": "郑州胖东来围挡贴满英雄画像",
+          "heat": "6571768",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%B4%E6%8C%A1%E8%B4%B4%E6%BB%A1%E8%8B%B1%E9%9B%84%E7%94%BB%E5%83%8F"
         }
       ]
     },
@@ -103,93 +103,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "卖650万捐赠房产要缴450万的税",
-          "heat": "1148676",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E&type=hot"
+          "title": "微博视界大会座位",
+          "heat": "1113495",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E5%BA%A7%E4%BD%8D&type=hot"
         },
         {
           "rank": 2,
-          "title": "库里晃倒东契奇",
-          "heat": "818225",
-          "url": "https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%E6%99%83%E5%80%92%E4%B8%9C%E5%A5%91%E5%A5%87&type=hot"
+          "title": "傅成玉被查",
+          "heat": "793502",
+          "url": "https://s.weibo.com/weibo?q=%E5%82%85%E6%88%90%E7%8E%89%E8%A2%AB%E6%9F%A5&type=hot"
         },
         {
           "rank": 3,
-          "title": "党的二十届五中全会学习手账",
-          "heat": "659110",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%AD%A6%E4%B9%A0%E6%89%8B%E8%B4%A6&type=hot"
+          "title": "聚焦党的二十届五中全会",
+          "heat": "634391",
+          "url": "https://s.weibo.com/weibo?q=%E8%81%9A%E7%84%A6%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A&type=hot"
         },
         {
           "rank": 4,
-          "title": "K100今日开售",
-          "heat": "646550",
-          "url": "https://s.weibo.com/weibo?q=K100%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE&type=hot"
+          "title": "跟成团哥哥一起上京东领超级补贴",
+          "heat": "606010",
+          "url": "https://s.weibo.com/weibo?q=%E8%B7%9F%E6%88%90%E5%9B%A2%E5%93%A5%E5%93%A5%E4%B8%80%E8%B5%B7%E4%B8%8A%E4%BA%AC%E4%B8%9C%E9%A2%86%E8%B6%85%E7%BA%A7%E8%A1%A5%E8%B4%B4&type=hot"
         },
         {
           "rank": 5,
-          "title": "昂跑未与姆巴佩解约或两头皆输",
-          "heat": "640639",
-          "url": "https://s.weibo.com/weibo?q=%E6%98%82%E8%B7%91%E6%9C%AA%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A7%A3%E7%BA%A6%E6%88%96%E4%B8%A4%E5%A4%B4%E7%9A%86%E8%BE%93&type=hot"
+          "title": "女子注射生长因子脸疯长成畸形",
+          "heat": "520866",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%B3%A8%E5%B0%84%E7%94%9F%E9%95%BF%E5%9B%A0%E5%AD%90%E8%84%B8%E7%96%AF%E9%95%BF%E6%88%90%E7%95%B8%E5%BD%A2&type=hot"
         },
         {
           "rank": 6,
-          "title": "我国首次载人登月乘组计划为三人",
-          "heat": "389088",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E8%BD%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E4%B9%98%E7%BB%84%E8%AE%A1%E5%88%92%E4%B8%BA%E4%B8%89%E4%BA%BA&type=hot"
+          "title": "小城良方破万",
+          "heat": "480089",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E7%A0%B4%E4%B8%87&type=hot"
         },
         {
           "rank": 7,
-          "title": "王子璇眼里文吉儿已经是零分朋友了",
-          "heat": "379029",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E7%9C%BC%E9%87%8C%E6%96%87%E5%90%89%E5%84%BF%E5%B7%B2%E7%BB%8F%E6%98%AF%E9%9B%B6%E5%88%86%E6%9C%8B%E5%8F%8B%E4%BA%86&type=hot"
+          "title": "宋威龙差点摔了",
+          "heat": "476546",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E5%B7%AE%E7%82%B9%E6%91%94%E4%BA%86&type=hot"
         },
         {
           "rank": 8,
-          "title": "系列长征辟谣守护澄明史实",
-          "heat": "374204",
-          "url": "https://s.weibo.com/weibo?q=%E7%B3%BB%E5%88%97%E9%95%BF%E5%BE%81%E8%BE%9F%E8%B0%A3%E5%AE%88%E6%8A%A4%E6%BE%84%E6%98%8E%E5%8F%B2%E5%AE%9E&type=hot"
+          "title": "万圣节万梗大赏",
+          "heat": "476544",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%87%E5%9C%A3%E8%8A%82%E4%B8%87%E6%A2%97%E5%A4%A7%E8%B5%8F&type=hot"
         },
         {
           "rank": 9,
-          "title": "胃癌里最会伪装的印戒细胞癌",
-          "heat": "353631",
-          "url": "https://s.weibo.com/weibo?q=%E8%83%83%E7%99%8C%E9%87%8C%E6%9C%80%E4%BC%9A%E4%BC%AA%E8%A3%85%E7%9A%84%E5%8D%B0%E6%88%92%E7%BB%86%E8%83%9E%E7%99%8C&type=hot"
+          "title": "胃癌早期难以发现原因",
+          "heat": "476541",
+          "url": "https://s.weibo.com/weibo?q=%E8%83%83%E7%99%8C%E6%97%A9%E6%9C%9F%E9%9A%BE%E4%BB%A5%E5%8F%91%E7%8E%B0%E5%8E%9F%E5%9B%A0&type=hot"
         },
         {
           "rank": 10,
-          "title": "月薪4000一年攒了2万4",
-          "heat": "346750",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E8%96%AA4000%E4%B8%80%E5%B9%B4%E6%94%92%E4%BA%862%E4%B8%874&type=hot"
+          "title": "将有2名中国人登陆月球",
+          "heat": "476078",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%86%E6%9C%892%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E9%99%86%E6%9C%88%E7%90%83&type=hot"
         },
         {
           "rank": 11,
-          "title": "等风热吻你",
-          "heat": "319484",
-          "url": "https://s.weibo.com/weibo?q=%E7%AD%89%E9%A3%8E%E7%83%AD%E5%90%BB%E4%BD%A0&type=hot"
+          "title": "微博视界大会内场",
+          "heat": "475874",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E5%86%85%E5%9C%BA&type=hot"
         },
         {
           "rank": 12,
-          "title": "勇士25分逆转湖人",
-          "heat": "264101",
-          "url": "https://s.weibo.com/weibo?q=%E5%8B%87%E5%A3%AB25%E5%88%86%E9%80%86%E8%BD%AC%E6%B9%96%E4%BA%BA&type=hot"
+          "title": "苏超",
+          "heat": "475686",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%8F%E8%B6%85&type=hot"
         },
         {
           "rank": 13,
-          "title": "吾恩去世",
-          "heat": "263376",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%BE%E6%81%A9%E5%8E%BB%E4%B8%96&type=hot"
+          "title": "苏超总决赛舞蹈惊艳全场",
+          "heat": "475360",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%8F%E8%B6%85%E6%80%BB%E5%86%B3%E8%B5%9B%E8%88%9E%E8%B9%88%E6%83%8A%E8%89%B3%E5%85%A8%E5%9C%BA&type=hot"
         },
         {
           "rank": 14,
-          "title": "波兰政变",
-          "heat": "260551",
-          "url": "https://s.weibo.com/weibo?q=%E6%B3%A2%E5%85%B0%E6%94%BF%E5%8F%98&type=hot"
+          "title": "厉娜评论区打脸来得太快",
+          "heat": "475181",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%89%93%E8%84%B8%E6%9D%A5%E5%BE%97%E5%A4%AA%E5%BF%AB&type=hot"
         },
         {
           "rank": 15,
-          "title": "娜扎直播卸妆卸了个寂寞",
-          "heat": "258500",
-          "url": "https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%9B%B4%E6%92%AD%E5%8D%B8%E5%A6%86%E5%8D%B8%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E&type=hot"
+          "title": "姜乘澜停更三年写28万字",
+          "heat": "475064",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%9C%E4%B9%98%E6%BE%9C%E5%81%9C%E6%9B%B4%E4%B8%89%E5%B9%B4%E5%86%9928%E4%B8%87%E5%AD%97&type=hot"
         }
       ]
     }
