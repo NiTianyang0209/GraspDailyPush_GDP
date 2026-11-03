@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-11-03T15:07:15+08:00",
+  "updated_at": "2026-11-04T03:43:07+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
+        {
+          "title": "亚太经合组织召开第37届外交和贸易双部长会议",
+          "url": "http://politics.people.com.cn/n1/2026/1104/c1001-40827064.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "何立峰同越共中央政治局委员阮青毅会谈",
           "url": "http://politics.people.com.cn/n1/2026/1103/c1001-40826910.html",
@@ -12,56 +18,50 @@
           "time": ""
         },
         {
+          "title": "张升民会见俄罗斯国防部长",
+          "url": "http://politics.people.com.cn/n1/2026/1103/c1001-40827013.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "中宣部举办学习贯彻党的二十届五中全会精神研讨班",
+          "url": "http://politics.people.com.cn/n1/2026/1103/c461001-40827031.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "国务院任免国家工作人员",
+          "url": "http://politics.people.com.cn/n1/2026/1103/c461001-40827028.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "2026“一带一路”媒体合作论坛在福州举行",
+          "url": "http://media.people.com.cn/n1/2026/1103/c14677-40826879.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "2026省级党委和政府安全生产考核巡查受理问题隐患线索工作启动",
+          "url": "http://politics.people.com.cn/n1/2026/1103/c461001-40826964.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "“十五五”末我国新兴支柱产业产值有望超10万亿元",
-          "url": "http://finance.people.com.cn/n1/2026/1103/c1004-40826868.html",
+          "url": "http://finance.people.com.cn/n1/2026/1103/c1004-40826979.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国人民银行上调金融机构外汇存款准备金率至6%",
-          "url": "http://finance.people.com.cn/n1/2026/1103/c1004-40826786.html",
+          "title": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会",
+          "url": "http://world.people.com.cn/n1/2026/1103/c1002-40827001.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "学习贯彻党的二十届五中全会精神｜强党强国开新局",
-          "url": "http://politics.people.com.cn/n1/2026/1103/c461001-40826330.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "理论｜增强中华优秀传统文化网上传播穿透力感召力",
-          "url": "http://opinion.people.com.cn/n1/2026/1103/c461530-40826354.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "北京大兴230余家企业一起练“氢”功",
-          "url": "http://finance.people.com.cn/n1/2026/1103/c1004-40826347.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "再赴进博之约 第九届进博会来啦",
-          "url": "http://finance.people.com.cn/n1/2026/1103/c1004-40826806.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "进博热度，上海怎样“接”得更好",
-          "url": "http://finance.people.com.cn/n1/2026/1103/c1004-40826348.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "京津冀推动工伤保险服务转向区域协同",
-          "url": "http://society.people.com.cn/n1/2026/1103/c1008-40826357.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "前三季度青海外送电“含绿量”达98.1%",
-          "url": "http://finance.people.com.cn/n1/2026/1103/c1004-40826394.html",
+          "title": "证券、基金、保险公司互换便利第三次操作落地",
+          "url": "http://finance.people.com.cn/n1/2026/1103/c1004-40827011.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
+          "title": "亚太经合组织召开第37届外交和贸易双部长会议",
+          "url": "https://www.news.cn/politics/leaders/20261104/d30595c625bc47128681e8f7c7917113/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "何立峰同越共中央政治局委员阮青毅会谈",
           "url": "https://www.news.cn/politics/leaders/20261103/faa2a808a8904e88a183223bc5984fed/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "人民治黄80年丨护一河安澜 保万家幸福",
-          "url": "https://www.news.cn/politics/20261103/db605ca730944412bc8e7c0169b43fb1/c.html",
+          "title": "张升民会见俄罗斯国防部长",
+          "url": "https://www.news.cn/politics/leaders/20261103/0ce12724551a428f9ca1c0c9d5bda2ee/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "本年度省级党委和政府安全生产考核巡查受理问题隐患线索工作启动",
-          "url": "https://www.news.cn/politics/20261103/6d54750ce9b4434eab4b9a7f3a8d605c/c.html",
+          "title": "中宣部举办学习贯彻党的二十届五中全会精神研讨班",
+          "url": "https://www.news.cn/politics/20261103/03cc1b75a99349c2a6ae1dfce72b9625/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "从“边角料”到“小美好”，城市更新盘活空间",
-          "url": "https://www.news.cn/politics/20261103/d129bd6a06e341e78a077a01d20a8582/c.html",
+          "title": "我国将不断凝聚稳就业工作合力",
+          "url": "https://www.news.cn/fortune/20261103/76614e4b12e2427abd11b45609e79bee/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "“数智地图”守护城市“地下生命线”",
-          "url": "https://www.news.cn/local/20261103/919a517c81f14ca0ac34a689f660ad88/c.html",
+          "title": "广电总局：一体化电视要方便用户安装开通",
+          "url": "https://www.news.cn/politics/20261103/5c5f7bddbc93454db97267f24135f298/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "第九届敦煌文博会开幕 中外嘉宾共话文明交流互鉴",
-          "url": "https://www.news.cn/politics/20261103/de440d0e5c4d4297aae3e993b30d7d6e/c.html",
+          "title": "国家发展改革委新闻发布会聚焦培育壮大新动能",
+          "url": "https://www.news.cn/tech/20261103/b06342976e0f49718035bb7081e59205/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "文化观察丨解码广电精品创作的“北京样本”",
-          "url": "https://www.news.cn/video/20261103/8e59193a7b1e4f78a8b51e5bc8dd6d2b/c.html",
+          "title": "10月份中国物流业景气指数为51.2% 业务继续扩张",
+          "url": "https://www.news.cn/fortune/20261103/0ed4562bb56d446589888832b2b3e7eb/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "叩问汽车产业新变局：未来竞争拼什么",
-          "url": "https://www.news.cn/fortune/20261103/4478a30cb0894ae3a2a865509d338246/c.html",
+          "title": "电视剧行业迎来“稳量提质”关键转折",
+          "url": "https://www.news.cn/20261103/d869143abe1c4cfa87484818b2fdf8e2/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "预计11月全国大部地区气温接近常年同期到偏高",
-          "url": "https://www.news.cn/politics/20261103/bc064427aba243eca3794701f03481eb/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "贵州省贵阳市原副市长高杨被“双开”",
-          "url": "https://www.news.cn/legal/20261103/4ad2baa396594b489b8b0660b4ff5ccd/c.html",
+          "title": "中国和阿曼两国央行签订双边本币互换协议",
+          "url": "https://www.news.cn/20261103/746602d7a0f845d785cbd72d235866e0/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,20 +138,20 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "习近平对进一步做好黄河保护治理工作作出重要指示",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261102_3280701.shtml",
+          "title": "刘延东同志遗体在京火化 习近平等到八宝山革命公墓送别",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261103_3281929.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "习近平同阿曼苏丹海赛姆会谈",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261102_3280436.shtml",
+          "title": "报告提出我国金融工作下一步5方面考虑",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3282146.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "金融机构外汇存款准备金率提高到6%有何意义？",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3281842.shtml",
+          "title": "金融机构外汇存款准备金率上调至6%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3281880.shtml",
           "summary": "",
           "time": ""
         },
@@ -162,38 +162,38 @@
           "time": ""
         },
         {
-          "title": "CF40报告：中国四季度广义财政支出有望提速",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3281232.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "2026年世界互联网大会乌镇峰会开幕",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3281474.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "10月份车市分化明显 新能源与出口成主要增量",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3281063.shtml",
+          "title": "【图解】前三季度海洋船舶工业快速增长",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3282137.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "从\"净进口\"到\"净出口\" 鸡肉出口反转折射产业进步",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3280861.shtml",
+          "title": "我国已制定实施新型储能国家标准及行业标准150项",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3282131.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "主要政策利率“换锚” 隔夜逆回购利率缘何担重任",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261102_3280764.shtml",
+          "title": "市场监管总局上线全国放心消费平台",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3281914.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "算力用电年均新增一千亿度以上，怎么接住？",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3281257.shtml",
+          "title": "国家发展改革委向民营企业公开推介50个投资项目",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3282167.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "我国广电视听形成“两个10亿”超大规模市场格局",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261103_3281871.shtml",
           "summary": "",
           "time": ""
         }
