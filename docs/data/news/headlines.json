@@ -1,31 +1,13 @@
 {
-  "updated_at": "2026-11-04T14:52:48+08:00",
+  "updated_at": "2026-11-05T03:57:47+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "亚太经合组织召开第三十七届外交和贸易双部长会议",
-          "url": "http://politics.people.com.cn/n1/2026/1104/c1001-40827080.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "何立峰在香港国际金融领袖投资峰会上发表视频致辞",
-          "url": "http://politics.people.com.cn/n1/2026/1104/c1001-40827548.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "张升民会见俄罗斯国防部长",
-          "url": "http://politics.people.com.cn/n1/2026/1104/c1001-40827084.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "中宣部举办学习贯彻党的二十届五中全会精神研讨班",
-          "url": "http://politics.people.com.cn/n1/2026/1104/c461001-40827067.html",
+          "title": "澜沧江－湄公河合作第十一次外长会在北京举行",
+          "url": "http://politics.people.com.cn/n1/2026/1104/c1001-40827824.html",
           "summary": "",
           "time": ""
         },
@@ -36,32 +18,50 @@
           "time": ""
         },
         {
-          "title": "中国人民银行下调股票回购增持再贷款利率至1%",
-          "url": "http://finance.people.com.cn/n1/2026/1104/c1004-40827564.html",
+          "title": "外交部：对英方使用推测性语言抹黑中国表示严重关切",
+          "url": "http://world.people.com.cn/n1/2026/1104/c1002-40827781.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国台办评“吉林一号”公布多张台湾高清卫星影像",
-          "url": "http://tw.people.com.cn/n1/2026/1104/c14657-40827592.html",
+          "title": "多部门联合印发《实施全面节约战略行动方案》",
+          "url": "http://finance.people.com.cn/n1/2026/1104/c1004-40827829.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "央行下调股票回购增持再贷款利率",
+          "url": "http://finance.people.com.cn/n1/2026/1104/c1004-40827721.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "将开展3000亿元买断式逆回购操作",
+          "url": "http://finance.people.com.cn/n1/2026/1104/c1004-40827802.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "广交会采购商创新高 中国制造为全球产供链稳定注入确定性",
+          "url": "http://finance.people.com.cn/n1/2026/1104/c1004-40827838.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "国台办：以管党治党、兴党强党新成效引领对台工作高质量发展",
+          "url": "http://tw.people.com.cn/n1/2026/1104/c14657-40827755.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "“世界顶尖大学校长论坛2026”在香港举行",
+          "url": "http://edu.people.com.cn/n1/2026/1104/c1006-40827837.html",
           "summary": "",
           "time": ""
         },
         {
           "title": "前三季度我国服务进出口总额同比增长8.5%",
           "url": "http://finance.people.com.cn/n1/2026/1104/c1004-40827653.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "评论｜以改革破堵点、激活力",
-          "url": "http://opinion.people.com.cn/n1/2026/1104/c461529-40827090.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "从广交会10组数据看开放的中国",
-          "url": "http://finance.people.com.cn/n1/2026/1104/c1004-40827104.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "何立峰在香港国际金融领袖投资峰会上发表视频致辞",
-          "url": "https://www.news.cn/politics/leaders/20261104/ffe615558f6f448c85ab77e676d32389/c.html",
+          "title": "澜沧江－湄公河合作第十一次外长会在京举行",
+          "url": "https://www.news.cn/politics/leaders/20261104/ca3930801134456faabe6b0316a40303/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "多部门部署加强消费基础设施建设",
-          "url": "https://www.news.cn/politics/20261104/807d790d41fc4c3fa802c77fa3c559e6/c.html",
+          "title": "人大常委会丨国有资产管理亮出“成绩单”",
+          "url": "https://www.news.cn/politics/20261104/9ee6106f00424a808ee96c1eba7732fb/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "市场监管总局出台市场监督管理行政处罚裁量规定",
-          "url": "https://www.news.cn/fortune/20261104/48a575094c8f42d1b6711072ec2d390e/c.html",
+          "title": "从“十五五”专项规划看绿色发展新气象",
+          "url": "https://www.news.cn/politics/20261104/86865dfe0b9c426e8d251f2f2c93121f/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国家发展改革委向民营企业公开推介50个投资项目",
-          "url": "https://www.news.cn/fortune/20261103/08535306261e48e4b0a7133eb99f27f7/c.html",
+          "title": "多部门联合印发《实施全面节约战略行动方案》",
+          "url": "https://www.news.cn/politics/20261104/841d4ec9090c47988ddf1fec8fbab9b1/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国台办评“吉林一号”公布多张台湾高清卫星影像",
-          "url": "https://www.news.cn/tw/20261104/054389301964404a9509a04e6042515c/c.html",
+          "title": "时隔8年 我国罕见病目录制订工作程序迎来修订",
+          "url": "https://www.news.cn/politics/20261104/27e2f15e734f44a9a0ee0bcc212f27b4/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "郭宁宁任福建省代省长",
-          "url": "https://www.news.cn/politics/20261104/ccbb2c9cb6b947f68c937ccf80bb99af/c.html",
+          "title": "广交会境外采购商创新高",
+          "url": "https://www.news.cn/20261104/a0b55cc7355e46d4a0bc782bbad5aeed/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "重点城市二手房“银十”成交活跃 市场回稳仍需巩固",
-          "url": "https://www.news.cn/fortune/20261104/b9ffc0969f3746f7b2ae31794f2073e3/c.html",
+          "title": "中国制造如何链接全球",
+          "url": "https://www.news.cn/fortune/20261104/44f5885ca2eb4d88a2f83875036fe5dc/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "公安部经侦局：警惕涉农领域非法集资犯罪",
-          "url": "https://www.news.cn/legal/20261104/221344ca23f54f719d9b05496b526661/c.html",
+          "title": "央行将开展3000亿元买断式逆回购操作",
+          "url": "https://www.news.cn/fortune/20261104/963b79188b484540bdda030e27c13af3/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "哈电集团原党委常委、纪委书记杨宏勇被提起公诉",
-          "url": "https://www.news.cn/legal/20261104/92632db4ba284d2cb91c19bcff900aa8/c.html",
+          "title": "近万件流失海外敦煌文物实现数字化“团圆”",
+          "url": "https://www.news.cn/local/20261104/7d1f5cfc8e9e456f993e2d0e5e075a74/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "湖南长沙查处两处非法辅助生殖地下窝点",
-          "url": "https://www.news.cn/legal/20261104/31381238eedb40a494a3eb5a69fe128c/c.html",
+          "title": "“北京普惠健康保”累计为超74万人次提供理赔保障",
+          "url": "https://www.news.cn/20261104/f4f587dc8ee64733b9c74c412f69c6e8/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,62 +138,62 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "刘延东同志遗体在京火化 习近平等到八宝山革命公墓送别",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261103_3281929.shtml",
+          "title": "学习新语｜从这组数字看《决定》诞生记",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261104_3283325.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "“十五五”末我国社零总额预计达到60万亿元左右",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3283077.shtml",
+          "title": "瞄准13万亿元 “十五五”海洋经济向“新”图强",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3283588.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "前三季度农业农村经济运行平稳",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3283663.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "秋粮丰收已成定局",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3283534.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "全球好物齐聚上海 这届进博会有哪些惊喜（视频）",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3283561.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "海南自贸港明确加工增值货物岛内销售免关税政策",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3283591.shtml",
           "summary": "",
           "time": ""
         },
         {
           "title": "前三季度我国服务进出口总额同比增长8.5%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3282901.shtml",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3283418.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "共赴进博之约 全球伙伴期待同中国携手开拓新机遇",
-          "url": "http://intl.ce.cn/qqss/202611/t20261104_3282595.shtml",
+          "title": "数智技术促进绿色低碳发展论坛举行",
+          "url": "http://www.ce.cn/cysc/newmain/yc/jsxw/202611/t20261104_3283623.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "经济三季报亮点解析：制造业基本盘更加稳固",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3282229.shtml",
+          "title": "房地产市场换了\"主角\" 全国二手房交易规模超新房",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3283619.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "央行下调股票回购增持再贷款利率至1%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3282672.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "2026年世界互联网大会蓝皮书发布",
-          "url": "http://scitech.ce.cn/sy/zx/202611/t20261104_3282942.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "房地产周评丨贷款贴息政策激活低总价住房市场",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3282249.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "钻石“长”出新本领 金刚石闪耀芯片散热新赛道",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3282290.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "首次摆上“双十一”货架 Token走进大众消费",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3282404.shtml",
+          "title": "前3季度我国黄金产量220.935吨 同比降18.71%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3283272.shtml",
           "summary": "",
           "time": ""
         }
