@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-11-11T14:56:49+08:00",
+  "updated_at": "2026-11-12T03:47:28+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
+        {
+          "title": "王毅同美国国务卿鲁比奥通电话",
+          "url": "http://politics.people.com.cn/n1/2026/1111/c1001-40832296.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "陈文清：纵深推进依法从严查处危害食品安全违法犯罪专项工作",
+          "url": "http://politics.people.com.cn/n1/2026/1111/c1001-40832291.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话",
+          "url": "http://politics.people.com.cn/n1/2026/1111/c1001-40832256.html",
+          "summary": "",
+          "time": ""
+        },
         {
           "title": "我国已与150多个国家30多个国际组织签署共建\"一带一路\"合作文件",
           "url": "https://world.people.com.cn/n1/2026/1111/c1002-40831985.html",
@@ -12,14 +30,20 @@
           "time": ""
         },
         {
-          "title": "公安部：依法严打网络售假犯罪切实保障群众消费安全",
-          "url": "http://society.people.com.cn/n1/2026/1111/c1008-40832005.html",
+          "title": "最高检、公安部发布典型案例 涉打击地下钱庄等",
+          "url": "http://society.people.com.cn/n1/2026/1111/c1008-40832241.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "会计改革与发展“十五五”规划发布",
-          "url": "http://finance.people.com.cn/n1/2026/1111/c1004-40832073.html",
+          "title": "截至“十四五”末全国执业注册会计师超10万人",
+          "url": "http://finance.people.com.cn/n1/2026/1111/c1004-40832255.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "2026年APEC领导人会议周新闻中心启用",
+          "url": "http://world.people.com.cn/n1/2026/1111/c1002-40832242.html",
           "summary": "",
           "time": ""
         },
@@ -30,38 +54,14 @@
           "time": ""
         },
         {
-          "title": "进博会落幕不散场 “中国机遇2.0”带来市场红利与创新红利",
-          "url": "https://world.people.com.cn/n1/2026/1111/c1002-40831548.html",
+          "title": "广东故事汇 | “一把锁”里的开放生态",
+          "url": "http://gd.people.com.cn/n2/2026/1111/c123932-41747597.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "10月新能源汽车月度新车销量占比达64.3%",
-          "url": "http://finance.people.com.cn/n1/2026/1111/c1004-40832072.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "评论丨一纸凭证何以激活“一池春水”",
-          "url": "http://opinion.people.com.cn/n1/2026/1111/c461529-40831562.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "理论丨促进高质量充分就业的着力点",
-          "url": "http://opinion.people.com.cn/n1/2026/1111/c461530-40831580.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "\"一带一路\"媒体合作论坛|福州倡议",
-          "url": "http://finance.people.com.cn/n1/2026/1111/c1004-40831581.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "共享发展机遇",
-          "url": "http://finance.people.com.cn/n1/2026/1111/c1004-40831584.html",
+          "title": "在福州生活，咋越来越有“福”了？",
+          "url": "http://fj.people.com.cn/n2/2026/1111/c181466-41747522.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "新修订《人类遗传资源管理条例实施细则》公布",
-          "url": "https://www.news.cn/legal/20261111/a23baa6b2d4c4f0284d067efb76be663/c.html",
+          "title": "陈文清：纵深推进依法从严查处危害食品安全违法犯罪专项工作",
+          "url": "https://www.news.cn/politics/leaders/20261111/960e3a9ab30844ec80412d418c797324/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "依法严打网络售假犯罪 公安部公布10起典型案例",
-          "url": "https://www.news.cn/legal/20261111/c9af02f9197c4d58b682ad8e4c7f9ac0/c.html",
+          "title": "第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话",
+          "url": "https://www.news.cn/politics/20261111/f89f41c23bad4cffbe38349aa6c3fe10/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "“六张网”协同落地观察：一座铁塔“多重身份”",
-          "url": "https://www.news.cn/politics/20261111/cdf5d01e91ac4793b1eaa99a608f20b5/c.html",
+          "title": "7部门联合发文  规范加强工程技术人员继续教育",
+          "url": "https://education.news.cn/20261111/bfddb403b56c421bbf2a9e8708be9df2/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "“双11”里的消费迁移",
-          "url": "https://www.news.cn/fortune/20261111/a03e6471a0cc4506b0fd777f8cee5e10/c.html",
+          "title": "证监会：积极配合司法机关依法适用代表人诉讼程序开展审判工作",
+          "url": "https://www.news.cn/politics/20261111/da752e77228443bba7d550057ac07343/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "规则“做减法”，消费更透明",
-          "url": "https://www.news.cn/fortune/20261111/a4decc0901734937bdb92bac70d6d0d0/c.html",
+          "title": "北京力争建成具身智能机器人产业创新高地",
+          "url": "https://www.news.cn/local/20261111/fe25bb44f20a4172b5c3d26a3a36a62b/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "保险业协会发布医疗险示范条款和商保药品推荐清单",
-          "url": "https://www.news.cn/fortune/20261110/3c34ca006cf44c6c84aa98d3103d7fd2/c.html",
+          "title": "大陆微短剧受岛内观众追捧 国台办：体现两岸同胞情感共鸣",
+          "url": "https://www.news.cn/tw/20261111/7ef87f5da68546bcbaa2b84129d9f6c0/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "2026年“一带一路”国际智库合作论坛开幕",
-          "url": "https://www.news.cn/politics/20261110/85c290935a294682a1bb3921a15bd9dc/c.html",
+          "title": "第39届金鸡奖获奖名单观察：新的电影力量在崛起",
+          "url": "https://www.news.cn/politics/20261111/890f34b1c05d47d98c74b28c6c962ec5/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "“一带一路”国际智库合作委员会理事会会议举行",
-          "url": "https://www.news.cn/politics/20261110/64ba3885861d4e4fb117f133a90a7903/c.html",
+          "title": "中国经济看“新”丨“造车式”建房升温 智能建造显身手",
+          "url": "https://www.news.cn/20261111/e0bb303f5b37493aa53ba7d45646ecd6/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "第39届中国电影金鸡奖揭晓",
-          "url": "https://www.news.cn/politics/20261110/39c6b1d22a984c25af9213eed5307421/c.html",
+          "title": "“熊猫杯”邀请赛中国U19男足战胜越南队",
+          "url": "https://www.news.cn/sports/20261111/bee86c8f65cc44439ac922a751bbe2a7/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "电影节的“AI时刻”",
-          "url": "https://www.news.cn/politics/20261110/afb6acf7ff5f4873a18f4788693a337a/c.html",
+          "title": "离岸信托收益征税平稳有序推进",
+          "url": "https://www.news.cn/20261111/9bcce99c779b4a6197ff45bbbc3e4c50/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,20 +138,26 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "习近平同志《论减贫脱贫》出版发行",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261110_3290100.shtml",
+          "title": "大道行丨亚太潮涌 同舟扬帆",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261111_3291617.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "会计改革与发展“十五五”规划发布",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3291148.shtml",
+          "title": "三个关键词解读前10个月我国外贸进出口数据",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3291530.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "前三季度 自共建\"一带一路\"国家进口增速达17.9%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3291144.shtml",
+          "title": "2026年APEC领导人会议周新闻中心启用",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3291538.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "前3季度农业农村经济运行总体平稳、基础持续夯实",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3291575.shtml",
           "summary": "",
           "time": ""
         },
@@ -162,14 +168,8 @@
           "time": ""
         },
         {
-          "title": "科学核算“身价” 绿水青山有了统一“计价器”",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3290341.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "图解｜事关养老托育，“十五五”有新安排",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3291073.shtml",
+          "title": "国家发改委5场专题发布会释放什么信号",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3291569.shtml",
           "summary": "",
           "time": ""
         },
@@ -180,20 +180,20 @@
           "time": ""
         },
         {
-          "title": "预售不是转嫁风险，“现种棉花”式营销不可取",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3290356.shtml",
+          "title": "多地最低工资标准上调：谁将受益、影响几何",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3291284.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "探索“物业+生活” 更好满足群众多样化住房需求",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3290367.shtml",
+          "title": "最高检、公安部发布典型案例 涉打击地下钱庄等",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3291516.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "医生有了AI分身，看病会不一样吗？有哪些障碍？",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3290399.shtml",
+          "title": "中小型纯太阳能无人机首飞 填补商用产品空白",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261111_3291438.shtml",
           "summary": "",
           "time": ""
         }
