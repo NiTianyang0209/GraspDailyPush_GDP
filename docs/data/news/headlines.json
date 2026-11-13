@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-11-13T04:16:14+08:00",
+  "updated_at": "2026-11-13T15:03:19+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
+          "title": "《中华人民共和国反跨境腐败法》公布",
+          "url": "http://society.people.com.cn/n1/2026/1113/c1008-40832996.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "何立峰会见美国景顺集团总裁兼首席执行官施洛斯伯格",
-          "url": "http://politics.people.com.cn/n1/2026/1112/c1001-40832930.html",
+          "url": "http://politics.people.com.cn/n1/2026/1113/c1001-40832957.html",
           "summary": "",
           "time": ""
         },
         {
           "title": "全国人大常委会旅游法执法检查组举行第二次全体会议",
-          "url": "http://politics.people.com.cn/n1/2026/1112/c461001-40832913.html",
+          "url": "http://politics.people.com.cn/n1/2026/1113/c461001-40832983.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "纪念孙中山先生诞辰160周年 晋谒衣冠冢仪式在京举行",
+          "url": "http://politics.people.com.cn/n1/2026/1113/c461001-40832965.html",
           "summary": "",
           "time": ""
         },
         {
           "title": "国务院任免国家工作人员",
-          "url": "http://politics.people.com.cn/n1/2026/1112/c461001-40832892.html",
+          "url": "http://politics.people.com.cn/n1/2026/1113/c461001-40832970.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国邮政发行《纪念孙中山先生诞辰160周年》纪念邮票小型张",
-          "url": "http://politics.people.com.cn/n1/2026/1112/c461001-40832783.html",
+          "title": "外交部谈东京审判宣判78周年——历史不容忘记",
+          "url": "http://world.people.com.cn/n1/2026/1113/c1002-40833000.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "外交部谈东京审判宣判78周年：历史不容忘记",
-          "url": "https://world.people.com.cn/n1/2026/1112/c1002-40832912.html",
+          "title": "理论丨持续落实全球发展倡议 携手构建全球发展共同体",
+          "url": "http://opinion.people.com.cn/n1/2026/1113/c461530-40832979.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "商务部：中美正就降税、贸易、投资等问题保持密切沟通",
-          "url": "http://finance.people.com.cn/n1/2026/1112/c1004-40832929.html",
+          "title": "评论丨人工智能时代，技能人才何为",
+          "url": "http://opinion.people.com.cn/n1/2026/1113/c461529-40832973.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "18起涉食品安全重大犯罪案件被挂牌督办",
-          "url": "http://society.people.com.cn/n1/2026/1112/c1008-40832872.html",
+          "title": "\"中国经济圆桌会\"共话\"三农\"发展新图景",
+          "url": "http://politics.people.com.cn/n1/2026/1113/c461001-40833419.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "事关技能人才评价 这部条例公开征求意见",
-          "url": "http://politics.people.com.cn/n1/2026/1112/c461001-40832863.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "证监会：全力维护市场平稳运行",
-          "url": "http://finance.people.com.cn/n1/2026/1112/c1004-40832920.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "评论丨坚持全面从严，激发干事创业精气神",
-          "url": "http://opinion.people.com.cn/n1/2026/1112/c461529-40832326.html",
+          "title": "韩中携手深化合作 共促APEC框架下亚太共同繁荣",
+          "url": "http://world.people.com.cn/n1/2026/1113/c1002-40833121.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "何立峰会见美景顺集团总裁兼首席执行官施洛斯伯格",
-          "url": "https://www.news.cn/politics/leaders/20261112/665c0a2557004e9790d2f954e0280c2a/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "全国人大常委会旅游法执法检查组举行第二次全体会议",
-          "url": "https://www.news.cn/politics/20261112/aa868d13866a441f8c320f1ebf3b95c3/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "台湾各界纪念孙中山先生诞辰160周年",
           "url": "https://www.news.cn/tw/20261112/0436fd110fe94228b63757976c32e68a/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "第六届中国城市国际传播论坛在山东青岛举行",
-          "url": "https://www.news.cn/politics/20261112/c3f62c519228403bb1b16f738d38f74b/c.html",
+          "title": "全国总工会确定今年重点支持建设的200家工匠学院",
+          "url": "https://www.news.cn/politics/20261113/3689813fa884471687d053c55dc9c3ae/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国气象局启动迎峰度冬能源保供气象服务",
-          "url": "https://www.news.cn/politics/20261112/163e999b349d4ad08cc51d8005940ef5/c.html",
+          "title": "市场监管“首违不罚”有了统一标准",
+          "url": "https://www.news.cn/legal/20261113/9a249d39a57945438919dae5e1f39746/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "在金鸡百花电影节，看光影与时代双向奔赴",
-          "url": "https://www.news.cn/20261112/a76fe14550204951820a1dc5780e8769/c.html",
+          "title": "青浦“主场”观察：九年“落子”结成产业密网",
+          "url": "https://www.news.cn/fortune/20261113/fd2312334d8841c6ab2fd64fd92e409d/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "证监会：全力维护市场平稳运行",
-          "url": "https://www.news.cn/fortune/20261112/8d7e4b254d194d99babf1b00f4adcc97/c.html",
+          "title": "哈尔滨完成1310栋历史文化建筑“数字孪生”建档",
+          "url": "https://www.news.cn/local/20261113/716cc1e85334497e884aaa86f445888d/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "内蒙古自贸试验区新批包头鄂尔多斯两个联动发展区",
-          "url": "https://www.news.cn/local/20261112/5c442b9e114c4c64a270fafbbbdafda2/c.html",
+          "title": "北京：到2030年国际交往中心功能体系和空间格局将更加完善",
+          "url": "https://www.news.cn/local/20261112/de368ac35fb1473a88b783ccf6e61ca8/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "广州大学培育高产大豆新品种 亩产超370公斤",
-          "url": "https://www.news.cn/20261112/1a2e25b05b184333bdc6f11d154cd23f/c.html",
+          "title": "浦江“造日” 上海竞逐“聚变第一城”",
+          "url": "https://www.news.cn/fortune/20261113/9bdc010af47149108be629b8523fe53e/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "洛杉矶奥运会亚预赛抽签中国女足与朝、韩同组",
-          "url": "https://www.news.cn/sports/20261112/60f8c8ffdeae4e9b955d248b1818a14f/c.html",
+          "title": "内蒙古乌兰察布：向“Token之都”迈进",
+          "url": "https://www.news.cn/fortune/20261113/606f33f9c7ef467fade4c9aacb94a0a2/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "金价再度跌破3900美元 已跌至一周多以来最低水平",
+          "url": "https://www.news.cn/fortune/20261113/819795d6a6324348a1d22fba80f8a51e/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "克雷斯就任英伟达临时首席执行官",
+          "url": "https://www.news.cn/world/20261112/9145b69b76834275921080ee59a393d8/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,8 +138,8 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "李强主持国务院第二十二次专题学习",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261112_3292886.shtml",
+          "title": "习近平对国有企业党的建设工作作出重要指示",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261113_3293710.shtml",
           "summary": "",
           "time": ""
         },
@@ -156,20 +156,20 @@
           "time": ""
         },
         {
-          "title": "成品油价下调 92号汽油每升降0.51元",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261112_3292731.shtml",
+          "title": "词元摆上双11货架 折射数字消费新变迁",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261113_3293169.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "下沉市场火起来①｜“奔县游”乘势而上多业共赢",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261112_3291647.shtml",
+          "title": "AI的冲击变成现实！全球就业格局加快重塑",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261113_3292916.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "英伟达宣布CEO黄仁勋辞职",
-          "url": "http://intl.ce.cn/qqss/202611/t20261112_3292909.shtml",
+          "title": "克雷斯就任英伟达临时首席执行官",
+          "url": "http://intl.ce.cn/sjjj/qy/202611/t20261113_3293127.shtml",
           "summary": "",
           "time": ""
         },
@@ -180,20 +180,20 @@
           "time": ""
         },
         {
-          "title": "找到标准答案？奔驰CEO称在中国车要大得惊人",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261112_3292890.shtml",
+          "title": "经济日报：重新认识“节约”的时代内涵",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261113_3292919.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "针对网购“AB货”问题 中消协最新发声",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261112_3292420.shtml",
+          "title": "给狂奔的智能体划界立规 引导AI健康发展",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261113_3292922.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "井深5770米！我国海上超深层天然气勘探取得突破",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261112_3292836.shtml",
+          "title": "出口暴涨116.6%！国产“新顶流” 全球爆单",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261113_3293265.shtml",
           "summary": "",
           "time": ""
         }
