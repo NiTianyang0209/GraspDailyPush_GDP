@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-11-14T03:56:42+08:00",
+  "updated_at": "2026-11-14T14:53:19+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
+          "title": "《中医药传统知识保护条例》自2027年1月1日起施行",
+          "url": "http://society.people.com.cn/n1/2026/1114/c1008-40833658.html",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "王毅分别同韩国外长、出席2026中美政党对话美方代表会谈会见",
-          "url": "http://politics.people.com.cn/n1/2026/1114/c1001-40833624.html",
+          "url": "http://politics.people.com.cn/n1/2026/1114/c1001-40833640.html",
           "summary": "",
           "time": ""
         },
         {
           "title": "国务院任免国家工作人员",
-          "url": "http://politics.people.com.cn/n1/2026/1113/c461001-40833579.html",
+          "url": "http://politics.people.com.cn/n1/2026/1114/c461001-40833654.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "外交部介绍中方对深圳APEC领导人非正式会议的期待",
-          "url": "http://world.people.com.cn/n1/2026/1113/c1002-40833571.html",
+          "title": "外交部：中国坚定敞开大门同世界共享发展机遇",
+          "url": "http://world.people.com.cn/n1/2026/1114/c1002-40833628.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国防部新闻发言人就近期涉军问题答记者问",
-          "url": "http://military.people.com.cn/n1/2026/1113/c1011-40833578.html",
+          "title": "2027年全国硕士研究生招生考试共347万人报名",
+          "url": "http://edu.people.com.cn/n1/2026/1114/c1006-40833657.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "保障安全和环保性能 汽车改装管理办法公开征求意见",
-          "url": "http://finance.people.com.cn/n1/2026/1113/c1004-40833611.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "2026年全国城市联合招聘秋招提供岗位超550万",
-          "url": "http://society.people.com.cn/n1/2026/1113/c1008-40833547.html",
+          "title": "全国城市联合招聘秋季活动扎实推进",
+          "url": "http://society.people.com.cn/n1/2026/1114/c1008-40833629.html",
           "summary": "",
           "time": ""
         },
         {
           "title": "国务院安委办对11个市级政府开展安全生产约谈",
-          "url": "http://society.people.com.cn/n1/2026/1113/c1008-40833486.html",
+          "url": "http://society.people.com.cn/n1/2026/1114/c1008-40833659.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国家卫生健康委：我国严禁任何形式代孕",
-          "url": "http://society.people.com.cn/n1/2026/1113/c1008-40833572.html",
+          "title": "证监会：要进一步深化市场稳定长效机制研究",
+          "url": "http://finance.people.com.cn/n1/2026/1114/c1004-40833827.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "“十五五”我国将提升粮食产业发展质量效益",
-          "url": "http://finance.people.com.cn/n1/2026/1113/c1004-40833577.html",
+          "title": "前10月人民币贷款增加11.42万亿元",
+          "url": "http://finance.people.com.cn/n1/2026/1114/c1004-40833632.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "2030年全国新型储能装机规模有望达到3亿千瓦",
-          "url": "http://finance.people.com.cn/n1/2026/1113/c1004-40833614.html",
+          "title": "再创新高 51个一类新药进入新版国家医保药品目录",
+          "url": "http://health.people.com.cn/n1/2026/1114/c14739-40833817.html",
           "summary": "",
           "time": ""
         }
@@ -72,20 +72,38 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "王毅分别同韩国外长赵显、出席2026中美政党对话美方代表会谈会见",
-          "url": "https://www.news.cn/politics/leaders/20261114/5e070d374b3546128bc801bc09b89fbe/c.html",
+          "title": "证监会：要进一步深化市场稳定长效机制研究",
+          "url": "https://www.news.cn/fortune/20261114/9896297b9a9e40f995232bef31df30e1/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "事关地方生态环境标准工作，两部门印发意见",
-          "url": "https://www.news.cn/politics/20261113/0c4d5b6daf8646a7bba55d6328acb4b8/c.html",
+          "title": "资金流向哪里？结构有何变化？透视10月金融数据",
+          "url": "https://www.news.cn/fortune/20261113/b8dcac5ce5e34cfc9876e2546a40fc12/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "2026年第七批旅游市场强制消费问题典型案例发布",
-          "url": "https://www.news.cn/politics/20261113/953a432cfd93495bafd9e4ff61c1e9d5/c.html",
+          "title": "2030年全国新型储能装机规模有望达到3亿千瓦",
+          "url": "https://www.news.cn/politics/20261113/154be41bd20545828db12b35623be335/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "今年前10月全国铁路发送旅客41.3亿人次",
+          "url": "https://www.news.cn/politics/20261114/f9646f60584c495ca882ec8893e6bb61/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "国标发布 流程工业智能工厂管理有了统一“标尺”",
+          "url": "https://www.news.cn/fortune/20261114/babcf23542ee45d1bb750908b42d5ca3/c.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "产业兴观丨陪诊有了国家标准 找陪诊不再“开盲盒”",
+          "url": "https://www.news.cn/fortune/20261113/98563b22453148af97e3688db42e66ae/c.html",
           "summary": "",
           "time": ""
         },
@@ -96,38 +114,20 @@
           "time": ""
         },
         {
-          "title": "专家解读食品标签：“0蔗糖”“零添加”未必更健康",
-          "url": "https://www.news.cn/politics/20261113/96fc2bab09f54aeeb3c6b1fc086a732f/c.html",
+          "title": "“无废城市”怎么建？上海提供了可供观察借鉴的样本",
+          "url": "https://www.news.cn/politics/20261114/38d0bbb8317942908e21db306040808d/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "刘琮睿、崔圣雨将担任达喀尔青奥会闭幕式中国代表团旗手",
-          "url": "https://www.news.cn/sports/20261113/15b2aecce41148b1af8771336737f122/c.html",
+          "title": "从“红灯停表”看算法向善",
+          "url": "https://www.news.cn/politics/20261114/afb9809b13fb407d8dff5dee630541fa/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "今年“双11”消费新趋势：从“囤货”到“囤服务”",
-          "url": "https://www.news.cn/fortune/20261113/4d493592ce2c4ae6b10a1e4c2c7ab047/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "常卫魏任女足国家队主教练",
-          "url": "https://www.news.cn/sports/20261113/7ff3e83770ab4eb19610b1cdd95e9fa2/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "香港高校公布科研布局助力国家航空航天事业",
-          "url": "https://www.news.cn/gangao/20261113/1e95a1cff98d44bdb71b343b2df680f6/c.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "产业兴观丨陪诊有了国家标准 找陪诊不再“开盲盒”",
-          "url": "https://www.news.cn/fortune/20261113/98563b22453148af97e3688db42e66ae/c.html",
+          "title": "一站品体育旅游精华 中国体育“两个博览会”苏州开幕",
+          "url": "https://www.news.cn/sports/20261113/edca600719f14610b4e0839574c47b9a/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,8 +138,14 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "习近平将出席APEC领导人非正式会议",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261113_3293467.shtml",
+          "title": "习近平对国有企业党的建设工作作出重要指示",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261113_3293710.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "为担当者担当、为负责者负责、为干事者撑腰",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261114_3294122.shtml",
           "summary": "",
           "time": ""
         },
@@ -156,32 +162,20 @@
           "time": ""
         },
         {
-          "title": "10月高频数据折射中国经济稳中向好态势",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261113_3293693.shtml",
+          "title": "连续增长！历史新高！\"数\"读中国经济的澎湃动能",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261114_3294247.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "Z、N、V字头新车次上线12306，这些变化→",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261113_3293804.shtml",
+          "title": "再创新高 51个一类新药进入新版国家医保药品目录",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261114_3294327.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "离岸信托个税政策口径解读",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261113_3293951.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "评论：背后有三层思考",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261113_3293897.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "黄仁勋辞职引发强烈震动 多人公开声援",
-          "url": "http://intl.ce.cn/qqss/202611/t20261113_3294079.shtml",
+          "title": "我国10吨级电动商用飞机有人驾驶首飞成功",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261114_3294344.shtml",
           "summary": "",
           "time": ""
         },
@@ -194,6 +188,12 @@
         {
           "title": "国家卫健委：我国严禁任何形式代孕",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261113_3294012.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "中国外贸是否即将触碰“天花板”？",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261114_3294129.shtml",
           "summary": "",
           "time": ""
         }
