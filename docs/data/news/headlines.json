@@ -1,37 +1,31 @@
 {
-  "updated_at": "2026-11-18T05:13:31+08:00",
+  "updated_at": "2026-11-18T15:50:12+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "王毅会见加拿大外长阿南德",
-          "url": "http://politics.people.com.cn/n1/2026/1117/c1001-40835763.html",
+          "title": "外交部：中俄美元首将就事关全球和平的重要问题深入交换意见",
+          "url": "https://world.people.com.cn/n1/2026/1118/c1002-40836426.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "陈文清出席深化扫黑除恶专项斗争督导行前培训并讲话",
-          "url": "http://politics.people.com.cn/n1/2026/1117/c1001-40835758.html",
+          "title": "《中加金融工作组工作规范》签署",
+          "url": "http://politics.people.com.cn/n1/2026/1118/c461001-40836399.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "王小洪会见越共中央政治局委员、越南公安部部长梁三光",
-          "url": "http://politics.people.com.cn/n1/2026/1117/c1001-40835744.html",
+          "title": "国台办评罗大佑近日批判民进党当局言论",
+          "url": "http://tw.people.com.cn/n1/2026/1118/c14657-40836304.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "谌贻琴在陕西调研",
-          "url": "http://politics.people.com.cn/n1/2026/1117/c1001-40835727.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "外交部：深圳见证了亚太区域经济一体化的发展",
-          "url": "http://world.people.com.cn/n1/2026/1117/c1002-40835755.html",
+          "title": "证监会称“基金公司上报全部产品AI敞口”不属实",
+          "url": "http://finance.people.com.cn/n1/2026/1118/c1004-40836390.html",
           "summary": "",
           "time": ""
         },
@@ -42,26 +36,32 @@
           "time": ""
         },
         {
-          "title": "两部门：确保广电视听服务覆盖到全体老年人",
-          "url": "http://society.people.com.cn/n1/2026/1117/c1008-40835741.html",
+          "title": "护航全生命周期健康 疫苗处方将逐步全覆盖",
+          "url": "http://society.people.com.cn/n1/2026/1118/c1008-40835813.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "《半导体设备与零部件质量管理体系》行业标准发布",
-          "url": "http://finance.people.com.cn/n1/2026/1117/c1004-40835681.html",
+          "title": "神舟二十四号计划近日择机实施发射 船箭组合体转运至发射区",
+          "url": "http://finance.people.com.cn/n1/2026/1118/c1004-40835814.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "医疗服务价格“有升有降”群众就医负担总体稳定",
-          "url": "http://health.people.com.cn/n1/2026/1117/c14739-40835678.html",
+          "title": "铸牢共同体 中华一家亲丨天山脚下，一街一巷皆同心",
+          "url": "http://society.people.com.cn/n1/2026/1118/c1008-40835818.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "海关总署在渝发布西部陆海新通道对外贸易指数",
-          "url": "http://finance.people.com.cn/n1/2026/1117/c1004-40835722.html",
+          "title": "评论丨号准需求的脉 建好服务的链",
+          "url": "http://opinion.people.com.cn/n1/2026/1118/c461529-40835805.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "理论丨发挥体育自塑作用 夯实全民健康根基",
+          "url": "http://opinion.people.com.cn/n1/2026/1118/c461530-40835822.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "王毅会见加拿大外长阿南德",
-          "url": "https://www.news.cn/politics/leaders/20261117/9edd337729104a1296e5d43d92f5a8f5/c.html",
+          "title": "部分省（区、市）地方立法工作交流会在赣州召开",
+          "url": "https://www.news.cn/local/20261118/b09c125abede498faaa597f171c031c0/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "全国扫黑除恶斗争领导小组部署开展深化扫黑除恶专项斗争督导 陈文清出席行前培训并讲话",
-          "url": "https://www.news.cn/politics/leaders/20261117/f7b00f5001c54f969b6d470718d35470/c.html",
+          "title": "《中加金融工作组工作规范》签署",
+          "url": "https://www.news.cn/fortune/20261118/587994f457f94ce4894af5347da7de44/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "王小洪会见越南公安部部长梁三光",
-          "url": "https://www.news.cn/politics/leaders/20261117/5b0e70f3ebc94a95805a9f995b9b77b2/c.html",
+          "title": "“核心价值观百场讲坛”第175场在辽宁沈阳举办",
+          "url": "https://www.news.cn/politics/20261118/99662c4263184f2e82fbeffc8824692c/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "谌贻琴在陕西调研",
-          "url": "https://www.news.cn/politics/20261117/d2207050373343bb911f36173c71923d/c.html",
+          "title": "严惩违反限制消费令犯罪行为等 三部门发典型案例",
+          "url": "https://www.news.cn/politics/20261118/fd1805c8bd3b43f38f8df303940432e4/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "两部门：确保广电视听服务覆盖到全体老年人",
-          "url": "https://www.news.cn/politics/20261117/349c773a4d9f4135a65edf12b5868cd3/c.html",
+          "title": "证监会称“基金公司上报全部产品AI敞口”不属实",
+          "url": "https://www.news.cn/fortune/20261118/e3d39784290d4a3cb5c62ddf2891535a/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "生态环境部将推进智慧执法体系建设 有何重点任务",
-          "url": "https://www.news.cn/politics/20261117/73559e942d3b4a47a0bc07ab094dd9bf/c.html",
+          "title": "国台办评罗大佑近日批判民进党当局言论",
+          "url": "https://www.news.cn/20261118/273f750b3f854960962e1fbb49f12146/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "AI短剧、数字人直播等新业态，如何纳税？",
-          "url": "https://www.news.cn/fortune/20261117/9d70b558e94c4292a3b71940d3498537/c.html",
+          "title": "从“用得上”到“用得好” “人工智能+”加速规模化落地",
+          "url": "https://www.news.cn/fortune/20261118/bf699bf6ab4e4cdab1d59bb5e359c760/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "国家卫生健康委解读基层卫生健康综合试验区样本",
-          "url": "https://www.news.cn/politics/20261117/9426b08dc1e140f380bc9cf9f1743ce8/c.html",
+          "title": "小切口、年轻态……解锁今年网络纪录片热播密码",
+          "url": "https://www.news.cn/politics/20261118/0f7092ce98824a29a9c67b8dbd518818/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "新华视点丨“每周半天”校外实践课，怎么上好",
-          "url": "https://education.news.cn/20261117/43ed4f1f88bd4f9591a14680993cc0a5/c.html",
+          "title": "医脉相承丨国医大师薛伯寿：悬壶济世为人民",
+          "url": "https://www.news.cn/politics/20261118/b76b481d07e443afa6afb46f4d08589f/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "自然科学基金委新规明确划定经费管理使用“红线”",
-          "url": "https://www.news.cn/tech/20261117/94da1934f91b43b3a22e7c2cbffcb632/c.html",
+          "title": "检察机关依法对徐一丁涉嫌受贿案提起公诉",
+          "url": "https://www.news.cn/legal/20261118/3dbaedd2dbf7422e91678d73e32e02c1/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,32 +138,32 @@
       "url": "https://www.ce.cn",
       "items": [
         {
+          "title": "习近平会见俄罗斯总统普京、",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261118_3298339.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
           "title": "习近平对人民法院工作作出重要指示",
           "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261117_3296942.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "APEC\"中国年\"一系列会议和活动取得丰硕成果",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261117_3297083.shtml",
+          "title": "海报丨从习主席APEC金句中感悟中国智慧",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261118_3298078.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "从北京到深圳：一页长图，读懂亚太合作图景",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261117_3296723.shtml",
+          "title": "开放合作共创亚太美好未来",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261118_3297557.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "海关总署在渝发布西部陆海新通道对外贸易指数",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261117_3297322.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "中方评美涉芯片新规：典型的经济胁迫和长臂管辖",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261117_3297487.shtml",
+          "title": "从“尝鲜”到“热销” 智能消费扩容升级",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261118_3297673.shtml",
           "summary": "",
           "time": ""
         },
@@ -180,20 +180,20 @@
           "time": ""
         },
         {
-          "title": "商务部等9部门深入推进再生资源回收体系建设",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261117_3296943.shtml",
+          "title": "二手房占据销售“C位” 交易活跃带动市场趋稳",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261118_3297566.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "设备数量近4200万 我国北斗产业应用持续增强",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261117_3296947.shtml",
+          "title": "“方桃子”被罚6.82万元，AI代言不是法外之地",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261118_3297562.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "AI短剧、数字人直播等新业态如何纳税",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261117_3297512.shtml",
+          "title": "宁德时代等20余家上市公司密集入局AIDC储能赛道",
+          "url": "http://finance.ce.cn/stock/gsgdbd/202611/t20261118_3297655.shtml",
           "summary": "",
           "time": ""
         }
