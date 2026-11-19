@@ -1,25 +1,31 @@
 {
-  "updated_at": "2026-11-19T15:46:03+08:00",
+  "updated_at": "2026-11-20T04:53:19+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "王小洪会见马来西亚内政部部长赛义夫丁",
-          "url": "http://politics.people.com.cn/n1/2026/1119/c1001-40836580.html",
+          "title": "石泰峰在陕西、四川调研",
+          "url": "http://politics.people.com.cn/n1/2026/1119/c1001-40837229.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中央安全生产考核巡查组将开展年度考核巡查",
-          "url": "http://politics.people.com.cn/n1/2026/1119/c461001-40836625.html",
+          "title": "刘国中在甘肃调研",
+          "url": "http://politics.people.com.cn/n1/2026/1119/c1001-40837250.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
-          "url": "https://world.people.com.cn/n1/2026/1119/c1002-40837101.html",
+          "title": "李鸿忠在贵州调研",
+          "url": "http://politics.people.com.cn/n1/2026/1119/c1001-40837253.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "商务部：今年以来我国消费市场规模稳步扩大",
+          "url": "http://finance.people.com.cn/n1/2026/1119/c1004-40837218.html",
           "summary": "",
           "time": ""
         },
@@ -30,20 +36,8 @@
           "time": ""
         },
         {
-          "title": "纪念孙中山先生诞辰160周年活动嘉宾团在广东参加纪念活动",
-          "url": "http://politics.people.com.cn/n1/2026/1119/c461001-40836589.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "“核心价值观百场讲坛”第175场在沈阳举办",
-          "url": "http://politics.people.com.cn/n1/2026/1119/c461001-40836590.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "铸牢共同体 中华一家亲丨果香飘向远方 生活充满希望",
-          "url": "http://politics.people.com.cn/n1/2026/1119/c461001-40836596.html",
+          "title": "四位政协委员畅谈人工智能如何赋能教育",
+          "url": "http://politics.people.com.cn/n1/2026/1119/c461001-40836631.html",
           "summary": "",
           "time": ""
         },
@@ -64,6 +58,12 @@
           "url": "http://opinion.people.com.cn/n1/2026/1119/c461530-40836621.html",
           "summary": "",
           "time": ""
+        },
+        {
+          "title": "明年起职称评审管理新规将施行",
+          "url": "http://society.people.com.cn/n1/2026/1119/c1008-40837233.html",
+          "summary": "",
+          "time": ""
         }
       ]
     },
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "新一轮国资国企改革全面实施 防止“救助型”并购",
-          "url": "https://www.news.cn/fortune/20261119/673cb5d658824bb183e6033c6cbfa0cf/c.html",
+          "title": "王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果",
+          "url": "https://www.news.cn/politics/leaders/20261120/9beb684d1eef4fc2a5a3446698d4f25d/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "党的创新理论海外研究专家在京探寻“中国之道”",
-          "url": "https://www.news.cn/politics/20261119/00d3c64540f74a28bdee59542d0ce0f3/c.html",
+          "title": "石泰峰在陕西、四川调研",
+          "url": "https://www.news.cn/politics/leaders/20261119/d5bc017944d54a96a4a597fbce70f70a/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "今年前三季度上海实际使用外资同比增长9.4%",
-          "url": "https://www.news.cn/fortune/20261119/df5e82a6d2c14d52943cac8b37b98537/c.html",
+          "title": "刘国中在甘肃调研",
+          "url": "https://www.news.cn/politics/leaders/20261119/4717d6937c834d67b4a3cb1f9932a60b/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "44只长臂猿见证海南热带雨林国家公园建设成效",
-          "url": "https://www.news.cn/20261119/fbe807c12ffb4d6aac9765d9d1a72aa9/c.html",
+          "title": "李鸿忠在贵州调研",
+          "url": "https://www.news.cn/politics/leaders/20261119/5743be87c16e4870952fb21a1c51c203/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "我国已知年代最晚直立人化石在广西发现",
-          "url": "https://www.news.cn/politics/20261119/dbdeff4c01d44b86b580062342fa5022/c.html",
+          "title": "今年以来我国消费市场规模稳步扩大 有三个特点",
+          "url": "https://www.news.cn/fortune/20261119/84ebf13979a34c058cddf5ad74d7d4f7/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "2026现代服务业高质量发展大会聚焦“品牌培育”",
-          "url": "https://www.news.cn/fortune/20261118/89507881faaf49deb461a0f0ccb1a842/c.html",
+          "title": "长征主题系列AI微电影《星火映征途》发布",
+          "url": "https://www.news.cn/politics/20261119/06ac9aad10fa460887cd5a7d67b95f45/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "消费新图景丨“科技新特产”激活数字消费新活力",
-          "url": "https://www.news.cn/fortune/20261119/064aaa91210a4a6aa94f2fa5b045446c/c.html",
+          "title": "水利部介绍安全大坝、生态大坝、智能大坝建设情况",
+          "url": "https://www.news.cn/politics/20261119/afd07afb05614d8e900062ffb207dd80/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "走进民企看发展丨向“新”而行 国产海洋装备挺进深蓝",
-          "url": "https://www.news.cn/20261119/8024cd031e6e4830ab4dcafea0679c68/c.html",
+          "title": "我国新增34家领航级智能工厂",
+          "url": "https://www.news.cn/fortune/20261119/e18175ddcb434b8abb86bb3679785862/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "夯实技术拓展市场 这家船企订单已排到2028年年底",
-          "url": "https://www.news.cn/politics/20261119/7bd3985ed9c448719415ef4ddd23d8b2/c.html",
+          "title": "“园八条”发布：激活上海文创园区融合新动能",
+          "url": "https://www.news.cn/fortune/20261119/c6a17d1a552746ad8f17560d7cafbc23/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "城事·微光丨无声肠粉店的温暖",
-          "url": "https://www.news.cn/local/20261119/cbe24041de9047548129df7bcf5b12a2/c.html",
+          "title": "北京多所高校提供免费“算力福利” 加速AI创新应用",
+          "url": "https://education.news.cn/20261119/9d89a04128024b50bbf29f8469954757/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,14 +138,14 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "习近平会见美国总统特朗普",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261119_3299594.shtml",
+          "title": "习近平主持亚太经合组织领导人非正式会议并发表重要讲话",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261119_3299540.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261118_3298282.shtml",
+          "title": "习近平会见美国总统特朗普",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261119_3299818.shtml",
           "summary": "",
           "time": ""
         },
@@ -156,8 +156,8 @@
           "time": ""
         },
         {
-          "title": "激发亚太地区创新增长动力",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261119_3298812.shtml",
+          "title": "多位专家解读深圳倡议：为世界注入确定性",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261119_3299976.shtml",
           "summary": "",
           "time": ""
         },
