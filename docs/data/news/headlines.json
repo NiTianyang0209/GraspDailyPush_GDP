@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-24T08:11:37+08:00",
+  "updated_at": "2026-11-24T18:15:27+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "中国瑞士举行第五轮外长级战略对话",
-          "url": "http://politics.people.com.cn/n1/2026/1124/c1001-40839205.html",
+          "title": "司法部、全国普法办发布全国法治宣传教育创新案例",
+          "url": "http://society.people.com.cn/n1/2026/1124/c1008-40839744.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "多国官员走访深圳，感受城市可持续发展与生态治理的中国实践",
-          "url": "http://world.people.com.cn/n1/2026/1124/c1002-40839172.html",
+          "title": "商务部新闻发言人就欧盟宣布对混动汽车采取临时保障措施答记者问",
+          "url": "http://finance.people.com.cn/n1/2026/1124/c1004-40839788.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "刑事法律援助全球会议在京开幕 王小洪出席并致辞",
-          "url": "http://politics.people.com.cn/n1/2026/1124/c1001-40839204.html",
+          "title": "全国总工会启动“两节”送温暖活动",
+          "url": "http://society.people.com.cn/n1/2026/1124/c1008-40839730.html",
           "summary": "",
           "time": ""
         },
@@ -32,12 +32,6 @@
         {
           "title": "前三季度全国经营主体“提质向新”",
           "url": "http://finance.people.com.cn/n1/2026/1124/c1004-40839222.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "《教材管理条例（征求意见稿）》面向社会公开征求意见",
-          "url": "http://society.people.com.cn/n1/2026/1124/c1008-40839211.html",
           "summary": "",
           "time": ""
         },
@@ -60,8 +54,14 @@
           "time": ""
         },
         {
-          "title": "上海凭实力“圈粉”外国人",
-          "url": "http://finance.people.com.cn/n1/2026/1124/c1004-40839223.html",
+          "title": "谁是人才？从企业需求找答案",
+          "url": "http://society.people.com.cn/n1/2026/1124/c1008-40839209.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "让更多一线劳动者的成果被认可",
+          "url": "http://society.people.com.cn/n1/2026/1124/c1008-40839208.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "中国瑞士举行第五轮外长级战略对话",
-          "url": "https://www.news.cn/politics/leaders/20261123/4ba55542411e45ff8e6cb4a7d991519a/c.html",
+          "title": "司法部、全国普法办发布全国法治宣传教育创新案例",
+          "url": "https://www.news.cn/legal/20261124/8a9fb42cf1a44fb0b579380296a55852/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "刑事法律援助全球会议在京开幕 王小洪出席并致辞",
-          "url": "https://www.news.cn/politics/leaders/20261123/c6f01314cf144114be3814ca6a729c0e/c.html",
+          "title": "全国总工会启动“两节”送温暖活动",
+          "url": "https://www.news.cn/politics/20261124/a7358eaa956444a88908d249580d6065/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "1-9月市场监管总局完成经营者集中反垄断审查440件",
-          "url": "https://www.news.cn/fortune/20261123/ef89fc7d541a499e9d6fd00103b80f2a/c.html",
+          "title": "“你们是城市的荣光” 深圳市委市政府致信感谢市民",
+          "url": "https://www.news.cn/politics/20261124/fa4c75d965174b24ac7467ed42b7f08a/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "前三季度生成式人工智能领域新设企业增长28.1%",
-          "url": "https://www.news.cn/fortune/20261124/8215f5eca3d54a6391fd3a2bed5b5f39/c.html",
+          "title": "2026全球6G发展大会在上海举行",
+          "url": "https://www.news.cn/fortune/20261124/ea57e170e09d4127a652f558b0119dca/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "首都“十五五”城市更新将推行“组团连片”改造",
-          "url": "https://www.news.cn/politics/20261123/d957493729314b69b85fef13ed96e7c1/c.html",
+          "title": "人工智能训练师走俏，具身智能产业“解锁”新图景",
+          "url": "https://www.news.cn/fortune/20261124/ba62eba51d614d47bf8cde4b501253d0/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "2026世界市长对话·乌鲁木齐活动在新疆启动",
-          "url": "https://www.news.cn/20261123/6e559c78e5ed467d875700325ea2e5f3/c.html",
+          "title": "第十一届“一国两制”与基本法研讨会在香港举办",
+          "url": "https://www.news.cn/gangao/20261124/9135535e488245ad915c6351991aeadb/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "首批主动ETF在沪深交易所挂牌上市",
-          "url": "https://www.news.cn/fortune/20261123/76d039e324bb47ea84268e1853562a93/c.html",
+          "title": "“中国创新”出海记丨低碳转型的绿色“智引擎”",
+          "url": "https://www.news.cn/fortune/20261124/0db9e717b2954940be4e2da57839f5e0/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "今年前10个月全社会用电量同比增长3.7%",
-          "url": "https://www.news.cn/20261123/cb5681b5417b4a9c86820820ef8aacdc/c.html",
+          "title": "中国机器人在迪拜健身活动中“大显身手”",
+          "url": "https://www.news.cn/world/20261124/4e393153e465437ca3ff9097f5a729e7/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "10月快递业务再超170亿件 加速拓展新场景",
-          "url": "https://www.news.cn/fortune/20261124/429acd0a94074ad29d95dbad21aef457/c.html",
+          "title": "上海：建设一批高质量概念验证平台",
+          "url": "https://www.news.cn/local/20261124/adb11c8ac2644b0f9266d679dc457a5b/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "上海地铁调价：起乘价不变、票价“递远递减”",
-          "url": "https://www.news.cn/local/20261123/7b933f11521842d9b3dc5868dd900c18/c.html",
+          "title": "鸿蒙操作系统终端设备数突破1亿台",
+          "url": "https://www.news.cn/tech/20261124/c1449f3e0fe24233a97e58d967b8a5f0/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,38 +138,8 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "符合世界期待的“大国良性互动”",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261123_3303182.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "社保基金新规征求意见",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261124_3303599.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "监督将形成完整链条",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261124_3303379.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "国家能源局：前10个月全社会用电量同比增3.7%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261123_3303339.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "91家入选 首批高标准数字园区建设对象名单公布",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261123_3303368.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "新增专项债发行接近尾声 增量资金有望加速到位",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261124_3303748.shtml",
+          "title": "一见·看中国，三座APEC之城的时间印记",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261124_3304363.shtml",
           "summary": "",
           "time": ""
         },
@@ -180,8 +150,38 @@
           "time": ""
         },
         {
-          "title": "如何跳出传统农业的桎梏，都市农业大有可为",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261124_3303401.shtml",
+          "title": "八大重点任务看落实丨74.8%，内需贡献率怎么看",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261124_3303786.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "中方就欧盟宣布对混动汽车采取临时保障措施答问",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261124_3304507.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "自然资源部规范临时用地管理 促有效投资加快落地",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261124_3304301.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "神舟二十四号25日发射",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261124_3304209.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "广东经济生态观察：“世界工厂”迈向科创高地",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261124_3303375.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "事关危险货物包装安全 市场监管总局发布国家标准",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261124_3304218.shtml",
           "summary": "",
           "time": ""
         },
@@ -192,8 +192,8 @@
           "time": ""
         },
         {
-          "title": "事关殡仪馆和公墓管理 殡葬领域两部新规出台",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261123_3303251.shtml",
+          "title": "新增专项债发行接近尾声 增量资金有望加速到位",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261124_3303748.shtml",
           "summary": "",
           "time": ""
         }
