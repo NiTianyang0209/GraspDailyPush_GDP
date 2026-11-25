@@ -1,25 +1,31 @@
 {
-  "updated_at": "2026-11-25T16:58:49+08:00",
+  "updated_at": "2026-11-26T05:55:12+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行",
-          "url": "http://politics.people.com.cn/n1/2026/1125/c1001-40839840.html",
+          "title": "王毅同荷兰外交大臣贝伦德森会谈",
+          "url": "http://politics.people.com.cn/n1/2026/1125/c1001-40840479.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "王毅同英国外交大臣米利班德通电话",
-          "url": "http://politics.people.com.cn/n1/2026/1125/c1001-40839855.html",
+          "title": "中荷外长共识声明",
+          "url": "http://politics.people.com.cn/n1/2026/1125/c1001-40840499.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "陈吉宁涉嫌严重违纪违法正接受中央纪委国家监委审查调查",
-          "url": "http://politics.people.com.cn/n1/2026/1125/c461001-40839871.html",
+          "title": "陈文清赴德国出席第六次中德高级别安全对话",
+          "url": "http://politics.people.com.cn/n1/2026/1125/c1001-40840498.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "王小洪会见联合国毒罪办执行主任朱马",
+          "url": "http://politics.people.com.cn/n1/2026/1125/c1001-40840478.html",
           "summary": "",
           "time": ""
         },
@@ -36,32 +42,26 @@
           "time": ""
         },
         {
-          "title": "中国空间站首次迎来外籍航天员 神舟二十四号将开展90项实验",
-          "url": "https://finance.people.com.cn/n1/2026/1125/c1004-40839858.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "国家卫健委主任：确保“十五五”时期健康中国建设取得决定性进展",
-          "url": "http://politics.people.com.cn/n1/2026/1125/c461001-40839881.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "国台办：搞“台独”分裂没有市场更没有出路",
           "url": "http://tw.people.com.cn/n1/2026/1125/c14657-40840298.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "治理欠薪冬季行动动员部署视频会召开",
-          "url": "http://society.people.com.cn/n1/2026/1125/c1008-40839869.html",
+          "title": "中巴航天员将在空间站开展这些实验",
+          "url": "http://finance.people.com.cn/n1/2026/1125/c1004-40840443.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "友谊之树向更深处扎根、向更高处生长——2026鼓岭论坛发言摘编",
-          "url": "http://politics.people.com.cn/n1/2026/1125/c461001-40839876.html",
+          "title": "新动能是闯出来的",
+          "url": "http://finance.people.com.cn/n1/2026/1125/c1004-40839844.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "院企共育新质生产力",
+          "url": "http://finance.people.com.cn/n1/2026/1125/c1004-40839847.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "商务部：《关于加强相关两用物项对美国出口管制的公告》第二款暂停实施",
-          "url": "https://www.news.cn/fortune/20261125/e7f24d2d7bb6404988950976ba03df6c/c.html",
+          "title": "王毅同荷兰外交大臣会谈",
+          "url": "https://www.news.cn/politics/leaders/20261125/4350fc37556c4144846a0e4bff57ed54/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "护航月末资金面 央行多渠道精准注入流动性",
-          "url": "https://www.news.cn/fortune/20261125/26a5d53c816d489283b477aa221435f8/c.html",
+          "title": "中荷外长共识声明",
+          "url": "https://www.news.cn/politics/leaders/20261125/4ac0c61a717047d6b2d948d17263bb0c/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "多省份超万亿元项目入库 “六张网”建设全面推进",
-          "url": "https://www.news.cn/fortune/20261125/9362e95a145948e28e4cd6c2da16105f/c.html",
+          "title": "陈文清赴德国出席第六次中德高级别安全对话",
+          "url": "https://www.news.cn/politics/leaders/20261125/9c43f5fc1575414b950145d8b734dbce/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "深化扫黑除恶专项斗争 与黑恶势力斗争到底",
-          "url": "https://www.news.cn/legal/20261125/38317ef21c13482cae8b2c7895a86a82/c.html",
+          "title": "王小洪会见联合国毒罪办执行主任朱马",
+          "url": "https://www.news.cn/politics/20261125/7cde4652f60e4046bcffe9c205fa9445/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "澳门将推进全民国家安全教育总体规划编制工作",
-          "url": "https://www.news.cn/gangao/20261125/73ae1bceafe042479f0688865ebdb03a/c.html",
+          "title": "纪念孙中山先生诞辰160周年活动嘉宾团参访综述",
+          "url": "https://www.news.cn/20261125/1210e01346ad45e88fda71a14cd304e3/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "雄安日记丨冬季取暖能有多绿色、多智能？",
-          "url": "https://www.news.cn/politics/20261125/d3b7960cf3b44d23892ef1e76243dd21/c.html",
+          "title": "五部门印发《常态化帮扶资金绩效评价办法》",
+          "url": "https://www.news.cn/20261125/9cf370fcc727455ca09bd8e12d76bb8c/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "数学家彼得·萨纳克获首届潘承洞奖",
-          "url": "https://www.news.cn/20261125/0358df4439ce4007b6f16ec8a85c9e4c/c.html",
+          "title": "2026香港国际中医药大会在港开幕",
+          "url": "https://www.news.cn/gangao/20261125/27f19669203d4258a488b2eee6e3c714/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "济滨高铁进入试运行阶段 将持续一个月左右",
-          "url": "https://www.news.cn/politics/20261125/5417c64ae6a6496483f823f88cb7d623/c.html",
+          "title": "关注历史经典产业丨唐山瓷业观察：缸窑路上瓷火新",
+          "url": "https://www.news.cn/20261125/2df05398457349a3a4a6fff370a2547d/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "大连海关原关长刘大立受贿、挪用公款、洗钱案宣判",
-          "url": "https://www.news.cn/20261125/011b4e0757dd4709a9db5cb65ebc44bf/c.html",
+          "title": "中国算法赛事吸引全球万余支队伍",
+          "url": "https://www.news.cn/20261125/f0c01fd39eee4c9b8b4f381c0512a5a6/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "河南省焦作市政协原副主席吕沛被开除党籍和公职",
-          "url": "https://www.news.cn/politics/20261125/7df5e6dba2954d6db951b8b09ab7172d/c.html",
+          "title": "北京今年前九个月助企获得贷款超9700亿元",
+          "url": "https://www.news.cn/20261125/704fefbf359f414181807592087b91d3/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,8 +138,8 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "习近平同扎尔达里就执行联飞任务互致贺电",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261125_3306402.shtml",
+          "title": "在改革开放先行地，总书记始终关注创新",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261125_3306527.shtml",
           "summary": "",
           "time": ""
         },
@@ -150,20 +150,20 @@
           "time": ""
         },
         {
-          "title": "金观平：递稳跨年政策衔接“交接棒”",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3304681.shtml",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "《全民国防教育“十五五”规划》印发",
           "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3305726.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "广东经济生态观察之二：涵养一流营商环境",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3304686.shtml",
+          "title": "五部门印发《常态化帮扶资金绩效评价办法》",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3306524.shtml",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "商务部公告2024年第46号第二款暂停实施",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3306492.shtml",
           "summary": "",
           "time": ""
         },
@@ -174,26 +174,26 @@
           "time": ""
         },
         {
-          "title": "太空船票300万元一张！太空旅游令人期待",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3304694.shtml",
+          "title": "外交部发言人谈中巴航天员共赴中国空间站\"天宫\"",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3306474.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "防黄牛还是强推会员？买盲盒先办会员引争议",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3304706.shtml",
+          "title": "截至10月底 我国累计发电装机容量同比增长10.9%",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3306030.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "破解中小企业用算难丨算力银行削峰填谷灵活调度",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3304683.shtml",
+          "title": "全国普速旅客列车和旅游列车车次变更实施",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3305957.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "订单排到2029年！又一国产“神器”爆单了",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3305650.shtml",
+          "title": "我国饭店业新业态、新模式、新场景持续涌现",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3306532.shtml",
           "summary": "",
           "time": ""
         }
