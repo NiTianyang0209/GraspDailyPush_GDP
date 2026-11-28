@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-11-28T05:32:38+08:00",
+  "updated_at": "2026-11-28T16:16:57+08:00",
   "sources": [
     {
       "name": "人民网·要闻播报",
       "url": "http://www.people.com.cn",
       "items": [
         {
-          "title": "陈文清访问奥地利",
-          "url": "http://politics.people.com.cn/n1/2026/1127/c1001-40841958.html",
-          "summary": "",
-          "time": ""
-        },
-        {
-          "title": "严厉打击恶意欠薪行为 最高法发布典型案例",
-          "url": "http://society.people.com.cn/n1/2026/1127/c1008-40841886.html",
-          "summary": "",
-          "time": ""
-        },
-        {
           "title": "国务院任免国家工作人员",
-          "url": "http://politics.people.com.cn/n1/2026/1127/c1001-40841691.html",
+          "url": "http://politics.people.com.cn/n1/2026/1128/c1001-40841998.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "十一部门公布《分布式数字身份互通互认应用规定》",
-          "url": "http://society.people.com.cn/n1/2026/1127/c1008-40841966.html",
+          "title": "《党校公开课（中国故事）》上线播出",
+          "url": "http://politics.people.com.cn/n1/2026/1128/c461001-40842005.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国人民银行发布《人民币存贷款利率管理规定》",
-          "url": "https://finance.people.com.cn/n1/2026/1127/c1004-40841968.html",
+          "title": "11个部门联合公布应用规定支持不同数字身份间互通互认",
+          "url": "http://finance.people.com.cn/n1/2026/1128/c1004-40841996.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国工商界呼吁美方撤回拟议加税措施",
-          "url": "https://finance.people.com.cn/n1/2026/1127/c1004-40841933.html",
+          "title": "司法部发布监督安全生产领域严格执法典型案例",
+          "url": "http://society.people.com.cn/n1/2026/1128/c1008-40842139.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "大额存单个人认购起点下调至10万元",
-          "url": "https://finance.people.com.cn/n1/2026/1127/c1004-40841963.html\n",
+          "title": "五部门部署家庭友好型工作场所建设",
+          "url": "http://society.people.com.cn/n1/2026/1128/c1008-40842006.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "信长星当选中共江苏省委书记",
-          "url": "http://politics.people.com.cn/n1/2026/1127/c461001-40841967.html",
+          "title": "超强厄尔尼诺影响正加强 各地各部门部署应对",
+          "url": "http://society.people.com.cn/n1/2026/1128/c1008-40842140.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "证监会严肃查处两起编造传播证券市场误导性信息案件",
-          "url": "https://finance.people.com.cn/n1/2026/1127/c1004-40841939.html",
+          "title": "巴基斯坦总理和国防军司令兼陆军参谋长同巴方航天员天地通话",
+          "url": "http://world.people.com.cn/n1/2026/1128/c1002-40842135.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "从万物互联到万物智联，一字之变有深意",
-          "url": "https://finance.people.com.cn/n1/2026/1127/c1004-40841964.html",
+          "title": "1至10月我国物流运行分析",
+          "url": "http://finance.people.com.cn/n1/2026/1128/c1004-40842126.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "《大额存单管理办法》公布个人认购起点下调至10万元",
+          "url": "http://finance.people.com.cn/n1/2026/1128/c1004-40841975.html",
+          "summary": "",
+          "time": ""
+        },
+        {
+          "title": "全球交易规模最大的绿电大市场开市",
+          "url": "http://finance.people.com.cn/n1/2026/1128/c1004-40841995.html",
           "summary": "",
           "time": ""
         }
@@ -72,62 +72,62 @@
       "url": "https://www.xinhuanet.com",
       "items": [
         {
-          "title": "陈文清访问奥地利",
-          "url": "https://www.news.cn/politics/leaders/20261127/b2f3be637bc14bd7b0edfcdd9256258e/c.html",
+          "title": "监督安全生产领域严格执法",
+          "url": "https://www.news.cn/legal/20261128/e9aa21af4691475d87f671e73f277016/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "全国人大常委会副委员长彭清华率团访问意大利",
-          "url": "https://www.news.cn/world/20261128/253c1637fd5645c0933ee19b0973c791/c.html",
+          "title": "司法部发布典型案例",
+          "url": "https://www.news.cn/legal/20261128/aa0de1970b054c45b307482c8a3b7ca3/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国经济社会理事会六届四次全体会议召开",
-          "url": "https://www.news.cn/fortune/20261127/cce7a30663e44147ba2244424a8e403a/c.html",
+          "title": "最高法今日起发布第十一批新时代人民法庭建设案例",
+          "url": "https://www.news.cn/politics/20261128/52de79a93b224c7c995329a2a2fb577d/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "我国志愿服务动员、供给等体系不断健全",
-          "url": "https://www.news.cn/politics/20261127/7c656f97b0554bf7978041f65f3f906b/c.html",
+          "title": "广电总局公布网络视听节目不良传播行为治理案例",
+          "url": "https://www.news.cn/politics/20261128/6ee78055fc694c6fa92cbb3bf9bd14ea/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "信长星当选中共江苏省委书记",
-          "url": "https://www.news.cn/politics/20261127/8af9a42ef5e84b6e979200e950a535cc/c.html",
+          "title": "五部门部署家庭友好型工作场所建设",
+          "url": "https://www.news.cn/politics/20261128/8af01bbc1b194a6c8e9df831579c5da3/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "迎来200期，新闻茶座助力更好读懂中国",
-          "url": "https://www.news.cn/world/20261127/b356153e56084afa9b726dee125878c8/c.html",
+          "title": "吉林新雪季：“雪赛”“雪街”“雪假”提质升级",
+          "url": "https://www.news.cn/local/20261128/0daa561cdc004fec8665e17c5b310929/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "超2500万人受益！平台劳动规则变了",
-          "url": "https://www.news.cn/20261127/b8cf2fc60e7d4699908f96b290e0d184/c.html",
+          "title": "浙川“牵手”三十年，东西部协作“山海情深”",
+          "url": "https://www.news.cn/politics/20261128/3aa5782203c74c188531495a00075adb/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "推动科技向上向善 中国科技伦理学会成立",
-          "url": "https://www.news.cn/tech/20261127/856ab2faba324a1fb47e7d5ae4a5eeb2/c.html",
+          "title": "人类基因组序列草图发表25年 这本“天书”有什么奥妙",
+          "url": "https://www.news.cn/politics/20261128/07dffbbf02f2493dbfcecf3d75de9372/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "多国友人到访黔北革命老区 在行走中读懂当代中国",
-          "url": "https://www.news.cn/world/20261127/fc255101b8154cb7ac677d1a935bfa95/c.html",
+          "title": "山西启动“助农直销”为冬储菜找销路",
+          "url": "https://www.news.cn/local/20261128/c70027eeacc54729ae107fedd0358b99/c.html",
           "summary": "",
           "time": ""
         },
         {
-          "title": "北京新公园条例细化分类分级 呵护“千园之城”",
-          "url": "https://www.news.cn/local/20261127/79291440b7204e74ad618dea56bf57cb/c.html",
+          "title": "甘浙特高压端对端联调 甘肃电能抵浙",
+          "url": "https://www.news.cn/local/20261128/b075253c3a384ea0b586783ed3e93e09/c.html",
           "summary": "",
           "time": ""
         }
@@ -138,62 +138,62 @@
       "url": "https://www.ce.cn",
       "items": [
         {
-          "title": "国常会：加力发挥“国家队”稳市作用",
-          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261127_3310127.shtml",
+          "title": "总书记走进百姓家|让伊春老林区焕发青春活力",
+          "url": "http://www.ce.cn/xwzx/gnsz/szyw/202611/t20261128_3311194.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "解读丨国常会关于资本市场部署释放五大鲜明信号",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261127_3310319.shtml",
+          "title": "金观平：中国AI发展决不是“少数人的盛宴”",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261128_3310608.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "《人民币存贷款利率管理规定》发布",
-          "url": "http://finance.ce.cn/bank12/scroll/202611/t20261127_3310553.shtml",
+          "title": "稳中有进 持续向优 前10月物流总收入12.3万亿元",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261128_3311335.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "视点丨多地密集放秋假，孩子们休得怎样",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261127_3310386.shtml",
+          "title": "广东经济生态观察之五：供需互促激活万千气象",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261128_3310610.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "荷兰官员：反对美国管制荷兰出口半导体制造设备",
-          "url": "http://intl.ce.cn/qqss/202611/t20261127_3310321.shtml",
+          "title": "中国等共同参与 全球最大\"人造太阳\"建造有新进展",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261128_3311382.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "中国工商界呼吁美方撤回拟议加税措施",
-          "url": "http://intl.ce.cn/qqss/202611/t20261127_3310435.shtml",
+          "title": "经济日报:\"399元羽绒服卖断货\"是消费降级吗",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261128_3310621.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "市场监管总局集中约谈15家电动自行车企业",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261127_3310409.shtml",
+          "title": "前10月规上工业企业利润增16% 新动能快速成长",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261128_3310609.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "1至10月全国规上工业企业利润增长16.0%",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261127_3309955.shtml",
+          "title": "司法部发布监督安全生产领域严格执法典型案例",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261128_3311406.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "4.92亿！牛奶包装盒为何牵出巨额赔偿？",
-          "url": "http://www.ce.cn/xwzx/shgj/gdxw/202611/t20261127_3310494.shtml",
+          "title": "AI遇到汽车会擦出怎样的火花？或将颠覆汽车业？",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261128_3310626.shtml",
           "summary": "",
           "time": ""
         },
         {
-          "title": "特朗普承认幕后出手保黄仁勋：为世界做了大好事",
-          "url": "http://intl.ce.cn/qqss/202611/t20261127_3310311.shtml",
+          "title": "推动“兴奋剂入刑”落到实处 体育总局解读",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261128_3310710.shtml",
           "summary": "",
           "time": ""
         }
